@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:AuctionDecree xmlns:ns0="http://schemas.gov.sk/form/00166073.MSSR_OV_Drazobna_vyhlaska/2.x">
+  <ns0:TypeOfProperty>
+    <ns0:Codelist>
+      <ns0:CodelistCode>1000541</ns0:CodelistCode>
+      <ns0:CodelistItem>
+        <ns0:ItemCode>RealEstate</ns0:ItemCode>
+        <ns0:ItemName Language="sk">Nehnuteľné veci</ns0:ItemName>
+      </ns0:CodelistItem>
+    </ns0:Codelist>
+  </ns0:TypeOfProperty>
+  <ns0:DeclarationDate>2026-09-28</ns0:DeclarationDate>
+  <ns0:NumberOfExecution>420EX37/26</ns0:NumberOfExecution>
+  <ns0:Order>1</ns0:Order>
+  <ns0:ExecutorOffice>
+    <ns0:PersonData>
+      <ns0:Name>JUDr. Žofia Riva</ns0:Name>
+      <ns0:PhysicalAddress>
+        <ns0:Municipality>
+          <ns0:Codelist>
+            <ns0:CodelistCode>CL000025</ns0:CodelistCode>
+            <ns0:CodelistItem>
+              <ns0:ItemCode />
+              <ns0:ItemName Language="sk">Žiar nad Hronom</ns0:ItemName>
+            </ns0:CodelistItem>
+          </ns0:Codelist>
+        </ns0:Municipality>
+        <ns0:StreetName>Nám. Matice slovenskej</ns0:StreetName>
+        <ns0:BuildingNumber>6</ns0:BuildingNumber>
+        <ns0:DeliveryAddress>
+          <ns0:PostalCode>96501</ns0:PostalCode>
+        </ns0:DeliveryAddress>
+      </ns0:PhysicalAddress>
+      <ns0:TelephoneAddress>
+        <ns0:Number>
+          <ns0:FormattedNumber>+421948011261</ns0:FormattedNumber>
+        </ns0:Number>
+      </ns0:TelephoneAddress>
+      <ns0:ElectronicAddress>
+        <ns0:InternetAddress>urad@exekutor-riva.sk</ns0:InternetAddress>
+      </ns0:ElectronicAddress>
+    </ns0:PersonData>
+  </ns0:ExecutorOffice>
+  <ns0:AreYouRepresentativeExecutorOffice>
+    <ns0:Codelist>
+      <ns0:CodelistCode>1000914</ns0:CodelistCode>
+      <ns0:CodelistItem>
+        <ns0:ItemCode>False</ns0:ItemCode>
+        <ns0:ItemName Language="sk">Nie</ns0:ItemName>
+      </ns0:CodelistItem>
+    </ns0:Codelist>
+  </ns0:AreYouRepresentativeExecutorOffice>
+  <ns0:Date>2026-11-11</ns0:Date>
+  <ns0:Time>9:00</ns0:Time>
+  <ns0:Place>
+    <ns0:Municipality>
+      <ns0:Codelist>
+        <ns0:CodelistCode>CL000025</ns0:CodelistCode>
+        <ns0:CodelistItem>
+          <ns0:ItemCode />
+          <ns0:ItemName Language="sk">Žiar nad Hronom</ns0:ItemName>
+        </ns0:CodelistItem>
+      </ns0:Codelist>
+    </ns0:Municipality>
+    <ns0:StreetName>Nám. Matice slovenskej </ns0:StreetName>
+    <ns0:BuildingNumber>6</ns0:BuildingNumber>
+    <ns0:DeliveryAddress>
+      <ns0:PostalCode>96501</ns0:PostalCode>
+    </ns0:DeliveryAddress>
+  </ns0:Place>
+  <ns0:RealEstate>
+    <ns0:Item>
+      <ns0:Region>
+        <ns0:Codelist>
+          <ns0:CodelistCode>CL000023</ns0:CodelistCode>
+          <ns0:CodelistItem>
+            <ns0:ItemCode>SK032</ns0:ItemCode>
+            <ns0:ItemName Language="sk">Banskobystrický kraj</ns0:ItemName>
+          </ns0:CodelistItem>
+        </ns0:Codelist>
+      </ns0:Region>
+      <ns0:County>
+        <ns0:Codelist>
+          <ns0:CodelistCode>CL000024</ns0:CodelistCode>
+          <ns0:CodelistItem>
+            <ns0:ItemCode>SK032B</ns0:ItemCode>
+            <ns0:ItemName Language="sk">Okres Zvolen</ns0:ItemName>
+          </ns0:CodelistItem>
+        </ns0:Codelist>
+      </ns0:County>
+      <ns0:Municipality>
+        <ns0:Codelist>
+          <ns0:CodelistCode>CL000025</ns0:CodelistCode>
+          <ns0:CodelistItem>
+            <ns0:ItemCode>SK032B518158</ns0:ItemCode>
+            <ns0:ItemName Language="sk">Zvolen</ns0:ItemName>
+          </ns0:CodelistItem>
+        </ns0:Codelist>
+      </ns0:Municipality>
+      <ns0:CadastralUnit>Môťová</ns0:CadastralUnit>
+      <ns0:FolioNumber>6785</ns0:FolioNumber>
+      <ns0:IsPlotPartOfAuction>
+        <ns0:Codelist>
+          <ns0:CodelistCode>1000914</ns0:CodelistCode>
+          <ns0:CodelistItem>
+            <ns0:ItemCode>True</ns0:ItemCode>
+            <ns0:ItemName Language="sk">Áno</ns0:ItemName>
+          </ns0:CodelistItem>
+        </ns0:Codelist>
+      </ns0:IsPlotPartOfAuction>
+      <ns0:Fields>
+        <ns0:PlotType>parcela registra "C"</ns0:PlotType>
+        <ns0:PlotNumber>1402/497</ns0:PlotNumber>
+        <ns0:PlotSize>8</ns0:PlotSize>
+        <ns0:KindOfPlot>zastavaná plocha a nádvorie</ns0:KindOfPlot>
+        <ns0:DescriptionOfRealestate>záhradkárska osada</ns0:DescriptionOfRealestate>
+        <ns0:Accessories />
+      </ns0:Fields>
+      <ns0:Fields>
+        <ns0:PlotType>parcela registra "C"</ns0:PlotType>
+        <ns0:PlotNumber>1402/498</ns0:PlotNumber>
+        <ns0:PlotSize>362</ns0:PlotSize>
+        <ns0:KindOfPlot>záhrada</ns0:KindOfPlot>
+        <ns0:DescriptionOfRealestate>záhradkárska osada</ns0:DescriptionOfRealestate>
+        <ns0:Accessories />
+      </ns0:Fields>
+      <ns0:IsBuildingPartOfAuction>
+        <ns0:Codelist>
+          <ns0:CodelistCode>1000914</ns0:CodelistCode>
+          <ns0:CodelistItem>
+            <ns0:ItemCode>False</ns0:ItemCode>
+            <ns0:ItemName Language="sk">Nie</ns0:ItemName>
+          </ns0:CodelistItem>
+        </ns0:Codelist>
+      </ns0:IsBuildingPartOfAuction>
+      <ns0:MoreInformation />
+      <ns0:Owner>
+        <ns0:Name>[skryté]</ns0:Name>
+        <ns0:Address>[skryté]</ns0:Address>
+        <ns0:PartOfCapital>1/1</ns0:PartOfCapital>
+      </ns0:Owner>
+    </ns0:Item>
+    <ns0:Guarantee>
+      <ns0:AmountOfSecurity>8200</ns0:AmountOfSecurity>
+      <ns0:MethodOfDepositingSecurity>v hotovosti do pokladne, na účet</ns0:MethodOfDepositingSecurity>
+      <ns0:DeadlineForLodgingSecurity>najneskôr do začiatku dražby</ns0:DeadlineForLodgingSecurity>
+      <ns0:AccountNumber>SK03 0900 0000 0051 5039 7018</ns0:AccountNumber>
+      <ns0:Address>Nám. Matice slovenskej 6, Žiar nad Hronom</ns0:Address>
+      <ns0:ProofOfSecurity>potvrdenie banky o prevode finančných prostriedkov alebo vklade hotovosti na účet exekútora a príjmový doklad exekútora o prijatí hotovosti do pokladne</ns0:ProofOfSecurity>
+      <ns0:MethodOfReturningSecurity>v hotovosti alebo prevodom na bankový účet </ns0:MethodOfReturningSecurity>
+      <ns0:DeadlineForReturnOfSecurity>v lehote 7 dní od skončenia dražby</ns0:DeadlineForReturnOfSecurity>
+    </ns0:Guarantee>
+    <ns0:Bid>
+      <ns0:LowestBid>16400</ns0:LowestBid>
+      <ns0:ValueOfPropertyDeterminedByExpert>16400</ns0:ValueOfPropertyDeterminedByExpert>
+      <ns0:MethodOfPaymentOfHighestBid>na účet </ns0:MethodOfPaymentOfHighestBid>
+      <ns0:DeadlineForPaymentOfHighestBid>do 15 dní od udelenia príklepu </ns0:DeadlineForPaymentOfHighestBid>
+      <ns0:DefectsThatAuctioneerMustTakeOver>Závady, ktoré je vydražiteľ povinný prevziať bez započítania na najvyššie podanie, neboli zistené s výnimkou §17 ods. 2 zák. č. 64/1997 Z. z. v platnom znení – povinnosť zachovávať doterajší spôsob využitia pozemkov C KN parc. č. 1402/497, 1402/498 v záhr. osade do času, kým sa nerozhodne o ich inom využití, Z 1102/2019 – 1700/2019. 
+
+</ns0:DefectsThatAuctioneerMustTakeOver>
+      <ns0:TransferOfDefectsAndBenefits>Na vydražiteľa prechádzajú úžitky nehnuteľností, ako i závady, ktoré nezanikajú v dôsledku dražby. Vydražiteľ musí bez započítania na najvyššie podanie prevziať vecné bremená, ktoré vznikli na základe osobitného právneho predpisu, a nájomné práva. Ak osobitný zákon (§151h, §151ma a §151md Občianskeho zákonníka) neustanovuje inak, voči vydražiteľovi bez započítania na najvyššie podanie pôsobia záložné práva viaznuce na nehnuteľnosti. Inak prevezme vydražiteľ vecné bremená zo započítaním na najvyššie podanie. Predkupné právo k vydraženej nehnuteľnosti udelením príklepu zaniká. </ns0:TransferOfDefectsAndBenefits>
+      <ns0:HandingOverAuctionedProperty>Vydražiteľ sa môže ujať držby vydraženej nehnuteľnosti po udelení príklepu, o tom je povinný upovedomiť exekútora. Vydražiteľ sa stáva vlastníkom nehnuteľností ku dňu udelenia príklepu súdnou exekútorkou, ak súd udelenie príklepu schváli a vydražiteľ zaplatil najvyššie podanie.</ns0:HandingOverAuctionedProperty>
+    </ns0:Bid>
+    <ns0:Inspection>
+      <ns0:Date>2026-11-10</ns0:Date>
+      <ns0:Time>13:00</ns0:Time>
+      <ns0:Address>
+        <ns0:Place>Obhliadka nehnuteľnosti sa uskutoční len po predchádzajúcej dohode so súdnym exekútorom. Záujemcovia o obhliadku sa prihlásia písomne na e-mailovej adrese urad@exekutor-riva.sk alebo telefonicky na telefónnom čísle 0948 011 261, minimálne jeden pracovný deň vopred.</ns0:Place>
+      </ns0:Address>
+    </ns0:Inspection>
+    <ns0:Note>na mieste samom</ns0:Note>
+  </ns0:RealEstate>
+  <ns0:HasInspectionExactAddress>
+    <ns0:Codelist>
+      <ns0:CodelistCode>1000914</ns0:CodelistCode>
+      <ns0:CodelistItem>
+        <ns0:ItemCode>False</ns0:ItemCode>
+        <ns0:ItemName Language="sk">Nie</ns0:ItemName>
+      </ns0:CodelistItem>
+    </ns0:Codelist>
+  </ns0:HasInspectionExactAddress>
+  <ns0:MoreInformation />
+  <ns0:ZverejnujeText />
+</ns0:AuctionDecree>

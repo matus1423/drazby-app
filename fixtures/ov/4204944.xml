@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Drazba xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="/PortalJustice/XmlFormularObchodnyVestnik/">
+  <Nazov>Oznámenie o opakovanej dobrovoľnej dražbe</Nazov>
+  <Cislo>DU-POS DD 010a-2026</Cislo>
+  <ZoDna xsi:nil="true" />
+  <Drazobnik>
+    <ObchodneMenoNazov xmlns="">DUPOS dražobná, spol. s r.o.</ObchodneMenoNazov>
+    <Sidlo xmlns="">
+      <Ulica>Tamaškovičova</Ulica>
+      <Cislo>17</Cislo>
+      <Obec>Trnava</Obec>
+      <Psc>91701</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud xmlns="" Kod="110">Okresný súd Trnava</Sud>
+    <Oddiel xmlns="">Sro</Oddiel>
+    <Vlozka xmlns="">11681/T</Vlozka>
+    <Ico xmlns="">36233935</Ico>
+  </Drazobnik>
+  <NavrhovateliaHeader>Označenie navrhovateľa</NavrhovateliaHeader>
+  <Navrhovatelia>
+    <Navrhovatel>
+      <Id>1</Id>
+      <CeleMeno>
+        <ObchodneMenoNazov xmlns="">Slovenská sporiteľňa, a.s.</ObchodneMenoNazov>
+        <Sidlo xmlns="">
+          <Ulica>Tomášikova</Ulica>
+          <Cislo>48</Cislo>
+          <Obec>Bratislava</Obec>
+          <Psc>832 37</Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Oddiel xmlns="" />
+        <Vlozka xmlns="" />
+        <Ico xmlns="">00151653</Ico>
+      </CeleMeno>
+    </Navrhovatel>
+  </Navrhovatelia>
+  <Licitatori xsi:nil="true" />
+  <Notar>
+    <CeleMeno>
+      <TitulPred xmlns="">Mgr.</TitulPred>
+      <TitulZa xmlns="" />
+      <Meno xmlns="">Tomáš</Meno>
+      <Priezvisko xmlns="">Gerbery</Priezvisko>
+    </CeleMeno>
+    <Sidlo>
+      <Ulica xmlns="">Mnoheľova</Ulica>
+      <Cislo xmlns="">830/17</Cislo>
+      <Obec xmlns="">Poprad</Obec>
+      <Psc xmlns="">058 01</Psc>
+      <Stat xmlns="" />
+    </Sidlo>
+  </Notar>
+  <KonanieMiesto>Hotel Bystrička, 038 04 Bystrička 152, salónik na prízemí</KonanieMiesto>
+  <KonanieDatum>2026-10-27</KonanieDatum>
+  <KonanieCas>11:00 hod.</KonanieCas>
+  <Kolo>prvá opakov. dražba</Kolo>
+  <Predmet>&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;LV č.&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;Okresn&amp;yacute; &amp;uacute;rad, katastr&amp;aacute;lny odbor&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;Katastr&amp;aacute;lne &amp;uacute;zemie&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;Okres&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;Obec&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;1629&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Martin&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Turčianska &amp;Scaron;tiavnička&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Martin&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Turčianska &amp;Scaron;tiavnička&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="5"&gt;
+			&lt;p&gt;&lt;strong&gt;Parcely registra &amp;quot;C&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#bfbfbf"&gt;
+			&lt;p&gt;&lt;strong&gt;Parceln&amp;eacute; č&amp;iacute;slo&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#bfbfbf"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#bfbfbf"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;mera /m&lt;sup&gt;2&lt;/sup&gt;/&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;838/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Trval&amp;yacute; tr&amp;aacute;vny porast&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;6520&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;838/2&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;150&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;838/3&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;484&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;838/7&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;774&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;838/15&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;2&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;838/16&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;170&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;838/17&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;79&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;838/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;134&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;838/19&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;231&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;838/20&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;91&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;838/21&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;8&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="5"&gt;
+			&lt;p&gt;&lt;strong&gt;Stavby&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;S&amp;uacute;pisn&amp;eacute; č&amp;iacute;slo&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;Parcela&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3" style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh stavby/ Popis stavby&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;342&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;838/7, 838/15&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3"&gt;
+			&lt;p&gt;Budova pre &amp;scaron;port a na rekreačn&amp;eacute; &amp;uacute;čely/ Rekreačn&amp;yacute; dom&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+</Predmet>
+  <PredmetOpis>&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Dvojpodlažn&amp;yacute; rekreačn&amp;yacute; dom, ktor&amp;yacute; sa začal už&amp;iacute;vať v roku 2022, sa nach&amp;aacute;dza v rekreačnom &amp;uacute;zem&amp;iacute; &amp;uacute;stie Kantorskej doliny. Vzhľadom na veľkosť objektu je možn&amp;eacute; ho využ&amp;iacute;vať aj ako penzi&amp;oacute;n na rekre&amp;aacute;ciu, pričom na pr&amp;iacute;zem&amp;iacute; je stravovanie, spoločensk&amp;aacute; miestnosť, wellness, technick&amp;eacute; a hygienick&amp;eacute; z&amp;aacute;zemie, gar&amp;aacute;že a ubytovanie aj pre person&amp;aacute;l. Dom je napojen&amp;yacute; na elektriku, vodovod, kanaliz&amp;aacute;ciu do žumpy a plyn z podzemn&amp;eacute;ho vlastn&amp;eacute;ho z&amp;aacute;sobn&amp;iacute;ka na PB. Zastavan&amp;aacute; plocha je 595 m2 a &amp;uacute;žitkov&amp;aacute; plocha je 1328 m2. Plocha pozemku je 8643 m2. M&amp;aacute; dve nadzemn&amp;eacute; podlažia, je murovan&amp;yacute;, zastre&amp;scaron;en&amp;yacute; plytkou sedlovou strechou. Dispozične ho tvor&amp;iacute; 3x byt s 11x obytn&amp;yacute;mi miestnosťami, 5x s&amp;uacute; veľk&amp;eacute; obytn&amp;eacute; izby s otvoren&amp;yacute;m priestorom do kuchyne. Vstupuje sa z haly 1. NP do haly kryt&amp;eacute;ho schodiska na pavlač v 2. NP a do troch apartm&amp;aacute;nov s &amp;uacute;pln&amp;yacute;m nad&amp;scaron;tandardn&amp;yacute;m vybaven&amp;iacute;m. V 1. NP z haly do chodby, kde s&amp;uacute; toalety a vstup do s&amp;aacute;un (mokr&amp;aacute; a such&amp;aacute; so sprchami a 2x toaletami pre mužov a ženy so sprchami, z chodby do pr&amp;aacute;čovne a upratovacej miestnosti s v&amp;yacute;levkou. Z haly je vľavo vstup veľkej reprezentačnej obytnej miestnosti s barov&amp;yacute;m pultom s v&amp;yacute;levkou, drezom a vstavan&amp;yacute;m vybaven&amp;iacute;m k stolovaniu, pod&amp;aacute;vacie okno je spojovacie do kuchyne v profesion&amp;aacute;lnom vybaven&amp;iacute;, ďalej s&amp;uacute; sklady a miestnosť pre odpad a WC. Z v&amp;yacute;chodnej strany je vstup do chodby, kde je garsoni&amp;eacute;ra so soci&amp;aacute;lnym vybaven&amp;iacute;m a vstupom do hobby miestnost&amp;iacute;, kde je posilňovňa a gar&amp;aacute;ž, oddelen&amp;eacute; pancierov&amp;yacute;mi roletami. Pri vstupe je technick&amp;aacute; miestnosť ako kotolňa a filtračn&amp;aacute; stanica vody. Ďal&amp;scaron;ie stavby a pr&amp;iacute;slu&amp;scaron;enstvo: pr&amp;iacute;stre&amp;scaron;ok pre automobily, plot murovan&amp;yacute; a pletivov&amp;yacute;, vŕtan&amp;aacute; studňa, vodovodn&amp;aacute; pr&amp;iacute;pojka, pr&amp;iacute;pojka elektriny, armat&amp;uacute;rna &amp;scaron;achta, žumpa 1,2,3 a z&amp;aacute;sobn&amp;iacute;k LPG podzemn&amp;yacute;.&lt;/p&gt;
+
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p&gt;Predmet dražby sa draž&amp;iacute; tak ako stoj&amp;iacute; a&amp;nbsp;lež&amp;iacute;.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+</PredmetOpis>
+  <PredmetStavOpis>&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Dvojpodlažn&amp;yacute; rekreačn&amp;yacute; dom, ktor&amp;yacute; sa začal už&amp;iacute;vať v roku 2022, sa nach&amp;aacute;dza v rekreačnom &amp;uacute;zem&amp;iacute; &amp;uacute;stie Kantorskej doliny. Vzhľadom na veľkosť objektu je možn&amp;eacute; ho využ&amp;iacute;vať aj ako penzi&amp;oacute;n na rekre&amp;aacute;ciu, pričom na pr&amp;iacute;zem&amp;iacute; je stravovanie, spoločensk&amp;aacute; miestnosť, wellness, technick&amp;eacute; a hygienick&amp;eacute; z&amp;aacute;zemie, gar&amp;aacute;že a ubytovanie aj pre person&amp;aacute;l. Dom je napojen&amp;yacute; na elektriku, vodovod, kanaliz&amp;aacute;ciu do žumpy a plyn z podzemn&amp;eacute;ho vlastn&amp;eacute;ho z&amp;aacute;sobn&amp;iacute;ka na PB. Zastavan&amp;aacute; plocha je 595 m2 a &amp;uacute;žitkov&amp;aacute; plocha je 1328 m2. Plocha pozemku je 8643 m2. M&amp;aacute; dve nadzemn&amp;eacute; podlažia, je murovan&amp;yacute;, zastre&amp;scaron;en&amp;yacute; plytkou sedlovou strechou. Dispozične ho tvor&amp;iacute; 3x byt s 11x obytn&amp;yacute;mi miestnosťami, 5x s&amp;uacute; veľk&amp;eacute; obytn&amp;eacute; izby s otvoren&amp;yacute;m priestorom do kuchyne. Vstupuje sa z haly 1. NP do haly kryt&amp;eacute;ho schodiska na pavlač v 2. NP a do troch apartm&amp;aacute;nov s &amp;uacute;pln&amp;yacute;m nad&amp;scaron;tandardn&amp;yacute;m vybaven&amp;iacute;m. V 1. NP z haly do chodby, kde s&amp;uacute; toalety a vstup do s&amp;aacute;un (mokr&amp;aacute; a such&amp;aacute; so sprchami a 2x toaletami pre mužov a ženy so sprchami, z chodby do pr&amp;aacute;čovne a upratovacej miestnosti s v&amp;yacute;levkou. Z haly je vľavo vstup veľkej reprezentačnej obytnej miestnosti s barov&amp;yacute;m pultom s v&amp;yacute;levkou, drezom a vstavan&amp;yacute;m vybaven&amp;iacute;m k stolovaniu, pod&amp;aacute;vacie okno je spojovacie do kuchyne v profesion&amp;aacute;lnom vybaven&amp;iacute;, ďalej s&amp;uacute; sklady a miestnosť pre odpad a WC. Z v&amp;yacute;chodnej strany je vstup do chodby, kde je garsoni&amp;eacute;ra so soci&amp;aacute;lnym vybaven&amp;iacute;m a vstupom do hobby miestnost&amp;iacute;, kde je posilňovňa a gar&amp;aacute;ž, oddelen&amp;eacute; pancierov&amp;yacute;mi roletami. Pri vstupe je technick&amp;aacute; miestnosť ako kotolňa a filtračn&amp;aacute; stanica vody. Ďal&amp;scaron;ie stavby a pr&amp;iacute;slu&amp;scaron;enstvo: pr&amp;iacute;stre&amp;scaron;ok pre automobily, plot murovan&amp;yacute; a pletivov&amp;yacute;, vŕtan&amp;aacute; studňa, vodovodn&amp;aacute; pr&amp;iacute;pojka, pr&amp;iacute;pojka elektriny, armat&amp;uacute;rna &amp;scaron;achta, žumpa 1,2,3 a z&amp;aacute;sobn&amp;iacute;k LPG podzemn&amp;yacute;.&lt;/p&gt;
+
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p&gt;Predmet dražby sa draž&amp;iacute; tak ako stoj&amp;iacute; a&amp;nbsp;lež&amp;iacute;.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+</PredmetStavOpis>
+  <PredmetPravaZavazky>- Vecné bremeno na pozemku C KN parc.č. 838/1, 838/15, 838/16, 838/19, 838/20 spočívajúce v práve prechodu pešo a prejazdu osobnými motorovými vozidlami, nákladnými motorovými vozidlami a inými dopravnými prostriedkami v celom rozsahu v prospech každodobého vlastníka pozemkov C KN parc.č.839/1, 839/2, 839/3, 839/4, 839/5, 839/6, 839/7, 839/8, 839/9, 839/10 rodinného domu s.č.351 na C KN parc.č.839/3 - V 867/13 - Zmluva o zriadení vecného bremena, vklad zo dňa 15.4.2013 - vz 45/13; V 2311/13 - GP č.162/2012 - vz 110/13; R 975/2021 - G1-847/2021 - vz 28/22; R 291/2023 - G1-922/2022 - vz 70/23; V 4441/2023 - č.z. 296/23; V 2432/2025 vz 92/2025
+ - Záložné právo v prospech Slovenskej sporiteľne, a.s., IČO: 00151653, Tomášikova 48, 832 37 Bratislava, SR na pozemky C-KN parc.č. 838/1, 838/2, 838/3, 838/7, 838/15, 838/16, 838/17, 838/18, 838/19, 838/20, 838/21, Rekreačný dom súpis. č. 342 na C-KN parc.č. 838/7, 838/15 V 4440/2023 - Zmluva o zriadení záložného práva, vklad zo dňa 20.11.2023 - č.z. 284/23; V 4441/2023 - č.z. 296/23; V 2432/2025 vz 92/2025
+Iné údaje-nepriradené
+- Z-2866/2024 - Zápis Národného parku Veľká Fatra, jeho zón a ochranné pásmo v zmysle NV SR  č. 427/2023 Z. z.  zo  dňa 4. októbra 2023 - VZ 130/2024
+
+Nie sú známe žiadne nájomné zmluvy týkajúce sa predmetu dražby.
+</PredmetPravaZavazky>
+  <PredmetCenaOdhad xsi:nil="true" />
+  <PredmetCenaVyska xsi:nil="true" />
+  <PredmetCenaSposobStanovenia>
+Číslo znaleckého posudku:	74/2026
+Meno znalca: Ing. Miroslav Ferkl	
+Dátum vyhotovenia: 	10.06.2026
+Všeobecná cena odhadu: 2 100 000,00 €
+
+</PredmetCenaSposobStanovenia>
+  <PredmetPodmienkyOdovzdania>Vlastnícke právo k predmetu dražby prechádza na vydražiteľa udelením príklepu a po uhradení ceny dosiahnutej vydražením. Užívacie právo prechádza na vydražiteľa odovzdaním predmetu dražby zápisnicou o odovzdaní. Predmet dražby odovzdá predchádzajúci vlastník po predložení osvedčeného odpisu notárskej zápisnice a doloženia totožnosti vydražiteľa.</PredmetPodmienkyOdovzdania>
+  <NajnizsiePodanie>1575000</NajnizsiePodanie>
+  <NajvyssiePodanie xsi:nil="true" />
+  <MinimalnePrihodenie>1000</MinimalnePrihodenie>
+  <Zabezpeka>
+    <Vyska>45000</Vyska>
+    <ZlozenieSposob>Prevodom na bankový účet dražobníka alebo v hotovosti u dražobníka najneskôr do zahájenia dražby s preukázaním potvrdenia o úhrade týmto alebo zákonom povoleným spôsobom alebo vo forme bankovej záruky. Dražobnú zábezpeku nie je možné zložiť šekom ani platobnou kartou.
+
+</ZlozenieSposob>
+    <ZlozenieCisloUctu>SK80 0900 0000 0052 3103 0277, Var. Symbol: 0102026</ZlozenieCisloUctu>
+    <ZlozenieAdresa>V sídle spoločnosti dražobníka, alebo na mieste konania dražby, ktoré je uvedené v Oznámení o dražbe.</ZlozenieAdresa>
+    <ZlozenieDoklad>Výpis z bankového účtu, potvrdenie o vklade peňažných prostriedkov na bankový účet v hotovosti, príjmový pokladničný doklad dražobníka, banková záruka.</ZlozenieDoklad>
+    <ZlozenieLehota>do otvorenia dražby</ZlozenieLehota>
+    <Vratenie>Dražobník vráti účastníkovi dražby, ktorý predmet dražby nevydražil dražobnú zábezpeku alebo listinu preukazujúcu vydanie bankovej záruky bez zbytočného odkladu po skončení dražby alebo upustení od dražby, najneskôr však do 5 dní od skončenia dražby alebo od upustenia od dražby.</Vratenie>
+  </Zabezpeka>
+  <SposobUhradyCeny>V zmysle ustanovenia § 26 ods. 3. až 5 zák. č. 527/2002 Z. z. o dobrovoľných dražbách sa dražobná zábezpeka započítava vydražiteľovi do ceny dosiahnutej vydražením. Zostávajúcu časť ceny, dosiahnutej vydražením je vydražiteľ povinný zaplatiť dražobníkovi do 15 dní od skončenia dražby, pokiaľ sa vydražiteľ nedohodne s navrhovateľom dražby inak, a to v hotovosti alebo bankovým prevodom na účet dražobníka, podľa vyššie uvedených bodov v časti Dražobná zábezpeka. Ak nie je cena dosiahnutá vydražením vyššia ako 6 640 eur, je vydražiteľ povinný zaplatiť cenu dosiahnutú vydražením hneď po skončení dražby.  </SposobUhradyCeny>
+  <ObhliadkaDatum>Obhliadka 1:  09.10.2026 09:00
+Obhliadka 2:  23.10.2026 09:00
+</ObhliadkaDatum>
+  <ObhliadkaMiesto>SNP 342/47, 038 51  Turčianska Štiavnička</ObhliadkaMiesto>
+  <SpolocnaDrazba Kod="NIE">Nie</SpolocnaDrazba>
+  <SpolocnaDrazbaPoradieDrazeniePredmetov xsi:nil="true" />
+  <OrganizaceOpatrenia>Organizačné pokyny: Obhliadka sa uskutoční po predchádzajúcom telefonickom dohovore na tel. čísle 033 / 553 27 22, prípadne na mobilnom čísle 0911876895.</OrganizaceOpatrenia>
+  <NadobudnutieVlastnickehoPrava>Ak uhradil vydražiteľ cenu dosiahnutú vydražením v ustanovenej lehote, prechádza na neho vlastnícke právo alebo iné právo k predmetu dražby udelením príklepu. Ku dňu zaplatenia ceny dosiahnutej vydražením vydražiteľom zaniká pohľadávka veriteľa v rozsahu uspokojenia veriteľa z výťažku dražby.</NadobudnutieVlastnickehoPrava>
+  <DovodUpustenia xsi:nil="true" />
+  <DrazobnikOznamuje xsi:nil="true" />
+</Drazba>

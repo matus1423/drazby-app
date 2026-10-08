@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Nazov>Oznámenie o dobrovoľnej dražbe</ns0:Nazov>
+  <ns0:Cislo>900126B</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>LICITOR group, a.s.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Sládkovičova</Ulica>
+      <Cislo>6</Cislo>
+      <Obec>Žilina</Obec>
+      <Psc>01001</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="131">Okresný súd Žilina</Sud>
+    <Oddiel>Sa</Oddiel>
+    <Vlozka>10476/L</Vlozka>
+    <Ico>36421561</Ico>
+  </ns0:Drazobnik>
+  <ns0:NavrhovateliaHeader>Označenie navrhovateľa</ns0:NavrhovateliaHeader>
+  <ns0:Navrhovatelia>
+    <ns0:Navrhovatel>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Fio banka, a.s., pobočka zahraničnej banky</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Dunajská</Ulica>
+          <Cislo>1</Cislo>
+          <Obec>Bratislava</Obec>
+          <Psc>81108</Psc>
+          <Stat>SR</Stat>
+        </Sidlo>
+        <Oddiel />
+        <Vlozka />
+        <Ico>36869376</Ico>
+      </ns0:CeleMeno>
+    </ns0:Navrhovatel>
+  </ns0:Navrhovatelia>
+  <ns0:Licitatori xsi:nil="true" />
+  <ns0:Notar>
+    <ns0:CeleMeno>
+      <TitulPred>JUDr.</TitulPred>
+      <TitulZa />
+      <Meno>Alan</Meno>
+      <Priezvisko>Schwartz</Priezvisko>
+    </ns0:CeleMeno>
+    <ns0:Sidlo>
+      <Ulica>Plynárenská </Ulica>
+      <Cislo>7/C</Cislo>
+      <Obec>Lučenec</Obec>
+      <Psc>82109</Psc>
+      <Stat />
+    </ns0:Sidlo>
+  </ns0:Notar>
+  <ns0:KonanieMiesto>v sídle notárskeho úradu - JUDr. Alan Schwartz, so sídlom Plynárenská 7/C, 821 09  Bratislava</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-10-27</ns0:KonanieDatum>
+  <ns0:KonanieCas>12:00 hod.</ns0:KonanieCas>
+  <ns0:Kolo>1. kolo</ns0:Kolo>
+  <ns0:Predmet>&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Č&amp;iacute;slo LV&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Katastr&amp;aacute;lne &amp;uacute;zemie&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Veden&amp;eacute; Okresn&amp;yacute;m &amp;uacute;radom, katastr&amp;aacute;lny odbor&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;7262&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Vinohrady&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;Bratislava III&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Pozemky parcela registra &amp;bdquo;C&amp;ldquo;:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Parc. č.&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;mera v m&lt;sup&gt;2&lt;/sup&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;19228/9&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;19229/28&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Z&amp;aacute;hrada&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;432&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;19229/65&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Z&amp;aacute;hrada&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;348&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;19229/193&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;105&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Stavba na pozemkoch: &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;S&amp;uacute;pisn&amp;eacute; č&amp;iacute;slo&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Postaven&amp;aacute; na parcele: &amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh stavby&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Pozn&amp;aacute;mka &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;10136&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;reg. &amp;bdquo;C&amp;ldquo; č. 19229/193&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;19 &amp;ndash; chata &amp;ndash; Sliačska 89&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;&amp;scaron;ka spoluvlastn&amp;iacute;ckeho podielu z&amp;aacute;ložcu&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1/1 v BSM&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;&lt;em&gt;&lt;u&gt;Chata - Sliačska 89, s&amp;uacute;p. č. 10136, parc. č. 19229/193, kat. &amp;uacute;. Vinohrady&lt;/u&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Technick&amp;yacute; stav, dispozičn&amp;eacute; rie&amp;scaron;enie a vn&amp;uacute;torn&amp;eacute; vybavenie nehnuteľnosti boli stanoven&amp;eacute; a prevzat&amp;eacute; na z&amp;aacute;klade dostupn&amp;yacute;ch dokladov a predložen&amp;eacute;ho Znaleck&amp;eacute;ho posudku č. 163/2022, ktor&amp;yacute; vypracoval znalec Ing. Peter Kapusta (evidenčn&amp;eacute; č&amp;iacute;slo znalca: 911 517).&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Predmetn&amp;aacute; nehnuteľnosť - rekreačn&amp;aacute; chata s pr&amp;iacute;slu&amp;scaron;enstvom (podľa platnej pr&amp;aacute;vnej dokument&amp;aacute;cie), v skutočnosti sa jedn&amp;aacute; o rodinn&amp;yacute; dom (podľa veľkosti zastavanej plochy, dispozičn&amp;eacute;ho usporiadania a vybavenia) - je situovan&amp;aacute; v Bratislave-mestskej časti Nov&amp;eacute; Mesto, v lokalite Briežky, na pozemkoch parc.č.19229/28, 65, 193, v k.&amp;uacute;. Vinohrady.&lt;/p&gt;
+
+&lt;p&gt;Jedn&amp;aacute; sa o lokalitu, v ktorej prebieha rozsiahla v&amp;yacute;stavba prevažne rodinn&amp;yacute;ch domov. Starostom mestskej časti Bratislava - Nov&amp;eacute; Mesto bolo pod č.j.&amp;Uacute;KaSP - 2004/06/1026 - Ta&amp;scaron; zo dňa 6.10.2006 vydan&amp;eacute; rozhodnutie o dodatočnom povolen&amp;iacute; zmeny dokončenej stavby &amp;quot;Rekreačn&amp;aacute; chata&amp;quot; s NN pr&amp;iacute;pojkou, pr&amp;iacute;stavbou a stavebn&amp;yacute;mi &amp;uacute;pravami. Uveden&amp;yacute;m rozhodnut&amp;iacute;m (pr&amp;aacute;voplatnosť nadobudlo dňa 23.10.2006) bolo z&amp;aacute;roveň povolen&amp;eacute; už&amp;iacute;vanie predmetnej stavby. Na umiestnenie domovej biologickej čistiarne odpadov&amp;yacute;ch v&amp;ocirc;d typu EG-4 bol oddelen&amp;iacute;m &amp;uacute;zemn&amp;eacute;ho konania a stavebn&amp;eacute;ho pl&amp;aacute;nu Miestneho &amp;uacute;radu Bratislava - Nov&amp;eacute; Mesto vydan&amp;yacute; s&amp;uacute;hlas pod č.j.&amp;Uacute;KaSP-2006/851- FME zo dňa 30.5.2006. S&amp;uacute;hlas na prev&amp;aacute;dzku mal&amp;eacute;ho zdroja znečisťovania ovzdu&amp;scaron;ia - teplovzdu&amp;scaron;n&amp;eacute;ho krbu bol vydan&amp;yacute; oddelen&amp;iacute;m životn&amp;eacute;ho prostredia Hlavn&amp;eacute;ho mesta SR Bratislavy vydan&amp;yacute; pod č.j.MAG/2006/26906/58691/Hu zo dňa 7.9.2006. Starostom mestskej časti Bratislava - Nov&amp;eacute; Mesto bol vydan&amp;yacute; s&amp;uacute;hlas na realiz&amp;aacute;ciu spevnenej plochy pre parkovanie pod č.j.Val-825/2006 zo dňa 19.7.2006. Obvodn&amp;yacute;m &amp;uacute;radom životn&amp;eacute;ho prostredia v Bratislave, Odborom &amp;scaron;t&amp;aacute;tnej vodnej spr&amp;aacute;vy bolo vydan&amp;eacute; rozhodnutie o dodatočnom povolen&amp;iacute; trval&amp;eacute;ho už&amp;iacute;vania stavby &amp;quot;Domov&amp;aacute; ČOV EG-4&amp;quot; pod č.j.ZPS/2006/02098/REO/III - 1164 zo dňa 6.6.2006 (pr&amp;aacute;voplatnosť nadobudlo dňa 13.7.2006).&lt;/p&gt;
+
+&lt;p&gt;Predmetn&amp;uacute; nehnuteľnosť ohodnocujem ako rodinn&amp;yacute; dom. Chata je voľne stojaci, murovan&amp;yacute;, m&amp;aacute; 1 podzemn&amp;eacute; podlažie (čiastočne zapusten&amp;eacute; do ter&amp;eacute;nu), 1 nadzemn&amp;eacute; podlažie a obytn&amp;eacute; podkrovie. Chata pozost&amp;aacute;va z dvoch čast&amp;iacute;, p&amp;ocirc;vodnej - dodatočne povolenej a pr&amp;iacute;stavby (zrealizovanej v roku 2007). V r&amp;aacute;mci pr&amp;iacute;stavby boli zrealizovan&amp;eacute; tieto priestory:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;v 1.PP - dvojgar&amp;aacute;ž, strojovňa, komora, schodisko do 1.NP&lt;/li&gt;
+	&lt;li&gt;v 1.NP - sp&amp;aacute;lňa, &amp;scaron;atn&amp;iacute;k, pr&amp;aacute;čovňa, jed&amp;aacute;leň, baz&amp;eacute;n.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Chata je napojen&amp;aacute; na obecn&amp;eacute; rozvody elektriny, vody. V lokalite chaty nie s&amp;uacute; preveden&amp;eacute; obecn&amp;eacute; rozvody plynu, kanaliz&amp;aacute;cie. Plynom je z&amp;aacute;sobovan&amp;aacute; z vlastn&amp;eacute;ho z&amp;aacute;sobn&amp;iacute;ka - flagu objemu cca 5 m&amp;sup3;. Odkanalizovanie m&amp;aacute; rie&amp;scaron;en&amp;eacute; cez vlastn&amp;uacute; ČOV typu EG-4. Pr&amp;iacute;stup k chate je možn&amp;yacute; z dvoch str&amp;aacute;n, po spevnenej komunik&amp;aacute;ci&amp;iacute;. Chata m&amp;aacute; nepravideln&amp;yacute; p&amp;ocirc;dorysn&amp;yacute; tvar. Založen&amp;aacute; je na bet&amp;oacute;nov&amp;yacute;ch z&amp;aacute;kladoch, ktor&amp;eacute; s&amp;uacute; opatren&amp;eacute; proti zemnej vlhkosti a v časti (zo strany lesa).Chata je murovan&amp;aacute; z tradičn&amp;yacute;ch materi&amp;aacute;lov. Strecha p&amp;ocirc;vodnej časti je podvalbov&amp;aacute; s vikiermi, pr&amp;iacute;stavby - ploch&amp;aacute; so sp&amp;aacute;dom. Stre&amp;scaron;n&amp;uacute; krytinu tvor&amp;iacute; Bramac resp. natavovan&amp;eacute; p&amp;aacute;sy. Klampiarske kon&amp;scaron;trukcie s&amp;uacute; z poplastovan&amp;eacute;ho plechu. Chata je opatren&amp;aacute; hromozvodom. Vonkaj&amp;scaron;ia fas&amp;aacute;da je obkladan&amp;aacute; l&amp;iacute;covou tehlou. Okn&amp;aacute; plastov&amp;eacute; so žal&amp;uacute;ziami, dvere dreven&amp;eacute; v dreven&amp;yacute;ch z&amp;aacute;rubniach. Vr&amp;aacute;ta gar&amp;aacute;ž&amp;iacute; v&amp;yacute;suvn&amp;eacute; na diaľkov&amp;eacute; ovl&amp;aacute;danie.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dispozičn&amp;eacute; rie&amp;scaron;enie podlaž&amp;iacute;:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;1.podzemn&amp;eacute;&lt;/strong&gt; - gar&amp;aacute;ž, sklad, v&amp;iacute;nny arch&amp;iacute;v, posedenie, strojovňa, chodba, komora, schodisko, dvojgar&amp;aacute;ž&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;1.nadzemn&amp;eacute;&lt;/strong&gt; - kuchyňa, z&amp;aacute;dverie, ob&amp;yacute;vacia izba, sp&amp;aacute;lňa, schodisko, &amp;scaron;atn&amp;iacute;k, pr&amp;aacute;čovňa, jed&amp;aacute;leň, baz&amp;eacute;n + sprcha + WC, k&amp;uacute;peľňa, WC&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;podkrovie&lt;/strong&gt; - 3 izby, 2 &amp;scaron;atn&amp;iacute;ky, hala, WC, schodisko&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;V chate s&amp;uacute; preveden&amp;eacute; rozvody sanity - vody a kanaliz&amp;aacute;cie, elektroin&amp;scaron;tal&amp;aacute;cie - svetelnej a motorickej, plynu, vzduchotechniky, k&amp;uacute;renia.&lt;/p&gt;
+
+&lt;p&gt;V p&amp;ocirc;vodnej časti (pr&amp;iacute;zemie + podkrovie) je podlahov&amp;eacute; vykurovanie elektrick&amp;eacute; typu Devi a norm&amp;aacute;lne teplovodn&amp;eacute; vykurovanie s radi&amp;aacute;tormi typu Korad. Vykurovanie je možn&amp;eacute; zabezpečiť elektrick&amp;yacute;m kotlom zn. Protherm, ktor&amp;yacute; je situovan&amp;yacute; v 1.PP - v gar&amp;aacute;ži pod kuchyňou. V gar&amp;aacute;ži je aj z&amp;aacute;sobn&amp;iacute;k T&amp;Uacute;V zn. Tatramat, darling, &amp;uacute;pravovňa vody zn.AQUA TOP. V pr&amp;iacute;stavbe je vykurovanie podlahov&amp;eacute; teplovodn&amp;eacute; (vykurovacie m&amp;eacute;dium je solar resp. plyn). Sol&amp;aacute;rne panely s&amp;uacute; umiestnen&amp;eacute; na streche baz&amp;eacute;nu. Ďal&amp;scaron;&amp;iacute; zdroj vykurovania je plynov&amp;yacute; kotol zn. Vaillant, ktor&amp;yacute; je situovan&amp;yacute; v 1.PP - strojovni. V strojovni je situovan&amp;yacute; aj z&amp;aacute;sobn&amp;iacute;k T&amp;Uacute;V zn. Vaillant, darling, sol&amp;aacute;rne jednotky, zmie&amp;scaron;avacia n&amp;aacute;drž pre baz&amp;eacute;n, technol&amp;oacute;gia - motor na protipr&amp;uacute;d, pieskov&amp;aacute; filtr&amp;aacute;cia.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ďal&amp;scaron;ie vybavenie v jednotliv&amp;yacute;ch miestnostiach:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;1.podzemn&amp;eacute; podlažie&lt;/strong&gt; - dvojgar&amp;aacute;ž: keramick&amp;eacute; um&amp;yacute;vadlo s klasickou bat&amp;eacute;riou + keramick&amp;yacute; obklad steny pri um&amp;yacute;vadle + vykurovanie radi&amp;aacute;torom Korad; pod schodmi na 1.NP vstavan&amp;aacute; skriňa, povrchov&amp;aacute; &amp;uacute;prava stupňov z červen&amp;eacute;ho smreku&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;1.nadzemn&amp;eacute; podlažie&lt;/strong&gt; - baz&amp;eacute;n: presvetlenie stre&amp;scaron;n&amp;yacute;m svetl&amp;iacute;kom tvaru pyram&amp;iacute;dy (v nej je zabudovan&amp;aacute; vzduchotechnika, zabezpečuj&amp;uacute;ca pr&amp;uacute;denie vzduchu v pyram&amp;iacute;de), podlahu tvor&amp;iacute; keramick&amp;aacute; dlažba, časť stien je obkladan&amp;aacute; kamienkov&amp;yacute;m obkladom, klimatizačn&amp;aacute; jednotka, rekuperačn&amp;aacute; jednotka zabezpečuj&amp;uacute;ca &amp;uacute;pravu vlhkosti vzduchu v priestore baz&amp;eacute;nu; soci&amp;aacute;lne zariadenie baz&amp;eacute;nu - sprcha s p&amp;aacute;kovou sprchovou bat&amp;eacute;riou + keramick&amp;eacute; um&amp;yacute;vadlo s p&amp;aacute;kovou bat&amp;eacute;riou + WC misa, bidet, časť stien opatren&amp;aacute; keramick&amp;yacute;m obkladom až po strop; ob&amp;yacute;vacia izba-krb s uzatvoren&amp;yacute;m ohniskom; sp&amp;aacute;lňa - klimatizačn&amp;aacute; jednotka zn. Panasonic; schody do podkrovia-obklad z červen&amp;eacute;ho smreku; k&amp;uacute;peľňa-sprchovac&amp;iacute; k&amp;uacute;t + zabudovan&amp;eacute; um&amp;yacute;vadlo + vaňa s v&amp;iacute;rivkou + keramick&amp;aacute; dlažba + keramick&amp;yacute; obklad stien až po strop; v&amp;scaron;ade s&amp;uacute; p&amp;aacute;kov&amp;eacute; bat&amp;eacute;rie; kuchyňa - keramick&amp;yacute; obklad stien pri linke + zabudovan&amp;eacute; spotrebiče-v&amp;scaron;etko zn. Miele: um&amp;yacute;vačka riadu, spor&amp;aacute;k s grilom, ohrievač tanierov, elektrick&amp;aacute; r&amp;uacute;ra, parn&amp;aacute; r&amp;uacute;ra + chladnička a mraznička, kuch. linka dĺžky cca 9 m;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;podkrovie&lt;/strong&gt; - izba: sprchovac&amp;iacute; k&amp;uacute;t s p&amp;aacute;kovou bat&amp;eacute;riou, klimatizačn&amp;aacute; jednotka zn. Toshiba; WC - keramick&amp;aacute; dlažba + obklad stien po strop, WC misa&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Na chatu v z&amp;aacute;hradnej časti nadv&amp;auml;zuje posilňovňa a zrubov&amp;aacute; dreven&amp;aacute; chata. Predpokladan&amp;aacute; životnosť chaty na z&amp;aacute;klade kon&amp;scaron;trukčn&amp;eacute;ho prevedenia je 100 rokov.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;V&amp;yacute;počet zastavanej plochy:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Podlažie&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Začiatok už&amp;iacute;vania&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;počet zastavanej plochy&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;ZP [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;k&lt;sub&gt;ZP&lt;/sub&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1. PP&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2006&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;6,26*6,0+5,29*6,47&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;71,79&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1. PP&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2007&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2,66*2,09+8,29*7,0+5,13*6,70+6,36*6,67-0,5*0,97*2,80&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;139,02&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1. PP&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2014&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;(4,85*2,92+0,84*1,30)*1,2&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;18,3&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;Spolu 1. PP&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;229,11&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;120/229,11=0,524&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1. NP&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2006&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;6,28*10,74+6,07*5,01&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;97,86&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1. NP&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2007&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;10,07*8,79+16,45*5,86&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;184,91&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;Spolu 1. NP&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;282,77&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;120/282,77=0,424&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1. Podkrovie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2006&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;6,28*10,74+6,07*5,01&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;97,86&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;120/97,86=1,226&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Pr&amp;iacute;slu&amp;scaron;enstvo:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Posilňovňa&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Predmetn&amp;yacute; objekt - posilňovňa bola postaven&amp;aacute; v roku 2007. Tvor&amp;iacute; pr&amp;iacute;stavbu k domu - v z&amp;aacute;hradnej časti. Objekt je murovan&amp;yacute;, m&amp;aacute; ploch&amp;uacute; strechu so sp&amp;aacute;dom. Strecha je preveden&amp;aacute; z hlin&amp;iacute;kov&amp;yacute;ch profilov, je cel&amp;aacute; presklen&amp;aacute; (alt. pre ohodnotenie - stre&amp;scaron;n&amp;eacute; f&amp;oacute;lie z plastov) . Okn&amp;aacute; a dvere s&amp;uacute; plastov&amp;eacute;. Do posilňovne je vstup jednak zo z&amp;aacute;hrady a z baz&amp;eacute;nu. Z posilňovne je z&amp;aacute;roveň aj vstup do zrubovej chaty, ktor&amp;aacute; nadv&amp;auml;zuje na posilňovňu. V posilňovni je rozvod svetelnej elektroin&amp;scaron;tal&amp;aacute;cie, posilňovňa je vykurovan&amp;aacute; kotlom, ktor&amp;yacute; je situovan&amp;yacute; v dome. Vykurovac&amp;iacute; syst&amp;eacute;m je teplovodn&amp;yacute;, vykurovacie teleso tvor&amp;iacute; oceľov&amp;yacute; radi&amp;aacute;tor zn. Korad. Podlahu v posilňovni tvor&amp;iacute; kamenn&amp;aacute; dlažba. Predpokladan&amp;aacute; životnosť je 80 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Plot uličn&amp;yacute; I&lt;/strong&gt;&amp;nbsp;bol vybudovan&amp;yacute; v&amp;nbsp;roku 2007.Jedn&amp;aacute; sa o&amp;nbsp;murovan&amp;yacute; plot z&amp;nbsp;tv&amp;aacute;rnic, plot je z&amp;nbsp;jednej strany obkladan&amp;yacute; tehlou, z&amp;nbsp;druhej strany je bez povrchovej &amp;uacute;pravy. Dĺžka 5,06 m, v&amp;yacute;&amp;scaron;ka 1,70 m a&amp;nbsp;hr&amp;uacute;bka 0,45 m. Predpokladan&amp;aacute; životnosť 50 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Plot uličn&amp;yacute; II&lt;/strong&gt; bol vybudovan&amp;yacute; v&amp;nbsp;roku 2007. Jedn&amp;aacute; sa o&amp;nbsp;murovan&amp;yacute; plot z&amp;nbsp;tv&amp;aacute;rnic, plot je z&amp;nbsp;vonkaj&amp;scaron;ej strany (v časti zo strany lesa) jednostranne omietnut&amp;yacute; omietkou zdrsnenou resp. obojstranne omietnut&amp;yacute; (v časti zo strany jazierka). V&amp;yacute;&amp;scaron;ka plota 2,20 m, dĺžka 63,50 m, hr&amp;uacute;bka cca 25 cm. Predpokladan&amp;aacute; životnosť 50 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Plot z&amp;aacute;hradn&amp;yacute;&lt;/strong&gt; bol vybudovan&amp;yacute; v&amp;nbsp;roku 2007. Jedn&amp;aacute; sa o&amp;nbsp;murovan&amp;yacute; plot z&amp;nbsp;tv&amp;aacute;rnic. Dĺžka 30,0 m, v&amp;yacute;&amp;scaron;ka 2,20 m. Plot je situovan&amp;yacute; na hranici s&amp;nbsp;parcelou č.19229/27 a&amp;nbsp;19229/192. Plot je omietnut&amp;yacute;. Predpokladan&amp;aacute; životnosť 50 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Plot uličn&amp;yacute; III&lt;/strong&gt; bol vybudovan&amp;yacute; v&amp;nbsp;roku 2007. Jedn&amp;aacute; sa o&amp;nbsp;murovan&amp;yacute; plot z&amp;nbsp;tehly. Dĺžka 9,50 m, v&amp;yacute;&amp;scaron;ka 2,50 m a&amp;nbsp;hr&amp;uacute;bka 0,25 m. Plot je situovan&amp;yacute; pri vjazde do dvojgar&amp;aacute;že a&amp;nbsp;od ulice. Plot m&amp;aacute; diaľkovo ovl&amp;aacute;dan&amp;uacute; plotov&amp;uacute; br&amp;aacute;nu -pln&amp;uacute;, z&amp;nbsp;nerezov&amp;yacute;ch profilov a&amp;nbsp;plotov&amp;uacute; br&amp;aacute;nku z&amp;nbsp;rovnak&amp;yacute;ch profilov. Predpokladan&amp;aacute; životnosť 50 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Plot dvorn&amp;yacute;&lt;/strong&gt; bol vybudovan&amp;yacute; v roku 2007. Jedn&amp;aacute; sa o murovan&amp;yacute; plot tehlov&amp;yacute;. Dĺžka 5,07 m, v&amp;yacute;&amp;scaron;ka 1,60 m a hr&amp;uacute;bka 0,25 m. Plot je situovan&amp;yacute; na hranici s parcelou č.19229/192. Predpokladan&amp;aacute; životnosť 50 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vodomern&amp;aacute; &amp;scaron;achta&lt;/strong&gt; bola vybudovan&amp;aacute; v roku 2007. Situovan&amp;aacute; je v z&amp;aacute;hrade, pri plote (hraničiaceho s parcelou č.19229/27). Prevedenie-bet&amp;oacute;nov&amp;eacute; skruže priemeru cca 1 m, hĺbka &amp;scaron;achty cca 2,5 m. Sl&amp;uacute;ži pre z&amp;aacute;hradn&amp;eacute; polievanie. Predpokladan&amp;aacute; životnosť 50 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chodn&amp;iacute;k I&lt;/strong&gt; bol vybudovan&amp;yacute; v roku 2007. Situovan&amp;yacute; je pri chate a terase chaty. Preveden&amp;yacute; je z lomov&amp;eacute;ho kameňa. &amp;Scaron;&amp;iacute;rka chodn&amp;iacute;ka I je 0,90 m. Predpokladan&amp;aacute; životnosť 50 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Z&amp;aacute;hradn&amp;eacute; jazierko&lt;/strong&gt; bolo vybudovan&amp;eacute; v roku 2007. Je murovan&amp;eacute; z lomov&amp;eacute;ho kameňa. Plocha cca 18 m2. Situovan&amp;eacute; je v z&amp;aacute;hrade za domom. M&amp;aacute; zabezpečen&amp;uacute; cirkul&amp;aacute;ciu vody. Predpokladan&amp;aacute; životnosť 30 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zavlažovanie z&amp;aacute;hrady&lt;/strong&gt; bolo vybudovan&amp;eacute; v roku 2007. Zavlažovanie je preveden&amp;eacute; z trubiek Pe, ktor&amp;eacute; s&amp;uacute; uložen&amp;eacute; pod povrchom ter&amp;eacute;nu. Zavlažovac&amp;iacute; syst&amp;eacute;m je 5 - okruhov&amp;yacute;. Predpokladan&amp;aacute; životnosť 30 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vonkaj&amp;scaron;ie schody I&lt;/strong&gt; boli vybudovan&amp;eacute; v roku 2007. Schody s&amp;uacute; situovan&amp;eacute; na terase chaty. Preveden&amp;eacute; s&amp;uacute; z lomov&amp;eacute;ho kameňa. &amp;Scaron;&amp;iacute;rka schodov - 1,01 m resp.0,70 m. Predpokladan&amp;aacute; životnosť 50 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vonkaj&amp;scaron;ie schody II&lt;/strong&gt; boli vybudovan&amp;eacute; v roku 2007. Ved&amp;uacute; z terasy pri dome smerom ku dvoru pred domom. S&amp;uacute; kovovej kon&amp;scaron;trukcie. Predpokladan&amp;aacute; životnosť 30 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Oporn&amp;eacute; m&amp;uacute;riky I&lt;/strong&gt; boli vybudovan&amp;eacute; v roku 2007. Preveden&amp;eacute; s&amp;uacute; z lomov&amp;eacute;ho kameňa Situovan&amp;eacute; s&amp;uacute; na terase chaty. V&amp;yacute;&amp;scaron;ka m&amp;uacute;rikov 0,73 m. Predpokladan&amp;aacute; životnosť je 50 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Oporn&amp;eacute; m&amp;uacute;riky II&lt;/strong&gt; boli vybudovan&amp;eacute; v roku 2007. Preveden&amp;eacute; s&amp;uacute; z tehly.M&amp;uacute;riky lemuj&amp;uacute; terasu pri dome (z 2 str&amp;aacute;n). V&amp;yacute;&amp;scaron;ka m&amp;uacute;rikov je cca 0,90 m. Predpokladan&amp;aacute; životnosť 50 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Oporn&amp;yacute; m&amp;uacute;rik III&lt;/strong&gt; bol vybudovan&amp;yacute; v roku 2007. Je preveden&amp;yacute; z tehly.V&amp;yacute;&amp;scaron;ka priemern&amp;aacute; 0,43 m, dĺžka 4,94 m, hr&amp;uacute;bka 0,21 m. Situovan&amp;yacute; je pri vjazde do dvojgar&amp;aacute;že. Predpokladan&amp;aacute; životnosť 50 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spevnen&amp;aacute; plocha I&lt;/strong&gt; bola vybudovan&amp;aacute; v roku 2007. Situovan&amp;aacute; je pri chate. Preveden&amp;aacute; je z lomov&amp;eacute;ho kameňa, uložen&amp;eacute;ho do bet&amp;oacute;nu a vy&amp;scaron;p&amp;aacute;rovan&amp;aacute;. Predpokladan&amp;aacute; životnosť 50 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spevnen&amp;aacute; plocha II&lt;/strong&gt; bola vybudovan&amp;aacute; v roku 2007. Tvor&amp;iacute; ju terasa pri dome - v z&amp;aacute;hradnej časti. Pozost&amp;aacute;va z dreven&amp;yacute;ch ro&amp;scaron;tov, uložen&amp;yacute;ch na podkladnej kon&amp;scaron;trukcii. Terasa je prestre&amp;scaron;en&amp;aacute; kon&amp;scaron;trukciou slnečn&amp;iacute;ka - na diaľkov&amp;eacute; ovl&amp;aacute;danie. Predpokladan&amp;aacute; životnosť 30 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spevnen&amp;aacute; plocha III&lt;/strong&gt; bola vybudovan&amp;aacute; v roku 2007.Tvor&amp;iacute; ju chodn&amp;iacute;k pri dome, sp&amp;aacute;jaj&amp;uacute;ci terasu pri dome a dvor pred gar&amp;aacute;žou. Preveden&amp;yacute; je zo z&amp;aacute;mkovej dlažby. &amp;Scaron;&amp;iacute;rka chodn&amp;iacute;ka 0,93 m. Predpokladan&amp;aacute; životnosť 50 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spevnen&amp;aacute; plocha IV&lt;/strong&gt; predstavuje dvor pri dome a gar&amp;aacute;ži. Vybudovan&amp;aacute; bola v roku 2007. Preveden&amp;aacute; je zo z&amp;aacute;mkovej dlažby na podkladnom bet&amp;oacute;ne. Plocha je vyhrievan&amp;aacute; syst&amp;eacute;mom DEVI (elektrick&amp;eacute; vykurovanie). Predpokladan&amp;aacute; životnosť 50 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spevnen&amp;aacute; plocha V&lt;/strong&gt; predstavuje priestor pred dvojgar&amp;aacute;žou a vstupnou uličnou br&amp;aacute;nou. Vybudovan&amp;aacute; bola v roku 2007. Preveden&amp;aacute; je zo z&amp;aacute;mkovej dlažby na podkladnom bet&amp;oacute;ne. Plocha je vykurovan&amp;aacute; syst&amp;eacute;mom DEVI (elektrick&amp;eacute; vykurovanie). Predpokladan&amp;aacute; životnosť 50 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;u&gt;Pozemky&lt;/u&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Pozemok je evidovan&amp;yacute; v katastri nehnuteľnost&amp;iacute; pre okres Bratislava III, obec Bratislava - m.č. Nov&amp;eacute; Mesto, k.&amp;uacute;. Vinohrady zap&amp;iacute;san&amp;yacute; na liste vlastn&amp;iacute;ctva č. 6256. &amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Na pozemku parc. č. 12881 je postaven&amp;aacute; stavba rodinn&amp;eacute;ho domu, na parc č. 4283/253 je z&amp;aacute;hrada a na parc. č. 4283/254 je spevnen&amp;aacute; plocha a pr&amp;iacute;pojky IS.&lt;/p&gt;
+
+&lt;p&gt;Pozemok je pr&amp;iacute;stupn&amp;yacute; z verejnej spevnenej cesty. Napojenie je možn&amp;eacute; na v&amp;scaron;etky IS.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Parcela&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Spolu v&amp;yacute;mera [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Spoluvlastn&amp;iacute;cky podiel&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;mera [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;19228/9&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;9,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;9,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;19229/28&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;z&amp;aacute;hrada&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;432,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;432,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;19229/65&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;z&amp;aacute;hrada&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;348,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;348,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;19229/193&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;105,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;105,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Spolu v&amp;yacute;mera&amp;nbsp; &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;894,00&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;&lt;strong&gt;Predmet dražby sa draž&amp;iacute; tak ako &amp;bdquo;stoj&amp;iacute; a&amp;nbsp;lež&amp;iacute;&lt;/strong&gt;&lt;em&gt;&amp;ldquo;. &amp;nbsp;&lt;/em&gt;Vzhľadom na skutočnosť, že predmetom dražby je použit&amp;aacute; vec, ktor&amp;aacute; sa prev&amp;aacute;dza v&amp;nbsp;stave v&amp;nbsp;akom sa nach&amp;aacute;dza ku dňu konania dražby nezodpoved&amp;aacute; navrhovateľ ani dražobn&amp;iacute;k za jej vady. Dražobn&amp;iacute;k s&amp;uacute;časne oboznamuje &amp;uacute;častn&amp;iacute;kov dražby, že na tento predaj prostredn&amp;iacute;ctvom dražby sa v&amp;nbsp;s&amp;uacute;lade s &amp;sect; 612 ods. 3 p&amp;iacute;sm. b) OZ nevzťahuj&amp;uacute; ustanovenia &amp;sect; 615 až 626 OZ spotrebiteľskej k&amp;uacute;pnej zmluvy upravuj&amp;uacute;cich akosť pred&amp;aacute;vanej veci,&amp;nbsp;zodpovednosť za vady &amp;nbsp;na n&amp;aacute;roky z&amp;nbsp;nich vypl&amp;yacute;vaj&amp;uacute;ce a&amp;nbsp;ustanovenia o&amp;nbsp;spotrebiteľskej z&amp;aacute;ruke. &amp;nbsp;&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>LV č. 7262
+Záložné právo v prospech Fio banka, a.s. (IČ 61858374), V Celnici 1028/10,11721 Praha 1, ČR, organizačná zložka : Fio banka, a.s., pobočka zahraničnej banky, (IČO 36869376) na pozemok registra C KN parc.č.19228/9, 19229/28, 19229/65, 19229/193 a stavbu-chata so súp. č. 10136 na pozemku registra C KN parc.č.19229/193, podľa V-15533/2023 zo dňa 10.07.2023
+
+Exekučné záložné právo v prospech Rezidencia Nestor s.r.o. IČO 36852911 na pozemky registra C KN parc.č. 19228/9, 19229/28, 19229/65, 19229/193 a na stavbu - chata Sliačska 89 so súp. č. 10136 na pozemku registra C KN parc.č.19229/193, podľa exekučného príkazu č. EX 220EX 540/25 zo dňa 19.01.2026, (súdny exekútor Mgr. Ján Makita), Z-1219/2026
+
+Exekučné záložné právo v prospech SECURITON Servis, spol. s r.o. IČO 35693835 na pozemky registra C KN parc. č. 19228/9, 19229/28, 19229/65, 19229/193 a na stavbu - chata Sliačska 89 so súpis.č. 10136 na pozemku parc. č.19229/193, podľa exekučného príkazu č. EX 220EX 150/26 zo dňa 27.5.2026, (súdny exekútor Mgr. Ján Makita), Z-9749/2026
+
+Poznámky:
+Oznámenie o začatí výkonu záložného práva V-15533/2023 záložným veriteľom Fio banka, a.s. (IČO:36869376), pobočka zahraničnej banky, na pozemky registra C KN parc.č.19228/9, 19229/28, 19229/65,19229/193 a stavbu-chata so súp. č. 10136 na pozemku registra C KN parc.č.19229/193, spôsobom predaja na dobrovoľnej dražbe, P-582/2026
+
+</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad xsi:nil="true" />
+  <ns0:PredmetCenaVyska xsi:nil="true" />
+  <ns0:PredmetCenaSposobStanovenia>znaleckým posudkom č. 259/2026, súdnym znalcom Ing. Mgr. Janou Pecníkovou v sume 1.520.000,-€</ns0:PredmetCenaSposobStanovenia>
+  <ns0:PredmetPodmienkyOdovzdania>a.) zaplatenie ceny dosiahnutej vydražením podľa § 27 ods. 1 zákona č. 527/2002 Z. z. o dobrovoľných dražbách,
+	b.) osvedčený odpis notárskej zápisnice osvedčujúcej priebeh dražby podľa § 29 zákona č. 527/2002 Z. z. o dobrovoľných dražbách.
+-	Po nadobudnutí vlastníckeho práva alebo iného práva k predmetu dražby odovzdá dražobník bez zbytočného odkladu vydražiteľovi predmet dražby a listiny, ktoré osvedčujú vlastnícke právo a sú nevyhnutné na nakladanie s predmetom dražby alebo osvedčujú iné práva vydražiteľa k predmetu dražby.
+-	Ak ide o nehnuteľnosť, podnik alebo jeho časť  je predchádzajúci vlastník  povinný v zmysle ustanovenia § 29 ods. 2 zákona č. 527/2002  Z. z. o dobrovoľných dražbách, odovzdať vydražený predmet dražby na základe predloženia osvedčeného odpisu notárskej zápisnice a doloženia totožnosti vydražiteľa bez zbytočných prieťahov vydražiteľovi. Dražobník je povinný na mieste spísať zápisnicu o odovzdaní predmetu dražby. Zápisnicu o odovzdaní predmetu dražby podpíšu predchádzajúci vlastník [skryté], vydražiteľ a dražobník. Jedno vyhotovenie zápisnice dostane predchádzajúci vlastník a dve vyhotovenia dostane vydražiteľ. Ak niektorá osoba odmietne zápisnicu podpísať alebo ju prevziať, táto skutočnosť sa vyznačí v zápisnici a zápisnica sa považuje za odovzdanú aj tejto osobe; o tom dražobník túto osobu poučí.
+
+V prípade, ak predchádzajúci vlastník neposkytne nevyhnutnú súčinnosť pri odovzdaní predmetu dražby a v prípade akejkoľvek spôsobenej škody, ktorá by vznikla  v súvislosti s jeho protiprávnym konaním, môže  byť zaviazaný na jej úhradu podľa  § 33 ods. 8 zákona č. 527/2002 Z. z. o dobrovoľných dražbách v spojitosti s § 420 a nasl. Občianskeho zákonníka. 
+Všetky náklady spojené s odovzdaní a prevzatím predmetu dražby nesie vydražiteľ. Nebezpečenstvo škody na predmete dražby prechádza z vlastníka nehnuteľností na vydražiteľa dňom odovzdania predmetu dražby.
+</ns0:PredmetPodmienkyOdovzdania>
+  <ns0:NajnizsiePodanie>1.368.000,-€	</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie>2.000,-  €</ns0:MinimalnePrihodenie>
+  <ns0:Zabezpeka>
+    <ns0:Vyska>49.000,-  €</ns0:Vyska>
+    <ns0:ZlozenieSposob>1. bezhotovostný prevod na účet dražobníka č. ú.: 2621858260/1100, vedený v Tatra banka, a.s. pod V.S.: 900126B (SWIFT TATRA banka, a.s.: TATR SK BX, IBAN: SK 1411 0000 0000 2621 8582 60) najneskôr do otvorenia dražby s preukázaním sa potvrdenia o úhrade zákonom povoleným spôsobom. 
+2. v hotovosti do pokladne dražobníka najneskôr do otvorenia dražby.
+3. vo forme bankovej záruky v prospech dražobníka s výhradou prevodu platby po doručení zápisnice o vykonaní dražby za predpokladu,  že účastník dražby sa stane vydražiteľom.
+4. vo forme notárskej úschovy.
+</ns0:ZlozenieSposob>
+    <ns0:ZlozenieCisloUctu>SK 1411 0000 0000 2621 8582 60</ns0:ZlozenieCisloUctu>
+    <ns0:ZlozenieAdresa>LICITOR group, a.s. Sládkovičova 6, 010 01 Žilina, alebo v mieste konania dražby, najneskôr pred otvorením dražby.	</ns0:ZlozenieAdresa>
+    <ns0:ZlozenieDoklad>1. originál príkazu na úhradu peňažných prostriedkov vo výške 	dražobnej zábezpeky. Účastník bude pripustený k dražbe, ak do 	otvorenia dražby bude dražobná zábezpeka pripísaná na účet 	dražobníka.
+	2. hotovosť vo výške dražobnej zábezpeky.
+3. originál alebo úradne overená kópia dokladu preukazujúca vystavenie bankovej záruky.
+4. originál alebo úradne overená kópia dokladu preukazujúceho notársku úschovu.
+Dražobnú zábezpeku nie je možné zložiť šekom ani platobnou 	kartou. 
+</ns0:ZlozenieDoklad>
+    <ns0:ZlozenieLehota>Najneskôr do otvorenia dražby.</ns0:ZlozenieLehota>
+    <ns0:Vratenie>Neúspešným účastníkom dražby, ktorí zložili dražobnú zábezpeku v hotovosti, bude dražobná zábezpeka vrátená hneď po skončení dražby. 
+Neúspešným účastníkom dražby, ktorí zložili dražobnú zábezpeku bezhotovostným prevodom na účet dražobníka, bude dražobná zábezpeka vrátená bez zbytočného odkladu po skončení dražby bezhotovostným prevodom na účet označený účastníkom dražby.</ns0:Vratenie>
+  </ns0:Zabezpeka>
+  <ns0:SposobUhradyCeny>Vydražiteľ je povinný zaplatiť cenu dosiahnutú vydražením v hotovosti do pokladne v sídle dražobníka alebo bezhotovostným prevodom na účet dražobníka č. 2621858260/1100, vedený v Tatra banka a.s. (SWIFT TATRA banka, a.s.: TATR SK BX, IBAN: SK 1411 0000 0000 2621 8582 60) a to do 30 dní odo dňa skončenia dražby. Dražobná zábezpeka sa vydražiteľovi započítava do ceny dosiahnutej vydražením. </ns0:SposobUhradyCeny>
+  <ns0:ObhliadkaDatum>1. termín: 07.10.2026 o 16:00 hod.
+2. termín: 21.10.2026 o 16:00 hod.
+</ns0:ObhliadkaDatum>
+  <ns0:ObhliadkaMiesto>katastrálne územie</ns0:ObhliadkaMiesto>
+  <ns0:SpolocnaDrazba Kod="NIE">Nie</ns0:SpolocnaDrazba>
+  <ns0:SpolocnaDrazbaPoradieDrazeniePredmetov xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia>Záujemcovia o vykonanie obhliadky sa prihlásia telefonicky najneskôr 24 hodín pred stanoveným termínom obhliadky na t. č. : 0905 447 835. Stretnutie záujemcov sa uskutoční pred chatou č.s. 10136 na ul. Sliačska v obci Bratislava – Nové Mesto, okres Bratislava III. Obhliadky je možné vykonať aj mimo termín stanovený v oznámení o dražbe po predchádzajúcej dohode s dražobníkom. Bližšie informácie na t. č. : 041/763 22 34 alebo 0918 834 834.
+V zmysle § 12 ods. 2 a § 13 zákona č. 527/2002 Z.z. o dobrovoľných dražbách je vlastník [skryté], držiteľ alebo nájomca povinný umožniť riadnu obhliadku predmetu dražby v stanovených termínoch.
+</ns0:OrganizaceOpatrenia>
+  <ns0:NadobudnutieVlastnickehoPrava>V zmysle ustanovenia § 27 ods. 1 zákona č. 527/2002 Z. z. o dobrovoľných dražbách ak vydražiteľ zaplatí cenu dosiahnutú vydražením v ustanovenej lehote prechádza na neho vlastnícke právo dňom udelenia príklepu. Dražobník vydá bez zbytočného odkladu po nadobudnutí vlastníckeho alebo iného práva vydražiteľovi potvrdenie o vydražení predmetu dražby a v prípadoch, v ktorých sa o priebehu dražby spisuje notárska zápisnica vydá dražobník vydražiteľovi dve vyhotovenia osvedčeného odpisu notárskej zápisnice najneskôr do 5 dní. Ku dňu zaplatenia ceny dosiahnutej vydražením vydražiteľom zaniká pohľadávka veriteľa v rozsahu uspokojenia veriteľa z výťažku dražby.</ns0:NadobudnutieVlastnickehoPrava>
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

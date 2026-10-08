@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Nazov>Oznámenie o dobrovoľnej dražbe</ns0:Nazov>
+  <ns0:Cislo>260002</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>Dražby a aukcie, s. r. o.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Jilemnického</Ulica>
+      <Cislo>4012/30</Cislo>
+      <Obec>Martin</Obec>
+      <Psc>03601</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="131">Okresný súd Žilina</Sud>
+    <Oddiel>Sro</Oddiel>
+    <Vlozka>18739/L</Vlozka>
+    <Ico>36751642</Ico>
+  </ns0:Drazobnik>
+  <ns0:NavrhovateliaHeader>Označenie navrhovateľa</ns0:NavrhovateliaHeader>
+  <ns0:Navrhovatelia>
+    <ns0:Navrhovatel>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Všeobecná úverová banka, a.s.; skrátený názov: VÚB, a.s.</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Mlynské nivy</Ulica>
+          <Cislo>1</Cislo>
+          <Obec>Bratislava</Obec>
+          <Psc>82990</Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Sud Kod="104">Mestský súd Bratislava III</Sud>
+        <Oddiel>Sa  </Oddiel>
+        <Vlozka>341/B</Vlozka>
+        <Ico>31320155</Ico>
+      </ns0:CeleMeno>
+    </ns0:Navrhovatel>
+  </ns0:Navrhovatelia>
+  <ns0:Licitatori xsi:nil="true" />
+  <ns0:Notar>
+    <ns0:CeleMeno>
+      <TitulPred>JUDr.</TitulPred>
+      <TitulZa />
+      <Meno>Michal</Meno>
+      <Priezvisko>Capek</Priezvisko>
+    </ns0:CeleMeno>
+    <ns0:Sidlo>
+      <Ulica>Nám. M.R. Štefánika</Ulica>
+      <Cislo>14/19</Cislo>
+      <Obec>Brezno</Obec>
+      <Psc>977 01</Psc>
+      <Stat />
+    </ns0:Sidlo>
+  </ns0:Notar>
+  <ns0:KonanieMiesto>v zasadacej miestnosti Hotela Družba, J. Hollého 1,  071 01 Michalovce</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-09-15</ns0:KonanieDatum>
+  <ns0:KonanieCas>11:00 hod.</ns0:KonanieCas>
+  <ns0:Kolo>prvá dražba</ns0:Kolo>
+  <ns0:Predmet>&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Nehnuteľnosti nachádzajúce sa v okrese Sobrance, obci Lekárovce, katastrálne územie Lekárovce, Okresný úrad Sobrance-katastrálny odbor na LV č. 1295 a 623 ako:&lt;/p&gt;
+
+			&lt;p&gt; &lt;/p&gt;
+
+			&lt;table border="1" cellspacing="0"&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td&gt;
+						&lt;p&gt;&lt;strong&gt;Okresný úrad, katastrálny odbor:&lt;/strong&gt;&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td colspan="3"&gt;
+						&lt;p&gt; Sobrance&lt;/p&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td&gt;
+						&lt;p&gt;&lt;strong&gt;Okres: &lt;/strong&gt;&lt;/p&gt;
+
+						&lt;p&gt;&lt;strong&gt;Obec:&lt;/strong&gt;&lt;/p&gt;
+
+						&lt;p&gt;&lt;strong&gt;Katastrálne územie:&lt;/strong&gt;&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td colspan="3"&gt;
+						&lt;p&gt; Sobrance&lt;/p&gt;
+
+						&lt;p&gt; Lekárovce&lt;/p&gt;
+
+						&lt;p&gt; Lekárovce&lt;/p&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td&gt;
+						&lt;p&gt;&lt;strong&gt;Číslo listu vlastníctva:&lt;/strong&gt;&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td colspan="3"&gt;
+						&lt;p&gt;1295&lt;/p&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td&gt;
+						&lt;p&gt;&lt;em&gt;Súpisné číslo:&lt;/em&gt;&lt;/p&gt;
+
+						&lt;p&gt;&lt;em&gt;  &lt;/em&gt;&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td&gt;
+						&lt;p&gt;&lt;em&gt;Na pozemku parcelné číslo:&lt;/em&gt;&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td&gt;
+						&lt;p&gt;&lt;em&gt;Druh stavby:  &lt;/em&gt;&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td&gt;
+						&lt;p&gt;&lt;em&gt;Popis stavby:  &lt;/em&gt;&lt;/p&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td&gt;
+						&lt;p&gt;193&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td&gt;
+						&lt;p&gt;878&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td&gt;
+						&lt;p&gt;10 – Rodinný dom&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td&gt;
+						&lt;p&gt;Rodinný dom&lt;/p&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td colspan="2"&gt;
+						&lt;p&gt;&lt;strong&gt;Vo vlastníctve:&lt;/strong&gt;&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td colspan="2"&gt;
+						&lt;p&gt;&lt;strong&gt;Spoluvlastnícky podiel:&lt;/strong&gt;&lt;/p&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td colspan="2"&gt;
+						&lt;p&gt;&lt;strong&gt;[skryté], ,(nar. [skryté]), Lekárovce 193, 072 54 Lekárovce a [skryté], ,(nar. [skryté]), Lekárovce 193, 072 54 Lekárovce, BSM&lt;/strong&gt;&lt;strong&gt;                                      &lt;/strong&gt;&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td colspan="2"&gt;
+						&lt;p&gt;1/1&lt;/p&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+
+			&lt;p&gt; &lt;/p&gt;
+
+			&lt;table border="1" cellspacing="0"&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td&gt;
+						&lt;p&gt;&lt;strong&gt;Okresný úrad, katastrálny odbor:&lt;/strong&gt;&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td colspan="3"&gt;
+						&lt;p&gt; Sobrance&lt;/p&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td&gt;
+						&lt;p&gt;&lt;strong&gt;Okres: &lt;/strong&gt;&lt;/p&gt;
+
+						&lt;p&gt;&lt;strong&gt;Obec:&lt;/strong&gt;&lt;/p&gt;
+
+						&lt;p&gt;&lt;strong&gt;Katastrálne územie:&lt;/strong&gt;&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td colspan="3"&gt;
+						&lt;p&gt; Sobrance&lt;/p&gt;
+
+						&lt;p&gt; Lekárovce&lt;/p&gt;
+
+						&lt;p&gt; Lekárovce&lt;/p&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td&gt;
+						&lt;p&gt;&lt;strong&gt;Číslo listu vlastníctva:&lt;/strong&gt;&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td colspan="3"&gt;
+						&lt;p&gt; 623&lt;/p&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td colspan="4"&gt;
+						&lt;p&gt;Parcely registra „C“ evidované na katastrálnej mape:&lt;/p&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td colspan="4"&gt;
+						&lt;p&gt;&lt;strong&gt;&lt;em&gt;Pozemky:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td&gt;
+						&lt;p&gt;&lt;em&gt; &lt;/em&gt;&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td&gt;
+						&lt;p&gt;&lt;em&gt;Parcel. číslo:&lt;/em&gt;&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td&gt;
+						&lt;p&gt;&lt;em&gt;Druh pozemku:&lt;/em&gt;&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td&gt;
+						&lt;p&gt;&lt;em&gt; Výmera v m&lt;/em&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td&gt;
+						&lt;p&gt;pozemok&lt;em&gt; &lt;/em&gt;parcela C-KN&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td&gt;
+						&lt;p&gt;877&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td&gt;
+						&lt;p&gt;Záhrada&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td&gt;
+						&lt;p&gt; 1753 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td&gt;
+						&lt;p&gt;pozemok&lt;em&gt; &lt;/em&gt;parcela C-KN&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td&gt;
+						&lt;p&gt;878&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td&gt;
+						&lt;p&gt;Zastavaná plocha a nádvorie&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td&gt;
+						&lt;p&gt; 1012 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td colspan="2"&gt;
+						&lt;p&gt;&lt;strong&gt;Vo vlastníctve:&lt;/strong&gt;&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td colspan="2"&gt;
+						&lt;p&gt;&lt;strong&gt;Spoluvlastnícky podiel:&lt;/strong&gt;&lt;/p&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td colspan="2"&gt;
+						&lt;p&gt;&lt;strong&gt;[skryté],,(nar. [skryté]), Lekárovce 193, 072 54 Lekárovce a [skryté], ,(nar. [skryté]), Lekárovce 193, 072 54 Lekárovce, BSM&lt;/strong&gt;&lt;strong&gt;                                      &lt;/strong&gt;&lt;/p&gt;
+						&lt;/td&gt;
+						&lt;td colspan="2"&gt;
+						&lt;p&gt;1/1&lt;/p&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+
+			&lt;p&gt; &lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;Predmet dražby sa draží tak ako stojí a leží, vrátane všetkých jej súčastí a príslušenstva. &lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt; &lt;/p&gt;
+
+			&lt;p&gt; &lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;Stavba rodinn&amp;eacute;ho domu, bola dokončen&amp;aacute; podľa podkladu zad&amp;aacute;vateľa a čestn&amp;eacute;ho vyhl&amp;aacute;senia majiteľov, ako odborn&amp;yacute; predpoklad v roku 1968, podľa materi&amp;aacute;lov&amp;eacute;ho vyhotovenia mohol byť objekt aj star&amp;scaron;&amp;iacute; vzhľadom na r&amp;ocirc;zne druhy skladobn&amp;yacute;ch hr&amp;uacute;bok a obnažen&amp;yacute;ch zmie&amp;scaron;an&amp;yacute;ch materi&amp;aacute;lov s v&amp;yacute;skytom aj nep&amp;aacute;lenej tehly. Znalec sa stotožnil s uveden&amp;yacute;m rokom vzhľadom na odborne zisten&amp;eacute; opotrebenie, &amp;uacute;držba je niž&amp;scaron;ia, boli vymenen&amp;eacute; okn&amp;aacute; za plastov&amp;eacute; a vn&amp;uacute;torn&amp;eacute; priestory s&amp;uacute; modernizovan&amp;eacute; obkladmi s&amp;aacute;drokart&amp;oacute;nu a 2x k&amp;uacute;pelňa s WC. Prevažn&amp;aacute; v&amp;auml;č&amp;scaron;ina pr&amp;aacute;c, bola vykonan&amp;aacute; v kvalite &amp;scaron;tandard prevažne použit&amp;yacute;ch materi&amp;aacute;lov murovac&amp;iacute;ch tv&amp;aacute;rnic a p&amp;aacute;lenej tehly podľa majiteľa, &amp;uacute;držba je viď. foto nutn&amp;aacute; oprava strechy a kom&amp;iacute;na. Oteplenie m&amp;uacute;ru čiastočne skladobne 450mm. Životnosť stanovujem odborne, ako murovan&amp;eacute; domy, ale s ohľadom na technick&amp;yacute; stav, odborn&amp;yacute;m odhadom kubickou metodikou a opotrebenie line&amp;aacute;rne Obec Lek&amp;aacute;rovce m&amp;aacute; 834 trvalo prihl&amp;aacute;sen&amp;yacute;ch obyvateľov k roku 2023, pozemok je v časti centrum Hlavn&amp;aacute; ulica 150m od obecn&amp;eacute;ho &amp;uacute;radu, je možnosť plynu, vodovodu, elektriky a kanaliz&amp;aacute;cie, je spevnen&amp;yacute; pr&amp;iacute;stup, je obytn&amp;aacute; poloha s infra&amp;scaron;trukt&amp;uacute;rou, n&amp;aacute;kupn&amp;eacute; centrum okresn&amp;eacute; mesto Sobrance 21,0km.&lt;/p&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;&lt;strong&gt;Rodinn&amp;yacute; dom: Rodinn&amp;yacute; dom s.č. 193 na parc. č. KNC č.878 k.&amp;uacute;. Lek&amp;aacute;rovce&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;POPIS STAVBY &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Umiestnenie stavby:&lt;/p&gt;
+
+&lt;p&gt;Dvojpodlažn&amp;yacute; rodinn&amp;yacute; dom z roku 1968 podľa pom&amp;ocirc;cok a čestn&amp;eacute;ho vyhl&amp;aacute;senia.&lt;/p&gt;
+
+&lt;p&gt;Dom je v rade domov star&amp;scaron;ej v&amp;yacute;stavby, je napojen&amp;yacute; na kanaliz&amp;aacute;ciu, vodovod, elektriku, plyn a vykurovan&amp;yacute; na plyn s pr&amp;iacute;pravou T&amp;Uacute;V v el. bojleri.&lt;/p&gt;
+
+&lt;p&gt;Dispozičn&amp;eacute; rie&amp;scaron;enie:&lt;/p&gt;
+
+&lt;p&gt;Dispozične je to 1x byt s pr&amp;iacute;slu&amp;scaron;enstvom, v 1NP 4izbov&amp;yacute; s kuchyňou, 2x k&amp;uacute;pelňou spolu s WC, prechodom po dlžke objektu je pr&amp;iacute;stup do 4x izby a k&amp;uacute;pelne s vaňou a um&amp;yacute;vadlom a druh&amp;aacute; so sprchou a WC s um&amp;yacute;vadlom, je predn&amp;yacute; vstup s chodbičkou ako predsieňou a zadn&amp;yacute; na terasu kryt&amp;uacute; drevenou pergolou. V 1PP je čiastočn&amp;eacute; ako sklad zeleniny a meranie vody v chodbe.&lt;/p&gt;
+
+&lt;p&gt;Pr&amp;iacute;slu&amp;scaron;enstvom je 2x sklad s letnou kuchyňou a izbičkou, kde je možn&amp;yacute; druh&amp;yacute; byt samostatn&amp;yacute;.&lt;/p&gt;
+
+&lt;p&gt;Technick&amp;eacute; rie&amp;scaron;enie:&lt;/p&gt;
+
+&lt;p&gt;1. Podzemn&amp;eacute; podlažie&lt;/p&gt;
+
+&lt;p&gt;- Zvisl&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - z monolitick&amp;eacute;ho bet&amp;oacute;nu; deliace kon&amp;scaron;trukcie - tehlov&amp;eacute; (priečkovky, CDM, panelov&amp;aacute; kon&amp;scaron;trukcia, dreven&amp;eacute;)&lt;/p&gt;
+
+&lt;p&gt;- Vodorovn&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - stropy - s rovn&amp;yacute;m podhľadom bet&amp;oacute;nov&amp;eacute; monolitick&amp;eacute;, prefabrikovan&amp;eacute; a keramick&amp;eacute;&lt;/p&gt;
+
+&lt;p&gt;- Schodisko - cementov&amp;yacute; poter&lt;/p&gt;
+
+&lt;p&gt;- &amp;Uacute;pravy vonkaj&amp;scaron;&amp;iacute;ch povrchov - fas&amp;aacute;dne omietky - v&amp;aacute;penn&amp;eacute; a v&amp;aacute;penno-cementov&amp;eacute; hladk&amp;eacute;&lt;/p&gt;
+
+&lt;p&gt;- &amp;Uacute;pravy vn&amp;uacute;torn&amp;yacute;ch povrchov - vn&amp;uacute;torn&amp;eacute; omietky - v&amp;aacute;penn&amp;eacute; &amp;scaron;tukov&amp;eacute;, stierkov&amp;eacute; plsťou hladen&amp;eacute;&lt;/p&gt;
+
+&lt;p&gt;- V&amp;yacute;plne otvorov - dvere - r&amp;aacute;mov&amp;eacute; s v&amp;yacute;plňou&lt;/p&gt;
+
+&lt;p&gt;- Podlahy - dlažby a podlahy ost. miestnost&amp;iacute; - cementov&amp;yacute; poter, tehlov&amp;aacute; dlažba&lt;/p&gt;
+
+&lt;p&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody vody - z plastov&amp;eacute;ho potrubia len studenej vody&lt;/p&gt;
+
+&lt;p&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody kanaliz&amp;aacute;cie - plastov&amp;eacute; potrubie&lt;/p&gt;
+
+&lt;p&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody elektroin&amp;scaron;tal&amp;aacute;cie - elektroin&amp;scaron;tal&amp;aacute;cia ( bez rozv&amp;aacute;dzačov) - sveteln&amp;aacute;; elektrick&amp;yacute; rozv&amp;aacute;dzač - s automatick&amp;yacute;m isten&amp;iacute;m&lt;/p&gt;
+
+&lt;p&gt;1. Nadzemn&amp;eacute; podlažie&lt;/p&gt;
+
+&lt;p&gt;- Z&amp;aacute;klady - bet&amp;oacute;nov&amp;eacute; - objekt s podzemn&amp;yacute;m podlaž&amp;iacute;m s vodorovnou izol&amp;aacute;ciou&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;- Zvisl&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - murovan&amp;eacute; z teh&amp;aacute;l (pln&amp;aacute;,metrick&amp;aacute;,tv&amp;aacute;rnice typu CD,porotherm) v skladobnej hr. nad 40 do 50 cm; deliace kon&amp;scaron;trukcie - tehlov&amp;eacute; (priečkovky, CDM, panelov&amp;aacute; kon&amp;scaron;trukcia, dreven&amp;eacute;)&lt;/p&gt;
+
+&lt;p&gt;- Vodorovn&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - stropy - s rovn&amp;yacute;m podhľadom dreven&amp;eacute; tr&amp;aacute;mov&amp;eacute;&lt;/p&gt;
+
+&lt;p&gt;- Schodisko - m&amp;auml;kk&amp;eacute; drevo bez podstupn&amp;iacute;c&lt;/p&gt;
+
+&lt;p&gt;- Strecha - krovy - v&amp;auml;znicov&amp;eacute; sedlov&amp;eacute;, manzardov&amp;eacute;; krytiny strechy na krove - azbestocementov&amp;eacute; &amp;scaron;abl&amp;oacute;ny na lat&amp;aacute;ch, vlnit&amp;eacute; dosky; klampiarske kon&amp;scaron;trukcie strechy - z pozinkovan&amp;eacute;ho plechu &amp;uacute;pln&amp;eacute; strechy (žľaby, zvody, kom&amp;iacute;ny, prieniky, snehov&amp;eacute; zachyt&amp;aacute;vače)&lt;/p&gt;
+
+&lt;p&gt;- &amp;Uacute;pravy vonkaj&amp;scaron;&amp;iacute;ch povrchov - fas&amp;aacute;dne omietky - &amp;scaron;kraban&amp;yacute; brizolit, omietky na b&amp;aacute;ze umel&amp;yacute;ch l&amp;aacute;tok; obklady fas&amp;aacute;d - obklady keramick&amp;eacute;, obklady drevom&lt;/p&gt;
+
+&lt;p&gt;- &amp;Uacute;pravy vn&amp;uacute;torn&amp;yacute;ch povrchov - vn&amp;uacute;torn&amp;eacute; omietky - v&amp;aacute;penn&amp;eacute; &amp;scaron;tukov&amp;eacute;, stierkov&amp;eacute; plsťou hladen&amp;eacute;; vn&amp;uacute;torn&amp;eacute; obklady - prevažnej časti k&amp;uacute;peľne min.nad 1,35 m v&amp;yacute;&amp;scaron;ky; - vane; - samostatnej sprchy; - kuchyne min. pri spor&amp;aacute;ku a dreze (ak je drez na stene)&lt;/p&gt;
+
+&lt;p&gt;- V&amp;yacute;plne otvorov - dvere - plastov&amp;eacute; pln&amp;eacute; alebo zasklen&amp;eacute;; okn&amp;aacute; - plastov&amp;eacute; s dvoj. s trojvrstvov&amp;yacute;m zasklen&amp;iacute;m; okenn&amp;eacute; žal&amp;uacute;zie - plastov&amp;eacute;&lt;/p&gt;
+
+&lt;p&gt;- Podlahy - podlahy obytn&amp;yacute;ch miestnost&amp;iacute; (okrem obytn&amp;yacute;ch kuch&amp;yacute;ň) - parkety, vlysy (okrem bukov&amp;yacute;ch), korok, veľkoplo&amp;scaron;n&amp;eacute; parkety (dreven&amp;eacute;, lamin&amp;aacute;tov&amp;eacute;); dlažby a podlahy ost. miestnost&amp;iacute; - keramick&amp;eacute; dlažby&lt;/p&gt;
+
+&lt;p&gt;- Vybavenie kuch&amp;yacute;ň - spor&amp;aacute;k elektrick&amp;yacute; alebo plynov&amp;yacute; s elektrickou r&amp;uacute;rou alebo varn&amp;aacute; jednotka (&amp;scaron;tvorhor&amp;aacute;kov&amp;aacute;); - um&amp;yacute;vačka riadu (zabudovan&amp;aacute;); - chladnička alebo mraznička (zabudovan&amp;aacute;); - ods&amp;aacute;vač p&amp;aacute;r; - drezov&amp;eacute; um&amp;yacute;vadlo nerezov&amp;eacute; alebo plastov&amp;eacute;; - kuchynsk&amp;aacute; linka z materi&amp;aacute;lov na b&amp;aacute;ze dreva (za bežn&amp;yacute; meter rozvinutej &amp;scaron;&amp;iacute;rky)&lt;/p&gt;
+
+&lt;p&gt;- Vybavenie k&amp;uacute;peľn&amp;iacute; - vaňa plastov&amp;aacute; rohov&amp;aacute; alebo s v&amp;iacute;rivkou; - um&amp;yacute;vadlo; - samostatn&amp;aacute; sprcha; vodovodn&amp;eacute; bat&amp;eacute;rie - p&amp;aacute;kov&amp;eacute; nerezov&amp;eacute; so sprchou; - p&amp;aacute;kov&amp;eacute; nerezov&amp;eacute; s ovl&amp;aacute;dan&amp;iacute;m uz&amp;aacute;veru sif&amp;oacute;nu um&amp;yacute;vadla; - p&amp;aacute;kov&amp;eacute; nerezov&amp;eacute;; z&amp;aacute;chod - splachovac&amp;iacute; so zabudovanou n&amp;aacute;držkou v stene&lt;/p&gt;
+
+&lt;p&gt;- Ostatn&amp;eacute; vybavenie - vstavan&amp;eacute; skrine&lt;/p&gt;
+
+&lt;p&gt;- Vykurovanie - zdroj vykurovania - lok&amp;aacute;lne - plynov&amp;eacute; kachle&lt;/p&gt;
+
+&lt;p&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody vody - z plastov&amp;eacute;ho potrubia studenej a teplej vody z centr&amp;aacute;lneho zdroja; zdroj teplej vody - z&amp;aacute;sobn&amp;iacute;kov&amp;yacute; ohrievač elektrick&amp;yacute;, plynov&amp;yacute; alebo kombinovan&amp;yacute; s &amp;uacute;stredn&amp;yacute;m vykurovan&amp;iacute;m&lt;/p&gt;
+
+&lt;p&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody kanaliz&amp;aacute;cie - plastov&amp;eacute; potrubie&lt;/p&gt;
+
+&lt;p&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody elektroin&amp;scaron;tal&amp;aacute;cie - elektroin&amp;scaron;tal&amp;aacute;cia ( bez rozv&amp;aacute;dzačov) - sveteln&amp;aacute;, motorick&amp;aacute;; elektrick&amp;yacute; rozv&amp;aacute;dzač - s automatick&amp;yacute;m isten&amp;iacute;m&lt;/p&gt;
+
+&lt;p&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody plynu - rozvod zemn&amp;eacute;ho plynu&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gar&amp;aacute;ž na KNC č.878 k.&amp;uacute;. Lek&amp;aacute;rovce : &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Pristavan&amp;eacute; ku vstupu na povalu a skladu, kde je el. bojler&lt;/p&gt;
+
+&lt;p&gt;Dispozičn&amp;eacute; rie&amp;scaron;enie:&lt;/p&gt;
+
+&lt;p&gt;Priestor dielene a parkovanie pre jedno vozidlo&lt;/p&gt;
+
+&lt;p&gt;1. Nadzemn&amp;eacute; podlažie&lt;/p&gt;
+
+&lt;p&gt;- Z&amp;aacute;klady - bez podmurovky, iba z&amp;aacute;kladov&amp;eacute; p&amp;aacute;sy&lt;/p&gt;
+
+&lt;p&gt;- Zvisl&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - murovan&amp;eacute; z p&amp;aacute;lenej tehly, tehloblokov hr&amp;uacute;bky nad 15 do 30 cm&lt;/p&gt;
+
+&lt;p&gt;- Vodorovn&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - stropy - tr&amp;aacute;mčekov&amp;eacute; s podhľadom&lt;/p&gt;
+
+&lt;p&gt;- Strecha - krov - v&amp;auml;znicov&amp;eacute; valbov&amp;eacute;, stanov&amp;eacute;, sedlov&amp;eacute;, manzardov&amp;eacute;; krytina strechy na krove - plechov&amp;aacute; pozinkovan&amp;aacute;; klampiarske kon&amp;scaron;trukcie - z pozinkovan&amp;eacute;ho plechu (min. žľaby, zvody, prieniky)&lt;/p&gt;
+
+&lt;p&gt;- &amp;Uacute;pravy vonkaj&amp;scaron;&amp;iacute;ch povrchov - v&amp;aacute;penn&amp;aacute; hrub&amp;aacute; omietka alebo n&amp;aacute;ter&lt;/p&gt;
+
+&lt;p&gt;- &amp;Uacute;pravy vn&amp;uacute;torn&amp;yacute;ch povrchov - v&amp;aacute;penn&amp;aacute;, &amp;scaron;tukov&amp;aacute; omietka&lt;/p&gt;
+
+&lt;p&gt;- V&amp;yacute;plne otvorov - okn&amp;aacute; - jednoduch&amp;eacute; dreven&amp;eacute; alebo oceľov&amp;eacute;&lt;/p&gt;
+
+&lt;p&gt;- Podlahy - cementov&amp;eacute; dlaždice, liaty xylolit, hladen&amp;yacute; bet&amp;oacute;n s n&amp;aacute;terom; - vodorovn&amp;aacute; izol&amp;aacute;cia&lt;/p&gt;
+
+&lt;p&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody elektroin&amp;scaron;tal&amp;aacute;cie - elektroin&amp;scaron;tal&amp;aacute;cia - sveteln&amp;aacute; a motorick&amp;aacute; - poistkov&amp;eacute; automaty&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sklad na KNC č.878 k.&amp;uacute;. Lek&amp;aacute;rovce:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Umiestnenie stavby:&lt;/p&gt;
+
+&lt;p&gt;Pristavan&amp;eacute; ku domu zo zadnej časti na KNC parc.č.244&lt;/p&gt;
+
+&lt;p&gt;Dispozičn&amp;eacute; rie&amp;scaron;enie:&lt;/p&gt;
+
+&lt;p&gt;Sklad n&amp;aacute;radia&lt;/p&gt;
+
+&lt;p&gt;Technick&amp;eacute; rie&amp;scaron;enie:&lt;/p&gt;
+
+&lt;p&gt;1. Nadzemn&amp;eacute; podlažie&lt;/p&gt;
+
+&lt;p&gt;- Z&amp;aacute;klady - bez podmurovky, iba z&amp;aacute;klady pod stĺpikmi alebo p&amp;auml;tky pod rohmi pref. gar&amp;aacute;že&lt;/p&gt;
+
+&lt;p&gt;- Zvisl&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - murovan&amp;eacute; z p&amp;oacute;robet&amp;oacute;nu (kameň, Ytong, Ypor, Hebel...) hr&amp;uacute;bky nad 15 do 30 cm&lt;/p&gt;
+
+&lt;p&gt;- Vodorovn&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - stropy - podbitie krovu&lt;/p&gt;
+
+&lt;p&gt;- Strecha - krov - pultov&amp;eacute;; krytina strechy na krove - plechov&amp;aacute; pozinkovan&amp;aacute;; klampiarske kon&amp;scaron;trukcie - z pozinkovan&amp;eacute;ho plechu (min. žľaby, zvody, prieniky)&lt;/p&gt;
+
+&lt;p&gt;- &amp;Uacute;pravy vonkaj&amp;scaron;&amp;iacute;ch povrchov - v&amp;aacute;penn&amp;aacute; hrub&amp;aacute; omietka alebo n&amp;aacute;ter&lt;/p&gt;
+
+&lt;p&gt;- &amp;Uacute;pravy vn&amp;uacute;torn&amp;yacute;ch povrchov - n&amp;aacute;tery&lt;/p&gt;
+
+&lt;p&gt;- V&amp;yacute;plne otvorov - dvere - r&amp;aacute;mov&amp;eacute; s v&amp;yacute;plňou&lt;/p&gt;
+
+&lt;p&gt;- Podlahy - dlaždice, palubovky, dosky, cementov&amp;yacute; poter; - vodorovn&amp;aacute; izol&amp;aacute;cia&lt;/p&gt;
+
+&lt;p&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody elektroin&amp;scaron;tal&amp;aacute;cie - elektroin&amp;scaron;tal&amp;aacute;cia - len sveteln&amp;aacute; - poistkov&amp;eacute; automaty&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predn&amp;yacute; plot s br&amp;aacute;ničkou &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Plot s br&amp;aacute;ničkou a br&amp;aacute;nou z kovov&amp;yacute;ch profilov ocelov&amp;aacute; kon&amp;scaron;trukcia s podmurovkou a m&amp;uacute;r do 300mm z roku 2010 na parc.č.878 do v&amp;yacute;&amp;scaron;ky 1,666m odborne stanoven&amp;aacute; životnosť 70 rokov neomietnut&amp;yacute;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Studňa kopan&amp;aacute; na parc.č.878 &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Studňa z roku 1968 na parc.č.878 kopan&amp;aacute; DN1000, hlbka 12,0m odborne odhad, životnosť 100 rokov&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vodovod &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Vodovodn&amp;aacute; pr&amp;iacute;pojka PVC DN 40 z roku 2010 na parc.č.878. Odborne stanoven&amp;aacute; životnosť 80 rokov&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pr&amp;iacute;pojka nn &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Elektrick&amp;aacute; zemn&amp;aacute; pr&amp;iacute;pojka 4xCYKY 10mm2 z roku 2010 na parc.č.878. Odborne stanoven&amp;aacute; životnosť 60 rokov&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kanaliz&amp;aacute;cia &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Kanalizačn&amp;aacute; pr&amp;iacute;pojka plast DN 150 z roku 2010 na parc.č.878. Odborne stanoven&amp;aacute; životnosť 80 rokov&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Plynovod &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Plynovodn&amp;aacute; pr&amp;iacute;pojka DN 25 z roku 2010 na parc.č.878. Odborne stanoven&amp;aacute; životnosť 80 rokov&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pergola nad terasou a vstup do domu &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dreven&amp;aacute; pergola vstupu a nad terasou z roku 2010 na parc.č.878. Odborne stanoven&amp;aacute; životnosť 50 rokov&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>Zmluvou č.Z 457906-11 sa zriaďuje záložné právo k nehnuteľnosti na LV č.1295 v prospech:Všeobecná úverová banka,a.s.,Mlynské nivy 1, 829 90 Bratislava.V 234/2011 zo dňa 22.06.2011.-č.z.33/11
+
+Zmluvou č.Z 457906-11 sa zriaďuje záložné právo k nehnuteľnosti na LV č.623 v prospech:Všeobecná úverová banka,a.s.,Mlynské nivy 1, 829 90 Bratislava.V 234/2011 zo dňa 22.06.2011.-č.z.33/11
+
+
+
+Poznámka:
+P-85/2024-Upovedomenie o začatí exekúcie 269EX 276/24 zo dňa 30.04.2024-exekúcia predajom nehnuteľností zapísaných na LV 623, a to: pozemky registra "C" parc.č. 877 záhrada o výmere 1753 m2 a parc.č. 878 zastavaná plocha a nádvorie o výmere 1012 m2 v prospech: Union zdravotná poisťovňa, a.s., Karadžičova 10, 814 53 Bratislava, IČO: 36284831, od: Exekútorský úrad Košice II so sídlom Čajakova 5, súdny exekútor: JUDr. Atila Ádám-č.z.37/24
+P-15/2026- Upovedomenie o začatí exekúcie 269EX 137/26 zo dňa 27.02.2026 predajom nehnuteľností na LV 623, pozemky registra CKN, parc.č. 877 záhrada 1753 m2 a parc.č. 878 zastavaná plocha a nádvorie 1012 m2 v prospech Union zdravotná poisťovňa, a.s., IČO 36284831, Karadžičova 10, 814 53 Bratislava, SR- Exekútorský úrad Košice II, JUDr. Atila Ádám-č.z.13/26
+P-152/2025- Upovedomenie o začatí exekúcie 269EX 893/25 zo dňa 26.11.2025 predajom nehnuteľností na LV 623, pozemky registra CKN, parc.č. 877 záhrada 1753 m2 a parc.č. 878 zastavaná plocha a nádvorie 1012 m2 v prospech Union zdravotná poisťovňa, a.s., IČO 36284831, Karadžičova 10, 814 53 Bratislava, SR- Exekútorský úrad Košice II, JUDr. Atila Ádám-č.z.135/25
+P-46/2025-Upovedomenie o začatí exekúcie 269EX 275/25 zo dňa 14.04.2025-exekúcia predajom nehnuteľností zapísaných na LV 623, a to: pozemky registra "C" parc.č. 877 záhrada o výmere 1753 m2 a parc.č. 878 zastavaná plocha a nádvorie o výmere 1012 m2 v prospech: Union zdravotná poisťovňa, a.s., Karadžičova 10, 814 53 Bratislava, IČO: 36284831, od: Exekútorský úrad Košice II so sídlom Čajakova 5, súdny exekútor: JUDr. Atila Ádám-č.z.35/25
+P-39/2026- Poznamenáva sa, že dňa 27.04.2026 nám bolo spoločnosťou Dražby a aukcie, s.r.o., IČO 36751642, Jilemnického 4012/30, 036 01 Martin zaslané Oznámenie o začatí realizácie záložného práva k nehnuteľnostiam na LV 623, parcely CKN č. 877, 878 v prospech Všeobecná úverová banka, a.s. Mlynské nivy 1, 829 90 Bratislava, SR-č.z.36/26
+P-39/2026- Poznamenáva sa, že dňa 27.04.2026 nám bolo spoločnosťou Dražby a aukcie, s.r.o., IČO 36751642, Jilemnického 4012/30, 036 01 Martin zaslané Oznámenie o začatí realizácie záložného práva k nehnuteľnosti na LV 1295, t.j. rodinný dom súp.č.193 na parcele CKN č. 878 v prospech Všeobecná úverová banka, a.s. Mlynské nivy 1, 829 90 Bratislava, SR-č.z.36/26
+P-15/2026- Upovedomenie o začatí exekúcie 269EX 137/26 zo dňa 27.02.2026 predajom nehnuteľnosti na LV 1295, rodinný dom súp.č.193 na parcele CKN č.878 v prospech Union zdravotná poisťovňa, a.s., IČO 36284831, Karadžičova 10, 814 53 Bratislava, SR- Exekútorský úrad Košice II, JUDr. Atila Ádám-č.z.13/26
+P-46/2025-Upovedomenie o začatí exekúcie 269EX 275/25 zo dňa 14.04.2025-exekúcia predajom nehnuteľnosti zapísanej na LV 1295, a to: stavba rodinný dom s.č. 193 na pozemku registra "C" parc.č. 878 zastavaná plocha a nádvorie o výmere 1012 m2 v prospech: Union zdravotná poisťovňa, a.s., Karadžičova 10, 814 53 Bratislava, IČO: 36284831, od: Exekútorský úrad Košice II so sídlom Čajakova 5, súdny exekútor: JUDr. Atila Ádám-č.z.35/25
+P-85/2024-Upovedomenie o začatí exekúcie 269EX 276/24 zo dňa 30.04.2024-exekúcia predajom nehnuteľnosti zapísanej na LV 1295, a to: stavba rodinný dom s.č. 193 na pozemku registra "C" parc.č. 878 zastavaná plocha a nádvorie o výmere 1012 m2 v prospech: Union zdravotná poisťovňa, a.s., Karadžičova 10, 814 53 Bratislava, IČO: 36284831, od: Exekútorský úrad Košice II so sídlom Čajakova 5, súdny exekútor: JUDr. Atila Ádám-č.z.37/24
+P-152/2025- Upovedomenie o začatí exekúcie 269EX 893/25 zo dňa 26.11.2025 predajom nehnuteľnosti na LV 1295, rodinný dom súp.č.193 na parcele CKN č.878 v prospech Union zdravotná poisťovňa, a.s., IČO 36284831, Karadžičova 10, 814 53 Bratislava, SR- Exekútorský úrad Košice II, JUDr. Atila Ádám-č.z.135/25
+
+</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad xsi:nil="true" />
+  <ns0:PredmetCenaVyska xsi:nil="true" />
+  <ns0:PredmetCenaSposobStanovenia>znaleckým posudkom č. 80/2026 vypracovaným súdnym znalcom Ing. Miroslavom Ferklom v sume 89.700,00 €</ns0:PredmetCenaSposobStanovenia>
+  <ns0:PredmetPodmienkyOdovzdania>Ak uhradil vydražiteľ cenu dosiahnutú vydražením v ustanovenej lehote, prechádza na neho vlastnícke právo k predmetu dražby udelením príklepu. Užívacie právo odovzdaním predmetu dražby po zaplatení celej ceny dosiahnutej vydražením na základe zápisnice o odovzdaní predmetu dražby. Všetky náklady spojené s odovzdaním a prevzatím predmetu dražby nesie vydražiteľ. V prípade, ak boli porušené ustanovenia tohto zákona, môže osoba, ktorá tvrdí, že tým bola dotknutá na svojich právach, požiadať súd, aby určil neplatnosť dražby. Právo domáhať sa určenia neplatnosti dražby zaniká, ak sa neuplatní do troch mesiacov odo dňa udelenia príklepu okrem prípadu, ak dôvody neplatnosti dražby súvisia so spáchaním trestného činu a zároveň ide o dražbu domu alebo bytu, v ktorom má predchádzajúci vlastník predmetu dražby v čase príklepu hlásený trvalý pobyt podľa osobitného predpisu; v tomto prípade je možné domáhať sa neplatnosti dražby aj po uplynutí tejto lehoty. V prípade spoločnej dražby bude neplatná len tá časť dražby, ktorej sa takýto rozsudok týka. Osoba, ktorá podala na súde žalobu podľa odseku 2, je povinná oznámiť príslušnej správe katastra nehnuteľností začatie súdneho konania. Účastníkmi súdneho konania o neplatnosť dražby sú navrhovateľ dražby, dražobník, vydražiteľom predchádzajúci vlastník a dotknutá osoba. Ak vydražiteľ zmaril dražbu alebo ak súd určil dražbu za neplatnú, účinky príklepu zanikajú ku dňu príklepu. Neplatnosť dražby nie je možné vysloviť z dôvodu oneskoreného začatia dražby, ak bolo príčinou oneskoreného začatia dražby konanie inej dražby tým istým dražobníkom na tom istom mieste a ak neumožnil vlastník [skryté], ako aj osoba, ktorá má k predmetu dražby iné ako vlastnícke právo, vykonať riadnu obhliadku predmetu dražby. Upozorňujeme všetky osoby, ktoré majú k predmetu dražby iné práva, že ich môžu preukázať najneskôr do začatia dražby a uplatniť na dražbe ako dražitelia. V dražobnej miestnosti je zakázané zhotovovať akýkoľvek audiovizuálny a zvukový záznam bez súhlasu dražobníka.</ns0:PredmetPodmienkyOdovzdania>
+  <ns0:NajnizsiePodanie>89.700,00 €</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie>1.000,00 €</ns0:MinimalnePrihodenie>
+  <ns0:Zabezpeka>
+    <ns0:Vyska> 7.000,00 €</ns0:Vyska>
+    <ns0:ZlozenieSposob>bezhotovostným prevodom na účet / zložením v hotovosti na účet dražobníka/ notárskou úschovou / zložením v hotovosti do pokladne dražobníka / bankovou zárukou
+</ns0:ZlozenieSposob>
+    <ns0:ZlozenieCisloUctu>SK5402000000003163615951, VS 260002</ns0:ZlozenieCisloUctu>
+    <ns0:ZlozenieAdresa>v zasadacej miestnosti Hotela Družba, J. Hollého 1,  071 01 Michalovce</ns0:ZlozenieAdresa>
+    <ns0:ZlozenieDoklad>1.originálom príkazu na úhradu preukazujúcim odpísanie finančných prostriedkov z účtu navrhovateľa za predpokladu ich následného pripísania na účet dražobníka 2.originálom potvrdenia o vklade peňažných prostriedkov na bankový účet v hotovosti vydaného bankou 3.originál listiny preukazujúcej zloženie dražobnej zábezpeky do notárskej úschovy.</ns0:ZlozenieDoklad>
+    <ns0:ZlozenieLehota>Do otvorenia dražby</ns0:ZlozenieLehota>
+    <ns0:Vratenie>Bezhotovostným prevodom na účet účastníka dražby, bez zbytočného odkladu po skončení dražby alebo po upustení od dražby, najneskôr však do 5 dní od skončenia dražby alebo od upustenia od dražby.</ns0:Vratenie>
+  </ns0:Zabezpeka>
+  <ns0:SposobUhradyCeny>Cenu dosiahnutú vydražením do 6.638,78 € je vydražiteľ povinný uhradiť ihneď po príklepe, nad túto sumu do 15 dní, pokiaľ sa vydražiteľ s navrhovateľom dražby nedohodnú inak. Vydražiteľ je povinný uhradiť cenu spôsobmi uvedenými pri zložení dražobnej zábezpeky formou bezhotovostného prevodu na účet dražobníka alebo zložením hotovosti na účet dražobníka, pričom táto sa započítava vydražiteľovi do ceny  dosiahnutej vydražením. V prípade bankovej záruky je povinný zaplatiť cenu dosiahnutú vydražením v plnej výške prevodom na účet dražobníka alebo zložením hotovosti na účet dražobníka. Účtom dražobníka sa vo všetkých prípadoch myslí účet vedený v v Tatra banke, a.s., pobočka  Martin,   v Tatra banke, a.s., č. účtu: IBAN: SK95 1100 0000 0026 2202 7522, VS  260002
+ </ns0:SposobUhradyCeny>
+  <ns0:ObhliadkaDatum>1. obhliadka      25.08.2026              11:00 hod.
+2. obhliadka      26.08.2026              11:00 hod.
+V prípade záujmu nás kontaktujte na tel. č. 0915 879 007.
+</ns0:ObhliadkaDatum>
+  <ns0:ObhliadkaMiesto>katastrálne územie</ns0:ObhliadkaMiesto>
+  <ns0:SpolocnaDrazba Kod="NIE">Nie</ns0:SpolocnaDrazba>
+  <ns0:SpolocnaDrazbaPoradieDrazeniePredmetov xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia>žiadne</ns0:OrganizaceOpatrenia>
+  <ns0:NadobudnutieVlastnickehoPrava>-
+</ns0:NadobudnutieVlastnickehoPrava>
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

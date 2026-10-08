@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Nazov>Oznámenie o dobrovoľnej dražbe</ns0:Nazov>
+  <ns0:Cislo>001/2026</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>BENEFIT GROUP I, a.s. </ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Bavlnárska</Ulica>
+      <Cislo>312</Cislo>
+      <Obec>Trenčín</Obec>
+      <Psc>91105</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="117">Okresný súd Trenčín</Sud>
+    <Oddiel>Sa</Oddiel>
+    <Vlozka>10657/R</Vlozka>
+    <Ico>47131781</Ico>
+  </ns0:Drazobnik>
+  <ns0:NavrhovateliaHeader>Označenie navrhovateľa</ns0:NavrhovateliaHeader>
+  <ns0:Navrhovatelia>
+    <ns0:Navrhovatel>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Ján Vzorový</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Hlavná</Ulica>
+          <Cislo>1</Cislo>
+          <Obec>Novoť</Obec>
+          <Psc>00000</Psc>
+          <Stat>SR</Stat>
+        </Sidlo>
+        <Oddiel />
+        <Vlozka />
+        <Ico />
+      </ns0:CeleMeno>
+    </ns0:Navrhovatel>
+  </ns0:Navrhovatelia>
+  <ns0:Licitatori xsi:nil="true" />
+  <ns0:Notar>
+    <ns0:CeleMeno>
+      <TitulPred>JUDr.</TitulPred>
+      <TitulZa />
+      <Meno>Denisa</Meno>
+      <Priezvisko>Adamkovičová</Priezvisko>
+    </ns0:CeleMeno>
+    <ns0:Sidlo>
+      <Ulica>Brnianska </Ulica>
+      <Cislo>1</Cislo>
+      <Obec>Trenčin</Obec>
+      <Psc>91105</Psc>
+      <Stat />
+    </ns0:Sidlo>
+  </ns0:Notar>
+  <ns0:KonanieMiesto>JUDr. Denisa Adamkovičová, Notársky úrad Brnianska 1,91105 Trenčín</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-11-04</ns0:KonanieDatum>
+  <ns0:KonanieCas>10:00</ns0:KonanieCas>
+  <ns0:Kolo>1. kolo</ns0:Kolo>
+  <ns0:Predmet>&lt;p&gt;v katastr&amp;aacute;lnom &amp;uacute;zem&amp;iacute; Pravotice, zap&amp;iacute;san&amp;eacute; okresn&amp;yacute;m &amp;uacute;radom B&amp;aacute;novce nad Bebravou, katastr&amp;aacute;lny odbor Pravotice, na LV č. 596, 116&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stavby&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; S&amp;uacute;p. č. 136, parc. č. 14/2 &amp;ndash; druh stavby: rodinn&amp;yacute; dom;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Parcely registra &amp;bdquo;C&amp;ldquo;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; parc. č. 14/2 o v&amp;yacute;mere 119m2, druh pozemku &amp;ndash; zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+
+&lt;p&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; parc. č. 14/1 o v&amp;yacute;mere 908m2, druh pozemku &amp;ndash; zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+
+&lt;p&gt;Pr&amp;aacute;vny vzťah k stavbe s&amp;uacute;pisn&amp;eacute; č&amp;iacute;slo 136 evidovanej na pozemku parc. č. 14/2 je evidovan&amp;yacute; na LV č. 596.&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;Rodinn&amp;yacute; dom bol skolaudovan&amp;yacute; v&amp;nbsp;roku 2002, je to murovan&amp;yacute;, dvojpodlažn&amp;yacute;, čiastočne pivničen&amp;yacute; rodinn&amp;yacute; dom so sedlovou strechou, suter&amp;eacute;n cca pod 1/3-tinou ZP, mierne zv&amp;yacute;&amp;scaron;en&amp;eacute; pr&amp;iacute;zemie a&amp;nbsp;obytn&amp;eacute; podkrovie. Rodinn&amp;yacute; dom zateplen&amp;yacute;, m&amp;aacute; plastov&amp;eacute; okn&amp;aacute; s&amp;nbsp;vn&amp;uacute;torn&amp;yacute;mi žal&amp;uacute;ziami. Znalec predpoklad&amp;aacute;, že je interi&amp;eacute;rovo modern&amp;yacute;, 5izbov&amp;yacute; s&amp;nbsp;kompletn&amp;yacute;m pr&amp;iacute;slu&amp;scaron;enstvom. Rodinn&amp;yacute; dom bol v&amp;nbsp;čase obhliadky ob&amp;yacute;van&amp;yacute;, vizu&amp;aacute;lne v&amp;nbsp;dobrom stave, plne funkčn&amp;yacute;. Pozemok pri rodinnom dome je ohraničen&amp;yacute; plotom od susedov a&amp;nbsp;plotom od ulice. Rodinn&amp;yacute; dom je postaven&amp;yacute; ďalej od uličnej čiary s&amp;nbsp;predz&amp;aacute;hradkou. Rodinn&amp;yacute; dom je postaven&amp;yacute; v&amp;nbsp;miernom svahu. Pri rodinnom dome je veľk&amp;aacute; plocha z&amp;nbsp;bet&amp;oacute;novej z&amp;aacute;mkovej dlažby, za rodinnom dome na konci pozemku je v&amp;auml;č&amp;scaron;ia dvojgar&amp;aacute;ž, od ulice s&amp;uacute; dva ter&amp;eacute;nne oporn&amp;eacute; m&amp;uacute;ry. Rodinn&amp;yacute; dom je napojen&amp;yacute; na jestvuj&amp;uacute;ce IS pr&amp;iacute;pojkami vody, plynu, elektriky a&amp;nbsp;odkanalizovan&amp;yacute; od žumpy. Rodinn&amp;yacute; dom je priamo pr&amp;iacute;stupn&amp;yacute; z&amp;nbsp;miestnej ulice obce. Je postaven&amp;yacute; na ulici s&amp;nbsp;novou z&amp;aacute;stavbou rodinn&amp;yacute;ch domov.&lt;/p&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;Rodinn&amp;yacute; dom so s&amp;uacute;pisn&amp;yacute;m č&amp;iacute;slom 136 je situovan&amp;yacute; ako samostatne stojaca stavba v&amp;nbsp;uličnej z&amp;aacute;stavbe na nov&amp;scaron;ej ulici obce, v&amp;nbsp;okrajovej časti obce, v&amp;nbsp;z&amp;aacute;stavba obdobn&amp;yacute;ch rodinn&amp;yacute;ch domov. Je to dvojpodlažn&amp;yacute; rodinn&amp;yacute; dom so sedlovou strechou, čiastočne podpivničen&amp;yacute; cca pod 1/3tinou ZP v&amp;nbsp;zadnej časti, mierne zv&amp;yacute;&amp;scaron;en&amp;eacute; pr&amp;iacute;zemie a&amp;nbsp;obytn&amp;eacute; podkrovie. Rodinn&amp;yacute; dom je murovan&amp;yacute; tehlov&amp;yacute;, strop nad pr&amp;iacute;zem&amp;iacute;m je zo ŽB dosky, strecha je tvoren&amp;aacute; dreven&amp;yacute;m hamb&amp;aacute;lkov&amp;yacute;m krovom, s&amp;nbsp;SDK obkladom a&amp;nbsp;zateplen&amp;iacute;m stropu. Stre&amp;scaron;n&amp;aacute; krytina je z&amp;nbsp;bet&amp;oacute;novej &amp;scaron;kridle Bramac. V&amp;nbsp;rodinnom s&amp;uacute; plastov&amp;eacute; okn&amp;aacute; s&amp;nbsp;izolačn&amp;yacute;m dvojsklom s&amp;nbsp;vn&amp;uacute;torn&amp;yacute;mi žal&amp;uacute;ziami. Podkrovie m&amp;aacute; aj balk&amp;oacute;n do ulice. Znalec predpoklad&amp;aacute;, že je rodinn&amp;yacute; dom interi&amp;eacute;rovo v&amp;nbsp;novodobom &amp;scaron;tandarde, t. j. v&amp;nbsp;izb&amp;aacute;ch s&amp;uacute; parketov&amp;eacute; podlahy z&amp;nbsp;veľkoplo&amp;scaron;n&amp;yacute;ch parkiet, na chodbe, v&amp;nbsp;kuchyni, v&amp;nbsp;k&amp;uacute;peľni, vo WC je keramick&amp;aacute; dlažba. V&amp;nbsp;k&amp;uacute;peľniach na pr&amp;iacute;zem&amp;iacute; aj v&amp;nbsp;podkrov&amp;iacute; s&amp;uacute; &amp;scaron;tandarde obklady. Rodinn&amp;yacute; dom m&amp;aacute; teplovodn&amp;eacute; UK, znalec predpoklad&amp;aacute;, že vykurovacie teles&amp;aacute; s&amp;uacute; z&amp;nbsp;plechov&amp;yacute;ch panelov&amp;yacute;ch radi&amp;aacute;torov, kotol m&amp;ocirc;že byť plynov&amp;yacute;, z&amp;aacute;sobn&amp;iacute;kov&amp;yacute; elektrick&amp;yacute; ohrievač T&amp;Uacute;V. Na pr&amp;iacute;zem&amp;iacute; je v&amp;nbsp;kuchyni &amp;scaron;tandardn&amp;aacute; kuchynsk&amp;aacute; linka so vstavan&amp;yacute;mi spotrebičmi. Vn&amp;uacute;torn&amp;eacute; dvere s&amp;uacute; dreven&amp;eacute;, dyhovan&amp;eacute; v&amp;nbsp;obložkov&amp;yacute;ch zar&amp;uacute;bniach. V&amp;nbsp;k&amp;uacute;peľni na pr&amp;iacute;zem&amp;iacute; m&amp;ocirc;že byť rovn&amp;aacute; vaňa, sprchov&amp;yacute; k&amp;uacute;t a&amp;nbsp;um&amp;yacute;vadlo, samostatn&amp;eacute; WC, v&amp;nbsp;k&amp;uacute;peľni v&amp;nbsp;podkrov&amp;iacute; rovnako vaňa, um&amp;yacute;vadlo, sprchov&amp;yacute; k&amp;uacute;t a&amp;nbsp;WC. Schodisko na podkrovie je ŽB so stupňami s&amp;nbsp;povrchom z&amp;nbsp;keramickej dlažby. Rodinn&amp;yacute; dom je napojen&amp;yacute; na obecn&amp;yacute; vodovod, elektriku a&amp;nbsp;plyn s&amp;nbsp;nov&amp;yacute;mi pr&amp;iacute;pojkami, odkanalizovan&amp;yacute; od žumpy. Rodinn&amp;yacute; dom ma zateplen&amp;uacute; fas&amp;aacute;du. Hlavn&amp;yacute; vstup do rodinn&amp;eacute;ho domu je z&amp;nbsp;bočnej strany.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>Ťarchy:
+
+V 1292/08 zriaďuje sa záložné právo na nehn. stavbu dom s.č. 136 na p.č. 14/2, ktoré zabezpečuje pohľadávku záložného veriteľa Prvá stavebná sporiteľňa, a.s., Bajkalská 30, 829 48 Bratislava, IČO 31335004.-18/08 
+
+V 903/2023 zo dňa 20.02.2024 zriaďuje sa záložné právo na nehn. stavba (rodinný dom) súp. číslo 136 na C KN parc. č. 14/2 v podiele 1/1, ktoré zabezpečuje pohľadávku záložného veriteľa :[skryté], ,(nar. [skryté]), J.G.Tajovského 1198/6, 957 01 Bánovce nad Bebravou -9/24; -21/24; -3/26; 
+
+Z 1346/2023 - Exekučný príkaz 260EX 384/23-22 zo dňa 30.10.2023 na zriadenie exekučného záložného práva na nehnuteľnosť stavbu (rod. dom) súp. číslo 136 na C KN parc. č. 14/2 v podiele 1/1 - súdny exekútor JUDr. Andrea Prudká, exekútorský úrad so sídlom ul. Nám. A.Hlinku 36/9, 017 01 Považská Bystrica, IČO: 37913654 -10/24; 
+
+Z 1347/2023 - Exekučný príkaz 260EX 323/23-49 zo dňa 30.10.2023 na zriadenie exekučného záložného práva na nehnuteľnosť stavbu (rod. dom) súp. číslo 136 na C KN parc. č. 14/2 v podiele 1/1 - súdny exekútor JUDr. Andrea Prudká, exekútorský úrad so sídlom ul. Nám. A.Hlinku 36/9, 017 01 Považská Bystrica, IČO: 37913654 -11/24; 
+
+V 109/2024 zo dňa 21.02.2024 zriaďuje sa záložné právo na nehn. stavba (rod.dom) súp. č. 136 na C KN parc. č. 14/2 v podiele 1/1, ktoré zabezpečuje pohľadávku záložného veriteľa : [skryté] ,(nar. [skryté]), Novoť 157, PSČ 029 55 -13/24;
+
+Poznámky:
+
+P 101/2023 - Upovedomenie o spôsobe vykonania exekúcie 260EX 323/23-24 zo dňa 07.08.2023 a to zriadením exekučného záložného práva na nehnuteľnosť stavba (rod. dom) súp. číslo 136 na C KN parc. č. 14/2 v podiele 1/1 - súdny exekútor JUDr. Andrea Prudká, exekútorský úrad so sídlom ul. Nám. A.Hlinku 36/9, 017 01 Považská Bystrica, IČO: 37913654 -29/23; 
+
+P 122/2023 - Upovedomenie o spôsobe vykonania exekúcie 260EX 384/23-19 zo dňa 03.10.2023 a to zriadením exekučného záložného práva na nehnuteľnosti stavba (rod. dom) súp. číslo 136 na C KN parc. č. 14/2 v podiele 1/1 - súdny exekútor JUDr. Andrea Prudká, exekútorský úrad so sídlom ul. Nám. A.Hlinku 36/9, 017 01 Považská Bystrica, IČO: 37913654 -41/23; 
+
+P 25/2024 - Návrh na nariadenie neodkladného opatrenia na Okresný súd v Prievidzi, sp.zn. 23C/19/2024 zo dňa 262.2024 na nehn. stavba (rod. dom )súp.číslo 136 na C KN parc. č. 14/2 15/24; 
+
+P 26/2024 ( P 100/2025 ) - Oznámenie o začatí výkonu záložného práva predajom zálohu na dobrovoľnej dražbe na nehn. stavba (rodinný dom) súp. číslo 136 na C KN parc. č. 14/2 v podiele 1/1, záložný veriteľ : [skryté], ,(nar. [skryté]), J.G.Tajovského 1198/6, 957 01 Bánovce nad Bebravou -22/24, 43/25
+</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad xsi:nil="true" />
+  <ns0:PredmetCenaVyska xsi:nil="true" />
+  <ns0:PredmetCenaSposobStanovenia>ZP - 124/2026 Ing. Tanuška Romeo, zo dňa 09.05.2026</ns0:PredmetCenaSposobStanovenia>
+  <ns0:PredmetPodmienkyOdovzdania>Ak nadobudol vydražiteľ vlastnícke právo k predmetu dražby, predchádzajúci vlastník je povinný odovzdať predmet dražby na základe predloženia osvedčeného odpisu notárskej zápisnice a doloženia totožnosti vydražiteľa za podmienok uvedených v oznámení o dražbe bez zbytočných prieťahov. Dražobník na mieste spíše zápisnicu o odovzdaní predmetu dražby. Zápisnicu o odovzdaní predmetu dražby podpíše predchádzajúci vlastník [skryté], vydražiteľ a dražobník. Jedno vyhotovenie zápisnice obdrží predchádzajúci vlastník predmetu dražby a dve vyhotovenia vydražiteľ. Ak niektorá osoba odmietne zápisnicu podpísať alebo ju prevziať, táto skutočnosť sa vyznačí v zápisnici a zápisnica sa považuje za odovzdanú aj tejto osobe, o tom dražobník túto osobu poučí. 
+V prípade, ak predchádzajúci vlastník neposkytne nevyhnutnú súčinnosť pri odovzdaní predmetu dražby a v prípade akejkoľvek spôsobenej škody, ktorá by vznikla v súvislosti s jeho protiprávnym konaním, môže byť zaviazaný na jej úhradu podľa § 33 ods. 8 zákona č. 527/2002 Z.z. o dobrovoľných dražbách v spojitosti s § 420 a nasl. Občianskeho zákonníka.   
+Všetky náklady spojené s odovzdaním a prevzatím predmetu dražby nesie vydražiteľ. Táto povinnosť sa nevzťahuje na náklady, ktoré by ináč nevznikli, ak ich svojou vinou spôsobil predchádzajúci vlastník alebo dražobník alebo ak im tieto náklady vznikli náhodou, ktorá ich postihla.
+Nebezpečenstvo škody na predmete dražby prechádza z navrhovateľa dražby 
+na vydražiteľa dňom odovzdania predmetu dražby, v ten istý deň prechádza na vydražiteľa zodpovednosť za škodu spôsobenú v súvislosti s predmetom dražby. Ak je vydražiteľ v omeškaní s prevzatím predmetu dražby, nesie nebezpečenstvo škody a zodpovednosť 
+za škodu. 
+</ns0:PredmetPodmienkyOdovzdania>
+  <ns0:NajnizsiePodanie>234.000,- EUR</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie>500,- EUR</ns0:MinimalnePrihodenie>
+  <ns0:Zabezpeka>
+    <ns0:Vyska>27.000,- EUR</ns0:Vyska>
+    <ns0:ZlozenieSposob>1. bezhotovostným prevodom na účet dražobníka vedený v banke ČSOB, a.s., číslo účtu:              SK64 7500 0000 0040 1786 0435, variabilný symbol: 0012026, pričom dražobná zábezpeka sa považuje za zaplatenú, ak do otvorenia dražby bola pripísaná na účet dražobníka.
+2. vo forme bankovej záruky
+3. do notárskej úschovy
+4. v hotovosti do pokladne dražobnej spoločnosti
+</ns0:ZlozenieSposob>
+    <ns0:ZlozenieCisloUctu>SK64 7500 0000 0040 1786 0435</ns0:ZlozenieCisloUctu>
+    <ns0:ZlozenieAdresa>JUDr. Denisa Adamkovičová, Notársky úrad Brnianska 1,
+91105 Trenčín</ns0:ZlozenieAdresa>
+    <ns0:ZlozenieDoklad>1. originál príkazu na úhradu peňažných prostriedkov vo výške dražobnej zábezpeky   za predpokladu ich následného pripísania na účet dražobníka 
+2. originál potvrdenia o vklade peňažných prostriedkov na bankový účet v hotovosti vydaného bankou
+3. originál alebo overená kópia preukazujúca vystavenie bankovej záruky	
+4. notársku zápisnicu o zložení peňazí do notárskej úschovy
+5. príjmový doklad pri platbe v hotovosti
+</ns0:ZlozenieDoklad>
+    <ns0:ZlozenieLehota>do otvorenia dražby</ns0:ZlozenieLehota>
+    <ns0:Vratenie>Bezhotovostným prevodom na účet účastníka dražby /vrátením listiny preukazujúcej vydanie bankovej záruky/ bez zbytočného odkladu po skončení dražby alebo po upustení od dražby, najneskôr však do 3 dní od skončenia dražby alebo od upustenia od dražby.</ns0:Vratenie>
+  </ns0:Zabezpeka>
+  <ns0:SposobUhradyCeny>Ak nie je cena dosiahnutá vydražením vyššia ako 6.640 €, je vydražiteľ povinný zaplatiť cenu dosiahnutú vydražením hneď po skončení dražby, nad túto sumu do 15 dní, pokiaľ sa vydražiteľ s navrhovateľom dražby nedohodnú inak. Vydražiteľ je povinný uhradiť cenu spôsobmi uvedenými pri zložení dražobnej zábezpeky formou bezhotovostného prevodu na účet dražobníka alebo zložením hotovosti na účet dražobníka, pričom táto sa započítava vydražiteľovi do ceny dosiahnutej vydražením. V prípade bankovej záruky je povinný zaplatiť cenu dosiahnutú vydražením v plnej výške prevodom na účet dražobníka, alebo zložením hotovosti na účet dražobníka. Účtom dražobníka sa vo všetkých prípadoch myslí účet vedený v banke ČSOB, a.s., číslo účtu: SK64 7500 0000 0040 1786 0435,         VS: 0012026.</ns0:SposobUhradyCeny>
+  <ns0:ObhliadkaDatum>1.Obhliadka:	12.10.2026 od 10:00 hod. do 10:30 hod. 
+2.Obhliadka:	26.10.2026 od 11:00 hod. do 11:30 hod.
+</ns0:ObhliadkaDatum>
+  <ns0:ObhliadkaMiesto>k.ú. Pravotice, zapísané okresným úradom Bánovce nad Bebravou, katastrálny odbor Pravotice, na LV č. 596, 116</ns0:ObhliadkaMiesto>
+  <ns0:SpolocnaDrazba Kod="NIE">Nie</ns0:SpolocnaDrazba>
+  <ns0:SpolocnaDrazbaPoradieDrazeniePredmetov xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia>Záujemcovia o vykonanie obhliadky sa prihlásia telefonicky najneskôr 24 hodín pred stanoveným termínom obhliadky na tel. č. 0902 260 579. Stretnutie sa uskutoční na adrese predmetu dražby. Obhliadky je možné vykonať aj mimo termín stanovený v oznámení o dražbe po predchádzajúcej dohode.</ns0:OrganizaceOpatrenia>
+  <ns0:NadobudnutieVlastnickehoPrava>Po zaplatení ceny dosiahnutej vydražením vydražiteľom v stanovenej lehote, prechádza na neho vlastnícke právo dňom udelenia príklepu. Dražobník vydá vydražiteľovi bez zbytočného odkladu potvrdenie o vydražení predmetu dražby a jedno vyhotovenie osvedčeného odpisu notárskej zápisnice.</ns0:NadobudnutieVlastnickehoPrava>
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

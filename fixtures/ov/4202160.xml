@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Cislo> 260006</ns0:Cislo>
+  <ns0:ZoDna>2026-08-05</ns0:ZoDna>
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>Dražby a aukcie, s. r. o.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Jilemnického</Ulica>
+      <Cislo>4012/30</Cislo>
+      <Obec>Martin</Obec>
+      <Psc>036 01</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="131">Okresný súd Žilina</Sud>
+    <Oddiel>Sro</Oddiel>
+    <Vlozka>18739/L</Vlozka>
+    <Ico>36751642</Ico>
+  </ns0:Drazobnik>
+  <ns0:NavrhovateliaHeader>Označenie navrhovateľa</ns0:NavrhovateliaHeader>
+  <ns0:Navrhovatelia>
+    <ns0:Navrhovatel>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Hypo Collector, s. r. o.</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Jablonové</Ulica>
+          <Cislo>116</Cislo>
+          <Obec>Jablonové</Obec>
+          <Psc>900 54</Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Sud Kod="104">Mestský súd Bratislava III</Sud>
+        <Oddiel>Sro </Oddiel>
+        <Vlozka>78898/B</Vlozka>
+        <Ico>46526382</Ico>
+      </ns0:CeleMeno>
+    </ns0:Navrhovatel>
+  </ns0:Navrhovatelia>
+  <ns0:Licitatori xsi:nil="true" />
+  <ns0:Notar xsi:nil="true" />
+  <ns0:KonanieMiesto>v malom salóniku Hotela Tilia, Kollárova 20, 902 01 Pezinok</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-09-17</ns0:KonanieDatum>
+  <ns0:KonanieCas>11:00 hod.</ns0:KonanieCas>
+  <ns0:Kolo>prvá dražba</ns0:Kolo>
+  <ns0:Predmet>&lt;p&gt;Nehnuteľnosti nachádzajúce sa v okrese Senec, obci Kráľová pri Senci, katastrálne územie Kráľová pri Senci, Okresný úrad Senec-katastrálny odbor na LV č. &lt;strong&gt;1255 &lt;/strong&gt;ako:&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;strong&gt;Okresný úrad, katastrálny odbor:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="4"&gt;
+			&lt;p&gt;  Senec&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;strong&gt;Okres: &lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;Obec:&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;Katastrálne územie:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="4"&gt;
+			&lt;p&gt; &lt;/p&gt;
+
+			&lt;p&gt;  Senec&lt;/p&gt;
+
+			&lt;p&gt;  Kráľová pri Senci&lt;/p&gt;
+
+			&lt;p&gt;  Kráľová pri Senci&lt;/p&gt;
+
+			&lt;p&gt; &lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;strong&gt;Číslo listu vlastníctva:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="4"&gt;
+			&lt;p&gt;  &lt;strong&gt;1255&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="6"&gt;
+			&lt;p&gt;Parcely registra „C“ evidované na katastrálnej mape:&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="6"&gt;
+			&lt;p&gt;&lt;strong&gt;&lt;em&gt;Pozemky:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt; &lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;em&gt; Parcel. číslo:&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;em&gt;  Druh pozemku:&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;em&gt; Výmera v m&lt;sup&gt;2&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;pozemok parcela C-KN&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;275/14&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Zastavaná plocha a nádvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;65 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;pozemok parcela C-KN&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;275/15&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Zastavaná plocha a nádvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;340 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="6"&gt;
+			&lt;p&gt;Parcely registra „E“ evidované na katastrálnej mape:&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="6"&gt;
+			&lt;p&gt;&lt;strong&gt;&lt;em&gt;Pozemky:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt; &lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;em&gt; Parcel. číslo:&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;em&gt;  Druh pozemku:&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;em&gt; Výmera v m&lt;sup&gt;2&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;pozemok parcela E-KN&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;274/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Orná pôda&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;306 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;pozemok parcela E-KN&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;274/2&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Zastavaná plocha a nádvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;208 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="6"&gt;
+			&lt;p&gt;&lt;strong&gt;&lt;em&gt;Stavby:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;em&gt;Súpisné číslo:&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;em&gt;  Na pozemku&lt;/em&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;em&gt;parcelné číslo:&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;em&gt;Druh stavby:&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;em&gt; Popis stavby:&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;366&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;275/14&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;10- Rodinný dom&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;rodinný dom&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="5"&gt;
+			&lt;p&gt;&lt;strong&gt;Vo vlastníctve:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;strong&gt;Spoluvlastnícky podiel:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="5"&gt;
+			&lt;p&gt;&lt;strong&gt;Libor Hrbík&lt;/strong&gt;, ,(nar. [skryté]), Turecká 3768/6, 903 01 Senec&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;  1/1&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Predmet dražby sa draží tak ako stojí a leží, vrátane všetkých jej súčastí a príslušenstva. &lt;/strong&gt;&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis xsi:nil="true" />
+  <ns0:PredmetStavOpis xsi:nil="true" />
+  <ns0:PredmetPravaZavazky xsi:nil="true" />
+  <ns0:PredmetCenaOdhad xsi:nil="true" />
+  <ns0:PredmetCenaVyska xsi:nil="true" />
+  <ns0:PredmetCenaSposobStanovenia xsi:nil="true" />
+  <ns0:PredmetPodmienkyOdovzdania xsi:nil="true" />
+  <ns0:NajnizsiePodanie xsi:nil="true" />
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie xsi:nil="true" />
+  <ns0:Zabezpeka xsi:nil="true" />
+  <ns0:SposobUhradyCeny xsi:nil="true" />
+  <ns0:ObhliadkaDatum xsi:nil="true" />
+  <ns0:ObhliadkaMiesto xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia xsi:nil="true" />
+  <ns0:NadobudnutieVlastnickehoPrava xsi:nil="true" />
+  <ns0:DovodUpustenia>&lt;p&gt;z d&amp;ocirc;vodu uveden&amp;eacute;ho v &amp;sect; 19 ods.1, p&amp;iacute;sm. k) z&amp;aacute;k. č. 527/2002 Z.z. o dobrovoľn&amp;yacute;ch dražb&amp;aacute;ch&lt;/p&gt;
+</ns0:DovodUpustenia>
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

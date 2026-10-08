@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Cislo>900225A</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>LICITOR group, a.s.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Sládkovičova</Ulica>
+      <Cislo>6</Cislo>
+      <Obec>Žilina</Obec>
+      <Psc>01001</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="131">Okresný súd Žilina</Sud>
+    <Oddiel>Sa</Oddiel>
+    <Vlozka>10476/L</Vlozka>
+    <Ico>36421561</Ico>
+  </ns0:Drazobnik>
+  <ns0:Navrhovatelia xsi:nil="true" />
+  <ns0:LicitatoriHeader>Označenie licitátora</ns0:LicitatoriHeader>
+  <ns0:Licitatori>
+    <ns0:Licitator>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>JUDr. Martin Šustek, LL.M.</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>-</Ulica>
+          <Cislo>-</Cislo>
+          <Obec>-</Obec>
+          <Psc>-</Psc>
+          <Stat>SR</Stat>
+        </Sidlo>
+        <Oddiel />
+        <Vlozka />
+        <Ico>12345679</Ico>
+      </ns0:CeleMeno>
+    </ns0:Licitator>
+  </ns0:Licitatori>
+  <ns0:Notar xsi:nil="true" />
+  <ns0:KonanieMiesto>v sídle notárskeho úradu - JUDr. Alan Schwartz, so sídlom Plynárenská 7/C, 821 09  Bratislava</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-08-12</ns0:KonanieDatum>
+  <ns0:KonanieCas>11:00 hod.</ns0:KonanieCas>
+  <ns0:Kolo>2. kolo </ns0:Kolo>
+  <ns0:Predmet>&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;Č&amp;iacute;slo LV&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;Katastr&amp;aacute;lne &amp;uacute;zemie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;Veden&amp;eacute; Okresn&amp;yacute;m &amp;uacute;radom, katastr&amp;aacute;lny odbor&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;7245&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Pie&amp;scaron;ťany&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;Pie&amp;scaron;ťany&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;Pozemky parcely registra &amp;bdquo;C&amp;ldquo;:&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Parc. č.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Druh pozemku&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;V&amp;yacute;mera v m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Sp&amp;ocirc;sob využitia pozemku&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;5877/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;184&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;18&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;5877/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;235&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;18&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;5880&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;927&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;16&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;Stavby na pozemku:&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;S&amp;uacute;pisn&amp;eacute; č&amp;iacute;slo&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Postaven&amp;aacute; na pozemku registra ,,C&amp;ldquo; č. &amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Druh stavby&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Pozn&amp;aacute;mka&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;5027&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;5880&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;13-SANDOR PAVILLON&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;V&amp;yacute;&amp;scaron;ka spoluvlastn&amp;iacute;ckeho podielu&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1/1&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/em&gt;&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;&lt;em&gt;&lt;u&gt;Hotel &amp;Scaron;andor Pavillon č.s.5027 na ul. &amp;Scaron;tef&amp;aacute;nikova ul.2A, v k.&amp;uacute;. Pie&amp;scaron;ťany, obec Pie&amp;scaron;ťany&lt;/u&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Predmetom dražby je objekt - Hotel &amp;Scaron;andor Pavillon č.s.5027 na parc.KN č. 5880 k.&amp;uacute;. Pie&amp;scaron;ťany, obec Pie&amp;scaron;ťany, &amp;Scaron;tef&amp;aacute;nikova ul.2A, situovan&amp;yacute; v r&amp;aacute;mci okresn&amp;eacute;ho mesta Pie&amp;scaron;ťany, na &amp;Scaron;tef&amp;aacute;nikovej ulici, s pe&amp;scaron;ou dostupnosťou do centra mesta s jeho občianskou vybavenosťou zodpovedaj&amp;uacute;cou okresn&amp;eacute;mu a v&amp;yacute;znamn&amp;eacute;mu k&amp;uacute;peľn&amp;eacute;mu mestu do 5 min&amp;uacute;t (400 m). V bezprostrednom okol&amp;iacute; nehnuteľnosti sa nach&amp;aacute;dza Ľudov&amp;aacute; &amp;scaron;kola umenia, Evanjelick&amp;yacute; kostol, Balneologick&amp;eacute; m&amp;uacute;zeum (vila Dr. Liska), are&amp;aacute;l gymn&amp;aacute;zia, hotelov&amp;eacute; budovy a penzi&amp;oacute;ny, z druhej strany ulice k&amp;uacute;peľn&amp;yacute; park a z&amp;aacute;stavba individu&amp;aacute;lnej bytovej v&amp;yacute;stavby rodinn&amp;yacute;ch domov a viliek severn&amp;yacute;m smerom. Pr&amp;iacute;stup k objektu po ul. &amp;Scaron;tef&amp;aacute;nikovej na parc. KN č. 897/1 (LV 5700 mesto Pie&amp;scaron;ťany). &lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;P&amp;ocirc;vodn&amp;aacute; časť stavby z r. 1912 je v zozname pam&amp;auml;tihodnost&amp;iacute; mesta Pie&amp;scaron;ťany. Bola p&amp;ocirc;vodne postaven&amp;aacute; ako robotn&amp;iacute;cka ubytovňa v &amp;scaron;t&amp;yacute;le vtedaj&amp;scaron;ej moderny ako čiastočne podpivničen&amp;yacute; objekt s dvomi nadzemn&amp;yacute;mi podlažiami a nevyuž&amp;iacute;van&amp;yacute;m povalov&amp;yacute;m priestorom pod sedlovou strechou s obojstrann&amp;yacute;mi valbami. Na stavbe bol použit&amp;yacute; kon&amp;scaron;trukčn&amp;yacute; a dispozičn&amp;yacute; trojtrakt nosn&amp;yacute;ch obvodov&amp;yacute;ch stien a dvoch pozdĺžnych vn&amp;uacute;torn&amp;yacute;ch stien vymedzuj&amp;uacute;cich chodbu. Počas životnosti bola stavba využ&amp;iacute;van&amp;aacute; na r&amp;ocirc;zne &amp;uacute;čely najm&amp;auml; pre zdravotn&amp;iacute;ctvo, dlh&amp;eacute; roky v objekte boli aj administrat&amp;iacute;vne priestory &amp;scaron;.p. Chirana. P&amp;ocirc;vodn&amp;aacute; časť stavby bola vybudovan&amp;aacute; v roku 1912, doklady neboli zad&amp;aacute;vateľom predložen&amp;eacute;. Okolo roku 2000 sa majitelia nehnuteľnosti rozhodli objekt modernizovať a prebudovať na hotelov&amp;eacute; využitie vy&amp;scaron;&amp;scaron;ieho &amp;scaron;tandardu. Okrem p&amp;ocirc;vodnej ubytovacej časti, ktor&amp;aacute; bola kompletne modernizovan&amp;aacute; boli pristavan&amp;eacute; vstupn&amp;eacute; časti hotela, bola vybudovan&amp;aacute; a kompletne vybaven&amp;aacute; kuchyňa, priestory fitness, priestory pre služby- priestory pre mas&amp;eacute;rov, kadern&amp;iacute;čky, vyz&amp;aacute;žistky, priestory pre usporad&amp;uacute;vanie konferenci&amp;iacute;, priestory pre gar&amp;aacute;žovanie aut v pr&amp;iacute;stavbe suter&amp;eacute;nu, vybudovanie nov&amp;yacute;ch zariaden&amp;iacute; pre k&amp;uacute;renie s vlastnou plynovou kotolňou, priestory pre strojovňu klimatiz&amp;aacute;cie a centr&amp;aacute;lna klimatiz&amp;aacute;cia priestorov. Z p&amp;ocirc;vodn&amp;eacute;ho objektu &amp;Scaron;andor pavillonu zostali iba z&amp;aacute;klady, časť suter&amp;eacute;nu, nosn&amp;eacute; steny pr&amp;iacute;zemia a 1. poschodia, schodisko z pr&amp;iacute;zemia do 1.poschodia a do povalov&amp;eacute;ho priestoru. Do už&amp;iacute;vania bol objekt dan&amp;yacute; na z&amp;aacute;klade Kolaudačn&amp;eacute;ho rozhodnutia na stavbu &amp;quot; SANDOR PAVILLON - prestavba a pr&amp;iacute;stavba&amp;quot; vydan&amp;eacute;ho mestom Pie&amp;scaron;ťany, pod č. 16060/22/2006-La (k 2001/10359-Mi), ktor&amp;eacute; nadobudlo pr&amp;aacute;voplatnosť dňa 13.10.2006. V historickej časti hotela sa nach&amp;aacute;dza 16 luxusn&amp;yacute;ch klimatizovan&amp;yacute;ch izieb a apartm&amp;aacute;nov, re&amp;scaron;taur&amp;aacute;cia Winter, kaviareň a biliard klubovňa. V modernej pr&amp;iacute;stavbe s&amp;uacute; hosťom k dispoz&amp;iacute;cii wellness centrum s baz&amp;eacute;nom s protipr&amp;uacute;dom, v&amp;iacute;rivkou a troma saunami, mas&amp;aacute;že a kozmetick&amp;yacute; sal&amp;oacute;n. Hotel poskytuje aj kompletne vybaven&amp;eacute; konferenčn&amp;eacute; priestory s kapacitou 40 a 14 os&amp;ocirc;b. N&amp;aacute;ročn&amp;yacute;m obchodn&amp;yacute;m cestuj&amp;uacute;cim pon&amp;uacute;ka organizovanie firemn&amp;yacute;ch dn&amp;iacute; spojen&amp;yacute;ch s akt&amp;iacute;vnym odpočinkom. Hosťom je k dispoz&amp;iacute;cii hotelov&amp;aacute; gar&amp;aacute;ž. Rekon&amp;scaron;trukciou, pr&amp;iacute;stavbou, nadstavbou, adapt&amp;aacute;ciou a moderniz&amp;aacute;ciou vznikol jeden celok vz&amp;aacute;jomne s&amp;uacute;visiacich čast&amp;iacute; so spoločn&amp;yacute;m s&amp;uacute;pisn&amp;yacute;m č&amp;iacute;slom na spoločnom pozemku s vn&amp;uacute;torn&amp;yacute;m &amp;aacute;triom. &lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ubytovacia a re&amp;scaron;tauračn&amp;aacute; časť - rekon&amp;scaron;trukcia a prestavba p&amp;ocirc;vodnej budovy: P&amp;ocirc;vodn&amp;aacute; stavba m&amp;aacute; čiastočn&amp;yacute; suter&amp;eacute;n, ktor&amp;yacute; bol roz&amp;scaron;&amp;iacute;ren&amp;yacute;, m&amp;aacute; 2 nadzemn&amp;eacute; podlažia a podkrovie. P&amp;ocirc;vodn&amp;yacute; suter&amp;eacute;n sa nach&amp;aacute;dza v strede dispoz&amp;iacute;cie objektu a je v ňom umiestnen&amp;aacute; kotolňa, sklad, schodiskov&amp;yacute; priestor, v roz&amp;scaron;&amp;iacute;renej časti sa nach&amp;aacute;dza priestor pre gar&amp;aacute;žovanie vozidiel a strojovňa v&amp;yacute;ťahu. Na 1. nadzemnom podlaž&amp;iacute; sa nach&amp;aacute;dza re&amp;scaron;taur&amp;aacute;cia, kaviareň, Club bar, chodba a schodiskov&amp;yacute; priestor. Na 2. nadzemnom podlaž&amp;iacute; a v podkrov&amp;iacute; sa nach&amp;aacute;dzaj&amp;uacute; priestory určen&amp;eacute; pre ubytovanie host&amp;iacute; vo forme dvojl&amp;ocirc;žkov&amp;yacute;ch izieb a apartm&amp;aacute;nov s kompletn&amp;yacute;m soci&amp;aacute;lnym zariaden&amp;iacute;m. &amp;Scaron;tandardn&amp;aacute; izba je vybaven&amp;aacute; soci&amp;aacute;lnym zariaden&amp;iacute;m - k&amp;uacute;peľňou s vaňou, alebo sprchov&amp;yacute;m boxom, klimatiz&amp;aacute;ciou, telef&amp;oacute;nom, TV, minibarom, internetovou pr&amp;iacute;pojkou, trezorom, f&amp;eacute;nom. Apartm&amp;aacute;ny s&amp;uacute; okrem toho vybaven&amp;eacute; sp&amp;aacute;lňou a oddelenou ob&amp;yacute;vacou miestnosťou 2. k&amp;uacute;peľnou a apartm&amp;aacute;ny na severnom &amp;scaron;t&amp;iacute;te aj terasou. &lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;V časti podpivničenia je objekt osaden&amp;yacute; do ter&amp;eacute;nu v hĺbke nad 2 m. Z&amp;aacute;klady s&amp;uacute; p&amp;ocirc;vodn&amp;eacute; bet&amp;oacute;nov&amp;eacute; monolitick&amp;eacute; prekladan&amp;eacute; kameňom s vodorovnou izol&amp;aacute;ciou proti zemnej vlhkosti. Obvodov&amp;eacute; murivo je na kamennej podmurovke murovan&amp;eacute; z pln&amp;yacute;ch p&amp;aacute;len&amp;yacute;ch teh&amp;aacute;l. Nosn&amp;yacute; syst&amp;eacute;m bol zosilnen&amp;yacute; vymurovan&amp;iacute;m pozdĺžnych stredov&amp;yacute;ch nosn&amp;yacute;ch m&amp;uacute;rov. Strop nad suter&amp;eacute;nom je monolitick&amp;yacute; železobet&amp;oacute;nov&amp;yacute;, nad 1. nadzemn&amp;yacute;m podlaž&amp;iacute;m p&amp;ocirc;vodn&amp;yacute; klenbičkov&amp;yacute; do oceľov&amp;yacute;ch I nosn&amp;iacute;kov s vybet&amp;oacute;novan&amp;yacute;m železobet. zosilnen&amp;iacute;m membr&amp;aacute;nou, strop nad 2. nadzemn&amp;yacute;m podlaž&amp;iacute;m je &amp;uacute;plne nov&amp;yacute; s nosnou kon&amp;scaron;trukciou z oceľov&amp;yacute;ch I nosn&amp;iacute;kov a VSŽ plechov s bet&amp;oacute;novou z&amp;aacute;lievkou. Budova je zastre&amp;scaron;en&amp;aacute; nov&amp;yacute;m krovom s valbami pozost&amp;aacute;vaj&amp;uacute;cim z drevenej v&amp;auml;znicovej s&amp;uacute;stavy zosilnenej oceľovou podpernou stolicou. Krytina strechy je nov&amp;aacute; BRAMAC, strecha je zateplen&amp;aacute; miner&amp;aacute;lnou vlnou s podhľadom. Prirodzen&amp;eacute; osvetlenie podkrovia je rie&amp;scaron;en&amp;eacute; osaden&amp;iacute;m presklen&amp;yacute;ch atypick&amp;yacute;ch vikierov do &amp;Scaron;tef&amp;aacute;nikovej ulice ako i do dvora s EURO - oknami. Klampiarske kon&amp;scaron;trukcie s&amp;uacute; &amp;uacute;pln&amp;eacute; z meden&amp;eacute;ho plechu. Fas&amp;aacute;dne omietky p&amp;ocirc;vodn&amp;eacute; boli otlčen&amp;eacute; a uroben&amp;eacute; nov&amp;eacute; omietky s replikami p&amp;ocirc;vodn&amp;yacute;ch architektonick&amp;yacute;ch detailov. Vn&amp;uacute;torn&amp;eacute; omietky s&amp;uacute; prevažne stierkov&amp;eacute;, v niektor&amp;yacute;ch miestnostiach s tapetami, vn&amp;uacute;torn&amp;eacute; obklady s&amp;uacute; keramick&amp;eacute;. Schodisko je p&amp;ocirc;vodn&amp;eacute; pieskovcov&amp;eacute;, na ktorom boli opraven&amp;eacute; časti stupňov a n&amp;aacute;sledn&amp;eacute; boli prebr&amp;uacute;sen&amp;eacute;. V čase obhliadky na p&amp;ocirc;vodnom schodisku ubytovacej časti boli položen&amp;eacute; v&amp;scaron;&amp;iacute;van&amp;eacute; koberce. P&amp;ocirc;vodn&amp;eacute; dvere a okn&amp;aacute; boli odstr&amp;aacute;nen&amp;eacute;, okenn&amp;eacute; otvory s&amp;uacute; osaden&amp;eacute; nov&amp;yacute;mi oknami a dvern&amp;eacute; otvory s&amp;uacute; s nov&amp;yacute;mi dverami dreven&amp;yacute;mi do obložkov&amp;yacute;ch dreven&amp;yacute;ch z&amp;aacute;rubn&amp;iacute;. V suter&amp;eacute;ne s&amp;uacute; podlahy z cementov&amp;eacute;ho poteru, na 1. nadzemnom podlaž&amp;iacute; boli uroben&amp;eacute; podlahy z keramickej dlažby, v časti dreven&amp;eacute; parkety a pl&amp;aacute;vaj&amp;uacute;ce podlahy. V ubytovacej časti na 2. nadzemnom podlaž&amp;iacute; a v podkrov&amp;iacute; s&amp;uacute; keramick&amp;eacute; podlahy v hygienick&amp;yacute;ch zariadeniach, keramick&amp;eacute; obklady stien, podlahy v izb&amp;aacute;ch s&amp;uacute; podlahy textiln&amp;eacute; lepen&amp;eacute;. V objekte s&amp;uacute; zrealizovan&amp;eacute; nov&amp;eacute; rozvody vody, kanaliz&amp;aacute;cie, elektriny, vzduchotechniky, vykurovanie s osaden&amp;iacute;m vykurovac&amp;iacute;ch telies a zariadenie kotolne a strojovne vzduchotechniky. V prevažnej časti budovy s&amp;uacute; uroben&amp;eacute; podhľady pre zakrytie ležat&amp;yacute;ch rozvodov. V objekte je klimatiz&amp;aacute;cia, na 1.-3 3 podlaž&amp;iacute; s v&amp;yacute;ustkami v strope, v podkrov&amp;iacute; parapetov&amp;yacute;mi v&amp;yacute;ustkami.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vybavenie objektu:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; rozvody studenej a teplej vody,&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; rozvody spla&amp;scaron;kovej kanaliz&amp;aacute;cie,&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; rozvody elektroin&amp;scaron;tal&amp;aacute;cie svetelnej a motorickej&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; rozvody &amp;scaron;trukturovanej kabel&amp;aacute;že&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; bleskozvod, kamerov&amp;yacute; syst&amp;eacute;m, EPS, klimatizačn&amp;eacute; zariadenia&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; zariaďovacie predmety v hygienick&amp;yacute;ch zariadeniach - keramick&amp;eacute; WC misy so zabudovanou n&amp;aacute;držkou, keramick&amp;eacute; um&amp;yacute;vadl&amp;aacute;, sprchov&amp;eacute; k&amp;uacute;ty, obmurovan&amp;eacute; plastov&amp;eacute; vane, p&amp;aacute;kov&amp;eacute; bat&amp;eacute;rie.&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; zariadenie kotolne a strojovne vzduchotechniky&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; vybavenie re&amp;scaron;taur&amp;aacute;cie a baru vstavan&amp;yacute;m n&amp;aacute;bytkom&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pr&amp;iacute;stavba hotela z r. 2006&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Po južnej a v&amp;yacute;chodnej strane jestvuj&amp;uacute;ceho objektu SANDOR PAVILLON-u a v dvorovej časti je zrealizovan&amp;aacute; pr&amp;iacute;stavba administrat&amp;iacute;vnej a wellness časti komplexu. Nov&amp;aacute; časť je prepojen&amp;aacute; s p&amp;ocirc;vodnou budovou presklenou spojovacou chodbou na 2. nadzemnom podlaž&amp;iacute;. Pr&amp;iacute;stavba je kon&amp;scaron;trukčne samostatnou časťou, ktor&amp;aacute; sa p&amp;ocirc;vodn&amp;eacute;ho objektu dot&amp;yacute;ka iba vo dvornej časti s kuchynsk&amp;yacute;mi priestormi oddelen&amp;yacute;mi dilat&amp;aacute;ciou. T&amp;aacute;to časť je dispozične rie&amp;scaron;en&amp;aacute; tak, že služby poskytovan&amp;eacute; v zariadeniach tejto časti objektu vr&amp;aacute;tane hygienick&amp;yacute;ch zariaden&amp;iacute; na jednotliv&amp;yacute;ch podlažiach m&amp;ocirc;žu využ&amp;iacute;vať aj hostia neubytovan&amp;iacute; v hoteli, bez prel&amp;iacute;nania sa s hosťami hotela. Cel&amp;aacute; pr&amp;iacute;stavba je podpivničen&amp;aacute;. V suter&amp;eacute;ne s&amp;uacute; priestory na gar&amp;aacute;žovanie vozidiel, technick&amp;eacute; prev&amp;aacute;dzky pre obsluhu a &amp;uacute;držbu penzi&amp;oacute;nu, plynomerňa, strojovňa vzduchotechniky.&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; Na 1. nadzemnom podlaž&amp;iacute; je vstupn&amp;aacute; hala s recepciou, v zadnej a severov&amp;yacute;chodnej časti s&amp;uacute; prev&amp;aacute;dzky vodoliečby, baz&amp;eacute;n, sauny, fitness, vo dvornej zadnej časti prev&amp;aacute;dzky kuchyne so z&amp;aacute;zem&amp;iacute;m vr&amp;aacute;tane mraziaceho a chladiaceho boxu so samostatnou z&amp;aacute;sobovacou uličkou. Medzi p&amp;ocirc;vodnou budovou SANDOR PAVILLON-u a novostavbou vo dvore je vn&amp;uacute;torn&amp;eacute; &amp;aacute;trium.&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; Na 2. nadzemnom podlaž&amp;iacute; s&amp;uacute; administrat&amp;iacute;vne priestory s&amp;uacute;visiace s prev&amp;aacute;dzkou penzi&amp;oacute;nu a prev&amp;aacute;dzky mas&amp;aacute;ž&amp;iacute;. Strecha nad kuchynsk&amp;yacute;mi prev&amp;aacute;dzkami je poch&amp;ocirc;dzna sl&amp;uacute;žiaca ako terasa k prezidentsk&amp;eacute;mu ap&amp;aacute;rtm&amp;aacute;nu.&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; Na 3. nadzemnom podlaž&amp;iacute; je zasadačka s terasou, priestory pre fitness, sol&amp;aacute;rium a pred zasadačkou je terasa.&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; Baz&amp;eacute;ny: kryt&amp;yacute; baz&amp;eacute;n mal&amp;yacute;: 1x. Wellness a liečebn&amp;eacute; proced&amp;uacute;ry poskytovan&amp;eacute; priamo v hoteli. Mas&amp;aacute;že: lymfomas&amp;aacute;ž, klasick&amp;aacute;, reflexn&amp;aacute;, reflexn&amp;aacute; chodidiel, mas&amp;aacute;žna sprcha. K&amp;uacute;pele: v&amp;iacute;riv&amp;yacute;. Sauny: f&amp;iacute;nska, parn&amp;aacute;, infračerven&amp;aacute;.&lt;/p&gt;
+
+&lt;p&gt;Nosn&amp;yacute; syst&amp;eacute;m zvisl&amp;yacute; je kombinovan&amp;yacute; pozost&amp;aacute;vaj&amp;uacute;ci z monolitick&amp;yacute;ch železobet&amp;oacute;nov&amp;yacute;ch stĺpov a stien v suter&amp;eacute;ne odlievan&amp;yacute;ch do debniacich tv&amp;aacute;rnic PREMAC. V nadzemn&amp;yacute;ch podlažiach s&amp;uacute; obvodov&amp;eacute; steny murovan&amp;eacute; z keramick&amp;yacute;ch tv&amp;aacute;rnic v skladobnej hr&amp;uacute;bke 35 cm, ktor&amp;eacute; s&amp;uacute; zateplen&amp;eacute; penov&amp;yacute;m polystyr&amp;eacute;nom. Stropy s&amp;uacute; železobet&amp;oacute;nov&amp;eacute; monolitick&amp;eacute;, strecha je ploch&amp;aacute;, v priestoroch nad baz&amp;eacute;nov&amp;yacute;mi prev&amp;aacute;dzkami je pultov&amp;aacute; strecha s kon&amp;scaron;trukciou z valcovan&amp;yacute;ch oceľov&amp;yacute;ch profilov na oceľov&amp;yacute;ch stĺpoch. Deliace priečky s&amp;uacute; prevažne z keramick&amp;yacute;ch tvaroviek. Schody s&amp;uacute; monolitick&amp;eacute; železobet&amp;oacute;nov&amp;eacute; s povrchov&amp;yacute;mi &amp;uacute;pravami z keramick&amp;yacute;ch dlažd&amp;iacute;c. V tejto časti je aj samostatn&amp;eacute; &amp;uacute;nikov&amp;eacute; schodisko a v&amp;yacute;ťah. Pre vjazd do gar&amp;aacute;že zo &amp;Scaron;tef&amp;aacute;nikovej ulice je vybudovan&amp;aacute; vstupn&amp;aacute; rampa a vo vjazde s&amp;uacute; osaden&amp;eacute; plastov&amp;eacute; segmentov&amp;eacute; gar&amp;aacute;žov&amp;eacute; vr&amp;aacute;ta s vr&amp;aacute;tkami s automatick&amp;yacute;m ovl&amp;aacute;dan&amp;iacute;m.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Materi&amp;aacute;lov&amp;eacute; vyhotovenie:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; vn&amp;uacute;torn&amp;eacute; povrchy s&amp;uacute; z hladk&amp;yacute;ch v&amp;aacute;penno-cementov&amp;yacute;ch omietok, v hygienick&amp;yacute;ch zariadeniach a priestoroch wellness je keramick&amp;yacute;/gressov&amp;yacute; obklad stien, lok&amp;aacute;lne obklad z pr&amp;iacute;rodn&amp;eacute;ho kameňa,&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; vonkaj&amp;scaron;ie &amp;uacute;pravy povrchov fas&amp;aacute;dy objektu s&amp;uacute; na b&amp;aacute;ze hladk&amp;yacute;ch silik&amp;aacute;tov&amp;yacute;ch omietok kombinovan&amp;yacute;ch s keramick&amp;yacute;m l&amp;iacute;cov&amp;yacute;m obkladom&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; podlahy na podest&amp;aacute;ch schodiska, na chodb&amp;aacute;ch, v hygienick&amp;yacute;ch zariadeniach s&amp;uacute; z keramickej/gressovej dlažby, pr&amp;iacute;padne z dlažby z pr&amp;iacute;rodn&amp;eacute;ho kameňa, v kancel&amp;aacute;rskych priestoroch s&amp;uacute; podlahy lepen&amp;eacute; kobercov&amp;eacute;,&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; v&amp;yacute;plne okenn&amp;yacute;ch otvorov &amp;ndash; prevažne hlin&amp;iacute;kov&amp;eacute; s izolačn&amp;yacute;m sklom so žal&amp;uacute;ziami. Interi&amp;eacute;rov&amp;eacute; zasklenie stien a z&amp;aacute;bradl&amp;iacute; je v hlin&amp;iacute;kov&amp;yacute;ch profiloch.&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; v&amp;yacute;plne dvern&amp;yacute;ch otvorov &amp;ndash;vstupn&amp;eacute; a interi&amp;eacute;rov&amp;eacute; dvere s&amp;uacute; prevažne z hlin&amp;iacute;kov&amp;yacute;ch profilov, presklen&amp;eacute;&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; vykurovanie je &amp;uacute;stredn&amp;eacute;, teplovodn&amp;eacute;, panelov&amp;yacute;mi radi&amp;aacute;tormi, zdrojom vykurovania a T&amp;Uacute;V s&amp;uacute; kotle na zemn&amp;yacute; plyn el. z&amp;aacute;sobn&amp;iacute;kmi v suter&amp;eacute;ne objektu.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vybavenie objektu:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; rozvody studenej a teplej vody,&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; rozvody spla&amp;scaron;kovej kanaliz&amp;aacute;cie,&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; rozvody elektroin&amp;scaron;tal&amp;aacute;cie svetelnej a motorickej&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; rozvody &amp;scaron;trukturovanej kabel&amp;aacute;že&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; bleskozvod, kamerov&amp;yacute; syst&amp;eacute;m, EPS, klimatizačn&amp;eacute; zariadenia&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; zariaďovacie predmety v hygienick&amp;yacute;ch zariadeniach - keramick&amp;eacute; WC misy so zabudovanou n&amp;aacute;držkou, keramick&amp;eacute; um&amp;yacute;vadl&amp;aacute;, sprchov&amp;eacute; k&amp;uacute;ty, p&amp;aacute;kov&amp;eacute; bat&amp;eacute;rie.&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; vybavenie wellness - kryt&amp;yacute; baz&amp;eacute;n, v&amp;iacute;riv&amp;yacute; baz&amp;eacute;n, f&amp;iacute;nska, parn&amp;aacute;, infračerven&amp;aacute; sauna&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; Vybavenie hotelovej kuchyne - v čase ohodnotenia demontovan&amp;eacute;&lt;/p&gt;
+
+&lt;p&gt;&amp;middot; osobn&amp;eacute; v&amp;yacute;ťahy&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Aktu&amp;aacute;lne je hotel mimo prev&amp;aacute;dzky, so zabezpečen&amp;yacute;m dohľadom. Dod&amp;aacute;vka plynu, elektro, vody a funkčnosť technick&amp;yacute;ch zariaden&amp;iacute; nebola preverovan&amp;aacute; a ich technick&amp;yacute; stav nebol z&amp;aacute;stupcom vlastn&amp;iacute;ka deklarovan&amp;yacute;.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;u&gt;PR&amp;Iacute;SLU&amp;Scaron;ENSTVO&lt;/u&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vodovodn&amp;aacute; pr&amp;iacute;pojka &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Vodovodn&amp;aacute; pr&amp;iacute;pojka uložen&amp;aacute; v zemnej ryhe v nezamŕzaj&amp;uacute;cej hĺbke obsypan&amp;aacute; &amp;scaron;trkopieskom. Pr&amp;iacute;pojka je vyhotoven&amp;aacute; z PVC tlakov&amp;yacute;ch r&amp;uacute;r hrdlov&amp;yacute;ch priemeru 80 mm.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pr&amp;iacute;pojka plynu &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Pr&amp;iacute;pojka zemn&amp;eacute;ho plynu od verejn&amp;eacute;ho plynovodu po regul&amp;aacute;tor z polyetyl&amp;eacute;nov&amp;yacute;ch zv&amp;aacute;ran&amp;yacute;ch r&amp;uacute;r DN 50 mm uložen&amp;yacute; v pieskovom l&amp;ocirc;žku a obsypan&amp;yacute; pieskom, s v&amp;yacute;stražnou plastovou f&amp;oacute;liou a zahrnut&amp;yacute; zhutnenou zeminou.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NN pr&amp;iacute;pojka &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Pr&amp;iacute;pojka NN elektro je vybudovan&amp;aacute; z hlin&amp;iacute;kov&amp;eacute;ho poplastovan&amp;eacute;ho k&amp;aacute;bla uložen&amp;aacute; v zemnej ryhe v pieskovom l&amp;ocirc;žku a obsypan&amp;aacute; pieskom s položenou v&amp;yacute;stražnou plastovou f&amp;oacute;liou a zasypan&amp;aacute; zhutnenou zeminou.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spla&amp;scaron;kov&amp;aacute; kanalizačn&amp;aacute; pr&amp;iacute;pojka &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Kanalizačn&amp;aacute; pr&amp;iacute;pojka z PVC r&amp;uacute;r DN 200 mm uložen&amp;aacute; v sp&amp;aacute;de k verejnej kanaliz&amp;aacute;cii v pieskovom l&amp;ocirc;žku a pieskovom obsype zasypan&amp;aacute; zhutnenou zeminou.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rev&amp;iacute;zna &amp;scaron;achta - kanalizačn&amp;aacute; &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Kanalizačn&amp;aacute; &amp;scaron;achta z bet&amp;oacute;nov&amp;yacute;ch skruž&amp;iacute; s liatinov&amp;yacute;m poklopom.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lapač tukov &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Lapač tukov kon&amp;scaron;trukcie z PVC vr&amp;aacute;tane technologick&amp;eacute;ho vybavenia.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vonkaj&amp;scaron;ie schody (pred vstupom do hotela)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Začiatok už&amp;iacute;vania v&amp;nbsp;roku 2006.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vonkaj&amp;scaron;ie schody (na terasu)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Začiatok už&amp;iacute;vania v&amp;nbsp;roku 2006.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Oporn&amp;yacute; m&amp;uacute;r (vonkaj&amp;scaron;ia terasa) &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Oporn&amp;yacute; m&amp;uacute;rik terasy pred prednou fas&amp;aacute;dou p&amp;ocirc;vodnej časti hotela &amp;Scaron;andor pavillon z monolitick&amp;eacute;ho železobet&amp;oacute;nu s keramick&amp;yacute;m obkladom l&amp;iacute;cnej strany . Na korune oporn&amp;eacute;ho m&amp;uacute;rika je oplotenie ohodnoten&amp;eacute; v samostatnej položke.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Oporn&amp;yacute; m&amp;uacute;r (rampa imobiln&amp;yacute;ch) &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Oporn&amp;yacute; m&amp;uacute;rik pri rampe pre imobiln&amp;yacute;ch z monolitick&amp;eacute;ho železobet&amp;oacute;nu.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spevnen&amp;eacute; plochy z keramickej dlažby &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Bezbari&amp;eacute;rov&amp;yacute; pr&amp;iacute;stup do hotela &amp;Scaron;andor pavillon je cez rampu pre imobiln&amp;yacute;ch a priestor pred vstupom, s povrchom z keramickej dlažby kladenej do cem. malty.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spevnen&amp;eacute; plochy zo z&amp;aacute;mkovej dlažby &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Plocha terasy, pr&amp;iacute;stupov&amp;eacute;ho chodn&amp;iacute;ka k z&amp;aacute;sobovaciemu vstupu a spevnen&amp;eacute; plochy s povrchom zo z&amp;aacute;mkovej dlažby.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Podzemn&amp;yacute; kan&amp;aacute;l pre VZT &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Podzemn&amp;yacute; železobet&amp;oacute;nov&amp;yacute; kan&amp;aacute;l pre v&amp;yacute;fuk ods&amp;aacute;van&amp;eacute;ho vzduchu od vzduchotechnick&amp;eacute;ho zariadenia v suter&amp;eacute;ne podzemn&amp;eacute;ho podlažia s vy&amp;uacute;sten&amp;iacute;m k chodn&amp;iacute;ku na &amp;Scaron;tef&amp;aacute;nikovej ulici.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Elektrick&amp;eacute; osvetlenie terasy - svietidl&amp;aacute; &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Elektrick&amp;eacute; osvetlenie terasy - 5 ks samostatne stojacich osvetľovac&amp;iacute;ch parkov&amp;yacute;ch svietidiel.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Elektrick&amp;eacute; osvetlenie terasy - rozvody &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Elektrick&amp;eacute; osvetlenie terasy - 5 ks samostatne stojacich osvetľovac&amp;iacute;ch parkov&amp;yacute;ch svietidiel.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Oplotenie terasy od &amp;Scaron;tef&amp;aacute;nikovej ul. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Oplotenie terasy vybudovan&amp;eacute; z r&amp;aacute;mov&amp;eacute;ho pletiva na oceľov&amp;yacute;ch stĺpikoch na opornom m&amp;uacute;re (nie s&amp;uacute; uvažovan&amp;eacute; z&amp;aacute;klady a podmurovka). S&amp;uacute;časťou s&amp;uacute; 2 plotov&amp;eacute; vr&amp;aacute;tka.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;u&gt;Pozemky&lt;/u&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Predmetom dražby s&amp;uacute; pozemky parc.KN č.5877/1, 5877/18, 5880 k.&amp;uacute;.Pie&amp;scaron;ťany, obec Pie&amp;scaron;ťany, situovan&amp;eacute; v okresnom meste Pie&amp;scaron;ťany, ktor&amp;eacute; je v&amp;yacute;znamn&amp;yacute;m k&amp;uacute;peľn&amp;yacute;m mestom, na ulici &amp;Scaron;tef&amp;aacute;nikovej ulici, s pe&amp;scaron;ou dostupnosťou do centra mesta s jeho občianskou vybavenosťou zodpovedaj&amp;uacute;cou okresn&amp;eacute;mu a v&amp;yacute;znamn&amp;eacute;mu k&amp;uacute;peľn&amp;eacute;mu mestu do 3-5min&amp;uacute;t. V bezprostrednom okol&amp;iacute; nehnuteľnosti sa nach&amp;aacute;dza Ľudov&amp;aacute; &amp;scaron;kola umenia, Evanjelick&amp;yacute; kostol, Balneologick&amp;eacute; m&amp;uacute;zeum (vila Dr. Liska), are&amp;aacute;l gymn&amp;aacute;zia, hotelov&amp;eacute; budovy a penzi&amp;oacute;ny, z druhej strany ulice k&amp;uacute;peľn&amp;yacute; park a z&amp;aacute;stavba individu&amp;aacute;lnej bytovej v&amp;yacute;stavby rodinn&amp;yacute;ch domov a viliek severn&amp;yacute;m smerom. Pr&amp;iacute;stup k objektu po ul. &amp;Scaron;tef&amp;aacute;nikovej na parc. KN č. 897/1 (LV 5700 mesto Pie&amp;scaron;ťany). V lokalite je možnosť napojenia na verejn&amp;eacute; rozvody vody, kanaliz&amp;aacute;cie, NN, zemn&amp;eacute;ho plynu, d&amp;aacute;tov&amp;eacute; rozvody, verejn&amp;eacute; osvetlenie, pravdepodobne diaľkov&amp;eacute; rozvody tepla (v r&amp;aacute;mci s&amp;iacute;dliska). Dopravn&amp;aacute; dostupnosť v r&amp;aacute;mci mesta Pie&amp;scaron;ťany je MHD, okolit&amp;eacute; s&amp;iacute;deln&amp;eacute; &amp;uacute;tvary s&amp;uacute; dostupn&amp;eacute; medzimestskou a železničnou dopravou. Pozemky s&amp;uacute; rovinat&amp;eacute;, takmer v celosti zastavan&amp;eacute; hodnotenou stavbou a jej pr&amp;iacute;slu&amp;scaron;enstvom.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Parcela&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Druh pozemku&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Spolu v&amp;yacute;mera [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Spoluvlastn&amp;iacute;cky podiel&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;V&amp;yacute;mera [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;5877/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;184,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;184,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;5877/8&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;235,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;235,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;5880&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;927,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;927,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&lt;strong&gt;Spolu v&amp;yacute;mera&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&lt;strong&gt;1&amp;nbsp;346,00&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;&lt;strong&gt;Predmet dražby sa draž&amp;iacute; tak ako &amp;bdquo;stoj&amp;iacute; a&amp;nbsp;lež&amp;iacute;&lt;/strong&gt;&lt;em&gt;&amp;ldquo;. &amp;nbsp;&lt;/em&gt;Vzhľadom na skutočnosť, že predmetom dražby je použit&amp;aacute; vec, ktor&amp;aacute; sa prev&amp;aacute;dza v&amp;nbsp;stave v&amp;nbsp;akom sa nach&amp;aacute;dza ku dňu konania dražby nezodpoved&amp;aacute; navrhovateľ ani dražobn&amp;iacute;k za jej vady. Dražobn&amp;iacute;k s&amp;uacute;časne oboznamuje &amp;uacute;častn&amp;iacute;kov dražby, že na tento predaj prostredn&amp;iacute;ctvom dražby sa v&amp;nbsp;s&amp;uacute;lade s &amp;sect; 612 ods. 3 p&amp;iacute;sm. b) OZ nevzťahuj&amp;uacute; ustanovenia &amp;sect; 615 až 626 OZ spotrebiteľskej k&amp;uacute;pnej zmluvy upravuj&amp;uacute;cich akosť pred&amp;aacute;vanej veci,&amp;nbsp;zodpovednosť za vady &amp;nbsp;na n&amp;aacute;roky z&amp;nbsp;nich vypl&amp;yacute;vaj&amp;uacute;ce a&amp;nbsp;ustanovenia o&amp;nbsp;spotrebiteľskej z&amp;aacute;ruke. &amp;nbsp;&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>LV č. 7245
+Záložné právo v prospech Fio banky, a.s., Praha 1 (IČO: 61858374) na pozemky parc.č. 5877/1, 5877/18, 5880 a stavbu - SANDOR PAVILLON s.č. 5027 na parc. č. 5880 k úveru podľa záložnej zmluvy, vklad V-1630/2019 účinný dňa 07.06.2019 - 2047/19
+
+Záložné právo v prospech: IMMO Business a.s., Praha 7, ČR (IČO:07560273) na pozemky parc. č. 5877/1, 5877/18, 5880 a stavbu - SANDOR PAVILLON s. č. 5027 na parc. č. 5880 k úveru podľa záložnej zmluvy, vklad V-1618/2021 účinný dňa 02.06.2021 - 1588/21
+
+Záložné právo v prospech: IMMO Business a.s., Praha 7, ČR (IČO:07560273) na pozemky parc. č. 5877/1, 5877/18, 5880 a stavbu - SANDOR PAVILLON s. č. 5027 na parc. č. 5880 k úveru podľa záložnej zmluvy, vklad V-2634/2021 účinný dňa 06.09.2021 - 2748/21
+
+Záložné právo v prospech: [skryté]  (nar. [skryté]) na pozemky parc. č. 5877/1, 5877/18, 5880 a stavbu - SANDOR PAVILLON s. č. 5027 na parc. č. 5880 k úveru podľa záložnej zmluvy, vklad V-1168/2022 účinný dňa 01.04.2022 - 1174/22
+
+Záložné právo v prospech: KASATKIN &amp; PARTNERS s.r.o.( ičo 47255021) na pozemky parc. č. 5877/1, 5877/18, 5880 a stavbu - SANDOR PAVILLON s. č. 5027 na parc. č. 5880, k úveru, podľa záložnej zmluvy, vklad V-3934/2022-účinný dňa 23.11.2022-4431/22
+
+Z-340/2024 -Exekútorský úrad Trnava, Andreja Hlinku 34/A, súdny exekútor Mgr. Dušan Čerešňa -Exekučný príkaz 343EX 774/23 na zriadenie exekučného zál.práva k nehnuteľnostiam zo dňa 13.2.2024 (v KN 15.2.2024), v prospech oprávneného Mesto Piešťany, Nám. SNP 1475/3, Piešťany (IČO 00612031), č.z. 1040/24
+
+Z-557/2024 -Exekútorský úrad Trnava, Andreja Hlinku 34/A, súdny exekútor Mgr. Dušan Čerešňa -Exekučný príkaz 343EX 71/24 na zriadenie exekučného zál.práva k nehnuteľnostiam zo dňa 15.03.2024 (v KN 15.03.2024), v prospech oprávneného Mesto Piešťany, Nám. SNP 1475/3, Piešťany (IČO 00612031), č.z. 1624/24
+
+Z-1508/2024 -Exekútorský úrad Trnava, Andreja Hlinku 34/A, súdny exekútor Mgr. Dušan Čerešňa -Exekučný príkaz 343EX 353/24 na zriadenie exekučného zál.práva k nehnuteľnostiam zo dňa 22.07.2024 (v KN 26.07.2024), v prospech oprávneného Trnavská vodárenská spoločnosť, a.s., Priemyselná 10, Piešťany (IČO 36252484), č.z. 3040/24
+
+Z-114/2025 -Exekútorský úrad Trnava, Andreja Hlinku 34/A, súdny exekútor Mgr. Dušan Čerešňa -Exekučný príkaz 343EX 605/24 na zriadenie exekučného zál.práva k nehnuteľnostiam zo dňa 09.01.2025 (v KN 24.01.2025), v prospech oprávneného Sociálna poisťovňa, 29.augusta 8 a 10, Bratislava (IČO 30807484), č.z. 78/25
+
+Z-1069/2025 -Exekútorský úrad Trnava, Andreja Hlinku 34/A, súdny exekútor Mgr. Dušan Čerešňa -Exekučný príkaz 343EX 202/25 na zriadenie exekučného zál.práva k nehnuteľnostiam zo dňa 13.05.2025 (v KN 14.05.2025), v prospech oprávneného Mesto Piešťany, Námestie SNP 1475/3, Piešťany (IČO 00612031), č.z. 1020/25
+
+Poznámky:
+P-74/2024 - POZNAMENÁVA SA: Začatie výkonu záložného práva záložným veriteľom - [skryté], [skryté] (nar. [skryté]), formou priameho predaja zo dňa 13.03.2024 (v KN zapísané 15.03.2024), č. z. 1626/24
+
+P-86/2024 - POZNAMENÁVA SA: Začatie výkonu záložného práva záložným veriteľom - Fio banka, a.s., Praha 1 (IČO: 61858374), formou predaja v dobrovoľnej dražbe zo dňa 21.03.2024 (v KN zapísané 03.04.2024), č. z. 2055/24
+
+</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad>znaleckým posudkom č. 15/2026, súdnym znalcom Ing. Adrianou Meliškovou v sume 2.180.000,-€</ns0:PredmetCenaOdhad>
+  <ns0:PredmetCenaVyska>1.750.000,-€</ns0:PredmetCenaVyska>
+  <ns0:PredmetCenaSposobStanovenia xsi:nil="true" />
+  <ns0:PredmetPodmienkyOdovzdania xsi:nil="true" />
+  <ns0:NajnizsiePodanie>1.750.000,-€</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie xsi:nil="true" />
+  <ns0:Zabezpeka xsi:nil="true" />
+  <ns0:SposobUhradyCeny xsi:nil="true" />
+  <ns0:ObhliadkaDatum xsi:nil="true" />
+  <ns0:ObhliadkaMiesto xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia xsi:nil="true" />
+  <ns0:NadobudnutieVlastnickehoPrava xsi:nil="true" />
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

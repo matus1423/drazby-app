@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Nazov>Oznámenie o opakovanej dobrovoľnej dražbe</ns0:Nazov>
+  <ns0:Cislo>011/2026</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>DRAŽOBNÍK, s.r.o.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Národná trieda</Ulica>
+      <Cislo>10</Cislo>
+      <Obec>Košice</Obec>
+      <Psc>04001</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="148">Mestský súd Košice</Sud>
+    <Oddiel>Sro</Oddiel>
+    <Vlozka>19669/V</Vlozka>
+    <Ico>36764281</Ico>
+  </ns0:Drazobnik>
+  <ns0:NavrhovateliaHeader>Označenie navrhovateľa</ns0:NavrhovateliaHeader>
+  <ns0:Navrhovatelia>
+    <ns0:Navrhovatel>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Ján Vzorový</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Hlavná</Ulica>
+          <Cislo>1</Cislo>
+          <Obec>Košice</Obec>
+          <Psc>00000</Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Oddiel />
+        <Vlozka />
+        <Ico />
+      </ns0:CeleMeno>
+    </ns0:Navrhovatel>
+  </ns0:Navrhovatelia>
+  <ns0:Licitatori xsi:nil="true" />
+  <ns0:Notar>
+    <ns0:CeleMeno>
+      <TitulPred>JUDr.</TitulPred>
+      <TitulZa />
+      <Meno>Pavol </Meno>
+      <Priezvisko>Sádel </Priezvisko>
+    </ns0:CeleMeno>
+    <ns0:Sidlo>
+      <Ulica>Skladná </Ulica>
+      <Cislo>17</Cislo>
+      <Obec>Košice</Obec>
+      <Psc>040 01</Psc>
+      <Stat />
+    </ns0:Sidlo>
+  </ns0:Notar>
+  <ns0:KonanieMiesto>Dražobná miestnosť, v sídle spol. DRAŽOBNÍK, s.r.o., Národná trieda 10, Košice, Košický kraj
+</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-06-03</ns0:KonanieDatum>
+  <ns0:KonanieCas>10,30 hod.</ns0:KonanieCas>
+  <ns0:Kolo>opakované (2.kolo)</ns0:Kolo>
+  <ns0:Predmet>&lt;p&gt;&lt;strong&gt;Parcely &lt;/strong&gt;registra &amp;ldquo;C&amp;ldquo; evidovan&amp;eacute; na katastr&amp;aacute;lnej mape:&lt;/p&gt;
+
+&lt;p&gt;parc. č.&lt;strong&gt; &lt;/strong&gt;113/20&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; o&amp;nbsp;v&amp;yacute;mere 75 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č.&lt;strong&gt; &lt;/strong&gt;113/131&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; o&amp;nbsp;v&amp;yacute;mere 6 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č.&lt;strong&gt; &lt;/strong&gt;402/6&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Orn&amp;aacute; p&amp;ocirc;da&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;o&amp;nbsp;v&amp;yacute;mere 304 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č.&lt;strong&gt; &lt;/strong&gt;402/11&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; o&amp;nbsp;v&amp;yacute;mere 206 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č.&lt;strong&gt; &lt;/strong&gt;402/13&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; o&amp;nbsp;v&amp;yacute;mere 6 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stavby&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;s&amp;uacute;p. č. 182&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Rodinn&amp;yacute; dom&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; na parc. č. 402/11, 113/131&lt;/p&gt;
+
+&lt;p&gt;spoluvlastn&amp;iacute;cky podiel: 1/1&lt;/p&gt;
+
+&lt;p&gt;Identifikovan&amp;eacute; nehnuteľnosti s&amp;uacute; zap&amp;iacute;san&amp;eacute; na liste vlastn&amp;iacute;ctva Okresn&amp;eacute;ho &amp;uacute;radu Ko&amp;scaron;ice - Okolie, katastr&amp;aacute;lny odbor, &lt;strong&gt;LV č. 557&lt;/strong&gt;, okres: Ko&amp;scaron;ice - okolie, obec: Chrastn&amp;eacute;, &lt;strong&gt;katastr&amp;aacute;lne &amp;uacute;zemie: Chrastn&amp;eacute;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Pr&amp;iacute;slu&amp;scaron;enstvo predmetu dražby, ktor&amp;eacute; sa nezapisuje alebo nie je zap&amp;iacute;san&amp;eacute; na liste vlastn&amp;iacute;ctve: ploty, vodovodn&amp;aacute; pr&amp;iacute;pojka, vodomern&amp;aacute; &amp;scaron;achta, kanalizačn&amp;aacute; pr&amp;iacute;pojka, kanalizačn&amp;aacute; &amp;scaron;achta, pr&amp;iacute;pojka NN, spevnen&amp;aacute; plocha pred gar&amp;aacute;žou, spevnen&amp;aacute; plocha pred domom, vonkaj&amp;scaron;ia terasa, rozostavan&amp;yacute; baz&amp;eacute;n.&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;Rodinn&amp;yacute; dom je dvojpodlažn&amp;yacute;, murovan&amp;yacute;, členit&amp;eacute;ho p&amp;ocirc;dorysu a skolaudovan&amp;yacute; v&amp;nbsp;roku 2021. Situovan&amp;yacute;&amp;nbsp; je na svahovitom pozemku na severnom okraji lokality na hranici intravil&amp;aacute;nu a&amp;nbsp;extravil&amp;aacute;nu obce Chrastn&amp;eacute;, na pozemkoch b&amp;yacute;val&amp;eacute;ho družstva. Využ&amp;iacute;va sa na modern&amp;eacute; pr&amp;iacute;mestsk&amp;eacute; b&amp;yacute;vanie pre jednu rodinu so &amp;scaron;tyrmi obytn&amp;yacute;mi miestnosťami, gar&amp;aacute;žou a&amp;nbsp;ďal&amp;scaron;&amp;iacute;m pr&amp;iacute;slu&amp;scaron;enstvom. Na pr&amp;iacute;zem&amp;iacute; je v&amp;nbsp;severnej časti domu gar&amp;aacute;ž a&amp;nbsp;technick&amp;aacute; miestnosť. Za technickou miestnosťou&amp;nbsp; je situovan&amp;eacute; WC s&amp;nbsp;pr&amp;iacute;stupom z&amp;nbsp;dennej časti pr&amp;iacute;zemia domu. Vedľa WC je pr&amp;aacute;čovňa. Hlavn&amp;yacute; vstup na pr&amp;iacute;zemie je z&amp;nbsp;uličn&amp;eacute;ho z&amp;aacute;padn&amp;eacute;ho priečelia. Ďalej sa na pr&amp;iacute;zem&amp;iacute; nach&amp;aacute;dza otvoren&amp;yacute; denn&amp;yacute; priestor so schodi&amp;scaron;ťovou halou, kuchynsk&amp;yacute;m k&amp;uacute;tom a&amp;nbsp;ob&amp;yacute;vacou izbou prepojenou na vonkaj&amp;scaron;iu terasu. Na poschod&amp;iacute; s&amp;uacute; tri izby, dve k&amp;uacute;peľne, &amp;scaron;atn&amp;iacute;k a dve k&amp;uacute;peľne. Rodinn&amp;yacute; dom je už&amp;iacute;van&amp;yacute; od roku 2021, takmer dokončen&amp;yacute;, v&amp;nbsp;dobrom stave. Dom je napojen&amp;yacute; na elektrinu, vodovod a&amp;nbsp;kanaliz&amp;aacute;ciu, m&amp;aacute; satelit, domov&amp;eacute;ho vr&amp;aacute;tnika a je chr&amp;aacute;nen&amp;yacute; kamerov&amp;yacute;m syst&amp;eacute;mom.&lt;/p&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;Predmet dražby je v&amp;nbsp;technickom stave primeranom jeho veku a&amp;nbsp;sp&amp;ocirc;sobu už&amp;iacute;vania.&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>ŤARCHY:
+1, V 4177/2022 zo dňa 27.06.2022 - zmluva o zriadení záložného práva v prospech: Tatra banka, a.s., IČO 0068930, Hodžovo námestie 3, 811 06 Bratislava - č.z. 118/2022
+2, V 92/2023 zo dňa 30.01.2023 - zmluva o zriadení záložného práva k nehnuteľnosti v prospech: [skryté] (nar. [skryté]), Lomnická 850/3, 040 01 Košice na pozemky registra C KN:-parcelné číslo 113/20, zastavaná plocha a nádvorie o výmere 75 m2-parcelné číslo 113/131, zastavaná plocha a nádvorie o výmere 6 m2-parcelné číslo 402/6, orná pôda o výmere 304 m2-parcelné číslo 402/11, zastavaná plocha a nádvorie o výmere 206 m2-parcelné číslo 402/13, zastavaná plocha a nádvorie o výmere 6 m2-stavba rodinný dom so súpisným číslom 182 na pozemku registra C KN s parcelným číslom 113/131-stavba rodinný dom so súpisným číslom 182 na pozemku registra C KN s parcelným číslom 402/11 - č.z. 8/23</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad xsi:nil="true" />
+  <ns0:PredmetCenaVyska xsi:nil="true" />
+  <ns0:PredmetCenaSposobStanovenia>Predmet dražby bol ohodnotený znalcom: Ing. Martin Hromják, ev. č. 911209, znalecký posudok č. 33/2026 zo dňa 9.3.2026 na hodnotu 331.000,- €.</ns0:PredmetCenaSposobStanovenia>
+  <ns0:PredmetPodmienkyOdovzdania>Ak nadobudol vydražiteľ vlastnícke právo k predmetu dražby, predchádzajúci vlastník je povinný odovzdať predmet dražby na základe predloženia písomného potvrdenia o vydražení predmetu dražby a doloženia totožnosti vydražiteľa v zmysle oznámeného termínu odovzdania nehnuteľností, po uhradení ceny dosiahnutej vydražením. Dražobník na mieste spíše zápisnicu o odovzdaní predmetu dražby. Zápisnicu o odovzdaní predmetu dražby podpíše predchádzajúci vlastník [skryté], vydražiteľ a dražobník. Jedno vyhotovenie zápisnice o odovzdaní obdrží predchádzajúci vlastník predmetu dražby a dve vyhotovenia vydražiteľ. Ak niektorá osoba odmietne zápisnicu podpísať alebo ju prevziať, táto skutočnosť sa vyznačí v zápisnici a zápisnica sa považuje za odovzdanú aj tejto osobe; o tom dražobník túto osobu poučí. Všetky náklady spojené s odovzdaním a prevzatím predmetu dražby znáša vydražiteľ. Táto povinnosť sa nevzťahuje na náklady, ktoré by inak nevznikli, ak ich svojou vinou spôsobil predchádzajúci vlastník [skryté], alebo ak im tieto náklady vznikli náhodou, ktorá ich postihla. Nebezpečenstvo škody na predmete dražby prechádza z navrhovateľa dražby na vydražiteľa dňom odovzdania predmetu dražby; v ten istý deň prechádza na vydražiteľa zodpovednosť za škodu spôsobenú v súvislosti s predmetom dražby. Ak je vydražiteľ v omeškaní s prevzatím predmetu dražby, znáša nebezpečenstvo škody a zodpovednosť za škodu.</ns0:PredmetPodmienkyOdovzdania>
+  <ns0:NajnizsiePodanie>270.000,- €</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie>1.000,- €</ns0:MinimalnePrihodenie>
+  <ns0:Zabezpeka>
+    <ns0:Vyska>10.000,- €</ns0:Vyska>
+    <ns0:ZlozenieSposob>1, Bezhotovostným bankovým prevodom na účet dražobníka vedený v Slovenská sporiteľňa, a.s., č. účtu: SK22 0900 0000 0050 3722 1926, variabilný symbol 0112026. Dražobná zábezpeka sa považuje za zloženú, ak bola pripísaná na účet dražobníka do otvorenia dražby.
+2, Hotovostným vkladom do rúk dražobníka v deň a mieste konania dražby, v čase vstupu na dražbu.
+3, Formou bankovej záruky.
+4, Do notárskej úschovy vo forme peňažnej sumy.
+Dražobnú zábezpeku nie je možné zložiť platobnou kartou, ani šekom.</ns0:ZlozenieSposob>
+    <ns0:ZlozenieCisloUctu>SK22 0900 0000 0050 3722 1926</ns0:ZlozenieCisloUctu>
+    <ns0:ZlozenieAdresa>V deň konania dražby 30 minút pred jej začiatkom v mieste
+konania dražby, t.j. v Dražobnej miestnosti, v sídle spol.
+DRAŽOBNÍK, s.r.o., Národná trieda 10, Košice alebo v pracovné dni v sídle spoločnosti DRAŽOBNÍK, s.r.o. od 8,00 do 16,00 hod.</ns0:ZlozenieAdresa>
+    <ns0:ZlozenieDoklad>1, Originál potvrdeného príkazu na úhradu peňažných prostriedkov v prospech dražobníka vo výške dražobnej zábezpeky, za predpokladu ich riadneho pripísania na účet dražobníka do otvorenia dražby.
+2, Originál bankovej záruky vo výške dražobnej zábezpeky, znejúcej na účet dražobníka.
+3, Osvedčený odpis notárskej zápisnice o zložení dražobnej zábezpeky do notárskej úschovy v prospech dražobníka.
+</ns0:ZlozenieDoklad>
+    <ns0:ZlozenieLehota>Do otvorenia dražby.</ns0:ZlozenieLehota>
+    <ns0:Vratenie>Bez zbytočného odkladu po skončení dražby.</ns0:Vratenie>
+  </ns0:Zabezpeka>
+  <ns0:SposobUhradyCeny>Vydražiteľ je povinný zaplatiť cenu dosiahnutú vydražením najneskôr do 15 dní od skončenia dražby na účet dražobníka vedený v Slovenská sporiteľňa, a.s., č. účtu: SK22 0900 0000 0050 3722 1926, variabilný symbol 0112026. Dražobná zábezpeka sa vydražiteľovi započítava do ceny dosiahnutej vydražením.</ns0:SposobUhradyCeny>
+  <ns0:ObhliadkaDatum>Obhliadka predmetu dražby sa uskutoční v termínoch:
+1,  26.05.2026 o 10:15 hod.
+2,  01.06.2026 o 09:00 hod.
+</ns0:ObhliadkaDatum>
+  <ns0:ObhliadkaMiesto>Miesto konania obhliadky je pred rodinným domom so súp. č. 182 v obci Chrastné, okres Košice - okolie.</ns0:ObhliadkaMiesto>
+  <ns0:SpolocnaDrazba Kod="NIE">Nie</ns0:SpolocnaDrazba>
+  <ns0:SpolocnaDrazbaPoradieDrazeniePredmetov xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia>Záujemcovia o obhliadku sa dražobníkovi ohlásia najmenej 24 hodín vopred na t.č.: +421 911 755 528 alebo elektronicky: info@drazobnik.sk.</ns0:OrganizaceOpatrenia>
+  <ns0:NadobudnutieVlastnickehoPrava>Po zaplatení ceny dosiahnutej vydražením vydražiteľom v stanovenej lehote, prechádza na vydražiteľa vlastnícke právo dňom udelenia príklepu. Právo užívať predmet dražby prechádza na vydražiteľa odovzdaním predmetu dražby zápisnicou o odovzdaní. Vydražiteľ obdrží dve vyhotovenia osvedčeného odpisu notárskej zápisnice z dražby; jedno vyhotovenie zašle dražobník príslušnému okresnému úradu, katastrálnemu odboru bez zbytočného odkladu na účely vykonania zápisu záznamom.
+V zmysle §151ma ods. 3 zákona č. 40/1964 Zb. Občianskeho zákonníka  pri výkone záložného práva záložným veriteľom, ktorého záložné právo je v poradí rozhodujúcom na uspokojenie záložných práv registrované ako prvé, sa záloh prevádza nezaťažený záložnými právami ostatných záložných veriteľov.</ns0:NadobudnutieVlastnickehoPrava>
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

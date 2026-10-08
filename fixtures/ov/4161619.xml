@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Nazov>Oznámenie o dobrovoľnej dražbe</ns0:Nazov>
+  <ns0:Cislo>023/2026</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>AUKČNÁ SPOLOČNOSŤ s.r.o.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Kopčianska</Ulica>
+      <Cislo>10</Cislo>
+      <Obec>Bratislava</Obec>
+      <Psc>85101</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="104">Mestský súd Bratislava III</Sud>
+    <Oddiel>Sro</Oddiel>
+    <Vlozka>72494/B</Vlozka>
+    <Ico>46141341</Ico>
+  </ns0:Drazobnik>
+  <ns0:NavrhovateliaHeader>Označenie navrhovateľa</ns0:NavrhovateliaHeader>
+  <ns0:Navrhovatelia>
+    <ns0:Navrhovatel>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Obec Lozorno</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Obecný úrad Lozorno, Hlavná </Ulica>
+          <Cislo>1</Cislo>
+          <Obec>Lozorno</Obec>
+          <Psc>90055</Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Oddiel />
+        <Vlozka />
+        <Ico>00304905</Ico>
+      </ns0:CeleMeno>
+    </ns0:Navrhovatel>
+  </ns0:Navrhovatelia>
+  <ns0:Licitatori xsi:nil="true" />
+  <ns0:Notar>
+    <ns0:CeleMeno>
+      <TitulPred />
+      <TitulZa />
+      <Meno>-</Meno>
+      <Priezvisko>-</Priezvisko>
+    </ns0:CeleMeno>
+    <ns0:Sidlo>
+      <Ulica>-</Ulica>
+      <Cislo>-</Cislo>
+      <Obec>-</Obec>
+      <Psc>-</Psc>
+      <Stat />
+    </ns0:Sidlo>
+  </ns0:Notar>
+  <ns0:KonanieMiesto>zasadačka na prízemí Obecného úradu Lozorno, Hlavná 1, 900 55 Lozorno</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-08-17</ns0:KonanieDatum>
+  <ns0:KonanieCas>10:00 hod.</ns0:KonanieCas>
+  <ns0:Kolo>prvé</ns0:Kolo>
+  <ns0:Predmet>&lt;p&gt;Predmetom dražby je &lt;strong&gt;pr&amp;aacute;vo uzatvoriť zmluvu o&amp;nbsp;n&amp;aacute;jme nebytov&amp;yacute;ch priestorov&lt;/strong&gt; k&amp;nbsp;priestorom nach&amp;aacute;dzaj&amp;uacute;cim sa v&amp;nbsp;budove centra kult&amp;uacute;ry a&amp;nbsp;vzdel&amp;aacute;vania so s&amp;uacute;p. č&amp;iacute;slom 190 (ďalej len &amp;bdquo;&lt;strong&gt;Budova&lt;/strong&gt;&amp;ldquo;) postavenom na pozemku parc. reg. &amp;bdquo;C&amp;ldquo; č&amp;iacute;slo 376/19 o&amp;nbsp;v&amp;yacute;mere 656 m2, druh pozemku: zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie (ďalej len &amp;bdquo;&lt;strong&gt;Pozemok&lt;/strong&gt;&amp;ldquo;), tak ako je zap&amp;iacute;san&amp;yacute; na liste vlastn&amp;iacute;ctva č&amp;iacute;slo 963 vedenom Okresn&amp;yacute;m &amp;uacute;radom Malacky, katastr&amp;aacute;lny odbor, pre okres Malacky, obec: Lozorno, k.&amp;uacute;.: Lozorno. Konkr&amp;eacute;tne ide o&amp;nbsp;časť Budovy, tzv. priestory re&amp;scaron;taur&amp;aacute;cie&amp;nbsp;v&amp;nbsp;nasledovnom členen&amp;iacute; miestnost&amp;iacute; a priestorov:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Suter&amp;eacute;n: Sklad such&amp;yacute;ch potrav&amp;iacute;n o&amp;nbsp;v&amp;yacute;mere 16,56 m&lt;sup&gt;2&lt;/sup&gt;, Sklad invent&amp;aacute;ru o&amp;nbsp;v&amp;yacute;mere 16,32 m&lt;sup&gt;2&lt;/sup&gt;;&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Pr&amp;iacute;zemie: Re&amp;scaron;taur&amp;aacute;cia (barov&amp;aacute; časť) o v&amp;yacute;mere 62,81 m&lt;sup&gt;2&lt;/sup&gt;, Re&amp;scaron;taur&amp;aacute;cia (časť jed&amp;aacute;leň) o v&amp;yacute;mere 61,98 m&lt;sup&gt;2&lt;/sup&gt;, Kuchyňa o v&amp;yacute;mere 38,18 m&lt;sup&gt;2&lt;/sup&gt;, Hygienick&amp;aacute; miestnosť o&amp;nbsp;v&amp;yacute;mere 3,15 m&lt;sup&gt;2&lt;/sup&gt;, &amp;Scaron;atňa o v&amp;yacute;mere 4,44 m&lt;sup&gt;2&lt;/sup&gt;, Z&amp;aacute;dverie o&amp;nbsp;v&amp;yacute;mere 6,52 m&lt;sup&gt;2&lt;/sup&gt;; a&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;poschodie: Kancel&amp;aacute;ria o v&amp;yacute;mere 10,69 m&lt;sup&gt;2&lt;/sup&gt;;&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;spolu teda 220,65 m&lt;sup&gt;2&lt;/sup&gt;&amp;nbsp;podlahovej plochy&lt;/strong&gt;&amp;nbsp;nebytov&amp;yacute;ch priestorov (ďalej len &amp;bdquo;&lt;strong&gt;NP&lt;/strong&gt;&amp;ldquo;).&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Predmetom n&amp;aacute;jmu bude aj časť v&amp;yacute;mery Pozemku, ktor&amp;uacute; zaber&amp;aacute; exteri&amp;eacute;rov&amp;aacute; terasa o v&amp;yacute;mere&amp;nbsp;&lt;strong&gt;38,00 m&lt;sup&gt;2&lt;/sup&gt;&lt;/strong&gt; (ďalej spolu s&amp;nbsp;NP aj ako &amp;bdquo;&lt;strong&gt;predmet n&amp;aacute;jmu&lt;/strong&gt;&amp;ldquo;).&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Z&amp;aacute;kladn&amp;eacute; body &lt;strong&gt;zmluvy o&amp;nbsp;n&amp;aacute;jme nebytov&amp;yacute;ch priestorov&lt;/strong&gt;, ktor&amp;eacute; s&amp;uacute; predmetom dražby:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;doba n&amp;aacute;jmu od 1.12.2026 do 30.11.2031 s&amp;nbsp;možnosťou opcie o&amp;nbsp;ďal&amp;scaron;&amp;iacute;ch 24 mesiacov.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;n&amp;aacute;jomn&amp;aacute; z&amp;aacute;bezpeka vo v&amp;yacute;&amp;scaron;ke 1,5 n&amp;aacute;sobku mesačn&amp;eacute;ho n&amp;aacute;jmu&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;mesačn&amp;eacute; n&amp;aacute;jomn&amp;eacute; vo v&amp;yacute;&amp;scaron;ke ceny dosiahnutej vydražen&amp;iacute;m predmetu dražby + index&amp;aacute;cia Eurostat, min. v&amp;scaron;ak 2%&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;&amp;uacute;hrada prev&amp;aacute;dzkov&amp;yacute;ch n&amp;aacute;kladov vo v&amp;yacute;&amp;scaron;ke&amp;nbsp;300&amp;nbsp;EUR/mesiac&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Bliž&amp;scaron;ia &amp;scaron;pecifik&amp;aacute;cia podmienok n&amp;aacute;jmu nebytov&amp;yacute;ch priestorov &amp;ndash; (Re&amp;scaron;taur&amp;aacute;cia CKV), tvor&amp;iacute; pr&amp;iacute;lohu ozn&amp;aacute;menia o&amp;nbsp;dražbe, v&amp;nbsp;ktorej bude uveden&amp;aacute;&amp;nbsp;v&amp;yacute;&amp;scaron;ka mesačn&amp;eacute;ho n&amp;aacute;jomn&amp;eacute;ho v&amp;nbsp;sume rovnaj&amp;uacute;cej sa cene dosiahnutej vydražen&amp;iacute;m.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;(ďalej aj ako &amp;bdquo;&lt;strong&gt;predmet dražby&lt;/strong&gt;&amp;ldquo;).&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;u&gt;Vydražiteľ bude povinn&amp;yacute; využiť pr&amp;aacute;vo k&amp;nbsp;predmetu dražby, t.j. uzatvoriť s&amp;nbsp;navrhovateľom dražby zmluvu o&amp;nbsp;n&amp;aacute;jme nebytov&amp;yacute;ch priestorov v&amp;nbsp;znen&amp;iacute; podľa pr&amp;iacute;lohy č. 1 ozn&amp;aacute;menia o dražbe v&amp;nbsp;lehote do 15 dn&amp;iacute; odo dňa udelenia pr&amp;iacute;klepu na dražbe.&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;&lt;strong&gt;Pr&amp;aacute;vo uzatvoriť zmluvu o&amp;nbsp;n&amp;aacute;jme nebytov&amp;yacute;ch priestorov k&amp;nbsp;predmetu n&amp;aacute;jmu nach&amp;aacute;dzaj&amp;uacute;cemu sa v&amp;nbsp;Budove v&amp;nbsp;obci Lozorno v&amp;nbsp;znen&amp;iacute; podľa pr&amp;iacute;lohy č. 1 ozn&amp;aacute;menia o dražbe. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Detailn&amp;yacute; opis predmetu dražby tvor&amp;iacute; pr&amp;iacute;lohu ozn&amp;aacute;menia o&amp;nbsp;dražbe.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Samotn&amp;yacute; nebytov&amp;yacute; priestor, ku ktor&amp;eacute;mu sa viaže predmet dražby sa nach&amp;aacute;dza v budove centra kult&amp;uacute;ry a vzdel&amp;aacute;vania s&amp;uacute;p. č. 190, na Zvonč&amp;iacute;nskej ulici, postavenej na pozemku C-KN parc.č. 376/19, k.&amp;uacute;. Lozorno, obec Lozorno, okres Malacky. Začiatok už&amp;iacute;vania p&amp;ocirc;vodnej časti budovy, vtedy obecnej ľudovej &amp;scaron;koly, je určen&amp;yacute; na z&amp;aacute;klade potvrdenia o veku stavby na r. 1931. V r. 2009 bola dan&amp;aacute; do už&amp;iacute;vania budova po jej pr&amp;iacute;stavbe, nadstavbe a zmene &amp;uacute;čelu využitia, už ako budova centra kult&amp;uacute;ry a vzdel&amp;aacute;vania. V okol&amp;iacute; budovy centra kult&amp;uacute;ry a vzdel&amp;aacute;vania sa nach&amp;aacute;dza existuj&amp;uacute;ca individu&amp;aacute;lna bytov&amp;aacute; v&amp;yacute;stavba, rodinn&amp;eacute; domy. V bl&amp;iacute;zkosti sa nach&amp;aacute;dzaj&amp;uacute; aj budovy občianskej vybavenosti, ako hotel, re&amp;scaron;taur&amp;aacute;cia, budova obecn&amp;eacute;ho &amp;uacute;radu, ako i r&amp;iacute;mskokatol&amp;iacute;cky kostol a budova farsk&amp;eacute;ho &amp;uacute;radu. Pred budovou centra kult&amp;uacute;ry a vzdel&amp;aacute;vania sa nach&amp;aacute;dzaj&amp;uacute; odstavn&amp;eacute; plochy pre parkovanie.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Budova centra kult&amp;uacute;ry a vzdel&amp;aacute;vania je dvojpodlažn&amp;aacute;, s neobytn&amp;yacute;m podkrov&amp;iacute;m, čiastočne podpivničen&amp;aacute;.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Časť priestorov v Budove je využ&amp;iacute;van&amp;aacute; ako spoločn&amp;aacute;, komunikačn&amp;eacute; priestory a hygienick&amp;eacute; z&amp;aacute;zemie, ako pre centrum kult&amp;uacute;ry, tak i pre časť priestorov, ktor&amp;eacute; s&amp;uacute; využ&amp;iacute;van&amp;eacute; ako samostatne funguj&amp;uacute;ce prev&amp;aacute;dzkov&amp;eacute; celky, &amp;quot;nebytov&amp;eacute; priestory&amp;quot;, re&amp;scaron;taur&amp;aacute;ciu a z&amp;aacute;kladn&amp;uacute; umeleck&amp;uacute; &amp;scaron;kolu. Nach&amp;aacute;dza sa tu aj viac&amp;uacute;čelov&amp;aacute; s&amp;aacute;la, ktor&amp;aacute; je využ&amp;iacute;van&amp;aacute; najm&amp;auml; pre kult&amp;uacute;rne podujatia. Každ&amp;yacute; nebytov&amp;yacute; priestor m&amp;aacute; svoje vlastn&amp;eacute;, resp. podružn&amp;eacute; merania spotreby energi&amp;iacute; (el. energia, voda). Spotreba tepla je stanovovan&amp;aacute; na z&amp;aacute;klade pomeru podlahovej plochy nebytov&amp;eacute;ho priestoru k&amp;nbsp;celkovej podlahovej ploche budovy centra kult&amp;uacute;ry a vzdel&amp;aacute;vania.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Predmet n&amp;aacute;jmu zahŕňa priestory, ktor&amp;eacute; sa nach&amp;aacute;dzaj&amp;uacute; na &amp;uacute;rovni 1.pp (skladov&amp;eacute; priestory), na 1.np (priestory re&amp;scaron;taur&amp;aacute;cie a jej z&amp;aacute;zemia) a na 2.np (kancel&amp;aacute;ria). Predmet n&amp;aacute;jmu využ&amp;iacute;va aj exteri&amp;eacute;rov&amp;uacute; terasu, ktor&amp;aacute; sa nach&amp;aacute;dza na juhov&amp;yacute;chodnej fas&amp;aacute;de budovy a je pr&amp;iacute;stupn&amp;aacute; ako z exteri&amp;eacute;ru, tak i&amp;nbsp;z interi&amp;eacute;ru, zo samotn&amp;eacute;ho predmetu n&amp;aacute;jmu.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Predmet n&amp;aacute;jmu je priamo pr&amp;iacute;stupn&amp;yacute; cez hlavn&amp;yacute; vstup do budovy centra kult&amp;uacute;ry a vzdel&amp;aacute;vania, zo strany Zvonč&amp;iacute;nskej ulice, zo spoločnej vstupnej haly (priestory re&amp;scaron;taur&amp;aacute;cie a jej z&amp;aacute;zemia na 1.np) a&amp;nbsp;spoločn&amp;eacute;ho interi&amp;eacute;rov&amp;eacute;ho schodiska (skladov&amp;eacute; priestory na 1.pp a kancel&amp;aacute;ria na 2.np). Vstup do priestorov re&amp;scaron;taur&amp;aacute;cie je cez uzamykateľn&amp;eacute; vstupn&amp;eacute; dvere, pr&amp;iacute;stupn&amp;eacute; zo spoločnej chodby.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;&lt;u&gt;Predmet dražby sa celkovo nach&amp;aacute;dza v&amp;nbsp;stave zodpovedaj&amp;uacute;com dobe a&amp;nbsp;sp&amp;ocirc;sobu jeho využitia.&lt;/u&gt;&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>Na predmete dražby neviaznu žiadne práva a záväzky.</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad xsi:nil="true" />
+  <ns0:PredmetCenaVyska xsi:nil="true" />
+  <ns0:PredmetCenaSposobStanovenia>Cena predmetu dražby zistená znaleckým posudkom č. 13/2026 zo dňa 21.05.2026, vyhotoveným znalcom Ing. Zlaticou Janečkovou:
+1.640,26 EUR (slovom: tisícšesťstoštyridsať eur dvadsaťšesť eurocentov)
+</ns0:PredmetCenaSposobStanovenia>
+  <ns0:PredmetPodmienkyOdovzdania>a) zaplatenie ceny dosiahnutej vydražením podľa § 27 ods. 1 Zákona o DD,
+b) osvedčený odpis notárskej zápisnice osvedčujúcej priebeh dražby podľa § 29 Zákona o DD.
+•	Po nadobudnutí vlastníckeho alebo iného práva vydražiteľa k predmetu dražby (t.j. po zaplatení ceny dosiahnutej vydražením podľa § 27 ods. 1 Zákona o DD), je dražobník povinný odovzdať predmet dražby a listiny, ktoré osvedčujú vlastnícke právo a sú nevyhnutné na nakladanie s predmetom dražby alebo osvedčujú iné práva vydražiteľa k predmetu dražby, bez zbytočného odkladu vydražiteľovi; vydražiteľ prevzatie predmetu dražby písomne potvrdí,
+•	Ak ide o dražbu bytu, domu, inej nehnuteľnosti, podniku alebo jeho časti alebo ak najnižšie podanie hnuteľných vecí, práv a iných majetkových hodnôt presiahnu sumu 33.193,92 €, predchádzajúci vlastník je povinný odovzdať predmet dražby na základe predloženia osvedčeného odpisu notárskej zápisnice a doloženia totožnosti vydražiteľa bez zbytočných prieťahov. Dražobník je povinný na mieste spísať zápisnicu o odovzdaní predmetu dražby. Zápisnicu o odovzdaní predmetu dražby podpíšu predchádzajúci vlastník [skryté], vydražiteľ a dražobník. Jedno vyhotovenie zápisnice dostane predchádzajúci vlastník a dve vyhotovenia dostane vydražiteľ. Ak niektorá osoba odmietne zápisnicu podpísať alebo ju prevziať, táto skutočnosť sa vyznačí v zápisnici a zápisnica sa považuje za odovzdanú aj tejto osobe; o tom dražobník túto osobu poučí. Na ostatné náležitosti zápisnice o odovzdaní predmetu dražby sa použijú ust. § 29 ods. 2 Zákona o DD.
+
+Pozn.: V zmysle ust. § 29 ods. 5 Zákona o DD všetky náklady spojené s odovzdaním a prevzatím predmetu dražby nesie vydražiteľ!
+</ns0:PredmetPodmienkyOdovzdania>
+  <ns0:NajnizsiePodanie>1640,26 EURO</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie>100</ns0:MinimalnePrihodenie>
+  <ns0:Zabezpeka>
+    <ns0:Vyska>500</ns0:Vyska>
+    <ns0:ZlozenieSposob>a) v hotovosti k rukám dražobníka, v mieste jeho sídla, alebo v mieste konania dražby, 
+b) vklad alebo bankový prevod na bankový účet dražobníka (IBAN: SK60 1100 0000 0029 4325 9463, vedený v Tatra banka, a.s., VS: 0232026), dokladom o úhrade je potvrdenie o realizácii prevodu/vkladu vystavené bankou s označením, že ide o dražobnú zábezpeku ku konkrétnemu číslu dražby (nutnosť súčasného doloženia kópie takéhoto dokladu). Dražobná zábezpeka musí byť k okamihu otvorenia dražby pripísaná na účet dražobníka,
+c) banková záruka (jej originál alebo úradne overená kópia) v prospech dražobníka s výhradou prevodu platby po doručení zápisnice o vykonaní dražby za predpokladu, že účastník dražby sa stane vydražiteľom,
+d) notárska úschova (originál alebo úradne overená kópia dokladu preukazujúceho notársku úschovu),
+e) úhrada dražobnej zábezpeky nie je možná platobnou kartou alebo šekom.
+Pozn.: iný spôsob úhrady dražobnej zábezpeky je vylúčený.
+</ns0:ZlozenieSposob>
+    <ns0:ZlozenieCisloUctu>IBAN: SK60 1100 0000 0029 4325 9463, vedený v Tatra banka, a.s., VS: 0232026</ns0:ZlozenieCisloUctu>
+    <ns0:ZlozenieAdresa>v deň konania dražby: zasadačka na prízemí Obecného úradu Lozorno, Hlavná 1, 900 55 Lozorno</ns0:ZlozenieAdresa>
+    <ns0:ZlozenieDoklad>a) v hotovosti k rukám dražobníka, v mieste jeho sídla, alebo v mieste konania dražby, 
+b) vklad alebo bankový prevod na bankový účet dražobníka (IBAN: SK60 1100 0000 0029 4325 9463, vedený v Tatra banka, a.s., VS: 0232026), dokladom o úhrade je potvrdenie o realizácii prevodu/vkladu vystavené bankou s označením, že ide o dražobnú zábezpeku ku konkrétnemu číslu dražby (nutnosť súčasného doloženia kópie takéhoto dokladu). Dražobná zábezpeka musí byť k okamihu otvorenia dražby pripísaná na účet dražobníka,
+c) banková záruka (jej originál alebo úradne overená kópia) v prospech dražobníka s výhradou prevodu platby po doručení zápisnice o vykonaní dražby za predpokladu, že účastník dražby sa stane vydražiteľom,
+d) notárska úschova (originál alebo úradne overená kópia dokladu preukazujúceho notársku úschovu),
+e) úhrada dražobnej zábezpeky nie je možná platobnou kartou alebo šekom.
+Pozn.: iný spôsob úhrady dražobnej zábezpeky je vylúčený.
+</ns0:ZlozenieDoklad>
+    <ns0:ZlozenieLehota>- lehota na úhradu dražobnej zábezpeky sa končí otvorením dražby.</ns0:ZlozenieLehota>
+    <ns0:Vratenie>- v zmysle ust. § 15 Zákona o DD alebo v zmysle ust. § 19 Zákona o DD.</ns0:Vratenie>
+  </ns0:Zabezpeka>
+  <ns0:SposobUhradyCeny>a) v hotovosti k rukám dražobníka, v mieste jeho sídla, najneskôr do 15 dní odo dňa skončenia dražby, 
+b) platba vkladom na účet dražobníka alebo bankovým prevodom na účet dražobníka (IBAN: SK44 1100 0000 0029 2185 5440, TATRSKBX, vedený v Tatra banka, a.s., VS: 0232026) s označením čísla dražby, najneskôr do 15 dní odo dňa skončenia dražby. 
+</ns0:SposobUhradyCeny>
+  <ns0:ObhliadkaDatum>Termín č. 1: 24.7.2026 o 9:30 hod., stretnutie záujemcov je pred budovou Centra kultúry a vzdelávania so súp. č. 190, Zvončínska ulica v Lozorne.
+Termín č. 2: 6.8.2026 o 9:30 hod., stretnutie záujemcov je pred budovou Centra kultúry a vzdelávania so súp. č. 190, Zvončínska ulica v Lozorne, po predchádzajúcom telefonickom ohlásení sa aspoň 1 deň vopred na tel. čísle +421 903 66 49 91.
+</ns0:ObhliadkaDatum>
+  <ns0:ObhliadkaMiesto>Termín č. 1: 24.7.2026 o 9:30 hod., stretnutie záujemcov je pred budovou Centra kultúry a vzdelávania so súp. č. 190, Zvončínska ulica v Lozorne.
+Termín č. 2: 6.8.2026 o 9:30 hod., stretnutie záujemcov je pred budovou Centra kultúry a vzdelávania so súp. č. 190, Zvončínska ulica v Lozorne, po predchádzajúcom telefonickom ohlásení sa aspoň 1 deň vopred na tel. čísle +421 903 66 49 91.
+</ns0:ObhliadkaMiesto>
+  <ns0:SpolocnaDrazba Kod="NIE">Nie</ns0:SpolocnaDrazba>
+  <ns0:SpolocnaDrazbaPoradieDrazeniePredmetov xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia>stretnutie záujemcov je pred budovou Centra kultúry a vzdelávania so súp. č. 190, Zvončínska ulica v Lozorne</ns0:OrganizaceOpatrenia>
+  <ns0:NadobudnutieVlastnickehoPrava>V zmysle ust. § 27 ods. 1 Zákona o DD: „Ak uhradil vydražiteľ cenu dosiahnutú vydražením v ustanovenej lehote, prechádza na neho vlastnícke právo alebo iné právo k predmetu dražby udelením príklepu; to neplatí, ak je vydražiteľom osoba, ktorá je povinná zapísať sa do registra partnerov verejného sektora podľa osobitného predpisu (Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov), ak v čase príklepu nie je zapísaná v tomto registri. Ku dňu zaplatenia ceny dosiahnutej vydražením vydražiteľom zaniká pohľadávka veriteľa v rozsahu uspokojenia veriteľa z výťažku dražby.“</ns0:NadobudnutieVlastnickehoPrava>
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Cislo>5090126</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>LICITOR group, a.s.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Sládkovičova</Ulica>
+      <Cislo>6</Cislo>
+      <Obec>Žilina</Obec>
+      <Psc>01001</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="131">Okresný súd Žilina</Sud>
+    <Oddiel>Sa</Oddiel>
+    <Vlozka>10476/L</Vlozka>
+    <Ico>36421561</Ico>
+  </ns0:Drazobnik>
+  <ns0:Navrhovatelia xsi:nil="true" />
+  <ns0:LicitatoriHeader>Označenie licitátora</ns0:LicitatoriHeader>
+  <ns0:Licitatori>
+    <ns0:Licitator>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>JUDr. Martin Šustek, LL.M.</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>-</Ulica>
+          <Cislo>-</Cislo>
+          <Obec>-</Obec>
+          <Psc>-</Psc>
+          <Stat>SR</Stat>
+        </Sidlo>
+        <Oddiel />
+        <Vlozka />
+        <Ico>12345679</Ico>
+      </ns0:CeleMeno>
+    </ns0:Licitator>
+  </ns0:Licitatori>
+  <ns0:Notar xsi:nil="true" />
+  <ns0:KonanieMiesto>AquaCity Poprad, Športová 1397/1, 058 01 Poprad  (Meeting room 1 - na 3. poschodí)</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-06-16</ns0:KonanieDatum>
+  <ns0:KonanieCas>11:30 hod.</ns0:KonanieCas>
+  <ns0:Kolo>1. kolo</ns0:Kolo>
+  <ns0:Predmet>&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;&lt;strong&gt;Č&amp;iacute;slo &lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;LV&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;&lt;strong&gt;Katastr&amp;aacute;lne &amp;uacute;zemie&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;&lt;strong&gt;Okresn&amp;yacute; &amp;uacute;rad, katastr&amp;aacute;lny odbor&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1511&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;Scaron;aca&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;Ko&amp;scaron;ice&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;&lt;strong&gt;Pozemky parcely registra &amp;bdquo;C&amp;ldquo;:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Parc. č.&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;mera&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;&amp;nbsp;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;3083&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1760 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;&amp;nbsp;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;3084&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;752 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;&amp;scaron;ka spoluvlastn&amp;iacute;ckeho podielu &amp;uacute;padcu:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1/1&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;&lt;strong&gt;&lt;u&gt;Pozemky &amp;ndash; parc. KN-C č. 3083 a 3084 v k.&amp;uacute;. &amp;Scaron;aca, okres Ko&amp;scaron;ice&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Predmetom dražby s&amp;uacute; pozemky v zastavanom &amp;uacute;zem&amp;iacute; krajsk&amp;eacute;ho mesta Ko&amp;scaron;ice, v jednej z 22 mestsk&amp;yacute;ch čast&amp;iacute;, v mestskej časti &amp;Scaron;aca, ktor&amp;aacute; lež&amp;iacute; juhoz&amp;aacute;padne od Ko&amp;scaron;&amp;iacute;c.&lt;/p&gt;
+
+&lt;p&gt;Pozemky sa nach&amp;aacute;dzaj&amp;uacute; pozdĺž hlavnej cestnej komunik&amp;aacute;cie, ulice L&amp;uacute;čna, vedľa Nemocnice &amp;Scaron;aca.&lt;/p&gt;
+
+&lt;p&gt;Pozemky s&amp;uacute; veden&amp;eacute; na LV č. 1511, k.&amp;uacute;. &amp;Scaron;aca:&lt;/p&gt;
+
+&lt;p&gt;&amp;bull; KN-C č. 3083 - ostatn&amp;aacute; plocha o v&amp;yacute;mere 1760 m2&lt;/p&gt;
+
+&lt;p&gt;&amp;bull; KN-C č. 3084 - ostatn&amp;aacute; plocha o v&amp;yacute;mere 752 m2.&lt;/p&gt;
+
+&lt;p&gt;Jedn&amp;aacute; sa o pozemky, ktor&amp;eacute; podľa &amp;Uacute;zemn&amp;eacute;ho pl&amp;aacute;nu mesta Ko&amp;scaron;ice, maj&amp;uacute; rozdielne funkčn&amp;eacute; využitie.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Parc. KN - C 3084 &lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Predmetom ohodnotenia je pozemok KN-C č. 3084 - ostatn&amp;aacute; plocha o v&amp;yacute;mere 752 m2, v k.&amp;uacute;. &amp;Scaron;aca.&lt;/p&gt;
+
+&lt;p&gt;Pozemok sa nach&amp;aacute;dza v okrajovej časti zastavan&amp;eacute;ho &amp;uacute;zemia mestskej časti Ko&amp;scaron;ice - &amp;Scaron;aca, medzi pr&amp;iacute;jazdovou cestou, ulice L&amp;uacute;čna, a Nemocnicou &amp;Scaron;aca, pozdĺž &amp;Scaron;ack&amp;eacute;ho kan&amp;aacute;la z juhu pozemku. Pozemok nie je pr&amp;iacute;stupn&amp;yacute; ani z jednej strany z verejnej komunik&amp;aacute;cie, okolo pozemku z každej strany sa nach&amp;aacute;dzaj&amp;uacute; pozemky vo vlastn&amp;iacute;ctve fyzick&amp;yacute;ch a pr&amp;aacute;vnick&amp;yacute;ch os&amp;ocirc;b. Pozemok je pokryt&amp;yacute; neudržiavan&amp;yacute;m tr&amp;aacute;vnym porastom a n&amp;aacute;letov&amp;yacute;mi drevinami. Intenzita využitia pozemku je pre v&amp;yacute;stavbu nebytov&amp;yacute;ch stavieb pre priemysel, dopravu, &amp;scaron;kolstvo, zdravotn&amp;iacute;ctvo, &amp;scaron;port so &amp;scaron;tandardn&amp;yacute;m vybaven&amp;iacute;m. Dopravn&amp;aacute; dostupnosť tejto lokality je po miestnych komunik&amp;aacute;ci&amp;aacute;ch s možnosťou využitia mestskej hromadnej dopravy.&lt;/p&gt;
+
+&lt;p&gt;Funkčn&amp;eacute; využitie pozemku, podľa &amp;Uacute;zemn&amp;eacute;ho pl&amp;aacute;nu mesta Ko&amp;scaron;ice, sa jedn&amp;aacute; o plochy pre verejn&amp;eacute; dopravn&amp;eacute; a technick&amp;eacute; vybavenie.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;u&gt;Pr&amp;iacute;pustn&amp;eacute; funkčn&amp;eacute; využ&amp;iacute;vanie&lt;/u&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;- Plochy uličn&amp;eacute;ho priestoru: cesty, trasy VOD, zast&amp;aacute;vky VOD, pe&amp;scaron;ie chodn&amp;iacute;ky, cyklistick&amp;eacute; komunik&amp;aacute;cie, odstavn&amp;eacute; a manipulačn&amp;eacute; plochy, obratisk&amp;aacute;&lt;/p&gt;
+
+&lt;p&gt;- Zariadenia mestskej koľajovej dopravy vr&amp;aacute;tane Detskej železničky&lt;/p&gt;
+
+&lt;p&gt;- Verejn&amp;eacute; priestranstv&amp;aacute; a&amp;nbsp;n&amp;aacute;mestia&lt;/p&gt;
+
+&lt;p&gt;- Termin&amp;aacute;l integrovan&amp;eacute;ho dopravn&amp;eacute;ho syst&amp;eacute;mu&lt;/p&gt;
+
+&lt;p&gt;- Infra&amp;scaron;trukt&amp;uacute;ra potrebn&amp;aacute; na zabezpečenie funkčnosti VOD&lt;/p&gt;
+
+&lt;p&gt;- Nevyhnutn&amp;eacute; zariadenia technickej vybavenosti s&amp;uacute;visiace s danou funkciou&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;u&gt;Funkčn&amp;eacute; využ&amp;iacute;vanie pr&amp;iacute;pustn&amp;eacute; s obmedzen&amp;iacute;m &lt;/u&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;- Drobn&amp;eacute; stavby a mobili&amp;aacute;r vo verejn&amp;yacute;ch priestoroch nesmie sp&amp;ocirc;sobovať obmedzenie rozhľadov&amp;yacute;ch pomerov a pohybu na cest&amp;aacute;ch - Odstavn&amp;eacute; plochy a zariadenia pre zdieľan&amp;uacute; dopravu: nab&amp;iacute;jačky, dokovacie stanice&lt;/p&gt;
+
+&lt;p&gt;- Železničn&amp;aacute; trať s prisl&amp;uacute;chaj&amp;uacute;cimi pozemkami&lt;/p&gt;
+
+&lt;p&gt;- Ekodukty primeran&amp;eacute; v&amp;yacute;znamu biokoridoru a typu cesty - S&amp;iacute;deln&amp;aacute; a krajinn&amp;aacute; zeleň (napr. sprievodn&amp;aacute; a izolačn&amp;aacute; zeleň ciest, aleje a pod.)&lt;/p&gt;
+
+&lt;p&gt;- Pod mostn&amp;eacute; teles&amp;aacute; je pr&amp;iacute;pustn&amp;eacute; umiestňovať aj in&amp;eacute; objekty a zariadenia so s&amp;uacute;hlasom spr&amp;aacute;vcu komunik&amp;aacute;cie s vyl&amp;uacute;čen&amp;iacute;m funkcie b&amp;yacute;vania&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;u&gt;Nepr&amp;iacute;pustn&amp;eacute; funkčn&amp;eacute; využ&amp;iacute;vanie&lt;/u&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;- Vylučuje sa umiestnenie reklamn&amp;yacute;ch zariaden&amp;iacute; tvoriacich obmedzenie rozhľadov&amp;yacute;ch pomerov a pohybu na cest&amp;aacute;ch&lt;/p&gt;
+
+&lt;p&gt;- Vyl&amp;uacute;čen&amp;eacute; s&amp;uacute; v&amp;scaron;etky funkcie a pozemn&amp;eacute; stavby neuveden&amp;eacute; vy&amp;scaron;&amp;scaron;ie ako pr&amp;iacute;pustn&amp;eacute; alebo pr&amp;iacute;pustn&amp;eacute; s obmedzen&amp;iacute;m&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;V lokalite je vybudovan&amp;aacute; kompletn&amp;aacute; technick&amp;aacute; infra&amp;scaron;trukt&amp;uacute;ra s veľmi dobrou vybavenosťou (možnosť napojenia na verejn&amp;eacute; siete - elektrick&amp;aacute; energia, vodovod, kanaliz&amp;aacute;cia, plyn). Jedn&amp;aacute; o nezastavan&amp;yacute; pozemok, určen&amp;yacute; &amp;uacute;zemn&amp;yacute;m pl&amp;aacute;nom na vy&amp;scaron;&amp;scaron;ie využitie, než na ak&amp;eacute; sl&amp;uacute;ži v s&amp;uacute;časnosti, ako aj zv&amp;yacute;&amp;scaron;en&amp;yacute; z&amp;aacute;ujem o k&amp;uacute;pu, je povy&amp;scaron;uj&amp;uacute;cim faktorom. Pozemok nem&amp;aacute; zabezpečen&amp;yacute; pr&amp;iacute;stup z verejnej komunik&amp;aacute;cie zo žiadnej strany (ani spolu s pozemkom KN-C č. 3083), v&amp;scaron;etky susediace pozemky s&amp;uacute; vo vlastn&amp;iacute;ctve fyzick&amp;yacute;ch alebo pr&amp;aacute;vnick&amp;yacute;ch os&amp;ocirc;b, a navy&amp;scaron;e na pozemok zasahuje ochrann&amp;eacute; p&amp;aacute;smo vodn&amp;eacute;ho toku &amp;Scaron;ack&amp;eacute;ho kan&amp;aacute;la, ktor&amp;yacute; sa tiahne pozdĺž cel&amp;eacute;ho pozemku.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Parcela&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Druh pozemku&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Spolu v&amp;yacute;mera [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Spoluvlastn&amp;iacute;cky podiel&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;V&amp;yacute;mera [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;3084&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;Ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;752,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;752,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Parc. KN - C 3083 &lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Predmetom ohodnotenia je pozemok KN-C č. 3083 - ostatn&amp;aacute; plocha o v&amp;yacute;mere 1760 m2, v k.&amp;uacute;. &amp;Scaron;aca. Pozemok sa nach&amp;aacute;dza v okrajovej časti zastavan&amp;eacute;ho &amp;uacute;zemia mestskej časti Ko&amp;scaron;ice - &amp;Scaron;aca, medzi pr&amp;iacute;jazdovou cestou, ulice L&amp;uacute;čna, a Nemocnicou &amp;Scaron;aca. Pozemok nie je pr&amp;iacute;stupn&amp;yacute; ani z jednej strany z verejnej komunik&amp;aacute;cie, okolo pozemku z každej strany sa nach&amp;aacute;dzaj&amp;uacute; pozemky vo vlastn&amp;iacute;ctve fyzick&amp;yacute;ch a pr&amp;aacute;vnick&amp;yacute;ch os&amp;ocirc;b. Pozemok je pokryt&amp;yacute; neudržiavan&amp;yacute;m tr&amp;aacute;vnym porastom a n&amp;aacute;letov&amp;yacute;mi drevinami, navy&amp;scaron;e sa v severnej časti pozemku, v pozdĺžnom smere v&amp;yacute;chod - z&amp;aacute;pad, nach&amp;aacute;dza podzemn&amp;eacute; vedenie plynu. Intenzita využitia pozemku je pre v&amp;yacute;stavbu nebytov&amp;yacute;ch stavieb pre priemysel, dopravu, &amp;scaron;kolstvo, zdravotn&amp;iacute;ctvo, &amp;scaron;port so &amp;scaron;tandardn&amp;yacute;m vybaven&amp;iacute;m. Dopravn&amp;aacute; dostupnosť tejto lokality je po miestnych komunik&amp;aacute;ci&amp;aacute;ch s možnosťou využitia mestskej hromadnej dopravy.&lt;/p&gt;
+
+&lt;p&gt;Funkčn&amp;eacute; využitie pozemku, podľa &amp;Uacute;zemn&amp;eacute;ho pl&amp;aacute;nu mesta Ko&amp;scaron;ice, sa jedn&amp;aacute; čiastočne o plochy pre občiansku vybavenosť a čiastočne o plochy pre verejn&amp;eacute; dopravn&amp;eacute; a technick&amp;eacute; vybavenie. Pozemok je zahrnut&amp;yacute; podľa Miestneho &amp;uacute;zemn&amp;eacute;ho syst&amp;eacute;mu ekologickej stability mesta Ko&amp;scaron;ice (M&amp;Uacute;SES) do interakčn&amp;eacute;ho prvku IP 32 Nemocnica v MČ &amp;Scaron;aca, ktor&amp;eacute; je s&amp;uacute;časťou stabilizovan&amp;eacute;ho &amp;uacute;zemia, ktor&amp;eacute; predstavuje &amp;uacute;zemie existuj&amp;uacute;cej urbanistickej &amp;scaron;trukt&amp;uacute;ry, kde &amp;uacute;zemn&amp;yacute; pl&amp;aacute;n mesta stanovuje funkčn&amp;eacute; využ&amp;iacute;vanie a priestorov&amp;eacute; usporiadanie v s&amp;uacute;lade so s&amp;uacute;časn&amp;yacute;m stavom. Podmienky pre stavebn&amp;eacute; z&amp;aacute;mery v tomto &amp;uacute;zem&amp;iacute; maj&amp;uacute; byť aplikovan&amp;eacute; v kontexte s konkr&amp;eacute;tnou urbanistickou situ&amp;aacute;ciou. V&amp;yacute;stavba na t&amp;yacute;chto ploch&amp;aacute;ch nie je vyl&amp;uacute;čen&amp;aacute;. Pri v&amp;yacute;stavbe, ktor&amp;aacute; dopĺňa existuj&amp;uacute;cu stavebn&amp;uacute; &amp;scaron;trukt&amp;uacute;ru, je potrebn&amp;eacute; re&amp;scaron;pektovať charakter okolitej z&amp;aacute;stavby. Pri v&amp;yacute;stavbe objektov v založenej uličnej z&amp;aacute;stavbe je potrebn&amp;eacute; dodržať spojnicu alebo predĺžen&amp;uacute; l&amp;iacute;niu fas&amp;aacute;d susedn&amp;yacute;ch hlavn&amp;yacute;ch objektov na ulici (podľa &amp;Uacute;zemn&amp;eacute;ho pl&amp;aacute;nu mesta Ko&amp;scaron;ice, https://opendata.kosice.sk/pages/uzemny-plan). V lokalite je vybudovan&amp;aacute; kompletn&amp;aacute; technick&amp;aacute; infra&amp;scaron;trukt&amp;uacute;ra s veľmi dobrou vybavenosťou (možnosť napojenia na verejn&amp;eacute; siete - elektrick&amp;aacute; energia, vodovod, kanaliz&amp;aacute;cia, plyn). Jedn&amp;aacute; o nezastavan&amp;yacute; pozemok, určen&amp;yacute; &amp;uacute;zemn&amp;yacute;m pl&amp;aacute;nom na vy&amp;scaron;&amp;scaron;ie využitie, než na ak&amp;eacute; sl&amp;uacute;ži v s&amp;uacute;časnosti, vhodn&amp;yacute; tvar a veľkosť pozemkov, ako aj zv&amp;yacute;&amp;scaron;en&amp;yacute; z&amp;aacute;ujem o k&amp;uacute;pu, je povy&amp;scaron;uj&amp;uacute;cim faktorom. Pozemok nem&amp;aacute; zabezpečen&amp;yacute; pr&amp;iacute;stup z verejnej komunik&amp;aacute;cie zo žiadnej strany (ani spolu s pozemkom KN-C č. 3084), v&amp;scaron;etky susediace pozemky s&amp;uacute; vo vlastn&amp;iacute;ctve fyzick&amp;yacute;ch alebo pr&amp;aacute;vnick&amp;yacute;ch os&amp;ocirc;b, a navy&amp;scaron;e cez cel&amp;yacute; pozemok v pozdĺžnom smere, v severoz&amp;aacute;padnej časti, je veden&amp;eacute; podzemn&amp;eacute; vedenie plynu.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Parcela&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Druh pozemku&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Spolu v&amp;yacute;mera [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Spoluvlastn&amp;iacute;cky podiel&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;V&amp;yacute;mera [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;3083&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;Ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1760,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1760,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;&lt;em&gt;Predmet dražby sa draž&amp;iacute; tak ako &amp;bdquo;stoj&amp;iacute; a&amp;nbsp;lež&amp;iacute;&amp;ldquo;. &amp;nbsp;Vzhľadom na skutočnosť, že predmetom dražby je použit&amp;aacute; vec, ktor&amp;aacute; sa prev&amp;aacute;dza v&amp;nbsp;stave v&amp;nbsp;akom sa nach&amp;aacute;dza ku dňu konania dražby nezodpoved&amp;aacute; navrhovateľ ani dražobn&amp;iacute;k za jej vady. Dražobn&amp;iacute;k s&amp;uacute;časne oboznamuje &amp;uacute;častn&amp;iacute;kov dražby, že na tento predaj prostredn&amp;iacute;ctvom dražby sa v&amp;nbsp;s&amp;uacute;lade s &amp;sect; 612 ods. 3 p&amp;iacute;sm. b) OZ nevzťahuj&amp;uacute; ustanovenia &amp;sect; 615 až 626 OZ spotrebiteľskej k&amp;uacute;pnej zmluvy upravuj&amp;uacute;cich akosť pred&amp;aacute;vanej veci,&amp;nbsp;zodpovednosť za vady &amp;nbsp;na n&amp;aacute;roky z&amp;nbsp;nich vypl&amp;yacute;vaj&amp;uacute;ce a&amp;nbsp;ustanovenia o&amp;nbsp;spotrebiteľskej z&amp;aacute;ruke. &amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>LV č. 1511
+Zriadenie vecného bremena spočívajúceho v povinnosti a) strpieť na pozemku parc.č. 3083 uloženie plynovodu s príslušenstvom pod zemský povrch, jeho následnú prevádzku a údržbu v rozsahu vyznačenom v GP č. 79/2013 b) strpieť vstup osôb a vjazd vozidiel oprávneného z vecného bremena z dôvodu uloženia, prevádzky, úrdžby, opráv, odborných prehliadok, odborných skúšok a rekonštrukcie plynovodov s príslušenstvom v nevyhnutnom rozsahu na celej výmere pac.č. 3083, v prospech SPP-distribúcia, a.s., Mlynské nivy 44/b, 825 11 Bratislava, IČO: 35910739, V-8571/2013 zo dňa 23.10.2013 v.z.553/13 (parcely prečíslované pri obnove katastrálneho operátu novým mapovaním)
+
+Uznesenie MS Košice Sp. zn.: 69C/1/2024 o návrhu na nariadenie zabezpečovacieho opatrenia, ktorým sa zriaďuje záložné právo v prospech [skryté] (nar. [skryté]) Košice, Jasuschova 1184/14 za účelom zabezpečenia pohľadávky, Z - 292/2024 - 85/2024 ( parc.č. 3084, 3083 ) (parcely prečíslované pri obnove katastrálneho operátu novým mapovaním)
+
+Uznesenie MS Košice Sp. zn.: 34C/11/2024 o návrhu na nariadenie zabezpečovacieho opatrenia, ktorým sa zriaďuje záložné právo v prospech JU[skryté] (nar. [skryté]) Gorazda Zvonického 6529/44, 071 01 Michalovce za účelom zabezpečenia pohľadávky, Z - 1897/2024 - 265/2024 ( parc.č. 3084, 3083 ), Nadobudlo právoplatnosť dňa: 7.5.2024, Z-2949/2024 č.z. 440/2024 (parcely prečíslované pri obnove katastrálneho operátu novým mapovaním)
+
+Uznesenie MS Košice Sp. zn.: 34C/11/2024 o návrhu na nariadenie zabezpečovacieho opatrenia, ktorým sa zriaďuje záložné právo v prospech Ph[skryté] (nar. [skryté]) Gorazda Zvonického 6529/44, 071 01 Michalovce za účelom zabezpečenia pohľadávky, Z - 1897/2024 - 265/2024 ( parc.č. 3084, 3083 ), Nadobudlo právoplatnosť dňa: 7.5.2024, Z-2949/2024 č.z. 440/2024 (parcely prečíslované pri obnove katastrálneho operátu novým mapovaním)
+</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad>znaleckým posudkom č. 4/2026, súdnym znalcom Ing. Emíliou Hasíkovou v sume 228.000,- € </ns0:PredmetCenaOdhad>
+  <ns0:PredmetCenaVyska>neúspešná</ns0:PredmetCenaVyska>
+  <ns0:PredmetCenaSposobStanovenia xsi:nil="true" />
+  <ns0:PredmetPodmienkyOdovzdania xsi:nil="true" />
+  <ns0:NajnizsiePodanie>nebolo urobené</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie xsi:nil="true" />
+  <ns0:Zabezpeka xsi:nil="true" />
+  <ns0:SposobUhradyCeny xsi:nil="true" />
+  <ns0:ObhliadkaDatum xsi:nil="true" />
+  <ns0:ObhliadkaMiesto xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia xsi:nil="true" />
+  <ns0:NadobudnutieVlastnickehoPrava xsi:nil="true" />
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

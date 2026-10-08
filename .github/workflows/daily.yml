@@ -1,0 +1,83 @@
+# Nočný zber dražieb: OV (Datahub) → NCRD → geokódovanie → export JSON → commit → Vercel nasadí.
+#
+# Databáza (SQLite) sa medzi behmi drží v cache GitHub Actions; keď chýba, postaví sa znova z Datahubu.
+name: Denný zber dražieb
+
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Pri prázdnej databáze: koľko dní dozadu stiahnuť z OV"
+        default: "150"
+  schedule:
+    - cron: "0 0 * * *"   # 02:00 SELČ (v zime 01:00 SEČ)
+
+concurrency:
+  group: daily-scrape
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Inštalácia
+        run: pip install -e '.[dev,postgres]'
+
+      - name: Testy
+        run: pytest -q
+
+      # Databáza sa prenáša cez cache (verejne sa stiahnuť nedá – obsahuje pôvodné texty oznámení).
+      # Denný beh ju drží živú; keď vypadne, zber si ju postaví znova z Datahubu (--days).
+      - name: Obnova databázy
+        uses: actions/cache/restore@v4
+        with:
+          path: data/drazby.sqlite
+          key: drazby-db-${{ github.run_id }}
+          restore-keys: drazby-db-
+
+      - name: Zber
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_FROM: ${{ secrets.SMTP_FROM }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: python -m drazby daily --send --days "${{ inputs.days || '150' }}"
+
+      - name: Uloženie databázy
+        if: always()
+        run: sqlite3 data/drazby.sqlite "PRAGMA wal_checkpoint(TRUNCATE);" || true
+
+      - name: Uloženie databázy do cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: data/drazby.sqlite
+          key: drazby-db-${{ github.run_id }}
+
+      - name: Prehľad behu
+        if: always()
+        run: python -m drazby stats >> "$GITHUB_STEP_SUMMARY" || true
+
+      - name: Commit exportu
+        run: |
+          git config user.name "Matúš Mader"
+          git config user.email "matus.mader00@gmail.com"
+          git add web/public/data
+          if git diff --cached --quiet; then echo "Žiadne zmeny"; exit 0; fi
+          git commit -m "Dáta: denný zber $(date -u +%F)"
+          git pull --rebase -q origin main
+          git push

@@ -1,0 +1,1512 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Drazba xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="/PortalJustice/XmlFormularObchodnyVestnik/">
+  <Cislo>900524</Cislo>
+  <ZoDna xsi:nil="true" />
+  <Drazobnik>
+    <ObchodneMenoNazov xmlns="">LICITOR group, a.s.</ObchodneMenoNazov>
+    <Sidlo xmlns="">
+      <Ulica>Sládkovičova</Ulica>
+      <Cislo>6</Cislo>
+      <Obec>Žilina</Obec>
+      <Psc>01001</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud xmlns="" Kod="131">Okresný súd Žilina</Sud>
+    <Oddiel xmlns="">Sa</Oddiel>
+    <Vlozka xmlns="">10476/L</Vlozka>
+    <Ico xmlns="">36421561</Ico>
+  </Drazobnik>
+  <Navrhovatelia xsi:nil="true" />
+  <LicitatoriHeader>Označenie licitátora</LicitatoriHeader>
+  <Licitatori>
+    <Licitator>
+      <Id>1</Id>
+      <CeleMeno>
+        <ObchodneMenoNazov xmlns="">JUDr. Martin Šustek, LL.M.</ObchodneMenoNazov>
+        <Sidlo xmlns="">
+          <Ulica>-</Ulica>
+          <Cislo>-</Cislo>
+          <Obec>-</Obec>
+          <Psc>-</Psc>
+          <Stat>SR</Stat>
+        </Sidlo>
+        <Oddiel xmlns="" />
+        <Vlozka xmlns="" />
+        <Ico xmlns="">12345679</Ico>
+      </CeleMeno>
+    </Licitator>
+  </Licitatori>
+  <Notar xsi:nil="true" />
+  <KonanieMiesto>sídlo dražobníka – Sládkovičova 181/6, 010 01 Žilina (dražobná miestnosť  – v suteréne)</KonanieMiesto>
+  <KonanieDatum>2026-08-19</KonanieDatum>
+  <KonanieCas>10:00 hod.</KonanieCas>
+  <Kolo>6.kolo</Kolo>
+  <Predmet>&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Č&amp;iacute;slo LV&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Katastr&amp;aacute;lne &amp;uacute;zemie&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Veden&amp;eacute; Okresn&amp;yacute;m &amp;uacute;radom, katastr&amp;aacute;lny odbor&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;8872&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Trenč&amp;iacute;n&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;Trenč&amp;iacute;n&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;&lt;strong&gt;Pozemky parcely registra &amp;bdquo;C&amp;ldquo;:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Parc. č.&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;mera v m&lt;sup&gt;2&lt;/sup&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Sp&amp;ocirc;sob využitia pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 989&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;16&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#bfbfbf"&gt;
+			&lt;p&gt;&lt;strong&gt;Stavby na pozemku:&amp;nbsp; &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;S&amp;uacute;p. č. stavby&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Postaven&amp;aacute; na par. č.&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh stavby&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Pozn&amp;aacute;mka&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č. 2 - Sklad&lt;/strong&gt; nach&amp;aacute;dzaj&amp;uacute;ci sa v&amp;nbsp;suter&amp;eacute;ne (-1) vo vchode -,&amp;nbsp; polyfunkčn&amp;eacute;ho objektu č. 6972 &lt;strong&gt;so spoluvlastn&amp;iacute;ckym podielom 4320/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č. 3 -Sklad&lt;/strong&gt; nach&amp;aacute;dzaj&amp;uacute;ci sa v&amp;nbsp;suter&amp;eacute;ne (-1) vo vchode -,&amp;nbsp; polyfunkčn&amp;eacute;ho objektu č. 6972 &lt;strong&gt;so spoluvlastn&amp;iacute;ckym podielom 2840/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č. 4 - Sklad&lt;/strong&gt; nach&amp;aacute;dzaj&amp;uacute;ci sa v&amp;nbsp;suter&amp;eacute;ne (-1) vo vchode -,&amp;nbsp; polyfunkčn&amp;eacute;ho objektu č. 6972 &lt;strong&gt;so spoluvlastn&amp;iacute;ckym podielom 1240/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č. 5 - Sklad&lt;/strong&gt; nach&amp;aacute;dzaj&amp;uacute;ci sa v&amp;nbsp;suter&amp;eacute;ne (-1) vo vchode -,&amp;nbsp; polyfunkčn&amp;eacute;ho objektu č. 6972 &lt;strong&gt;so spoluvlastn&amp;iacute;ckym podielom 800/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č. 6 &amp;ndash; Zariadenie obchodu&lt;/strong&gt; nach&amp;aacute;dzaj&amp;uacute;ci sa na pr&amp;iacute;zem&amp;iacute; vo vchode -,&amp;nbsp; polyfunkčn&amp;eacute;ho objektu č. 6972 &lt;strong&gt;so spoluvlastn&amp;iacute;ckym podielom 72588/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č. 7 &amp;ndash; Zariadenie obchodu&lt;/strong&gt; nach&amp;aacute;dzaj&amp;uacute;ci sa na pr&amp;iacute;zem&amp;iacute; vo vchode -,&amp;nbsp; polyfunkčn&amp;eacute;ho objektu č. 6972 &lt;strong&gt;so spoluvlastn&amp;iacute;ckym podielom 440/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č. 8 &amp;ndash; Zariadenie obchodu&lt;/strong&gt; nach&amp;aacute;dzaj&amp;uacute;ci sa na 1. poschod&amp;iacute; vo vchode -,&amp;nbsp; polyfunkčn&amp;eacute;ho objektu č. 6972 &lt;strong&gt;so spoluvlastn&amp;iacute;ckym podielom 82384/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č. 9 &amp;ndash; Zariadenie obchodu&lt;/strong&gt; nach&amp;aacute;dzaj&amp;uacute;ci sa na 2. poschod&amp;iacute; vo vchode -,&amp;nbsp; polyfunkčn&amp;eacute;ho objektu č. 6972 &lt;strong&gt;so spoluvlastn&amp;iacute;ckym podielom 82600/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č. 10 &amp;ndash; Zariadenie verejnej spr&amp;aacute;vy a&amp;nbsp;administrat&amp;iacute;vy &lt;/strong&gt;&amp;nbsp;nach&amp;aacute;dzaj&amp;uacute;ci sa na 2. poschod&amp;iacute; vo vchode -,&amp;nbsp; polyfunkčn&amp;eacute;ho objektu č. 6972 &lt;strong&gt;so spoluvlastn&amp;iacute;ckym podielom 1430/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č. 11 &amp;ndash; Zariadenie obchodu&lt;/strong&gt; nach&amp;aacute;dzaj&amp;uacute;ci sa na 3. poschod&amp;iacute; vo vchode -,&amp;nbsp; polyfunkčn&amp;eacute;ho objektu č. 6972 &lt;strong&gt;so spoluvlastn&amp;iacute;ckym podielom 83605/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;&amp;scaron;ka spoluvlastn&amp;iacute;ckeho podielu &amp;nbsp;z&amp;aacute;ložcu&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;1/1 &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Spoluvlastn&amp;iacute;cky podiel vo v&amp;yacute;&amp;scaron;ke 20/26 &lt;/strong&gt;na nebytovom priestore č. 1 - Gar&amp;aacute;ž nach&amp;aacute;dzaj&amp;uacute;cej sa v&amp;nbsp;suter&amp;eacute;ne (-1) vo vchode -, polyfunkčn&amp;eacute;ho objektu č. 6972&lt;strong&gt; so spoluvlastn&amp;iacute;ckym podielom 68000/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;&amp;scaron;ka spoluvlastn&amp;iacute;ckeho podielu &amp;nbsp;z&amp;aacute;ložcu&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;20/26&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/em&gt;&lt;/p&gt;
+</Predmet>
+  <PredmetOpis>&lt;p&gt;&lt;em&gt;&lt;u&gt;Nebytov&amp;eacute; priestory v&amp;nbsp;polyfunkčnom objekte SEKO&amp;amp;DAPA s&amp;uacute;p. č. 6972, na ul. Legion&amp;aacute;rska, v&amp;nbsp;kat. &amp;uacute;z. Trenč&amp;iacute;n&lt;/u&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Polyfunkčn&amp;yacute; objekt SEKO&amp;amp;DAPA č.s. 6972 na parc. KN č. 696/18 k.&amp;uacute;. Trenč&amp;iacute;n je situovan&amp;yacute; v r&amp;aacute;mci zastavan&amp;eacute;ho &amp;uacute;zemia krajsk&amp;eacute;ho mesta Trenč&amp;iacute;n, v k.&amp;uacute;. Trenč&amp;iacute;n, na pozemku ohraničenom ulicami Legion&amp;aacute;rska a K dolnej stanici. Postaven&amp;yacute; je ako koncov&amp;yacute; objekt mestsk&amp;eacute;ho bloku skladaj&amp;uacute;ceho sa z troch samostatn&amp;yacute;ch budov. Posudzovan&amp;aacute; lokalita spad&amp;aacute; do centra mesta, s veľmi dobrou dostupnosťou do historick&amp;eacute;ho centra mesta a do ostatn&amp;yacute;ch čast&amp;iacute; mesta prostriedkami MHD a osobnou dopravou. Dopravn&amp;aacute; dostupnosť in&amp;yacute;ch s&amp;iacute;deln&amp;yacute;ch &amp;uacute;tvarov je medzimestskou autobusovou dopravou, železničnou dopravou. Vybavenosť lokality inžinierskymi sieťami zahŕňa verejn&amp;yacute; rozvod vody, kanaliz&amp;aacute;cie, plynu, el. energie, d&amp;aacute;tov&amp;eacute; siete.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Dispozičn&amp;eacute; rie&amp;scaron;enie:&lt;/u&gt; Objekt m&amp;aacute; 6. nadzemn&amp;yacute;ch podlaž&amp;iacute;, z toho 5.-6. podlažie s&amp;uacute; ustupuj&amp;uacute;ce a jedno podzemn&amp;eacute; podlažie. 1.-4. NP s&amp;uacute; rie&amp;scaron;en&amp;eacute; ako obchodn&amp;eacute; a administrat&amp;iacute;vne priestory a priestory s prev&amp;aacute;dzkami služieb, na 2. Np je v s&amp;uacute;časnosti chr&amp;aacute;nen&amp;aacute; dielňa, na 5. - 6. NP s&amp;uacute; byty, na I. PP (Suter&amp;eacute;n) je hromadn&amp;aacute; gar&amp;aacute;ž s technick&amp;yacute;m z&amp;aacute;zem&amp;iacute;m. Hlavn&amp;yacute; vstup do objektu je z v&amp;yacute;chodnej strany, do časti priestorov nebytov&amp;eacute;ho priestoru č. 6 je samostatn&amp;yacute; v stup priamo z ulice. Pre nebytov&amp;yacute; priestor č. 1 v suter&amp;eacute;ne objektu (hromadn&amp;aacute; gar&amp;aacute;ž s technick&amp;yacute;m z&amp;aacute;zem&amp;iacute;m), z&amp;aacute;sobovanie a vstup zamestnancov pre obchodn&amp;eacute; prev&amp;aacute;dzky je vstup zo z&amp;aacute;padnej strany.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Dispozičn&amp;eacute; rie&amp;scaron;enie posudzovan&amp;yacute;ch podlaž&amp;iacute;:&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;- I. PP (suter&amp;eacute;n): parking, schodisko, strojovňa VZT, schodisko prev&amp;aacute;dzkov&amp;eacute;, predsieň, kotolňa, sklad.&lt;/p&gt;
+
+&lt;p&gt;- I. NP (pr&amp;iacute;zemie): vstupn&amp;aacute; hala + schodisko, predajňa potrav&amp;iacute;n, predajn&amp;eacute; priestory 3x, skladov&amp;eacute; priestory pre potraviny, automobilov&amp;aacute; rampa do I, PP, manipulačn&amp;yacute; priestor z&amp;aacute;sob 1. NP, manipulačn&amp;yacute; priestor z&amp;aacute;sob D. NP - V, NP, schodisko, predsieň, vr&amp;aacute;tnica (str&amp;aacute;žna služba), chodba, &amp;scaron;atňa muži, &amp;scaron;atňa ženy, kancel&amp;aacute;ria, manipulačn&amp;yacute; priestor, sklad 2x&lt;/p&gt;
+
+&lt;p&gt;- II. NP: schodiskov&amp;aacute; hala, predajn&amp;yacute; priestor, schodisko, predsieň, &amp;scaron;atňa muži, &amp;scaron;atňa Ženy, chodba + kuchynsk&amp;yacute; k&amp;uacute;t, WC ženy zamestnanci, WC muži zamestnanci, upratovačka, WC ženy, WC muži, WC telesne postihnut&amp;yacute;, skladov&amp;eacute; priestory, komunikačn&amp;yacute; priestor&lt;/p&gt;
+
+&lt;p&gt;- III. NP: schodiskov&amp;aacute; hala, predajn&amp;yacute; priestor, schodisko, predsieň, kancel&amp;aacute;ria sekretari&amp;aacute;tu, kancel&amp;aacute;ria riaditeľa, WC muži zamestnanci, WC ženy zamestnanci, &amp;scaron;atňa muži, &amp;scaron;atňa ženy, chodba + kuchynsk&amp;yacute; k&amp;uacute;t, skladov&amp;eacute; priestory, komunikačn&amp;yacute; priestor&lt;/p&gt;
+
+&lt;p&gt;- IV.NP: schodiskov&amp;aacute; hala, predajn&amp;yacute; priestor, služby (kadern&amp;iacute;ctvo, stomatol&amp;oacute;g), vedľaj&amp;scaron;ie schodisko, predsieň, &amp;scaron;atňa muži, &amp;scaron;atňa ženy, chodba + kuchynsk&amp;yacute; k&amp;uacute;t, WC ženy zamestnanci, WC muži zamestnanci, upratovačka, sklad, komunikačn&amp;yacute; priestor&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Popis polyfunkčn&amp;eacute;ho domu:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Objekt je založen&amp;yacute; na &amp;scaron;irokoprofilov&amp;yacute;ch pilotoch z prost&amp;eacute;ho bet&amp;oacute;nu so železobet&amp;oacute;nov&amp;yacute;mi hlavicami. Z&amp;aacute;klady pod nosn&amp;yacute;mi m&amp;uacute;rmi s&amp;uacute; rie&amp;scaron;en&amp;eacute; železobet&amp;oacute;nov&amp;yacute;mi p&amp;aacute;sov&amp;yacute;mi nosn&amp;iacute;kmi. Zvisl&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie s&amp;uacute; vytvoren&amp;eacute; železobet&amp;oacute;nov&amp;yacute;mi stĺpmi 400/400mm resp. 450/450 v I.PP a s monolitick&amp;yacute;mi prievlakmi v oboch smeroch, s v&amp;yacute;plňov&amp;yacute;m murivom. Stropy doskov&amp;eacute; železobet&amp;oacute;nov&amp;eacute; monolitick&amp;eacute;, v niektor&amp;yacute;ch priestoroch so sadrokart&amp;oacute;nov&amp;yacute;m podhľadom. V časti nosn&amp;eacute; murivo z teh&amp;aacute;l POROTHERM hr. 300 mm resp. 400 mm. Priečky murovan&amp;eacute; z teh&amp;aacute;l POROTHERM. Schodisk&amp;aacute; železobet&amp;oacute;nov&amp;eacute; monolitick&amp;eacute; s obkladom proti&amp;scaron;mykovou dlažbou. Strecha ploch&amp;aacute;, s krytinou na b&amp;aacute;ze PVC, v časti poch&amp;ocirc;dzna s vym&amp;yacute;vanou dlažbou resp. s ochrann&amp;yacute;m &amp;scaron;trkom. Tepeln&amp;aacute; izol&amp;aacute;cia strechy tvrden&amp;aacute; hr. 200 mm. s vym&amp;yacute;vanou dlažbou resp. s ochrann&amp;yacute;m &amp;scaron;trkom. Tepeln&amp;aacute; izol&amp;aacute;cia strechy tvrden&amp;aacute; hr. 200 mm. Vonkaj&amp;scaron;ia fas&amp;aacute;da je so zateplen&amp;iacute;m polystyr&amp;eacute;nom, vn&amp;uacute;torn&amp;eacute; omietky s&amp;uacute; v&amp;aacute;penno cementov&amp;eacute; hladk&amp;eacute;. Obklady stien v soci&amp;aacute;lnych zariadeniach a kuchynk&amp;aacute;ch s&amp;uacute; keramick&amp;eacute;. Podlahy na chodb&amp;aacute;ch s&amp;uacute; vyhotoven&amp;eacute; z keramickej dlažby, Okn&amp;aacute; s&amp;uacute; prevažne z plastov&amp;yacute;ch profilov, v&amp;yacute;kladce v r&amp;aacute;mci prev&amp;aacute;dzok na 1. NP s&amp;uacute; oceľohlin&amp;iacute;kov&amp;eacute;, pr&amp;iacute;padne plastov&amp;eacute;, interi&amp;eacute;rov&amp;eacute; dvere s&amp;uacute; hladk&amp;eacute;, niektor&amp;eacute; protipožiarne, vstupn&amp;eacute; dvere s&amp;uacute; oceľohlin&amp;iacute;kov&amp;eacute; s izolačn&amp;yacute;m sklom, gar&amp;aacute;žov&amp;eacute; vr&amp;aacute;ta rolovacie. Vykurovanie je &amp;uacute;stredn&amp;eacute; teplovodn&amp;eacute;. Zdrojom vykurovania a T&amp;Uacute;V s&amp;uacute; dielčie vykurovacie syst&amp;eacute;my sl&amp;uacute;žiace jednotliv&amp;yacute;m podlažiam s kotlami na zemn&amp;yacute; plyn, s ohrevom teplej vody. Odvod spal&amp;iacute;n do kom&amp;iacute;na Schiedel. Dom je napojen&amp;yacute; na v&amp;scaron;etky inžinierske siete, rozvody vody, kanaliz&amp;aacute;cie, NN, zemn&amp;eacute;ho plynu, d&amp;aacute;tov&amp;eacute; rozvody.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Dom je vybaven&amp;yacute; rozvodmi k&amp;aacute;blovej telev&amp;iacute;zie, bleskozvodom, telef&amp;oacute;nnymi rozvodmi, rozvodom požiarnej vody, vn&amp;uacute;tornou vzduchotechnikou, niektor&amp;eacute; priestory maj&amp;uacute; klimatizačn&amp;eacute; jednotky, osobn&amp;yacute;m a n&amp;aacute;kladn&amp;yacute;m v&amp;yacute;ťahom, zabezpečovac&amp;iacute;m syst&amp;eacute;mom, EPS a elektronick&amp;yacute;m vr&amp;aacute;tnikom. Objekt bol v čase ohodnotenia v technickom stave zodpovedaj&amp;uacute;com roku v&amp;yacute;stavby, v priemernom materi&amp;aacute;lovom vyhotoven&amp;iacute; (okrem zrekon&amp;scaron;truovanej prev&amp;aacute;dzky fitness centra s&amp;nbsp;vlastn&amp;yacute;mi dodatočn&amp;yacute;m technick&amp;yacute;m vybaven&amp;iacute;m &amp;ndash; nie je zahrnut&amp;eacute; do ohodnotenia), vykazuj&amp;uacute;com dobr&amp;uacute; bežn&amp;uacute; &amp;uacute;držbu.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Popis nebytov&amp;yacute;ch priestorov:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Vn&amp;uacute;torn&amp;eacute; omietky s&amp;uacute; v&amp;aacute;penno cementov&amp;eacute; hladk&amp;eacute;, v niektor&amp;yacute;ch priestoroch s tapetami, podhľady sadrokart&amp;oacute;nov&amp;eacute;. Podlahy takmer vo v&amp;scaron;etk&amp;yacute;ch priestoroch s&amp;uacute; vyhotoven&amp;eacute; z keramickej dlažby, v predajni v nebytovom priestore č.6 je podlaha z dreva, podlaha v nebytovom priestore č. 11 je vinylov&amp;aacute;, podlaha v I.PP bet&amp;oacute;nov&amp;aacute; hladk&amp;aacute; s uzatv&amp;aacute;rac&amp;iacute;m lakom. Interi&amp;eacute;rov&amp;eacute; dvere s&amp;uacute; hladk&amp;eacute;, niektor&amp;eacute; protipožiarne. Vybavenie hygienick&amp;yacute;ch zariaden&amp;iacute; tvoria prevažne keramick&amp;eacute; misy kombi, piso&amp;aacute;re, um&amp;yacute;vadl&amp;aacute;, p&amp;aacute;kov&amp;eacute; bat&amp;eacute;rie. Vybavenie kuchyniek zahŕňa kuchynsk&amp;eacute; linky na b&amp;aacute;ze dreva s nerezov&amp;yacute;m um&amp;yacute;vadlom, p&amp;aacute;kov&amp;eacute; bat&amp;eacute;rie, vybavenie z&amp;aacute;zemia nebytov&amp;eacute;ho priestoru č. 6 a 11 nie je zahrnut&amp;eacute; do ohodnotenia, je vlastn&amp;iacute;ctvom n&amp;aacute;jomn&amp;iacute;ka. V nebytov&amp;yacute;ch priestoroch s&amp;uacute; rozvody studenej a teplej vody, zemn&amp;eacute;ho plynu, kanaliz&amp;aacute;cie, el. energie svetelnej a motorickej, &amp;scaron;trukturovanej kabel&amp;aacute;že, zabezpečovacieho zariadenia.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;V&amp;yacute;počet podlahovej plochy:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č.1 v suter&amp;eacute;ne (1.PP) Polyfunkčn&amp;eacute;ho objektu č.s. 6972 na parc. KN č. 696/18 k.&amp;uacute;. Trenč&amp;iacute;n, obec Trenč&amp;iacute;n, Legion&amp;aacute;rska ul.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;N&amp;aacute;zov miestnosti a v&amp;yacute;počet&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Podlahov&amp;aacute; plocha [m2]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;parkovisko 680,0&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;680,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Vypoč&amp;iacute;tan&amp;aacute; podlahov&amp;aacute; plocha&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;680,00&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;em&gt;Nebytov&amp;yacute; priestor č.2 v suter&amp;eacute;ne (1.PP) Polyfunkčn&amp;eacute;ho objektu č.s. 6972 na parc. KN č. 696/18 k.&amp;uacute;. Trenč&amp;iacute;n, obec Trenč&amp;iacute;n, Legion&amp;aacute;rska ul.&lt;/em&gt;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;N&amp;aacute;zov miestnosti a v&amp;yacute;počet&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Podlahov&amp;aacute; plocha [m2]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;sklad 5,70*7,58&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;43,21&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Vypoč&amp;iacute;tan&amp;aacute; podlahov&amp;aacute; plocha&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;43,21&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;em&gt;Nebytov&amp;yacute; priestor č.3 v suter&amp;eacute;ne (1.PP) Polyfunkčn&amp;eacute;ho objektu č.s. 6972 na parc. KN č. 696/18 k.&amp;uacute;. Trenč&amp;iacute;n, obec Trenč&amp;iacute;n, Legion&amp;aacute;rska ul.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;N&amp;aacute;zov miestnosti a v&amp;yacute;počet&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Podlahov&amp;aacute; plocha [m&lt;/strong&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;strong&gt;]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;sklad 4,80*5,916&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;28,40&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Vypoč&amp;iacute;tan&amp;aacute; podlahov&amp;aacute; plocha&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;28,40&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;em&gt;Nebytov&amp;yacute; priestor č.4 v suter&amp;eacute;ne (1.PP) Polyfunkčn&amp;eacute;ho objektu č.s. 6972 na parc. KN č. 696/18 k.&amp;uacute;. Trenč&amp;iacute;n, obec Trenč&amp;iacute;n, Legion&amp;aacute;rska ul.&lt;/em&gt;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;N&amp;aacute;zov miestnosti a v&amp;yacute;počet&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Podlahov&amp;aacute; plocha [m2]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;sklad 7,25*(2,22+1,20)/2&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;12,40&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Vypoč&amp;iacute;tan&amp;aacute; podlahov&amp;aacute; plocha&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;12,40&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Nebytov&amp;yacute; priestor č.5 v suter&amp;eacute;ne (1.PP) Polyfunkčn&amp;eacute;ho objektu č.s. 6972 na parc. KN č. 696/18 k.&amp;uacute;. Trenč&amp;iacute;n, obec Trenč&amp;iacute;n, Legion&amp;aacute;rska ul.&lt;/em&gt;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;N&amp;aacute;zov miestnosti a v&amp;yacute;počet&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Podlahov&amp;aacute; plocha [m2]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;sklad 1,15*6,95&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;7,99&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Vypoč&amp;iacute;tan&amp;aacute; podlahov&amp;aacute; plocha&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;7,99&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č.6 na pr&amp;iacute;zem&amp;iacute; (1.NP) Polyfunkčn&amp;eacute;ho objektu č.s. 6972 na parc. KN č. 696/18 k.&amp;uacute;. Trenč&amp;iacute;n, obec Trenč&amp;iacute;n, Legion&amp;aacute;rska ul.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;N&amp;aacute;zov miestnosti a v&amp;yacute;počet&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Podlahov&amp;aacute; plocha [m2]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;predajňa 27,10*14,0-1,0*4,3&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;375,10&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;predajn&amp;yacute; priestor 7,10*0,5*(5,10+4,50)&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;34,08&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;predajn&amp;yacute; priestor 6,80*(5,30+6,20)/2-1,5*1,2&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;37,30&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;predajn&amp;yacute; priestor 7,23*(4,10+5,10)/2-1,5*1,2&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;31,46&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;sklad 4,60*4,05&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;18,63&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;manipulačn&amp;yacute; priestor 8,50*3,3+1,5*1,30&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;30,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;vr&amp;aacute;tnica 2,80*4,20&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;11,76&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;chodba 4,45*1,75-1,90*0,62+2,70*2,85+4,18*1,05&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;18,69&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;scaron;atňa M1,50*3,20&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4,80&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;scaron;atňa Ž 3,05*3,10-0,49*1,09+1,40*1,15&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;10,53&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;kancel&amp;aacute;ria 4,08*2,80&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;11,42&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;WC M 3,06*1,20&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;3,67&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;WC Ž 3,06*1,2&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;3,67&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;upratovačka 1,36*0,90&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1,22&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;pr&amp;iacute;jem flia&amp;scaron; 5,71*3,65&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;20,84&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;sklad 5,90*4,25&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;25,08&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;sklad 3,20*1,95&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6,24&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;chodba 5,20*1,25+2,45*1,95+5,20*1,30+2,50*1,95+4,40*1,15+2,15*1,20&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;30,55&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;sklad 5,15*5,55&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;28,58&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;pr&amp;iacute;pravovňa 1,95*2,05&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;pr&amp;iacute;pravovňa 1,95*2,05&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;WC 1,05*1,25&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1,31&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;WC 1,05*1,25&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1,31&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;WC 1,05*1,25&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1,31&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;scaron;atňa 1,45*1,50&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2,18&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;sklad 1,45*0,75&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1,09&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;pr&amp;iacute;pravovňa 3,50*2,0&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;7,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Vypoč&amp;iacute;tan&amp;aacute; podlahov&amp;aacute; plocha&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;725,82&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č.7 na pr&amp;iacute;zem&amp;iacute; (1.NP) Polyfunkčn&amp;eacute;ho objektu č.s. 6972 na parc. KN č. 696/18 k.&amp;uacute;. Trenč&amp;iacute;n, obec Trenč&amp;iacute;n, Legion&amp;aacute;rska ul.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;N&amp;aacute;zov miestnosti a v&amp;yacute;počet&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Podlahov&amp;aacute; plocha [m2]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;zariadenie obchodu 2,31*1,90&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4,39&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Vypoč&amp;iacute;tan&amp;aacute; podlahov&amp;aacute; plocha&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;4,39&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č.8 na 1. poschod&amp;iacute; (2.NP) Polyfunkčn&amp;eacute;ho objektu č.s. 6972 na parc. KN č. 696/18 k.&amp;uacute;. Trenč&amp;iacute;n, obec Trenč&amp;iacute;n, Legion&amp;aacute;rska ul.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;N&amp;aacute;zov miestnosti a v&amp;yacute;počet&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Podlahov&amp;aacute; plocha [m2]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;predaj&amp;yacute;&amp;yacute; priestor 35,85*14,0+(5,55+8,62)/2*21,40&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;653,52&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;scaron;atňa M 4,05*2,49-0,9*0,6&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9,54&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;scaron;atňa Ž 4,05*3,39-0,97*0,57-2,30*0,5&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;12,03&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;kancel&amp;aacute;ria 3,15*6,0&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;18,90&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;kancel&amp;aacute;ria 4,06*2,60&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;10,56&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;WC M 2,42*1,5&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;3,63&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Predsieň WC M 1,51*1,50&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2,27&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;WC Ž 1,76*1,35&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2,38&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Predsieň WC Ž 2,17*1,35&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2,93&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;chodba 11,77*1,87+0,59*2,33-0,50*1,42&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;22,67&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;sklad(7,65+4,35)/2*14,23&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;85,38&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Vypoč&amp;iacute;tan&amp;aacute; podlahov&amp;aacute; plocha&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;823,81&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č.9 na 2. poschod&amp;iacute; (3.NP) Polyfunkčn&amp;eacute;ho objektu č.s. 6972 na parc. KN č. 696/18 k.&amp;uacute;. Trenč&amp;iacute;n, obec Trenč&amp;iacute;n, Legion&amp;aacute;rska ul.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;N&amp;aacute;zov miestnosti a v&amp;yacute;počet&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Podlahov&amp;aacute; plocha [m2]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;predajn&amp;yacute; priestor 35,85*14,0+(5,55+8,65)/2*21,40&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;653,84&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;scaron;atňa M 2,44*4,01-1,45*0,5&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9,06&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;scaron;atňa Ž 3,98*2,47&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9,83&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;kancel&amp;aacute;ria 4,72*1,62+2,94*1,57&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;12,26&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;kancel&amp;aacute;ria 4,05*4,14-0,54*0,95&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;16,25&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;WC M 2,20*1,50-0,75*0,75&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2,74&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Predsieň WC M 1,69*1,67&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2,82&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;WC Ž 1,78*1,03&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1,83&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Predsieň WC Ž 2,11*1,03&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2,17&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;chodba 15,052*1,95+0,50*2,30-0,50*1,42-3,0*0,45*0,3&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;29,39&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;sklad 14,35*0,5*(7,20+4,76)&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;85,81&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Vypoč&amp;iacute;tan&amp;aacute; podlahov&amp;aacute; plocha&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;826,00&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č.10 na 2.poschod&amp;iacute; (3.NP) Polyfunkčn&amp;eacute;ho objektu č.s. 6972 na parc. KN č. 696/18 k.&amp;uacute;. Trenč&amp;iacute;n, obec Trenč&amp;iacute;n, Legion&amp;aacute;rska ul.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;N&amp;aacute;zov miestnosti a v&amp;yacute;počet&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Podlahov&amp;aacute; plocha [m2]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;zariadenie administrat&amp;iacute;vy 14,30&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;14,30&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Vypoč&amp;iacute;tan&amp;aacute; podlahov&amp;aacute; plocha&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;14,30&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č.11 na 3 poschod&amp;iacute; (4.NP) Polyfunkčn&amp;eacute;ho objektu č.s. 6972 na parc. KN č. 696/18 k.&amp;uacute;. Trenč&amp;iacute;n, obec Trenč&amp;iacute;n, Legion&amp;aacute;rska ul.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;N&amp;aacute;zov miestnosti a v&amp;yacute;počet&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Podlahov&amp;aacute; plocha [m2]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;priestory fitness 13,84*(25,13+3,54)+14,34*(7,53+5,4)/2-&lt;/p&gt;
+
+			&lt;p&gt;2,56*2,24+(6,90+4,0)/2*21,4+14,85*1,35&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;620,44&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;kancel&amp;aacute;ria 3,80*3,40-0,6*1,0-1,56*0,3&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;11,85&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;kancel&amp;aacute;ria 2,15*3,46&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;7,44&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;predsieň WC Ž 2,80*1,33&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;3,72&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;WC Ž 1,74*1,33&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2,31&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;predsieň WC M 1,66*1,73&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2,87&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;WC M 2,82*1,67-0,76*0,76&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4,13&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;chodba 4,94*2,36+1,85*1,25-0,4*0,25&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;13,87&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;predsieň WC M 2,55*2,36-0,57*1,33-0,30*0,4&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;5,14&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;WC M 3,32*3,09-0,45*1,27&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9,69&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;WC 1,67*2,28&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;3,81&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Predsieň WC Ž 1,65*1,73&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2,85&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;WC Ž 2,85*2,66&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;7,58&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;chodba 5,65*2,13+2,32*0,3-1,45*0,5&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;12,01&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;lapač tukov 4,60&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4,60&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;kozmetika 6,0*6,94&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;41,64&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;kancel&amp;aacute;ria 4,70*6,94&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;32,62&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;scaron;atňa 1,50*3,12&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4,68&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;čak&amp;aacute;reň 3,78*3,09&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;11,68&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;WC 1,50*1,1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1,65&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;WC 1,48*0,89&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1,32&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;predsieň 1,48*0,89&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1,32&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;obchod 5,90*4,83-0,67*1,90+1,30*1,54&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;29,23&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Vypoč&amp;iacute;tan&amp;aacute; podlahov&amp;aacute; plocha&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;836,45&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Polyfunkčn&amp;yacute; objekt SEKO&amp;amp;DAPA č.s. 6972 na parc. KN č. 696/18 k.&amp;uacute;. Trenč&amp;iacute;n je situovan&amp;yacute; v r&amp;aacute;mci zastavan&amp;eacute;ho &amp;uacute;zemia krajsk&amp;eacute;ho mesta Trenč&amp;iacute;n, v k.&amp;uacute;. Trenč&amp;iacute;n, na pozemku ohraničenom ulicami Legion&amp;aacute;rska a K dolnej stanici. Posudzovan&amp;aacute; lokalita spad&amp;aacute; do centra mesta, s veľmi dobrou dostupnosťou do historick&amp;eacute;ho centra mesta a do ostatn&amp;yacute;ch čast&amp;iacute; mesta prostriedkami MHD a osobnou dopravou. Dopravn&amp;aacute; dostupnosť in&amp;yacute;ch s&amp;iacute;deln&amp;yacute;ch &amp;uacute;tvarov je medzimestskou autobusovou dopravou, železničnou dopravou. Vybavenosť lokality inžinierskymi sieťami zahŕňa verejn&amp;yacute; rozvod vody, kanaliz&amp;aacute;cie, plynu, el. energie, d&amp;aacute;tov&amp;eacute; siete. Okolit&amp;uacute; z&amp;aacute;stavbu tvoria prevažne objekty občianskej vybavenosti (&amp;uacute;rad Trenčianskeho samospr&amp;aacute;vneho kraja, administrat&amp;iacute;vne budovy, sieť obchodov a služieb, Fakultn&amp;aacute; nemocnica Trenč&amp;iacute;n, bytov&amp;eacute; domy s obchodn&amp;yacute;mi prev&amp;aacute;dzkami, zdravotn&amp;iacute;cke zariadenia, hotely, re&amp;scaron;taur&amp;aacute;cie, banky, &amp;uacute;rady). Nebytov&amp;eacute; priestory sa nach&amp;aacute;dzaj&amp;uacute; na 1.podzemnom podlaž&amp;iacute; a na 1.-4.nadzemnom podlaž&amp;iacute;, Nebytov&amp;yacute; priestor č. 6 so samostatn&amp;yacute;m vstupom od ulice, ostatn&amp;eacute; nebytov&amp;eacute; priestory č. 8.-11. s&amp;uacute; pr&amp;iacute;stupn&amp;eacute; hlavn&amp;yacute;m spoločn&amp;yacute;m, vstupom a n&amp;aacute;sledne schodiskom/v&amp;yacute;ťahom na 2.-4. nadzemn&amp;eacute; podlažie. Na v&amp;scaron;eobecn&amp;uacute; hodnotu predmetn&amp;yacute;ch nehnuteľnost&amp;iacute; m&amp;aacute; vplyv najm&amp;auml; ich situovanie v r&amp;aacute;mci s&amp;iacute;deln&amp;eacute;ho &amp;uacute;tvaru.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;u&gt;Pozemky&lt;/u&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;spoluvlastn&amp;iacute;cky podiel na pozemku (nebytov&amp;yacute; priestor č.1)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Parcela&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Spolu&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;v&amp;yacute;mera [m2]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Spoluvlastn&amp;iacute;cky&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;podiel&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Spoluvlastn&amp;iacute;cky&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;podiel bytu/nebytu&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;k pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;mera&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;podielu [m2]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;969/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;989,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;20/26&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;68000/497572&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;103,97&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Nebytov&amp;yacute; priestor 2-5 (sklady, suter&amp;eacute;n)&lt;/p&gt;
+
+&lt;p&gt;Pozemky&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Parcela&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Spolu&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;v&amp;yacute;mera [m2]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Spoluvlastn&amp;iacute;cky&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;podiel&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;969/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;989,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Nebytov&amp;yacute; priestor 6-7 (obchodn&amp;eacute; prev&amp;aacute;dzky, 1.NP)&lt;/p&gt;
+
+&lt;p&gt;Pozemky&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Parcela&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Spolu&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;v&amp;yacute;mera [m2]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Spoluvlastn&amp;iacute;cky&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;podiel&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;969/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;989,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Nebytov&amp;yacute; priestor 8-11 (obchodn&amp;eacute; prev&amp;aacute;dzky, 2- 4.NP)&lt;/p&gt;
+
+&lt;p&gt;Pozemky&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Parcela&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Spolu&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;v&amp;yacute;mera [m2]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Spoluvlastn&amp;iacute;cky&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;podiel&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;969/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;989,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</PredmetOpis>
+  <PredmetStavOpis>&lt;p&gt;&lt;strong&gt;Predmet dražby sa draž&amp;iacute; tak ako &amp;bdquo;stoj&amp;iacute; a&amp;nbsp;lež&amp;iacute;&lt;/strong&gt;&lt;em&gt;&amp;ldquo;. &amp;nbsp;Vzhľadom na skutočnosť, že predmetom dražby je použit&amp;aacute; vec, ktor&amp;aacute; sa prev&amp;aacute;dza v&amp;nbsp;stave v&amp;nbsp;akom sa nach&amp;aacute;dza ku dňu konania dražby nezodpoved&amp;aacute; navrhovateľ ani dražobn&amp;iacute;k za jej vady. Dražobn&amp;iacute;k s&amp;uacute;časne oboznamuje &amp;uacute;častn&amp;iacute;kov dražby, že na tento predaj prostredn&amp;iacute;ctvom dražby sa v&amp;nbsp;s&amp;uacute;lade s &amp;sect; 612 ods. 3 p&amp;iacute;sm. b) OZ nevzťahuj&amp;uacute; ustanovenia &amp;sect; 615 až 626 OZ spotrebiteľskej k&amp;uacute;pnej zmluvy upravuj&amp;uacute;cich akosť pred&amp;aacute;vanej veci,&amp;nbsp;zodpovednosť za vady &amp;nbsp;na n&amp;aacute;roky z&amp;nbsp;nich vypl&amp;yacute;vaj&amp;uacute;ce a&amp;nbsp;ustanovenia o&amp;nbsp;spotrebiteľskej z&amp;aacute;ruke. &amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+</PredmetStavOpis>
+  <PredmetPravaZavazky>LV č. 8872
+V 188/16 Záložné právo na nebytový priestor skladový priestor číslo 2 s podielom 4320/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 v prospech Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva číslo 151000085 zo dňa 05.01.2016, v.z.299/16, zm.č.2193/20 
+
+V 6441/2019 - Záložné právo na nebytový priestor skladový priestor číslo 2 s podielom 4320/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 v prospech Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva zo dňa 08.10.2019, Zm.č. 8382/19, 2193/20 
+
+V 188/16 Záložné právo na nebytový priestor skladový priestor číslo 3 s podielom 2840/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 v prospech Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva číslo 151000085 zo dňa 05.01.2016, v.z.299/16, zm.č.2193/20 
+
+V 6441/2019 - Záložné právo na nebytový priestor skladový priestor číslo 3 s podielom 2840/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 v prospech Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva zo dňa 08. 10. 2019, Zm.č. 8382/19, 2193/20 
+
+V 188/16 Záložné právo na nebytový priestor skladový priestor číslo 4 s podielom 1240/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 v prospech Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva číslo 151000085 zo dňa 05.01.2016, v.z.299/16, zm.č.2193/20
+
+V 6441/2019 - Záložné právo na nebytový priestor skladový priestor číslo 4 s podielom 1240/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 v prospech Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva zo dňa 08. 10. 2019, Zm.č. 8382/19, 2193/20
+
+V 188/16 Záložné právo na nebytový priestor skladový priestor číslo 5 s podielom 800/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 v prospech Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva číslo 151000085 zo dňa 05.01.2016, v.z.299/16, zm.č.2193/20
+
+V 6441/2019 - Záložné právo na nebytový priestor skladový priestor číslo 5 s podielom 800/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 v prospech Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva zo dňa 08. 10. 2019, Zm.č. 8382/19, 2193/20
+
+V 188/16 Záložné právo na nebytový priestor zariadenie obchodu číslo 6 s podielom 72588/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 v prospech Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva číslo 151000085 zo dňa 05.01.2016, v.z.299/16, zm.č.2193/20
+
+V 6441/2019 - Záložné právo na nebytový priestor zariadenie obchodu číslo 6 s podielom 72588/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 v prospech Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva zo dňa 08. 10. 2019, Zm.č. 8382/19, 2193/20
+
+V 188/16 Záložné právo na nebytový priestor zariadenie obchodu číslo 7 s podielom 440/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 v prospech Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva číslo 151000085 zo dňa 05.01.2016, v.z.299/16, zm.č.2193/20
+
+V 6441/2019 - Záložné právo na nebytový priestor zariadenie obchodu číslo 7 s podielom 440/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 v prospech Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva zo dňa 08. 10. 2019, Zm.č. 8382/19, 2193/20
+
+V 188/16 Záložné právo na nebytový priestor zariadenie obchodu číslo 8 s podielom 82384/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 v prospech Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva číslo 151000085 zo dňa 05.01.2016, v.z.299/16, zm.č.2193/20
+
+V 6441/2019 - Záložné právo na nebytový priestor zariadenie obchodu číslo 8 s podielom 82384/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 v prospech Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva zo dňa 08. 10. 2019, Zm.č. 8382/19, 2193/20
+
+V 188/16 Záložné právo na nebytový priestor zariadenie obchodu číslo 9 s podielom 82600/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 v prospech Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva číslo 151000085 zo dňa 05.01.2016, v.z.299/16, zm.č.2193/20
+
+V 6441/2019 - Záložné právo na nebytový priestor zariadenie obchodu číslo 9 s podielom 82600/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 v prospech Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva zo dňa 08. 10. 2019, Zm.č. 8382/19, 2193/20
+
+V 188/16 Záložné právo na nebytový priestor zariadenie verejnej správy a administratívy číslo 10 s podielom 1430/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 v prospech Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva číslo 151000085 zo dňa 05.01.2016, v.z.299/16, zm.č.2193/20
+
+V 6441/2019 - Záložné právo na nebytový priestor zariadenie verejnej správy a administratívy číslo 10 s podielom 1430/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 v prospech Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva zo dňa 08. 10. 2019, Zm.č. 8382/19, 2193/20
+
+V 188/16 Záložné právo na nebytový priestor zariadenie obchodu číslo 11 s podielom 83605/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 v prospech Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva číslo 151000085 zo dňa 05.01.2016, v.z.299/16, zm.č.2193/20
+
+V 6441/2019 - Záložné právo na nebytový priestor zariadenie obchodu číslo 11 s podielom 83605/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 v prospech Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva zo dňa 08. 10. 2019, Zm.č. 8382/19, 2193/20
+
+V 188/16 Záložné právo na nebytový priestor garáž číslo 1 s podielom 68000/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 na podiel 20/26 vlastníka pod B: 1 (Daniela Heglasová) v prospech Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva číslo 151000085 zo dňa 05.01.2016, v.z.299/16, zm.č.2193/20
+
+V 6441/2019 - Záložné právo na nebytový priestor garáž číslo 1 s podielom 68000/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 na podiel 20/26 vlastníka pod B: 1 (Daniela Heglasová) v prospech: Fio banka, a.s., IČO: 618 58 374, V Celnici 1028/10, 11721 Praha 1, Česká republika, na základe Zmluvy o zriadení záložného práva číslo zo dňa 08. 10. 2019, Zm.č. 8382/19, 2193/20
+
+Poznámky:
+P-294/2024 oznámenie o začatí výkonu záložného práva na nebytový priestor skladový priestor číslo 2 s podielom 4320/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 predajom v dobrovoľnej dražbe. (V-186/16,V-6441/2019) zmč.1277/24
+
+P-294/2024 oznámenie o začatí výkonu záložného práva na nebytový priestor skladový priestor číslo 3 s podielom 2840/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 predajom v dobrovoľnej dražbe. (V-186/16,V-6441/2019) zmč.1277/24
+
+P-294/2024 oznámenie o začatí výkonu záložného práva na nebytový priestor skladový priestor číslo 4 s podielom 1240/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 predajom v dobrovoľnej dražbe. (V-186/16,V-6441/2019) zmč.1277/24
+
+P-294/2024 oznámenie o začatí výkonu záložného práva na nebytový priestor skladový priestor číslo 5 s podielom 800/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 predajom v dobrovoľnej dražbe. (V-186/16,V-6441/2019) zmč.1277/24
+
+P-294/2024 oznámenie o začatí výkonu záložného práva na nebytový priestor zariadenie obchodu číslo 6 s podielom 72588/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 predajom v dobrovoľnej dražbe. (V-186/16,V-6441/2019) zmč.1277/24
+
+P-294/2024 oznámenie o začatí výkonu záložného práva na nebytový priestor zariadenie obchodu číslo 7 s podielom 440/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 predajom v dobrovoľnej dražbe. (V-186/16,V-6441/2019) zmč.1277/24
+
+P-294/2024 oznámenie o začatí výkonu záložného práva na nebytový priestor zariadenie obchodu číslo 8 s podielom 82384/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 predajom v dobrovoľnej dražbe. (V-186/16,V-6441/2019) zmč.1277/24
+
+P-294/2024 oznámenie o začatí výkonu záložného práva na nebytový priestor zariadenie obchodu číslo 9 s podielom 82600/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 predajom v dobrovoľnej dražbe. (V-186/16,V-6441/2019) zmč.1277/24
+
+P-294/2024 oznámenie o začatí výkonu záložného práva na nebytový priestor zariadenie verejnej správy a administratívy číslo 10 s podielom 1430/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 predajom v dobrovoľnej dražbe. (V-186/16,V-6441/2019) zmč.1277/24
+
+P-294/2024 oznámenie o začatí výkonu záložného práva na nebytový priestor zariadenie obchodu číslo 11 s podielom 83605/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 predajom v dobrovoľnej dražbe. (V-186/16,V-6441/2019) zmč.1277/24
+
+P-294/2024 oznámenie o začatí výkonu záložného práva na nebytový priestor garáž číslo 1 s podielom 68000/497572 na spoločných častiach a spoločných zariadeniach domu so súpisným číslom 6972 na parc.č. 696/18 a na pozemku registra CKN parc.č. 696/18 na podiel 20/26 predajom v dobrovoľnej dražbe. (V-186/16,V-6441/2019) zmč.1277/24
+
+Iné údaje:
+Z 2401/08 - Zápis špecifikácie rozloženia nebytových priestorov - vz.1637/08
+</PredmetPravaZavazky>
+  <PredmetCenaOdhad>znaleckým posudkom č. 141/2025, súdnym znalcom Ing. Adrianou Meliškovou v sume 2.110.000 €</PredmetCenaOdhad>
+  <PredmetCenaVyska>1.810.000 €</PredmetCenaVyska>
+  <PredmetCenaSposobStanovenia xsi:nil="true" />
+  <PredmetPodmienkyOdovzdania xsi:nil="true" />
+  <NajnizsiePodanie>1.250.000 €</NajnizsiePodanie>
+  <NajvyssiePodanie xsi:nil="true" />
+  <MinimalnePrihodenie xsi:nil="true" />
+  <Zabezpeka xsi:nil="true" />
+  <SposobUhradyCeny xsi:nil="true" />
+  <ObhliadkaDatum xsi:nil="true" />
+  <ObhliadkaMiesto xsi:nil="true" />
+  <OrganizaceOpatrenia xsi:nil="true" />
+  <NadobudnutieVlastnickehoPrava xsi:nil="true" />
+  <DovodUpustenia xsi:nil="true" />
+  <DrazobnikOznamuje xsi:nil="true" />
+</Drazba>

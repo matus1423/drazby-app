@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Drazba xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="/PortalJustice/XmlFormularObchodnyVestnik/">
+  <Cislo>75/2026</Cislo>
+  <ZoDna>2026-07-15</ZoDna>
+  <Drazobnik>
+    <ObchodneMenoNazov xmlns="">U9, a.s.</ObchodneMenoNazov>
+    <Sidlo xmlns="">
+      <Ulica>Zelinárska</Ulica>
+      <Cislo>6</Cislo>
+      <Obec>Bratislava</Obec>
+      <Psc>82108</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud xmlns="" Kod="104">Mestský súd Bratislava III</Sud>
+    <Oddiel xmlns="">Sa</Oddiel>
+    <Vlozka xmlns="">3070/B</Vlozka>
+    <Ico xmlns="">35849703</Ico>
+  </Drazobnik>
+  <NavrhovateliaHeader>Označenie navrhovateľa</NavrhovateliaHeader>
+  <Navrhovatelia>
+    <Navrhovatel>
+      <Id>1</Id>
+      <CeleMeno>
+        <ObchodneMenoNazov xmlns="">Všeobecná úverová banka, a.s.; skrátený názov: VÚB, a.s.</ObchodneMenoNazov>
+        <Sidlo xmlns="">
+          <Ulica>Mlynské nivy</Ulica>
+          <Cislo>1</Cislo>
+          <Obec>Bratislava</Obec>
+          <Psc>82990</Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Sud xmlns="" Kod="104">Mestský súd Bratislava III</Sud>
+        <Oddiel xmlns="">Sa  </Oddiel>
+        <Vlozka xmlns="">341/B</Vlozka>
+        <Ico xmlns="">31320155</Ico>
+      </CeleMeno>
+    </Navrhovatel>
+  </Navrhovatelia>
+  <Licitatori xsi:nil="true" />
+  <Notar xsi:nil="true" />
+  <KonanieMiesto>Penzión Artin, Svätourbanská 37, 949 01 Nitra, miestnosť „salónik“ </KonanieMiesto>
+  <KonanieDatum>2026-08-12</KonanieDatum>
+  <Predmet>&lt;p&gt;Predmetom dražby boli nehnuteľnosti evidovan&amp;eacute; Okresn&amp;yacute;m &amp;uacute;radom Nitra &amp;ndash; katastr&amp;aacute;lny odbor na liste vlastn&amp;iacute;ctva č. &lt;strong&gt;4375&lt;/strong&gt; katastr&amp;aacute;lne &amp;uacute;zemie &lt;strong&gt;Dražovce&lt;/strong&gt;, obec Nitra, okres Nitra, a&amp;nbsp;to:&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pozemky parc. reg. &amp;bdquo;C&amp;ldquo;: &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;bull; parc. č. 58/2, druh pozemku: zastavan&amp;aacute; plocha a n&amp;aacute;dvorie o&amp;nbsp;v&amp;yacute;mere 339 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;bull; parc. č. 58/3, druh pozemku: zastavan&amp;aacute; plocha a n&amp;aacute;dvorie 61 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;bull; parc. č. 58/4, druh pozemku: zastavan&amp;aacute; plocha a n&amp;aacute;dvorie 71 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stavby:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;bull; s&amp;uacute;p. č. 355, na parc. č. 58/4 druh stavby: rodinn&amp;yacute; dom, popis stavby: Rodinn&amp;yacute; dom&lt;/p&gt;
+
+&lt;p&gt;&amp;bull; s&amp;uacute;p. č. 356, na parc. č. 58/3 druh stavby: rodinn&amp;yacute; dom, popis stavby: Rodinn&amp;yacute; dom&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Pr&amp;iacute;slu&amp;scaron;enstvo, ktor&amp;eacute; sa nezapisuje alebo nie je zap&amp;iacute;san&amp;eacute; na liste vlastn&amp;iacute;ctva: plot odd. pozemok pred RD 355, plot odd. pozemok pred RD 356, ako i&amp;nbsp;z&amp;nbsp;ľavej strany do ulice, pr&amp;iacute;pojka vody, vodomern&amp;aacute; &amp;scaron;achta, kanalizačn&amp;aacute; pr&amp;iacute;pojka, elektrick&amp;aacute; pr&amp;iacute;pojka, spevnen&amp;eacute; plochy asfaltov&amp;eacute;, alt&amp;aacute;nok, z&amp;aacute;honov&amp;yacute; obrubn&amp;iacute;k.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Spoluvlastn&amp;iacute;cky podiel 1/1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predmet dražby sa draž&amp;iacute; tak ako stoj&amp;iacute; a lež&amp;iacute;.&lt;/strong&gt;&lt;/p&gt;
+</Predmet>
+  <PredmetOpis xsi:nil="true" />
+  <PredmetStavOpis xsi:nil="true" />
+  <PredmetPravaZavazky xsi:nil="true" />
+  <PredmetCenaOdhad xsi:nil="true" />
+  <PredmetCenaVyska xsi:nil="true" />
+  <PredmetCenaSposobStanovenia xsi:nil="true" />
+  <PredmetPodmienkyOdovzdania xsi:nil="true" />
+  <NajnizsiePodanie xsi:nil="true" />
+  <NajvyssiePodanie xsi:nil="true" />
+  <MinimalnePrihodenie xsi:nil="true" />
+  <Zabezpeka xsi:nil="true" />
+  <SposobUhradyCeny xsi:nil="true" />
+  <ObhliadkaDatum xsi:nil="true" />
+  <ObhliadkaMiesto xsi:nil="true" />
+  <OrganizaceOpatrenia xsi:nil="true" />
+  <NadobudnutieVlastnickehoPrava xsi:nil="true" />
+  <DovodUpustenia xsi:nil="true" />
+  <DrazobnikOznamuje>&lt;p&gt;Dražobn&amp;iacute;k oznamuje, že v lehote na doplatenie ceny dosiahnutej vydražen&amp;iacute;m &lt;u&gt;nedoplatil cenu dosiahnut&amp;uacute; vydražen&amp;iacute;m&lt;/u&gt; na &amp;uacute;čet uveden&amp;yacute; v Ozn&amp;aacute;men&amp;iacute; o&amp;nbsp;opakovanej dražbe a preto predmetn&amp;aacute; dražba Zn. 75/2026 je&amp;nbsp;&lt;strong&gt;z m a r e n &amp;aacute;.&lt;/strong&gt;&lt;/p&gt;
+</DrazobnikOznamuje>
+</Drazba>

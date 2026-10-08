@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Drazba xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="/PortalJustice/XmlFormularObchodnyVestnik/">
+  <Cislo>030/2026</Cislo>
+  <ZoDna>2026-08-26</ZoDna>
+  <Drazobnik>
+    <ObchodneMenoNazov xmlns="">DRAŽOBNÍK, s.r.o.</ObchodneMenoNazov>
+    <Sidlo xmlns="">
+      <Ulica>Národná trieda</Ulica>
+      <Cislo>10</Cislo>
+      <Obec>Košice</Obec>
+      <Psc>04001</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud xmlns="" Kod="148">Mestský súd Košice</Sud>
+    <Oddiel xmlns="">Sro</Oddiel>
+    <Vlozka xmlns="">19669/V</Vlozka>
+    <Ico xmlns="">36764281</Ico>
+  </Drazobnik>
+  <NavrhovateliaHeader>Označenie navrhovateľa</NavrhovateliaHeader>
+  <Navrhovatelia>
+    <Navrhovatel>
+      <Id>1</Id>
+      <CeleMeno>
+        <ObchodneMenoNazov xmlns="">Prima banka Slovensko, a.s.</ObchodneMenoNazov>
+        <Sidlo xmlns="">
+          <Ulica>Hodžova</Ulica>
+          <Cislo>11</Cislo>
+          <Obec>Žilina</Obec>
+          <Psc>010 11 </Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Sud xmlns="" Kod="131">Okresný súd Žilina</Sud>
+        <Oddiel xmlns="">Sa</Oddiel>
+        <Vlozka xmlns="">148/L</Vlozka>
+        <Ico xmlns="">31575951</Ico>
+      </CeleMeno>
+    </Navrhovatel>
+  </Navrhovatelia>
+  <Licitatori xsi:nil="true" />
+  <Notar xsi:nil="true" />
+  <KonanieMiesto>Dražobná miestnosť, v sídle spol. DRAŽOBNÍK, s.r.o.
+Národná trieda 10, Košice, Košický kraj
+</KonanieMiesto>
+  <KonanieDatum>2026-10-07</KonanieDatum>
+  <KonanieCas>10,00 hod.</KonanieCas>
+  <Kolo>prvé</Kolo>
+  <Predmet>&lt;p&gt;&lt;strong&gt;Byt č. 18&lt;/strong&gt; &lt;strong&gt;na 5. poschod&amp;iacute; &lt;/strong&gt;bytov&amp;eacute;ho domu &amp;ndash; Obytn&amp;yacute; dom, so s&amp;uacute;p. č. 189, &lt;strong&gt;vchod 14&lt;/strong&gt;, ulica &lt;strong&gt;Zimn&amp;aacute;&lt;/strong&gt; &lt;strong&gt;v Čiernej nad Tisou&lt;/strong&gt;, postaven&amp;yacute; na parc. č. 522/70, parc. č. 522/71, parc. č. 522/76 a parc. č. 522/77.&lt;/p&gt;
+
+&lt;p&gt;Pr&amp;aacute;vny vzťah k pozemku parceln&amp;eacute; č&amp;iacute;slo 522/70, 522/71, 522/76 a 522/77 pod stavbou s.č. 189 nie je evidovan&amp;yacute; na liste vlastn&amp;iacute;ctva.&lt;/p&gt;
+
+&lt;p&gt;In&amp;eacute; &amp;uacute;daje podľa LV: Prisl&amp;uacute;cha pivnica č. 18, č.z. 86/12.&lt;/p&gt;
+
+&lt;p&gt;Podiel priestoru na spoločn&amp;yacute;ch častiach a spoločn&amp;yacute;ch zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve: 8126/534144&lt;/p&gt;
+
+&lt;p&gt;spoluvlastn&amp;iacute;cky podiel: 1/1&lt;/p&gt;
+
+&lt;p&gt;Identifikovan&amp;eacute; nehnuteľnosti s&amp;uacute; zap&amp;iacute;san&amp;eacute; na liste vlastn&amp;iacute;ctva Okresn&amp;eacute;ho &amp;uacute;radu Trebi&amp;scaron;ov, katastr&amp;aacute;lny odbor, &lt;strong&gt;LV č. 789&lt;/strong&gt;, okres: Trebi&amp;scaron;ov, obec: Čierna nad Tisou, &lt;strong&gt;katastr&amp;aacute;lne &amp;uacute;zemie: Čierna nad Tisou. &lt;/strong&gt;&lt;/p&gt;
+</Predmet>
+  <PredmetOpis xsi:nil="true" />
+  <PredmetStavOpis xsi:nil="true" />
+  <PredmetPravaZavazky xsi:nil="true" />
+  <PredmetCenaOdhad xsi:nil="true" />
+  <PredmetCenaVyska xsi:nil="true" />
+  <PredmetCenaSposobStanovenia xsi:nil="true" />
+  <PredmetPodmienkyOdovzdania xsi:nil="true" />
+  <NajnizsiePodanie xsi:nil="true" />
+  <NajvyssiePodanie xsi:nil="true" />
+  <MinimalnePrihodenie xsi:nil="true" />
+  <Zabezpeka xsi:nil="true" />
+  <SposobUhradyCeny xsi:nil="true" />
+  <ObhliadkaDatum xsi:nil="true" />
+  <ObhliadkaMiesto xsi:nil="true" />
+  <OrganizaceOpatrenia xsi:nil="true" />
+  <NadobudnutieVlastnickehoPrava xsi:nil="true" />
+  <DovodUpustenia>&lt;p&gt;V&amp;nbsp;zmysle &amp;sect; 19 ods. 1 p&amp;iacute;sm. b) z&amp;aacute;kona č. 527/2002 Z. z. o&amp;nbsp;dobrovoľn&amp;yacute;ch dražb&amp;aacute;ch v&amp;nbsp;znen&amp;iacute; neskor&amp;scaron;&amp;iacute;ch predpisov.&lt;/p&gt;
+</DovodUpustenia>
+  <DrazobnikOznamuje xsi:nil="true" />
+</Drazba>

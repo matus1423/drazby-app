@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Nazov>Oznámenie o dobrovoľnej dražbe</ns0:Nazov>
+  <ns0:Cislo>105/2026</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>U9, a.s.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Zelinárska</Ulica>
+      <Cislo>6</Cislo>
+      <Obec>Bratislava</Obec>
+      <Psc>82108</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="104">Mestský súd Bratislava III</Sud>
+    <Oddiel>Sa</Oddiel>
+    <Vlozka>3070/B</Vlozka>
+    <Ico>35849703</Ico>
+  </ns0:Drazobnik>
+  <ns0:NavrhovateliaHeader>Označenie navrhovateľa</ns0:NavrhovateliaHeader>
+  <ns0:Navrhovatelia>
+    <ns0:Navrhovatel>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Všeobecná úverová banka, a.s.; skrátený názov: VÚB, a.s.</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Mlynské nivy</Ulica>
+          <Cislo>1</Cislo>
+          <Obec>Bratislava</Obec>
+          <Psc>82990</Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Sud Kod="104">Mestský súd Bratislava III</Sud>
+        <Oddiel>Sa  </Oddiel>
+        <Vlozka>341/B</Vlozka>
+        <Ico>31320155</Ico>
+      </ns0:CeleMeno>
+    </ns0:Navrhovatel>
+  </ns0:Navrhovatelia>
+  <ns0:Licitatori xsi:nil="true" />
+  <ns0:Notar>
+    <ns0:CeleMeno>
+      <TitulPred>Mgr. </TitulPred>
+      <TitulZa />
+      <Meno>Tomáš</Meno>
+      <Priezvisko>Gerbery</Priezvisko>
+    </ns0:CeleMeno>
+    <ns0:Sidlo>
+      <Ulica>Mnoheľova </Ulica>
+      <Cislo>830/17</Cislo>
+      <Obec>Poprad</Obec>
+      <Psc>058 01</Psc>
+      <Stat />
+    </ns0:Sidlo>
+  </ns0:Notar>
+  <ns0:KonanieMiesto>RS Hotel &amp; Motel, Čerenčianská 1712/30, 979 01 Rimavská Sobota - salónik na prízemí</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-11-04</ns0:KonanieDatum>
+  <ns0:KonanieCas>10:00 hod.</ns0:KonanieCas>
+  <ns0:Kolo>1. kolo dražby</ns0:Kolo>
+  <ns0:Predmet>&lt;p&gt;Predmetom dražby s&amp;uacute; nehnuteľnosti evidovan&amp;eacute; Okresn&amp;yacute;m &amp;uacute;radom Lučenec &amp;ndash; katastr&amp;aacute;lny odbor na liste vlastn&amp;iacute;ctva č. &lt;strong&gt;6401&lt;/strong&gt; katastr&amp;aacute;lne &amp;uacute;zemie &lt;strong&gt;Lučenec&lt;/strong&gt;, obec Lučenec, okres Lučenec, a&amp;nbsp;to:&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stavby&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;bull; &lt;strong&gt;Byt č. 86&lt;/strong&gt; na pr&amp;iacute;zem&amp;iacute;, vchod č. 7, bytov&amp;eacute;ho domu s&amp;uacute;p. č. 2180, druh stavby: bytov&amp;yacute; dom, popis stavby: bytov&amp;yacute; dom, &amp;nbsp;postaven&amp;yacute; na parc. č. 5113&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Pr&amp;aacute;vny vzťah k pozemku parceln&amp;eacute; č&amp;iacute;slo 5113 pod stavbou s.č. 2180 je evidovan&amp;yacute; na liste vlastn&amp;iacute;ctva č. 5414.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Podiel priestoru na spoločn&amp;yacute;ch častiach a spoločn&amp;yacute;ch zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve: 55/6200.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;bytu 1/1.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predmet dražby sa draž&amp;iacute; tak ako stoj&amp;iacute; a lež&amp;iacute;.&lt;/strong&gt;&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Byt č. 86 na pr&amp;iacute;zem&amp;iacute; bytov&amp;eacute;ho domu s&amp;uacute;p. Č. 2180&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p&gt;Byt č. 86 ktor&amp;yacute; je predmetom dražby sa nach&amp;aacute;dza na pr&amp;iacute;zem&amp;iacute; vpravo od vstupu vo vchode č. 7. Je orientovan&amp;yacute; na juhov&amp;yacute;chodn&amp;uacute; a&amp;nbsp;severov&amp;yacute;chodn&amp;uacute; stranu. Tvoria ho: dve izby, &amp;scaron;atn&amp;iacute;k, kuchyňa, chodba, k&amp;uacute;peľňa,&amp;nbsp;wc. Pr&amp;iacute;slu&amp;scaron;enstvo bytu je aj pivnica v&amp;nbsp;1.NP. Byt m&amp;aacute; čiastočn&amp;eacute; &amp;uacute;pravy. V&amp;nbsp;kuchyni je kuchynsk&amp;aacute; linka s&amp;nbsp;nerezov&amp;yacute;m drezom, vodovodn&amp;aacute; p&amp;aacute;kov&amp;aacute; bat&amp;eacute;ria, keramick&amp;aacute; varn&amp;aacute; doska, pri linke je keramick&amp;yacute; obklad. V&amp;nbsp;k&amp;uacute;peľni je vaňa s&amp;nbsp;keramick&amp;yacute;m obkladom, keramick&amp;eacute; um&amp;yacute;vadlo, p&amp;aacute;kov&amp;eacute; vodovodn&amp;eacute; bat&amp;eacute;rie, na stene je keramick&amp;yacute; obklad a&amp;nbsp;na podlahe je keramick&amp;aacute; dlažba. V&amp;nbsp;samostatnej miestnosti je splachovacie wc, na stene je keramick&amp;yacute; obklad a&amp;nbsp;na podlahe je keramick&amp;aacute; dlažba. Okn&amp;aacute; s&amp;uacute; plastov&amp;eacute; s&amp;nbsp;izolačn&amp;yacute;m dvojsklom a&amp;nbsp;hlin&amp;iacute;kov&amp;yacute;mi žal&amp;uacute;ziami. Dvere s&amp;uacute; v presklen&amp;yacute;ch kovov&amp;yacute;ch z&amp;aacute;rubniach aj zhrnovacie. Vykurovanie je &amp;uacute;stredn&amp;eacute; teplovodn&amp;eacute; zabezpečen&amp;eacute; radi&amp;aacute;tormi, TUV je dod&amp;aacute;van&amp;aacute; centr&amp;aacute;lne. S&amp;uacute;časťou bytu je jeho vn&amp;uacute;torn&amp;eacute; vybavenie, v&amp;scaron;etka jeho vn&amp;uacute;torn&amp;aacute; in&amp;scaron;tal&amp;aacute;cia (potrubn&amp;eacute; rozvody vody, plynu, elektroin&amp;scaron;tal&amp;aacute;cia, odpady), okrem st&amp;uacute;paj&amp;uacute;cich veden&amp;iacute; a uzavierac&amp;iacute;ch ventilov na nich.&lt;/p&gt;
+
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p&gt;Znalcom vypoč&amp;iacute;tan&amp;aacute; podlahov&amp;aacute; plocha bytu je 54,08 m2 (z toho 1,63 m2 je pivnica)&lt;/p&gt;
+
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;Stavebnotechnick&amp;yacute; popis bytov&amp;eacute;ho domu&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;Je to p&amp;auml;ť podlažn&amp;yacute; objekt s&amp;nbsp;piatimi nadzemn&amp;yacute;mi podlažiami. Obytn&amp;yacute; dom&amp;nbsp;m&amp;aacute; osem vchodov z&amp;nbsp;dvornej strany. V&amp;nbsp;dome je 112 bytov, vo vchode je 14 bytov. Z&amp;aacute;kladov&amp;eacute; kon&amp;scaron;trukcie s&amp;uacute; hlbinn&amp;eacute;, bet&amp;oacute;nov&amp;eacute; plo&amp;scaron;n&amp;eacute; s&amp;nbsp;izol&amp;aacute;ciou proti zemnej vlhkosti p&amp;aacute;sov&amp;eacute;, p&amp;auml;tkov&amp;eacute;, doskov&amp;eacute;. Zvisl&amp;eacute; kon&amp;scaron;trukcie s&amp;uacute; plo&amp;scaron;n&amp;eacute; železobet&amp;oacute;nov&amp;eacute;. Priečky s&amp;uacute; panelov&amp;eacute;, stropn&amp;eacute; aj schodiskov&amp;eacute; kon&amp;scaron;trukcie s&amp;uacute; železobet&amp;oacute;nov&amp;eacute; doskov&amp;eacute;. Obytn&amp;yacute; dom m&amp;aacute; ploch&amp;uacute; jednopl&amp;aacute;&amp;scaron;ťov&amp;uacute; strechu. Klampiarske kon&amp;scaron;trukcie s&amp;uacute; z&amp;nbsp;pozinkovan&amp;eacute;ho plechu. Vn&amp;uacute;torn&amp;eacute; spoločn&amp;eacute; priestory s&amp;uacute; omietnut&amp;eacute; hladkou v&amp;aacute;pennou omietkou, vyhotoven&amp;yacute; je soklov&amp;yacute; olejov&amp;yacute; n&amp;aacute;ter. Vonkaj&amp;scaron;ie povrchy s&amp;uacute; zateplen&amp;eacute; kontaktn&amp;yacute;m zatepľovac&amp;iacute;m syst&amp;eacute;mom so silik&amp;aacute;tovou omietkou. Okn&amp;aacute; s&amp;uacute; plastov&amp;eacute; s&amp;nbsp;izolačn&amp;yacute;m dvojsklom, podlahy s&amp;uacute; z&amp;nbsp;bet&amp;oacute;novej mazaniny, keramickej dlažby,&amp;nbsp;schodisko je železobet&amp;oacute;nov&amp;eacute; doskov&amp;eacute; stupne s&amp;uacute; upraven&amp;eacute; PVC. V&amp;nbsp;dome je sveteln&amp;aacute; a motorick&amp;aacute; elektroin&amp;scaron;tal&amp;aacute;cia. Vstupy do domu s&amp;uacute; zo juhoz&amp;aacute;padnej strany cez kovov&amp;eacute; dvere so sklenenou v&amp;yacute;plňou. V&amp;nbsp;poslednom nadzemnom podlaž&amp;iacute; je v&amp;yacute;stup na stre&amp;scaron;n&amp;yacute; pl&amp;aacute;&amp;scaron;ť. Objekt je v&amp;nbsp;primeranom technickom stave jeho veku.&lt;/p&gt;
+
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p&gt;S vlastn&amp;iacute;ctvom bytu je spojen&amp;eacute; spoluvlastn&amp;iacute;ctvo spoločn&amp;yacute;ch čast&amp;iacute; a spoločn&amp;yacute;ch zariaden&amp;iacute; domu a pr&amp;iacute;slu&amp;scaron;enstva. &lt;strong&gt;Spoločn&amp;yacute;mi časťami domu&lt;/strong&gt; sa rozumej&amp;uacute; časti domu nevyhnutn&amp;eacute; pre jeho podstatu a bezpečnosť a s&amp;uacute; určen&amp;eacute; na spoločn&amp;eacute; už&amp;iacute;vanie, najm&amp;auml; z&amp;aacute;klady domu, strechy, chodby, obvodov&amp;eacute; m&amp;uacute;ry, priečelia, vchody, schodi&amp;scaron;tia, vodorovn&amp;eacute;, nosn&amp;eacute; a izolačn&amp;eacute; kon&amp;scaron;trukcie a zvisl&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie. &lt;strong&gt;Spoločn&amp;yacute;mi zariadeniami&lt;/strong&gt; s&amp;uacute; bleskozvod, vodovodn&amp;eacute;, kanalizačn&amp;eacute;, elektrick&amp;eacute;, telef&amp;oacute;nne domov&amp;eacute; pr&amp;iacute;pojky.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;Vid opis predmetu dražby.&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>Zákonné záložné právo v prospech ostatných vlastníkov bytov a nebytových priestorov podľa §15 ods.1 zák.č.182/1993 Z.z., na podiel B 86, byt č.86, vchod 7, na prízemí v bytovom dome sč.2180 na pozemku registra C KN parc.č.5113-Z 1366/11-1099/11, 2587/13, 450/21, 256/23.
+
+Záložné právo v prospech: Všeobecná úverová banka, a.s., IČO 31320155, Mlynské nivy 1, 829 90 Bratislava, č. V-83/2025 z 14.02.2025, na podiel B86, na byt č. 86, vchod 7, 2. poschodie v bytovom dome s.č. 2180 na pozemku registra C KN parc.č. 5113 a spoluvlastnícky podiel o veľkosti 55/6200 na spoločných častiach a spoločných zariadeniach domu - 323/25
+
+Exekučný príkaz na vykonanie exekúcie zriadením exekučného záložného práva č. 181EX 1029/25-20 zo dňa 12.02.2026 (Exekútorský úrad Veľký Krtíš, JUDr. Iveta Tóthová) v prospech Orange Slovensko, a.s., Metodova 8, Bratislava, IČO: 35697270, na podiel B86, Byt č. 86 na prízemí vo vchode č. 7 v bytovom dome súp.č. 2180 na pozemku registra c KN p.č. 5113 a na podiel priestoru na spoločných častiach a spoločných zariadeniach domu o veľkosti 55/6200, zapísané dňa 16.02.2026, Z-467/2026 - v.z.288/26
+</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad xsi:nil="true" />
+  <ns0:PredmetCenaVyska xsi:nil="true" />
+  <ns0:PredmetCenaSposobStanovenia>Hodnota predmetu dražby bola zistená podľa znaleckého posudku č. 77/2026, ktorý vypracoval Ing. Peter Makóni, znalec v odbore Stavebníctvo, odvetvie: Pozemné stavby, Odhad hodnoty nehnuteľností, zapísaný v zozname znalcov, tlmočníkov a prekladateľov vedenom Ministerstvom spravodlivosti Slovenskej republiky pod číslom 912156. 
+Dátum vypracovania znaleckého posudku: 04.08.2026
+Suma ohodnotenia: 55.100,00 EUR
+</ns0:PredmetCenaSposobStanovenia>
+  <ns0:PredmetPodmienkyOdovzdania>1.	Po nadobudnutí vlastníckeho práva alebo iného práva k predmetu dražby   odovzdá dražobník bez zbytočného odkladu vydražiteľovi predmet dražby a listiny, ktoré osvedčujú vlastnícke právo a sú nevyhnutné na nakladanie s predmetom dražby alebo osvedčujú iné práva vydražiteľa k predmetu dražby a vydražiteľ prevzatie predmetu dražby písomne potvrdí.
+2. Ak ide o nehnuteľnosť, podnik alebo jeho časť, predchádzajúci vlastník je povinný odovzdať predmet dražby na základe predloženia osvedčeného odpisu notárskej zápisnice a doloženia totožnosti vydražiteľa bez zbytočných prieťahov. Dražobník je povinný na mieste spísať zápisnicu o odovzdaní predmetu dražby. Zápisnicu o odovzdaní predmetu dražby podpíše predchádzajúci vlastník [skryté], vydražiteľ a dražobník. Jedno vyhotovenie zápisnice dostane predchádzajúci vlastník a dve vyhotovenia dostane vydražiteľ. Ak niektorá osoba odmietne zápisnicu podpísať alebo ju prevziať, táto skutočnosť sa vyznačí v zápisnici a zápisnica sa považuje za odovzdanú aj tejto osobe.
+3. Všetky náklady spojené s odovzdaním a prevzatím predmetu dražby nesie vydražiteľ. Táto povinnosť sa nevzťahuje na náklady, ktoré by ináč nevznikli, ak ich svojou vinou spôsobil predchádzajúci vlastník, majiteľ alebo dražobník alebo ak im tieto náklady vznikli náhodou, ktorá ich postihla.
+4. Osoba povinná vydať predmet dražby zodpovedá vydražiteľovi za škodu spôsobenú omeškaním s odovzdaním predmetu dražby.
+</ns0:PredmetPodmienkyOdovzdania>
+  <ns0:NajnizsiePodanie>55.100,00 EUR</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie>500 EUR</ns0:MinimalnePrihodenie>
+  <ns0:Zabezpeka>
+    <ns0:Vyska>10.000,00 EUR</ns0:Vyska>
+    <ns0:ZlozenieSposob>1.	Bezhotovostný prevod alebo vklad na účet dražobníka IBAN: SK49 1111 0000 0066 1989 4017 (BIC:UNCRSKBX), vedený v UniCredit Bank Czech Republic and Slovakia, a.s. s variabilným symbolom 1052026
+2.	V hotovosti do pokladne v sídle dražobníka alebo v mieste konania dražby.
+3.	Banková záruka.
+4.	Notárska úschova.
+Dražobnú zábezpeku nie je možné zložiť platobnou kartou ani šekom.
+</ns0:ZlozenieSposob>
+    <ns0:ZlozenieCisloUctu>IBAN: SK49 1111 0000 0066 1989 4017</ns0:ZlozenieCisloUctu>
+    <ns0:ZlozenieAdresa>V hotovosti do pokladne v sídle dražobníka alebo v mieste konania dražby.</ns0:ZlozenieAdresa>
+    <ns0:ZlozenieDoklad>1.	Originál príkazu na úhradu peňažných prostriedkov vo výške dražobnej zábezpeky. Účastník bude pripustený k dražbe, ak do otvorenia dražby bude dražobná zábezpeka pripísaná na účet dražobníka.
+2.	Príjmový pokladničný doklad na hotovosť vo výške dražobnej zábezpeky, Účastník bude pripustený k dražbe, ak do uplynutia lehoty na zloženie dražobnej zábezpeky bude dražobná zábezpeka zložená do pokladne dražobníka..
+3.	Originál alebo overená kópia preukazujúca vystavenie bankovej záruky.
+4.	Originál alebo overenú kópiu dokladu preukazujúceho notársku úschovu.
+</ns0:ZlozenieDoklad>
+    <ns0:ZlozenieLehota>Do otvorenia dražby.</ns0:ZlozenieLehota>
+    <ns0:Vratenie>Bez zbytočného odkladu po skončení dražby bezhotovostným prevodom na účet účastníka dražby alebo v hotovosti.</ns0:Vratenie>
+  </ns0:Zabezpeka>
+  <ns0:SposobUhradyCeny>Vydražiteľ je povinný zaplatiť cenu dosiahnutú vydražením v hotovosti do pokladne v sídle dražobníka alebo bezhotovostným prevodom alebo vkladom na účet dražobníka IBAN SK71 0200 0000 0019 5703 8659 (BIC: SUBASKBX), vedený vo VÚB, a. s. s variabilným symbolom 1052026 a to do 15 dní odo dňa skončenia dražby v prípade, že suma dosiahnutá vydražením presiahne 6.640,00 EUR; v opačnom prípade hneď po ukončení dražby.</ns0:SposobUhradyCeny>
+  <ns0:ObhliadkaDatum>1. termín obhliadky: 05.10.2026 o 11:30 hod.
+2. termín obhliadky: 30.10.2026 o 11:30 hod.
+</ns0:ObhliadkaDatum>
+  <ns0:ObhliadkaMiesto>Obhliadky sa uskutočnia na mieste kde sa predmet dražby nachádza.</ns0:ObhliadkaMiesto>
+  <ns0:SpolocnaDrazba Kod="NIE">Nie</ns0:SpolocnaDrazba>
+  <ns0:SpolocnaDrazbaPoradieDrazeniePredmetov xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia>Záujemcovia o obhliadku sa ohlásia aspoň jeden deň pred konaním obhliadky na tel. č.: 0911 876 895, Po- Pi, 8:00- 16:00 hod. V zmysle § 12 ods. 2 a § 13 zákona č. 527/2002 Z.z. o dobrovoľných dražbách je vlastník [skryté], držiteľ alebo nájomca povinný umožniť riadnu obhliadku predmetu dražby v stanovených termínoch.</ns0:OrganizaceOpatrenia>
+  <ns0:NadobudnutieVlastnickehoPrava>Ak uhradil vydražiteľ cenu dosiahnutú vydražením v ustanovenej lehote, prechádza na neho vlastnícke právo alebo iné právo k predmetu dražby udelením príklepu; to neplatí, ak je vydražiteľom osoba, ktorá je povinná zapísať sa do registra partnerov verejného sektora podľa osobitného predpisu, ak v čase príklepu nie je zapísaná v tomto registri. Dražobník vydá bez zbytočného odkladu po nadobudnutí vlastníckeho alebo iného práva vydražiteľovi potvrdenie o vydražení predmetu dražby a v prípadoch, v ktorých sa o priebehu dražby spisuje notárska zápisnica vydá dražobník vydražiteľovi dve vyhotovenia osvedčeného odpisu notárskej zápisnice.</ns0:NadobudnutieVlastnickehoPrava>
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

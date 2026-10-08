@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Cislo>HP025/26</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>HeyPay s.r.o.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Mostová</Ulica>
+      <Cislo>2</Cislo>
+      <Obec>Bratislava</Obec>
+      <Psc>811 02</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="104">Mestský súd Bratislava III</Sud>
+    <Oddiel>Sro</Oddiel>
+    <Vlozka>59140/B</Vlozka>
+    <Ico>44842414</Ico>
+  </ns0:Drazobnik>
+  <ns0:Navrhovatelia xsi:nil="true" />
+  <ns0:LicitatoriHeader>Označenie licitátora</ns0:LicitatoriHeader>
+  <ns0:Licitatori>
+    <ns0:Licitator>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Ján Vzorový</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Hlavná</Ulica>
+          <Cislo>1</Cislo>
+          <Obec>Bratislava-Ružinov</Obec>
+          <Psc>00000</Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Oddiel />
+        <Vlozka />
+        <Ico />
+      </ns0:CeleMeno>
+    </ns0:Licitator>
+  </ns0:Licitatori>
+  <ns0:Notar xsi:nil="true" />
+  <ns0:KonanieMiesto>Robotnícky dom, Konferenčná miestnosť, Robotnícka 3, 974 01 Banská Bystrica.</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-09-28</ns0:KonanieDatum>
+  <ns0:KonanieCas>10:26 hod.</ns0:KonanieCas>
+  <ns0:Kolo>2. kolo</ns0:Kolo>
+  <ns0:Predmet>&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;LV č.&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Okresn&amp;yacute; &amp;uacute;rad&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Okres&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Obec&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Katastr&amp;aacute;lne &amp;uacute;zemie &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;5556&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Brezno&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Brezno&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Brezno&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Brezno&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Byt :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e0e0e0"&gt;
+			&lt;p&gt;&lt;strong&gt;Charakteristika (č&amp;iacute;slo bytu, č&amp;iacute;slo vchodu, č&amp;iacute;slo poschodia, adresa) :&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e0e0e0"&gt;
+			&lt;p&gt;&lt;strong&gt;S&amp;uacute;p.č. stavby :&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e0e0e0"&gt;
+			&lt;p&gt;&lt;strong&gt;Postaven&amp;aacute; na pozemku - parcele registra &amp;quot;C&amp;quot;&amp;nbsp; evidovanej na katastr&amp;aacute;lnej mape:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e0e0e0"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh a&amp;nbsp;popis stavby:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e0e0e0"&gt;
+			&lt;p&gt;&lt;strong&gt;Podiel priestoru na spoločn&amp;yacute;ch častiach a spoločn&amp;yacute;ch&amp;nbsp; zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve s&amp;uacute;pisn&amp;eacute; č. 2143&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;a spoluvlastn&amp;iacute;cky podiel k pozemku - parcele registra &amp;quot;C&amp;quot; evidovanej na katastr&amp;aacute;lnej mape ako: parc. č. 3858/133, Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie o v&amp;yacute;mere 180 m&lt;sup&gt;2&lt;/sup&gt;, parc. č. 3858/134, Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie o v&amp;yacute;mere 180 m&lt;sup&gt;2&lt;/sup&gt;, parc. č. 3858/135, Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie o v&amp;yacute;mere 180 m&lt;sup&gt;2&lt;/sup&gt;:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;Byt č. 2,&lt;/p&gt;
+
+			&lt;p&gt;vchod: 26, 2.p.,&lt;/p&gt;
+
+			&lt;p&gt;Adresa: 9. m&amp;aacute;ja 2143/26, 977 03 Brezno - Mazorn&amp;iacute;kovo&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;2143&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;3858 / 133&lt;/p&gt;
+
+			&lt;p&gt;3858 / 134&lt;/p&gt;
+
+			&lt;p&gt;3858 / 135&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;9 BYTOV&amp;Yacute; DOM OČ. 26,27,28&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;6284 / 264858&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Spoluvlastn&amp;iacute;cky podiel v&amp;nbsp;1/1.&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;&lt;strong&gt;Trojizbov&amp;yacute; byt č. 2, 2.p., vo vchode č. 26, na ulici 9. m&amp;aacute;ja v meste Brezno. Vypoč&amp;iacute;tan&amp;aacute; podlahov&amp;aacute; plocha bytu je 62,75 m2.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vzhľadom na skutočnosť, že hodnoten&amp;eacute; nehnuteľnosti neboli spr&amp;iacute;stupnen&amp;eacute;, ohodnotenie predmetu dražby bolo vykonan&amp;eacute; v zmysle &amp;sect; 12 ods.3 z&amp;aacute;kona č.527/2002 o dobrovoľn&amp;yacute;ch dražb&amp;aacute;ch, v znen&amp;iacute; neskor&amp;scaron;&amp;iacute;ch predpisov (&amp;quot;ohodnotenie možno vykonať z dostupn&amp;yacute;ch &amp;uacute;dajov, ktor&amp;eacute; m&amp;aacute; dražobn&amp;iacute;k k dispoz&amp;iacute;cii&amp;quot;). &lt;/strong&gt;&lt;strong&gt;Z d&amp;ocirc;vodu neumožnenia vykonania obhliadky nie je možn&amp;eacute; určiť presn&amp;eacute; technick&amp;eacute; ani dispozičn&amp;eacute; rie&amp;scaron;enie ohodnocovan&amp;yacute;ch nehnuteľnost&amp;iacute;, rovnako ani ich už&amp;iacute;vaciu schopnosť.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Byt č. 2 sa nach&amp;aacute;dza na 2. poschod&amp;iacute;, je pr&amp;iacute;stupn&amp;yacute; z centr&amp;aacute;lnej chodby. Byt obsahuje 3 izby, kuchynsk&amp;yacute; k&amp;uacute;t, k&amp;uacute;peľňu, WC, predsieň. Presvetlenie je rie&amp;scaron;en&amp;eacute; plastov&amp;yacute;mi oknami, dvere s&amp;uacute; dreven&amp;eacute; osaden&amp;eacute; do oceľov&amp;yacute;ch z&amp;aacute;rubn&amp;iacute;, podlahy v obytn&amp;yacute;ch miestnostiach s&amp;uacute; s povrchovou &amp;uacute;pravou&amp;nbsp; z veľkoplo&amp;scaron;n&amp;yacute;ch lamin&amp;aacute;tov&amp;yacute;ch parkiet, v k&amp;uacute;peľni a v predsieni je keramick&amp;aacute; dlažba. Bytov&amp;eacute; jadro je kompletne zrekon&amp;scaron;truovan&amp;eacute;, murovan&amp;eacute; s keramick&amp;yacute;m obkladom stien. V k&amp;uacute;peľni je osaden&amp;aacute; plastov&amp;aacute; vaňa, um&amp;yacute;vadlo, p&amp;aacute;kov&amp;eacute; bat&amp;eacute;rie, WC tvor&amp;iacute; s&amp;uacute;časť k&amp;uacute;peľne. Steny s&amp;uacute; obložen&amp;eacute; keramick&amp;yacute;m obkladom. V kuchyni je zriaden&amp;aacute; kompletn&amp;aacute; sanitn&amp;aacute; a elektrick&amp;aacute; in&amp;scaron;tal&amp;aacute;cia vr&amp;aacute;tane kuchynskej linky a vybavenia kuchyne, spor&amp;aacute;k je plynov&amp;yacute;, drez je nerezov&amp;yacute; s p&amp;aacute;kovou bat&amp;eacute;riou. Vykurovanie bytu je &amp;uacute;stredn&amp;eacute; teplovodn&amp;eacute; z centr&amp;aacute;lnej kotolne umiestnenej mimo budovy aj s pr&amp;iacute;pravou teplej vody, oceľov&amp;eacute; radi&amp;aacute;tory v kuchyni, izbe s termoregulačn&amp;yacute;mi ventilmi. Cel&amp;yacute; syst&amp;eacute;m vykurovania je s meran&amp;iacute;m a regul&amp;aacute;ciou, automatick&amp;yacute;m aj manu&amp;aacute;lnym nastaven&amp;iacute;m. Byt m&amp;aacute; vlastn&amp;eacute; meranie spotreby teplej aj studenej vody v bytovom jadre, meranie spotreby tepla v chodbe a elektriny v centr&amp;aacute;lnej rozvodni. Byt m&amp;aacute; dom&amp;aacute;ci telef&amp;oacute;n s vr&amp;aacute;tnikom. Byt je kompletne zrekon&amp;scaron;truovan&amp;yacute;.&lt;/p&gt;
+
+&lt;p&gt;V zmysle z&amp;aacute;kona č. 182/1993 Z.z. o vlastn&amp;iacute;ctve bytov a nebytov&amp;yacute;ch priestorov, v znen&amp;iacute; neskor&amp;scaron;&amp;iacute;ch pr&amp;aacute;vnych predpisov:&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;spoločn&amp;yacute;mi časťami domu s&amp;uacute;:&lt;/u&gt; časti domu nevyhnutn&amp;eacute; na jeho podstatu a bezpečnosť, najm&amp;auml; z&amp;aacute;klady domu, strechy, chodby, obvodov&amp;eacute; m&amp;uacute;ry, priečelia, vchody, schodi&amp;scaron;tia, spoločn&amp;eacute; terasy, podkrovia, povaly, vodorovn&amp;eacute; nosn&amp;eacute; a izolačn&amp;eacute; kon&amp;scaron;trukcie a zvisl&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie,&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;spoločn&amp;yacute;mi zariadeniami domu s&amp;uacute;:&lt;/u&gt; zariadenia, ktor&amp;eacute; s&amp;uacute; určen&amp;eacute; na spoločn&amp;eacute; už&amp;iacute;vanie a sl&amp;uacute;žia v&amp;yacute;lučne tomuto domu, a to aj v pr&amp;iacute;pade, ak s&amp;uacute; umiestnen&amp;eacute; mimo domu. Tak&amp;yacute;mito zariadeniami s&amp;uacute; najm&amp;auml; v&amp;yacute;ťahy, pr&amp;aacute;čovne a kotolne vr&amp;aacute;tane technologick&amp;eacute;ho zariadenia, su&amp;scaron;iarne, koč&amp;iacute;karne, spoločn&amp;eacute; telev&amp;iacute;zne ant&amp;eacute;ny, bleskozvody, kom&amp;iacute;ny, vodovodn&amp;eacute;, teplonosn&amp;eacute;, kanalizačn&amp;eacute;, elektrick&amp;eacute;, telef&amp;oacute;nne a plynov&amp;eacute; pr&amp;iacute;pojky.&lt;/p&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;Predmet dražby sa draž&amp;iacute; tak ako &amp;bdquo;stoj&amp;iacute; a&amp;nbsp;lež&amp;iacute;.&amp;ldquo;&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>Poznámky:
+Začatie výkonu záložného práva veriteľom Všeobecná úverová banka, a.s., Mlynské Nivy 1, Bratislava, IČO: 31320155, formou dobrovoľnej dražby, P-156/2026, čz 860/2026.
+Oznámenie o konaní dobrovoľnej dražby pod spisovou značkou: DD HP025/26, dražobník HeyPay s.r.o., Mostová 2, 811 02 Bratislava - Staré Mesto, IČO: 44842414, P-230/2026, čz 1418/2026.
+Oznámenie o konaní opakovanej dobrovoľnej dražbe, dražobník HeyPay s.r.o., Mostová 2, 811 02 Bratislava-Staré Mesto, P-281/2026, č.z. 1649/2026.
+ČASŤ C: ŤARCHY:
+Zákonné záložné právo v zmysle § 15 zák.č. 182/93 Z.z v prospech spoločenstva vl. bytov " 9. mája 26, 27, 28" .
+Záložné právo zo Zmluvy o zriadení záložného práva k nehnuteľnostiam V-2763/2022 zo dňa 11.10.2022 v prospech Všeobecná úverová banka, a.s., Mlynské nivy 1, Bratislava, IČO: 31320155 na byt č. 2 na 2.p. vo vchode č. 26 v byt.dome s.č. 2143 na par. C-KN č.3858/133, 3858/134, 3858/135 a spoluvlastnícky podiel 6284/264858 na spoločných častiach, zariadeniach, príslušenstve byt. domu a par. C-KN č. 3858/133, 3858/134, 3858/135.
+Iné údaje: Bez zápisu</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad>Číslo znaleckého posudku: 62/2026
+Meno znalca: Makóni Peter Ing.
+Dátum vyhotovenia: 17.06.2026
+Všeobecná cena odhadu: 85 100,00 EUR </ns0:PredmetCenaOdhad>
+  <ns0:PredmetCenaVyska>77 000,00 EUR</ns0:PredmetCenaVyska>
+  <ns0:PredmetCenaSposobStanovenia xsi:nil="true" />
+  <ns0:PredmetPodmienkyOdovzdania xsi:nil="true" />
+  <ns0:NajnizsiePodanie>bolo urobené</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie xsi:nil="true" />
+  <ns0:Zabezpeka xsi:nil="true" />
+  <ns0:SposobUhradyCeny xsi:nil="true" />
+  <ns0:ObhliadkaDatum xsi:nil="true" />
+  <ns0:ObhliadkaMiesto xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia xsi:nil="true" />
+  <ns0:NadobudnutieVlastnickehoPrava xsi:nil="true" />
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Cislo>HP029/26</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>HeyPay s.r.o.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Mostová</Ulica>
+      <Cislo>2</Cislo>
+      <Obec>Bratislava</Obec>
+      <Psc>811 02</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="104">Mestský súd Bratislava III</Sud>
+    <Oddiel>Sro</Oddiel>
+    <Vlozka>59140/B</Vlozka>
+    <Ico>44842414</Ico>
+  </ns0:Drazobnik>
+  <ns0:Navrhovatelia xsi:nil="true" />
+  <ns0:LicitatoriHeader>Označenie licitátora</ns0:LicitatoriHeader>
+  <ns0:Licitatori>
+    <ns0:Licitator>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Ján Vzorový</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Hlavná</Ulica>
+          <Cislo>1</Cislo>
+          <Obec>Bratislava-Ružinov</Obec>
+          <Psc>00000</Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Oddiel />
+        <Vlozka />
+        <Ico />
+      </ns0:CeleMeno>
+    </ns0:Licitator>
+  </ns0:Licitatori>
+  <ns0:Notar xsi:nil="true" />
+  <ns0:KonanieMiesto>Hotel MIKADO, Hollého 1496/11, 949 01 Nitra- Staré Mesto, miestnosť': Salónik Executive Lounge</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-09-24</ns0:KonanieDatum>
+  <ns0:KonanieCas>10:00 hod.</ns0:KonanieCas>
+  <ns0:Kolo>2. kolo</ns0:Kolo>
+  <ns0:Predmet>&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;LV č.&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Okresn&amp;yacute; &amp;uacute;rad&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Okres&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Obec&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Katastr&amp;aacute;lne &amp;uacute;zemie &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;228&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Levice&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Levice&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Horn&amp;eacute; Semerovce&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Horn&amp;eacute; Semerovce&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Parcely registra &amp;quot;C&amp;quot; evidovan&amp;eacute; na katastr&amp;aacute;lnej mape:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e0e0e0"&gt;
+			&lt;p&gt;&lt;strong&gt;Parceln&amp;eacute; č&amp;iacute;slo&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e0e0e0"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e0e0e0"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;mera /m&lt;sup&gt;2&lt;/sup&gt;/&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;797 / 12&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Z&amp;aacute;hrada&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1485&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;797 / 55&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;512&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Stavby:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;S&amp;uacute;pisn&amp;eacute; č&amp;iacute;slo&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Parceln&amp;eacute; č&amp;iacute;slo&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh a popis stavby&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;173&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;797 / 55&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;10 Rodinn&amp;yacute; dom&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Spoluvlastn&amp;iacute;cky podiel v&amp;nbsp;1/1.&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;&lt;strong&gt;Rodinn&amp;yacute; dom s&amp;uacute;pisn&amp;eacute; č&amp;iacute;slo 173 v obci Horn&amp;eacute; Semerovce. Pozemky parceln&amp;eacute; č. 797/12, 797/55 o v&amp;yacute;mere 1997 m2.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vzhľadom na skutočnosť, že hodnoten&amp;eacute; nehnuteľnosti neboli spr&amp;iacute;stupnen&amp;eacute;, ohodnotenie predmetu dražby bolo vykonan&amp;eacute; v zmysle &amp;sect; 12 ods.3 z&amp;aacute;kona č.527/2002 o dobrovoľn&amp;yacute;ch dražb&amp;aacute;ch, v znen&amp;iacute; neskor&amp;scaron;&amp;iacute;ch predpisov (&amp;quot;ohodnotenie možno vykonať z dostupn&amp;yacute;ch &amp;uacute;dajov, ktor&amp;eacute; m&amp;aacute; dražobn&amp;iacute;k k dispoz&amp;iacute;cii&amp;quot;). &lt;/strong&gt;&lt;strong&gt;Z d&amp;ocirc;vodu neumožnenia vykonania obhliadky nie je možn&amp;eacute; určiť presn&amp;eacute; technick&amp;eacute; ani dispozičn&amp;eacute; rie&amp;scaron;enie ohodnocovan&amp;yacute;ch nehnuteľnost&amp;iacute;, rovnako ani ich už&amp;iacute;vaciu schopnosť.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dispozičn&amp;eacute; rie&amp;scaron;enie: Suter&amp;eacute;n rodinn&amp;eacute;ho domu obsahuje: schodisko, chodbu, dielňu, sklad a pivnicu. Pr&amp;iacute;zemie rodinn&amp;eacute;ho domu obsahuje: chodbu (b&amp;yacute;val&amp;yacute; zastre&amp;scaron;en&amp;yacute; gang), kuchyňu, k&amp;uacute;peľňu s WC, izbu, izbu a izbu.&lt;/p&gt;
+
+&lt;p&gt;Rodinn&amp;yacute; dom je samostatne stojaci rodinn&amp;yacute; dom, situovan&amp;yacute; v zastavanom &amp;uacute;zem&amp;iacute; obce, v z&amp;aacute;stavbe rodinn&amp;yacute;ch domov podobn&amp;eacute;ho prevedenia z rovnak&amp;eacute;ho obdobia s pr&amp;iacute;stupom z asfaltovej komunik&amp;aacute;cie. Pozemok je situovan&amp;yacute; v rovinatom ter&amp;eacute;ne v centre obce a s&amp;uacute;časne na okraji obce priamo pri hlavnej komunik&amp;aacute;cii. Rodinn&amp;yacute; dom m&amp;aacute; 1 nadzemn&amp;eacute; podlažie, neobytn&amp;eacute; podkrovie. Rodinn&amp;yacute; dom je čiastočne podpivničen&amp;yacute;. Viac ako polovica podlahovej plochy v&amp;scaron;etk&amp;yacute;ch miestnost&amp;iacute; je určen&amp;aacute; na b&amp;yacute;vanie. V lokalite je možnosť napojenia na inžinierske siete: verejn&amp;yacute; vodovod, zemn&amp;yacute; plyn a elektrick&amp;aacute; energia.&lt;/p&gt;
+
+&lt;p&gt;Na z&amp;aacute;klade technick&amp;eacute;ho stavu domu zistenom pri obhliadke s ohľadom na zrejm&amp;uacute; rekon&amp;scaron;trukciu exteri&amp;eacute;rov domu, (zrejm&amp;eacute; zateplenie stavby, nedokončen&amp;aacute; fas&amp;aacute;da v lepidle, plastov&amp;eacute; okn&amp;aacute;) a zrejme aj rekon&amp;scaron;trukciu interi&amp;eacute;rov, av&amp;scaron;ak zl&amp;yacute; technick&amp;yacute; stav strechy, predpokladan&amp;aacute; životnosť je 100 rokov. Technick&amp;yacute; stav rodinn&amp;eacute;ho domu zodpoved&amp;aacute; jeho veku.&lt;/p&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;Predmet dražby sa draž&amp;iacute; tak ako &amp;bdquo;stoj&amp;iacute; a&amp;nbsp;lež&amp;iacute;.&amp;ldquo;&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>Poznámky:
+P-280/2026, Oznámenie o začatie výkonu záložného práva záložného veriteľa Všeobecná úverová banka, a.s., IČO 31320155 formou dobrovoľnej dražby, na pozemky reg. C KN č. 797/12, 797/55, stavba Rodinný dom so súp.č. 173 na pozemku reg. C KN č. 797/55 vo vlastníctve [skryté](nar. [skryté])v podiele 1/1. - vz. 46/2026
+P-385/2026- Oznámenie o dražbe č. DD HP029/26, deň konania dražby 25.8.2026, dražobník HeyPay s.r.o., IČO: 44842414, na pozemok registra C-KN parc. 797/12, 797/55, stavba Rodinný dom so súp.č. 173 na pozemku reg. C KN č. 797/55 vo vlastníctve pod B 1 v podiele 1/1. - vz. 73/26
+P-463/2026 - Oznámenie o opakovanej dražbe č. DD HP029/26, deň konania dražby 24.9.2026 (2. kolo), dražobník HeyPay s.r.o., Bratislava, IČO: 44842414, na pozemok registra C-KN parc. 797/12, 797/55, stavba Rodinný dom so súp.č. 173 na pozemku reg. C KN č. 797/55 vo vlastníctve pod B 1 v podiele 1/1. - vz. 95/26
+ČASŤ C: ŤARCHY:
+V-5449/2018 - zmluva o zriadení záložného práva č. 001/329794/18-001/000 zo dňa 22.10.2018 v znení dodatku zo dňa 12.12.2018, v prospech Všeobecná úverová banka, a.s., IČO 31320155 Bratislava, na pozemok registra C KN parcelné číslo 797/12, 797/55 a stavbu rodinného domu so súpisným číslom 173 na pozemku registra C KN parcelné číslo 797/55, v podiele 1/1. - vz.10/19.
+Z-701/2026 - Exekučný príkaz na zriadenie exekučného záložného práva na nehnuteľnosť č. 400EX 42/25 zo dňa 05.02.2026, Exekútorský úrad Nitra, súdna exekútorka JUDr. Paula Miššíková v súlade s ustanovením § 168 a nasl. zákona NR SR č. 233/1995 Z.z., v prospech oprávneného Home Credit Slovakia, a.s., Piešťany, IČO: 36234176 pre povinného [skryté],(nar. [skryté])na pozemky registra C KN parc.č. 797/12, 797/55 a stavbu rodinný dom so súpisným číslom 173 na pozemku registra C KN parc.č. 797/55 vo vlastníctve povinného pod B 1 v podiele 1/1. - vz.8/2026
+Iné údaje: Bez zápisu</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad>Číslo znaleckého posudku: 178/2026
+Meno znalca: Marta Kalinová Ing.
+Dátum vyhotovenia: 27.06.2026
+Všeobecná cena odhadu: 61 300,00 EUR </ns0:PredmetCenaOdhad>
+  <ns0:PredmetCenaVyska>45 975,00 EUR</ns0:PredmetCenaVyska>
+  <ns0:PredmetCenaSposobStanovenia xsi:nil="true" />
+  <ns0:PredmetPodmienkyOdovzdania xsi:nil="true" />
+  <ns0:NajnizsiePodanie>bolo urobené</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie xsi:nil="true" />
+  <ns0:Zabezpeka xsi:nil="true" />
+  <ns0:SposobUhradyCeny xsi:nil="true" />
+  <ns0:ObhliadkaDatum xsi:nil="true" />
+  <ns0:ObhliadkaMiesto xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia xsi:nil="true" />
+  <ns0:NadobudnutieVlastnickehoPrava xsi:nil="true" />
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

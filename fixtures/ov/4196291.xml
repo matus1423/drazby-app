@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Nazov>Oznámenie o opakovanej dobrovoľnej dražbe</ns0:Nazov>
+  <ns0:Cislo>260003</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>Dražby a aukcie, s.r.o.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Jilemnického</Ulica>
+      <Cislo>4012/30</Cislo>
+      <Obec>Martin</Obec>
+      <Psc>03601</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="131">Okresný súd Žilina</Sud>
+    <Oddiel>Sro</Oddiel>
+    <Vlozka>18739/L</Vlozka>
+    <Ico>36751642</Ico>
+  </ns0:Drazobnik>
+  <ns0:NavrhovateliaHeader>Označenie navrhovateľa</ns0:NavrhovateliaHeader>
+  <ns0:Navrhovatelia>
+    <ns0:Navrhovatel>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Všeobecná úverová banka, a.s.</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Mlynské nivy</Ulica>
+          <Cislo>1</Cislo>
+          <Obec>Bratislava</Obec>
+          <Psc>829 90</Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Sud Kod="104">Mestský súd Bratislava III</Sud>
+        <Oddiel>Sa  </Oddiel>
+        <Vlozka>341/B</Vlozka>
+        <Ico>31320155</Ico>
+      </ns0:CeleMeno>
+    </ns0:Navrhovatel>
+  </ns0:Navrhovatelia>
+  <ns0:Licitatori xsi:nil="true" />
+  <ns0:Notar>
+    <ns0:CeleMeno>
+      <TitulPred>JUDr.</TitulPred>
+      <TitulZa />
+      <Meno>Michal</Meno>
+      <Priezvisko>Capek</Priezvisko>
+    </ns0:CeleMeno>
+    <ns0:Sidlo>
+      <Ulica>Nám. M.R. Štefánika</Ulica>
+      <Cislo>14/19</Cislo>
+      <Obec>Brezno</Obec>
+      <Psc>977 01</Psc>
+      <Stat />
+    </ns0:Sidlo>
+  </ns0:Notar>
+  <ns0:KonanieMiesto>vo veľkej zasadacej miestnosti – C point, Dr. Jánského 470/9, 965 01 Žiar nad Hronom</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-09-29</ns0:KonanieDatum>
+  <ns0:KonanieCas>10:00 hod.</ns0:KonanieCas>
+  <ns0:Kolo>opakovaná dražba</ns0:Kolo>
+  <ns0:Predmet>&lt;p&gt;nehnuteľnosti nach&amp;aacute;dzaj&amp;uacute;ce sa v okrese Žarnovica, obci Nov&amp;aacute; Baňa, katastr&amp;aacute;lne &amp;uacute;zemie Nov&amp;aacute; Baňa, Okresn&amp;yacute; &amp;uacute;rad Žarnovica- katastr&amp;aacute;lny odbor na &lt;strong&gt;LV č. 7865 &lt;/strong&gt;ako:&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;strong&gt;Okresn&amp;yacute; &amp;uacute;rad, katastr&amp;aacute;lny odbor:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3"&gt;
+			&lt;p&gt;&amp;nbsp;Žarnovica&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;strong&gt;Okres: &lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;Obec:&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;Katastr&amp;aacute;lne &amp;uacute;zemie:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3"&gt;
+			&lt;p&gt;&amp;nbsp;Žarnovica&lt;/p&gt;
+
+			&lt;p&gt;&amp;nbsp;Nov&amp;aacute; Baňa&lt;/p&gt;
+
+			&lt;p&gt;&amp;nbsp;Nov&amp;aacute; Baňa&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;strong&gt;Č&amp;iacute;slo listu vlastn&amp;iacute;ctva:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3"&gt;
+			&lt;p&gt;7865&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="5"&gt;
+			&lt;p&gt;Parcely registra &amp;bdquo;C&amp;ldquo; evidovan&amp;eacute; na katastr&amp;aacute;lnej mape:&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="5"&gt;
+			&lt;p&gt;&lt;strong&gt;&lt;em&gt;Pozemky:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;em&gt;&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;em&gt;Parcel. č&amp;iacute;slo:&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;em&gt;Druh pozemku:&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;em&gt;&amp;nbsp;V&amp;yacute;mera v m&lt;/em&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;pozemok&lt;em&gt; &lt;/em&gt;parcela C-KN&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;3328/2&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&amp;nbsp;108 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;pozemok&lt;em&gt; &lt;/em&gt;parcela C-KN&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;3328/3&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&amp;nbsp;729 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="5"&gt;
+			&lt;p&gt;&lt;strong&gt;&lt;em&gt;Stavby:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;em&gt;S&amp;uacute;pisn&amp;eacute; č&amp;iacute;slo:&lt;/em&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;em&gt;&amp;nbsp; &lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;em&gt;Na pozemku parceln&amp;eacute; č&amp;iacute;slo:&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;em&gt;Druh stavby:&amp;nbsp; &lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;em&gt;Popis stavby:&amp;nbsp; &lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;6057&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;3328/2&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;10 &amp;ndash; Rodinn&amp;yacute; dom&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Rodinn&amp;yacute; dom&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="3"&gt;
+			&lt;p&gt;&lt;strong&gt;Vo vlastn&amp;iacute;ctve:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;strong&gt;Spoluvlastn&amp;iacute;cky podiel:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Jedľov&amp;aacute; 783/15, 960 01 Zvolen&lt;/strong&gt;SR&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Tencerov&amp;aacute; Cec&amp;iacute;lia r.Tencerov&amp;aacute;, 20.07.1948, Viničn&amp;aacute; 57, Nov&amp;aacute; Baňa, 968 01&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;1/2&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Tencer Tom&amp;aacute;&amp;scaron; r.Tencer, 02.06.1976, Viničn&amp;aacute; 57, Nov&amp;aacute; Baňa, 968 01&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;1/4&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Tencerov&amp;aacute; Cec&amp;iacute;lia r.Tencerov&amp;aacute;, 20.07.1948, Viničn&amp;aacute; 57, Nov&amp;aacute; Baňa, 968 01&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;1/4&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Predmet dražby sa draž&amp;iacute; tak ako stoj&amp;iacute; a&amp;nbsp;lež&amp;iacute;, vr&amp;aacute;tane v&amp;scaron;etk&amp;yacute;ch jej s&amp;uacute;čast&amp;iacute; a&amp;nbsp;pr&amp;iacute;slu&amp;scaron;enstva.&lt;/strong&gt;&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;Objekt sa nach&amp;aacute;dza v ulici Viničn&amp;aacute; č.57 v z&amp;aacute;stavbe samostatne stojacich rodinn&amp;yacute;ch domov v obci Nov&amp;aacute; Baňa, ktor&amp;aacute; predstavuje dobre dostupn&amp;uacute; obytno-rekreačn&amp;uacute; oblasť okresn&amp;eacute;ho mesta Žarnovica 13km, 10min. po R1. Hodnoten&amp;eacute; nehnuteľnosti sa nach&amp;aacute;dzaj&amp;uacute; v oblasti vhodnej na b&amp;yacute;vanie so zn&amp;iacute;žen&amp;yacute;m z&amp;aacute;ujmom o k&amp;uacute;pu nehnuteľnost&amp;iacute; neprevy&amp;scaron;uj&amp;uacute;cim ponuku. Obec m&amp;aacute; &amp;uacute;pln&amp;uacute; občiansk&amp;uacute; vybavenosť ( obecn&amp;yacute; &amp;uacute;rad, &amp;scaron;k&amp;ocirc;lka, kult&amp;uacute;rne zariadenie, polyfunkčn&amp;eacute; objekty pre obchod a služby, ihrisk&amp;aacute; ). Dopravn&amp;eacute; spojenie s krajsk&amp;yacute;m mestom Bansk&amp;aacute; Bystrica a t&amp;yacute;m aj dostupnosť kompletnej občianskej vybavenosti na &amp;uacute;rovni krajsk&amp;eacute;ho mesta a zv&amp;yacute;&amp;scaron;en&amp;eacute;ho počtu pracovn&amp;yacute;ch pr&amp;iacute;ležitost&amp;iacute; je 71km, 45min. jazdy autom. V danej lokalite je možnosť napojenia na verejn&amp;yacute; rozvod vody, el. energie a plyn. Okolit&amp;uacute; z&amp;aacute;stavbu tvoria objekty na b&amp;yacute;vanie, rekre&amp;aacute;ciu a z&amp;aacute;hrady. Dom je samostatn&amp;yacute;, svojim dispozičn&amp;yacute;m rie&amp;scaron;en&amp;iacute;m, veľkosťou podlahovej plochy, veľkosťou okolit&amp;eacute;ho pozemku a lokalitou, v ktorej sa nach&amp;aacute;dza vhodn&amp;yacute; na celoročn&amp;eacute; rodinn&amp;eacute; b&amp;yacute;vanie alebo rekreovanie. Rodinn&amp;yacute; dom obsahuje samostatn&amp;uacute; 2xbytov&amp;uacute; jednotku s 2xizba, k&amp;uacute;pelňou, kuchyňou a WC. Vzhľadom k tomu, ako aj okolitej z&amp;aacute;stavbe a z toho vypl&amp;yacute;vaj&amp;uacute;cich obmedzen&amp;iacute; je možn&amp;eacute; vyl&amp;uacute;čiť in&amp;eacute; sp&amp;ocirc;soby využitia ako rodinn&amp;eacute; b&amp;yacute;vanie alebo rekreovanie.&lt;/p&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;&lt;strong&gt;Rodinn&amp;yacute; dom: Rodinn&amp;yacute; dom s.č.6057 na KNC p.č.3328/2 k.&amp;uacute;. Nov&amp;aacute; Baňa &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;POPIS STAVBY &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Umiestenie stavby: &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rodinn&amp;yacute; dom s.č.6057 sa nach&amp;aacute;dza na svahu nad 10% na pozemku KNC parc. č.3328/2, v obci Nov&amp;aacute; Baňa ul. Viničn&amp;aacute;. Dom je vykurovan&amp;yacute; &amp;uacute;stredne plynom a je bojler na TUV.Odkanalizovanie objektu je do žumpy. Dom je napojen&amp;yacute; elektriku, zemn&amp;yacute; plyn a vodovod. Pr&amp;iacute;slu&amp;scaron;enstvo je zemn&amp;aacute; pivnica s dvoma komorami. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dispozičn&amp;eacute; rie&amp;scaron;enie: &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dom je podpivničen&amp;yacute; do 1/2, m&amp;aacute; 2x nadzemn&amp;eacute; podlažie vč&amp;iacute;tane podkrovn&amp;eacute;ho. &amp;nbsp;Spolu 2x byt po 2x izba s kuchyňou a chodbou, komorou,&amp;nbsp; k&amp;uacute;pelňa spolu s WC. Vstup do podzemnej pivnice je schodiskom z chodby pri vstupe, s&amp;uacute; tu dva sklady a kotolňa. V 1NP je kuchyňa s dvoma izbami, chodbou, k&amp;uacute;pelňou a komorou. V podkrov&amp;iacute; detto. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technick&amp;eacute; rie&amp;scaron;enie: &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Z&amp;aacute;klady - 1. NP - bet&amp;oacute;nov&amp;eacute; - objekt s podzemn&amp;yacute;m podlaž&amp;iacute;m s vodorovnou izol&amp;aacute;ciou &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Zvisl&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - 1. PP - z monolitick&amp;eacute;ho bet&amp;oacute;nu; 1. NP, 2. PK - murovan&amp;eacute; z in&amp;yacute;ch materi&amp;aacute;lov (calsilox, siporex, calofrig) v skladobnej hr&amp;uacute;bke nad 30 do 40cm; deliace kon&amp;scaron;trukcie - 1. PP, 1. NP, 2. PK - tehlov&amp;eacute; (priečkovky, CDM, panelov&amp;aacute; kon&amp;scaron;trukcia, dreven&amp;eacute;) &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vodorovn&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - stropy - 1. PP, 1. NP, 2. PK - s rovn&amp;yacute;m podhľadom bet&amp;oacute;nov&amp;eacute; monolitick&amp;eacute;, prefabrikovan&amp;eacute; a keramick&amp;eacute; &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Schodisko - 1. PP - cementov&amp;yacute; poter; 1. NP - PVC, guma&amp;nbsp; &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Strecha - krovy - 1. NP - v&amp;auml;znicov&amp;eacute; sedlov&amp;eacute;, manzardov&amp;eacute;; krytiny strechy na krove - 1. NP - plechov&amp;eacute; pozinkovan&amp;eacute;; klampiarske kon&amp;scaron;trukcie strechy - 1. NP - z pozinkovan&amp;eacute;ho plechu &amp;uacute;pln&amp;eacute; strechy (žľaby, zvody, kom&amp;iacute;ny, prieniky, snehov&amp;eacute; zachyt&amp;aacute;vače) &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- &amp;Uacute;pravy vonkaj&amp;scaron;&amp;iacute;ch povrchov - fas&amp;aacute;dne omietky - 1. NP, 2. PK - &amp;scaron;kraban&amp;yacute; brizolit, omietky na b&amp;aacute;ze umel&amp;yacute;ch l&amp;aacute;tok; obklady fas&amp;aacute;d - 1. PP, 1. NP, 2. PK - obklady keramick&amp;eacute;, obklady drevom &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- &amp;Uacute;pravy vn&amp;uacute;torn&amp;yacute;ch povrchov - vn&amp;uacute;torn&amp;eacute; omietky - 1. PP, 1. NP, 2. PK - v&amp;aacute;penn&amp;eacute; &amp;scaron;tukov&amp;eacute;, stierkov&amp;eacute; plsťou hladen&amp;eacute;; vn&amp;uacute;torn&amp;eacute; obklady - 1. NP, 2. PK - prevažnej časti k&amp;uacute;peľne min.nad 1,35 m v&amp;yacute;&amp;scaron;ky; 1. NP, 2. PK - vane; 1. NP, 2. PK - kuchyne min. pri spor&amp;aacute;ku a dreze (ak je drez na stene) &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- V&amp;yacute;plne otvorov - dvere - 1. PP, 1. NP, 2. PK - hladk&amp;eacute; pln&amp;eacute; alebo&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;zasklen&amp;eacute;; okn&amp;aacute; - 1. PP, 1. NP, 2. PK - dvojit&amp;eacute; alebo zdvojen&amp;eacute; z tvrd&amp;eacute;ho dreva s dvoj. alebo s trojvrstv. zasklen&amp;iacute;m &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Podlahy - podlahy obytn&amp;yacute;ch miestnost&amp;iacute; (okrem obytn&amp;yacute;ch kuch&amp;yacute;ň) - 1. NP, 2. PK - podlahoviny gumov&amp;eacute;, z PVC, lino; dlažby a podlahy ost. miestnost&amp;iacute; - 1. PP - cementov&amp;yacute; poter, tehlov&amp;aacute; dlažba; 1. NP, 2. PK - keramick&amp;eacute; dlažby &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vybavenie kuch&amp;yacute;ň - 1. NP, 2. PK - spor&amp;aacute;k elektrick&amp;yacute; alebo plynov&amp;yacute; s elektrickou r&amp;uacute;rou alebo varn&amp;aacute; jednotka (&amp;scaron;tvorhor&amp;aacute;kov&amp;aacute;); 1. NP - spor&amp;aacute;k na tuh&amp;eacute; palivo; 1. NP, 2. PK - ods&amp;aacute;vač p&amp;aacute;r; 1. NP, 2. PK - drezov&amp;eacute; um&amp;yacute;vadlo nerezov&amp;eacute; alebo plastov&amp;eacute;; 1. NP, 2. PK - kuchynsk&amp;aacute; linka z materi&amp;aacute;lov na b&amp;aacute;ze dreva (za bežn&amp;yacute; meter rozvinutej &amp;scaron;&amp;iacute;rky) &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vybavenie k&amp;uacute;peľn&amp;iacute; - 1. NP, 2. PK - vaňa oceľov&amp;aacute; smaltovan&amp;aacute;; 1. NP, 2. PK - um&amp;yacute;vadlo; vodovodn&amp;eacute; bat&amp;eacute;rie - 1. NP, 2. PK - p&amp;aacute;kov&amp;eacute; nerezov&amp;eacute; so sprchou; 1. NP, 2. PK - p&amp;aacute;kov&amp;eacute; nerezov&amp;eacute;; z&amp;aacute;chod - 1. NP, 2. PK - splachovac&amp;iacute; bez um&amp;yacute;vadla &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vykurovanie - &amp;uacute;stredn&amp;eacute; vykurovanie - 1. NP, 2. PK - teplovod. s rozvod. bez ohľadu na mat. a radi&amp;aacute;tormi - oceľ. a vykurovacie panely; zdroj vykurovania - 1. PP - kotol &amp;uacute;stredn&amp;eacute;ho vykurovania značkov&amp;eacute; kotly, aj prevedenia turbo (Junkers, Vaillant, Leblanc&amp;hellip;) &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody vody - 1. PP, 1. NP, 2. PK - z pozinkovan&amp;eacute;ho potrubia studenej a teplej vody z centr&amp;aacute;lneho zdroja; zdroj teplej vody - 1. PP - z&amp;aacute;sobn&amp;iacute;kov&amp;yacute; ohrievač elektrick&amp;yacute;, plynov&amp;yacute; alebo kombinovan&amp;yacute; s &amp;uacute;stredn&amp;yacute;m vykurovan&amp;iacute;m &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody kanaliz&amp;aacute;cie - 1. PP, 1. NP, 2. PK - plastov&amp;eacute; potrubie &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody elektroin&amp;scaron;tal&amp;aacute;cie - elektroin&amp;scaron;tal&amp;aacute;cia ( bez rozv&amp;aacute;dzačov) - 1. PP, 1. NP, 2. PK - sveteln&amp;aacute;, motorick&amp;aacute;; elektrick&amp;yacute; rozv&amp;aacute;dzač - 1. PP, 1. NP, 2. PK - s automatick&amp;yacute;m isten&amp;iacute;m &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody plynu - 1. PP, 1. NP, 2. PK - rozvod zemn&amp;eacute;ho plynu a PB &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;V&amp;scaron;eobecn&amp;aacute; &amp;uacute;verov&amp;aacute; banka, a.s., Mlynsk&amp;eacute; nivy 1, 829 90 Bratislava, ICO: 31320155, zast&amp;uacute;pen&amp;aacute; na z&amp;aacute;klade plnej moci: Dražby a aukcie, s.r.o., so s&amp;iacute;dlom Jilemnick&amp;eacute;ho 4012/30, 036 01 Martin, ICO: 36751642 - Ozn&amp;aacute;menie o zacat&amp;iacute; realiz&amp;aacute;cie z&amp;aacute;ložn&amp;eacute;ho pr&amp;aacute;va c. 260003, zo dna 23.04.2026 na nehnutelnosti: CKN parc. c. 3328/2, 3328/3 a stavba: rodinn&amp;yacute; dom s&amp;uacute;p. c. 6057 postaven&amp;yacute; na CKN parc. c. 3328/2 - z&amp;aacute;ložca: Tom&amp;aacute;&amp;scaron; Tencer, r. Tencer- spoluvlastn.cky podiel 1/4 pod B2&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;a Cec&amp;iacute;lia Tencerov&amp;aacute;, r. Tencerov&amp;aacute;- spoluvlastnicky podiel 1/2 pod B1 a 1/4 pod B3 &amp;ndash; v&amp;yacute;kon z&amp;aacute;ložn&amp;eacute;ho pr&amp;aacute;va sa uskutocn&amp;iacute; prostredn&amp;iacute;ctvom dobrovolnej dražby - podla P 43/2026 &amp;ndash; Pvz 394/2026&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;V&amp;scaron;eobecn&amp;aacute; &amp;uacute;verov&amp;aacute; banka, a.s., ICO: 31320155, Mlynsk&amp;eacute; nivy 1, Bratislava: Ozn&amp;aacute;menie o zacat&amp;iacute; realiz&amp;aacute;cie z&amp;aacute;ložn&amp;eacute; pr&amp;aacute;vo na nehnutelnosti: CKN parc.c.3328/2, 3328/3 a stavba: rodinn&amp;yacute; dom c&amp;iacute;s.s&amp;uacute;p. 57 na CKN parc.c.3328/2, zo dna 18.11.2015 - P 243/15 - VZ 1621/15 - v zmysle listiny &amp;quot;ozn&amp;aacute;menie o zmene s&amp;uacute;pisn&amp;eacute;ho c&amp;iacute;sla&amp;quot; sa ozn&amp;aacute;menie o zacat&amp;iacute; realiz&amp;aacute;cie z&amp;aacute;ložn&amp;eacute;ho pr&amp;aacute;va vztahuje na rodinn. dom c.s. 6057 postaven&amp;yacute; na CKN parc.c. 3328/2 - VZ1008/17&amp;nbsp; &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;V&amp;scaron;eobecn&amp;aacute; &amp;uacute;verov&amp;aacute; banka, a.s., Mlynsk&amp;eacute; nivy 1, 829 90 Bratislava, ICO: 31320155, zastepen&amp;aacute; na z&amp;aacute;klade plnej moci: Dražby a aukcie, s.r.o., so s&amp;iacute;dlom Jilemnick&amp;eacute;ho 4012/30, 036 01 Martin, ICO: 36751642 - Ozn&amp;aacute;menie o zacat&amp;iacute; realiz&amp;aacute;cie z&amp;aacute;ložn&amp;eacute;ho pr&amp;aacute;va c. 260003, zo dna 23.04.2026 na nehnutelnosti: CKN parc. c. 3328/2, 3328/3 a stavba: rodinn&amp;yacute; dom s&amp;uacute;p. c. 6057 postaven&amp;yacute; na CKN parc. c. 3328/2 - z&amp;aacute;ložca: Tom&amp;aacute;&amp;scaron; Tencer, r. Tencer- spoluvlastnicky podiel 1/4 pod B2 a Cec&amp;iacute;lia Tencerov&amp;aacute;, r. Tencerov&amp;aacute;- spoluvlastnicky podiel 1/2 pod B1 a 1/4 pod B3 &amp;ndash; v&amp;yacute;kon z&amp;aacute;ložn&amp;eacute;ho pr&amp;aacute;va sa uskutocn&amp;iacute; prostredn&amp;iacute;ctvom dobrovolnej dražby - podla P 43/2026 - Pvz394/2026.&lt;/strong&gt;&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>Pre B 1,2,3: Všeobecná úverová banka, a.s., ICO: 31320155, so sídlom Mlynské nivy 1, 829 90 Bratislava - Zmluva o zriadený záložné právo na nehnutelnosti: pozemky: CKN parc.c.3328/2,3328/3 a stavba: rodinný dom cis.sup. 57 na CKN parc.c.3328/2, zo dna 22.11.2011. - V1053/2011 zo dňa 05.12.2011 - VZ 983/11
+- v zmysle listiny "oznámenie o zmene súpisného císla" sa záložné právo vztahuje na rodinný dom c.s. 6057 postavený na CKN parc.c. 3328/2 - VZ 1008/17
+
+
+Poznámka:
+Všeobecná úverová banka, a.s., ICO: 31320155, Mlynské nivy 1, Bratislava: Oznámenie o začatí realizácie záložné právo na nehnutelnosti: CKN parc.c.3328/2, 3328/3 a stavba: rodinný dom cis.sup. 57 na CKN parc.c.3328/2, zo dna 18.11.2015 - P 243/15 - VZ 1621/15- v zmysle listiny "oznámenie o zmene súpisného čísla" sa oznámenie o začatí realizácie záložného práva vztahuje na rodinný dom c.s. 6057 postavený na CKN parc.č. 3328/2 - VZ1008/17
+
+Všeobecná úverová banka, a.s., Mlynské nivy 1, 829 90 Bratislava, ICO: 31320155, zastupená. na základe plnej moci: Dražby a aukcie, s.r.o., so sídlom Jilemnického 4012/30, 036 01 Martin,ICO: 36751642 - Oznámenie o začatí realizacie záložného práva c. 260003, zo dna 23.04.2026 na nehnutelnosti: CKN parc. c. 3328/2, 3328/3 a stavba: rodinný dom súp. č. 6057 postavený na CKN parc. c. 3328/2 - záložca: Tomáš Tencer, r. Tencer- spoluvlastnícky podiel 1/4 pod B2
+a Cecília Tencerová, r. Tencerová- spoluvlastnícky podiel 1/2 pod B1 a 1/4 pod B3 – výkon záložného práva sa uskutocný prostrednictvom dobrovolnej dražby - podla P 43/2026 – Pvz 394/2026
+
+Všeobecná úverová banka, a.s., ICO: 31320155, Mlynské nivy 1, Bratislava: Oznámenie o začatí realizácie záložné právo na nehnutelnosti: CKN parc.c.3328/2, 3328/3 a stavba: rodinný dom cís.súp. 57 na CKN parc.c.3328/2, zo dna 18.11.2015 - P 243/15 - VZ 1621/15- v zmysle listiny "oznámenie o zmene súpisného císla" sa oznámenie o zacatí realizácie záložného práva vztahuje na rodinný dom c.s. 6057 postaven. na CKN parc.c. 3328/2 - VZ1008/17
+-
+Poznamenáva sa zacatie súdneho konania c. 24C 83/2016 na Okresnom súde Žiar nad Hronom na ochranu spotrebitela a neplatnost dražby žalobcu Tomáša Tencer a žalovaných dražobník:
+Dražby a aukcie s.r.o., Flámska . 9783/1, Martin a veritela: Všeobecná úverová banka a.s.,Bratislava - P 159/16 - VZ 912/16
+</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad xsi:nil="true" />
+  <ns0:PredmetCenaVyska xsi:nil="true" />
+  <ns0:PredmetCenaSposobStanovenia>znaleckým posudkom č. 79/2026 vypracovaným súdnym znalcom Ing. Miroslavom Ferklom v sume 102.000,00 €</ns0:PredmetCenaSposobStanovenia>
+  <ns0:PredmetPodmienkyOdovzdania>Ak uhradil vydražiteľ cenu dosiahnutú vydražením v ustanovenej lehote, prechádza na neho vlastnícke právo k predmetu dražby udelením príklepu. Užívacie právo odovzdaním predmetu dražby po zaplatení celej ceny dosiahnutej vydražením na základe zápisnice o odovzdaní predmetu dražby. Všetky náklady spojené s odovzdaním a prevzatím predmetu dražby nesie vydražiteľ. V prípade, ak boli porušené ustanovenia tohto zákona, môže osoba, ktorá tvrdí, že tým bola dotknutá na svojich právach, požiadať súd, aby určil neplatnosť dražby. Právo domáhať sa určenia neplatnosti dražby zaniká, ak sa neuplatní do troch mesiacov odo dňa udelenia príklepu okrem prípadu, ak dôvody neplatnosti dražby súvisia so spáchaním trestného činu a zároveň ide o dražbu domu alebo bytu, v ktorom má predchádzajúci vlastník predmetu dražby v čase príklepu hlásený trvalý pobyt podľa osobitného predpisu; v tomto prípade je možné domáhať sa neplatnosti dražby aj po uplynutí tejto lehoty. V prípade spoločnej dražby bude neplatná len tá časť dražby, ktorej sa takýto rozsudok týka. Osoba, ktorá podala na súde žalobu podľa odseku 2, je povinná oznámiť príslušnej správe katastra nehnuteľností začatie súdneho konania. Účastníkmi súdneho konania o neplatnosť dražby sú navrhovateľ dražby, dražobník, vydražiteľom predchádzajúci vlastník a dotknutá osoba. Ak vydražiteľ zmaril dražbu alebo ak súd určil dražbu za neplatnú, účinky príklepu zanikajú ku dňu príklepu. Neplatnosť dražby nie je možné vysloviť z dôvodu oneskoreného začatia dražby, ak bolo príčinou oneskoreného začatia dražby konanie inej dražby tým istým dražobníkom na tom istom mieste a ak neumožnil vlastník [skryté], ako aj osoba, ktorá má k predmetu dražby iné ako vlastnícke právo, vykonať riadnu obhliadku predmetu dražby. Upozorňujeme všetky osoby, ktoré majú k predmetu dražby iné práva, že ich môžu preukázať najneskôr do začatia dražby a uplatniť na dražbe ako dražitelia. V dražobnej miestnosti je zakázané zhotovovať akýkoľvek audiovizuálny a zvukový záznam bez súhlasu dražobníka.</ns0:PredmetPodmienkyOdovzdania>
+  <ns0:NajnizsiePodanie>102.000,00 €</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie>1.000,00 €</ns0:MinimalnePrihodenie>
+  <ns0:Zabezpeka>
+    <ns0:Vyska>15.000,00 €</ns0:Vyska>
+    <ns0:ZlozenieSposob>bezhotovostným prevodom na účet / zložením v hotovosti na účet dražobníka/ notárskou úschovou / zložením v hotovosti do pokladne dražobníka / bankovou zárukou</ns0:ZlozenieSposob>
+    <ns0:ZlozenieCisloUctu>SK5402000000003163615951, VS 260003</ns0:ZlozenieCisloUctu>
+    <ns0:ZlozenieAdresa>vo veľkej zasadacej miestnosti – C point, Dr. Jánského 470/9, 965 01 Žiar nad Hronom</ns0:ZlozenieAdresa>
+    <ns0:ZlozenieDoklad>1.originálom príkazu na úhradu preukazujúcim odpísanie finančných prostriedkov z účtu navrhovateľa za predpokladu ich následného pripísania na účet dražobníka 2.originálom potvrdenia o vklade peňažných prostriedkov na bankový účet v hotovosti vydaného bankou 3.originál listiny preukazujúcej zloženie dražobnej zábezpeky do notárskej úschovy.</ns0:ZlozenieDoklad>
+    <ns0:ZlozenieLehota>Do otvorenia dražby</ns0:ZlozenieLehota>
+    <ns0:Vratenie>Bezhotovostným prevodom na účet účastníka dražby, bez zbytočného odkladu po skončení dražby alebo po upustení od dražby, najneskôr však do 5 dní od skončenia dražby alebo od upustenia od dražby.</ns0:Vratenie>
+  </ns0:Zabezpeka>
+  <ns0:SposobUhradyCeny>Cenu dosiahnutú vydražením do 6.638,78 € je vydražiteľ povinný uhradiť ihneď po príklepe, nad túto sumu do 15 dní, pokiaľ sa vydražiteľ s navrhovateľom dražby nedohodnú inak. Vydražiteľ je povinný uhradiť cenu spôsobmi uvedenými pri zložení dražobnej zábezpeky formou bezhotovostného prevodu na účet dražobníka alebo zložením hotovosti na účet dražobníka, pričom táto sa započítava vydražiteľovi do ceny  dosiahnutej vydražením. V prípade bankovej záruky je povinný zaplatiť cenu dosiahnutú vydražením v plnej výške prevodom na účet dražobníka alebo zložením hotovosti na účet dražobníka. Účtom dražobníka sa vo všetkých prípadoch myslí účet vedený v Tatra banke, a.s., č. účtu: IBAN: SK95 1100 0000 0026 2202 7522, VS  260003</ns0:SposobUhradyCeny>
+  <ns0:ObhliadkaDatum>1. obhliadka      23.09.2026              10:30 hod.
+2. obhliadka      24.09.2026              10:30 hod.
+V prípade záujmu nás kontaktujte na tel. č. 0915 879 007.
+</ns0:ObhliadkaDatum>
+  <ns0:ObhliadkaMiesto>katastrálne územie</ns0:ObhliadkaMiesto>
+  <ns0:SpolocnaDrazba Kod="NIE">Nie</ns0:SpolocnaDrazba>
+  <ns0:SpolocnaDrazbaPoradieDrazeniePredmetov xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia>žiadne</ns0:OrganizaceOpatrenia>
+  <ns0:NadobudnutieVlastnickehoPrava>-</ns0:NadobudnutieVlastnickehoPrava>
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

@@ -1,0 +1,52 @@
+{
+ "generated_at": "2026-10-08T21:44:59+00:00",
+ "count": 556,
+ "upcoming": 142,
+ "by_source": {
+  "ncrd": 40,
+  "ov": 547
+ },
+ "with_coords": 534,
+ "runs": [
+  {
+   "source": "ncrd",
+   "started_at": "2026-10-08T19:21:52+00:00",
+   "finished_at": null,
+   "fetched": 0,
+   "new_notices": 0,
+   "new_auctions": 0,
+   "errors": 0,
+   "message": null
+  },
+  {
+   "source": "ov",
+   "started_at": "2026-10-08T18:08:25+00:00",
+   "finished_at": "2026-10-08T18:08:25+00:00",
+   "fetched": 1,
+   "new_notices": 0,
+   "new_auctions": 0,
+   "errors": 0,
+   "message": null
+  },
+  {
+   "source": "ncrd",
+   "started_at": "2026-10-08T12:24:56+00:00",
+   "finished_at": null,
+   "fetched": 0,
+   "new_notices": 0,
+   "new_auctions": 0,
+   "errors": 0,
+   "message": null
+  },
+  {
+   "source": "ov",
+   "started_at": "2026-10-08T10:42:10+00:00",
+   "finished_at": "2026-10-08T11:03:58+00:00",
+   "fetched": 88510,
+   "new_notices": 815,
+   "new_auctions": 504,
+   "errors": 0,
+   "message": null
+  }
+ ]
+}

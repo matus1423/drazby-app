@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Drazba xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="/PortalJustice/XmlFormularObchodnyVestnik/">
+  <Cislo>DU-POS DD93a/2015</Cislo>
+  <ZoDna>2016-03-01</ZoDna>
+  <Drazobnik>
+    <ObchodneMenoNazov xmlns="">DUPOS dražobná, spol. s r.o.</ObchodneMenoNazov>
+    <Sidlo xmlns="">
+      <Ulica>Tamaškovičova</Ulica>
+      <Cislo>17</Cislo>
+      <Obec>Trnava</Obec>
+      <Psc>91701</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud xmlns="" Kod="110">Okresný súd Trnava</Sud>
+    <Oddiel xmlns="">Sro</Oddiel>
+    <Vlozka xmlns="">11681/T</Vlozka>
+    <Ico xmlns="">36233935</Ico>
+  </Drazobnik>
+  <NavrhovateliaHeader>Označenie navrhovateľa</NavrhovateliaHeader>
+  <Navrhovatelia>
+    <Navrhovatel>
+      <Id>1</Id>
+      <CeleMeno>
+        <ObchodneMenoNazov xmlns="">ČSOB, a.s. (ako právny nástupca v dôsledku zlučenia s OTP Banka Slovensko s.r.o.</ObchodneMenoNazov>
+        <Sidlo xmlns="">
+          <Ulica>Žiškova </Ulica>
+          <Cislo>11</Cislo>
+          <Obec>Bratislava</Obec>
+          <Psc>811 02</Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Oddiel xmlns="" />
+        <Vlozka xmlns="" />
+        <Ico xmlns="">36854140</Ico>
+      </CeleMeno>
+    </Navrhovatel>
+  </Navrhovatelia>
+  <Licitatori xsi:nil="true" />
+  <Notar xsi:nil="true" />
+  <KonanieMiesto>Hotel a Ubytovňa Prim **, Stará Vajnorská 37, 832 18 Bratislava, zasadacia miestnosť</KonanieMiesto>
+  <KonanieDatum>2016-04-06</KonanieDatum>
+  <Predmet>&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;LV č.&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;Okresn&amp;yacute; &amp;uacute;rad, katastr&amp;aacute;lny odbor&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;Katastr&amp;aacute;lne &amp;uacute;zemie&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;Okres&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;Obec&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;4415&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Bratislava&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Podunajsk&amp;eacute; Biskupice&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Bratislava II&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;BA-m.č. Podunajsk&amp;eacute; Biskupice&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="6"&gt;
+			&lt;p&gt;&lt;strong&gt;Parcely registra &amp;quot;C&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="6"&gt;
+			&lt;p&gt;spoluvlastn&amp;iacute;cky podiel vo veľkosti 4818/522153&amp;nbsp; k pozemkom:&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#bfbfbf"&gt;
+			&lt;p&gt;&lt;strong&gt;Parceln&amp;eacute; č&amp;iacute;slo&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3" style="background-color:#bfbfbf"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#bfbfbf"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;mera /m&lt;sup&gt;2&lt;/sup&gt;/&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;5476/27&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3"&gt;
+			&lt;p&gt;Zastavan&amp;eacute; plochy a n&amp;aacute;dvoria&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;791&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="6"&gt;
+			&lt;p&gt;&lt;strong&gt;Stavby&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="6"&gt;
+			&lt;p&gt;spoluvlastn&amp;iacute;cky podiel vo veľkosti 4818/522153 na spoločn&amp;yacute;ch častiach a spoločn&amp;yacute;ch zariadeniach stavby:&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;S&amp;uacute;pisn&amp;eacute; č&amp;iacute;slo&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;Parcela&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3" style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh stavby &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;10064&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;5476/27&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3"&gt;
+			&lt;p&gt;Bytov&amp;yacute; dom&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="6"&gt;
+			&lt;p&gt;&lt;strong&gt;Byty a nebytov&amp;eacute; priestory:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#bfbfbf"&gt;
+			&lt;p&gt;&lt;strong&gt;Č&amp;iacute;slo bytu&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#bfbfbf"&gt;
+			&lt;p&gt;&lt;strong&gt;Podlažie/Poschodie&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3" style="background-color:#bfbfbf"&gt;
+			&lt;p&gt;&lt;strong&gt;Adresa&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#bfbfbf"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;mera /m&lt;sup&gt;2&lt;/sup&gt;/&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:bottom"&gt;
+			&lt;p&gt;67&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:bottom"&gt;
+			&lt;p&gt;8.p.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3" style="vertical-align:top"&gt;
+			&lt;p&gt;Podz&amp;aacute;hradn&amp;aacute; 5&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:bottom"&gt;
+			&lt;p&gt;49,18&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+</Predmet>
+  <PredmetOpis xsi:nil="true" />
+  <PredmetStavOpis xsi:nil="true" />
+  <PredmetPravaZavazky xsi:nil="true" />
+  <PredmetCenaOdhad xsi:nil="true" />
+  <PredmetCenaVyska xsi:nil="true" />
+  <PredmetCenaSposobStanovenia xsi:nil="true" />
+  <PredmetPodmienkyOdovzdania xsi:nil="true" />
+  <NajnizsiePodanie xsi:nil="true" />
+  <NajvyssiePodanie xsi:nil="true" />
+  <MinimalnePrihodenie xsi:nil="true" />
+  <Zabezpeka xsi:nil="true" />
+  <SposobUhradyCeny xsi:nil="true" />
+  <ObhliadkaDatum xsi:nil="true" />
+  <ObhliadkaMiesto xsi:nil="true" />
+  <OrganizaceOpatrenia xsi:nil="true" />
+  <NadobudnutieVlastnickehoPrava xsi:nil="true" />
+  <DovodUpustenia xsi:nil="true" />
+  <DrazobnikOznamuje>&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;DUPOS dražobn&amp;aacute;, spol. s r.o. ako dražobn&amp;iacute;k oznamuje, že &lt;strong&gt;v zmysle rozsudku Krajsk&amp;eacute;ho s&amp;uacute;du v Bratislave sp.zn. 15Co/67/2026-460 zo dňa 24.06.2026, &lt;/strong&gt;dobrovoľn&amp;aacute; dražba konan&amp;aacute; dňa 06.04.2016 o 10:00 hod., miesto konania: Hotel a Ubytovňa Prim **, Star&amp;aacute; Vajnorsk&amp;aacute; 37, 832 18 Bratislava, zasadacia miestnosť, &lt;strong&gt;bola&lt;/strong&gt; &lt;strong&gt;vyhl&amp;aacute;sen&amp;aacute; za neplatn&amp;uacute;.&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+</DrazobnikOznamuje>
+</Drazba>

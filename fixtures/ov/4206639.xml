@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Cislo>HP033/26</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>HeyPay s.r.o.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Mostová</Ulica>
+      <Cislo>2</Cislo>
+      <Obec>Bratislava</Obec>
+      <Psc>811 02</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="104">Mestský súd Bratislava III</Sud>
+    <Oddiel>Sro</Oddiel>
+    <Vlozka>59140/B</Vlozka>
+    <Ico>44842414</Ico>
+  </ns0:Drazobnik>
+  <ns0:Navrhovatelia xsi:nil="true" />
+  <ns0:LicitatoriHeader>Označenie licitátora</ns0:LicitatoriHeader>
+  <ns0:Licitatori>
+    <ns0:Licitator>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Ján Vzorový</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Hlavná</Ulica>
+          <Cislo>1</Cislo>
+          <Obec>Bratislava-Ružinov</Obec>
+          <Psc>00000</Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Oddiel />
+        <Vlozka />
+        <Ico />
+      </ns0:CeleMeno>
+    </ns0:Licitator>
+  </ns0:Licitatori>
+  <ns0:Notar xsi:nil="true" />
+  <ns0:KonanieMiesto>Robotnícky dom, Konferenčná miestnosť, 2. poschodie, Robotnícka 3, 974 01 Banská Bystrica</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-09-28</ns0:KonanieDatum>
+  <ns0:KonanieCas>12:30 hod.</ns0:KonanieCas>
+  <ns0:Kolo>prvá dražba</ns0:Kolo>
+  <ns0:Predmet>&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;LV č.&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Okresn&amp;yacute; &amp;uacute;rad&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Okres&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Obec&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Katastr&amp;aacute;lne &amp;uacute;zemie &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;2664&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Žiar nad Hronom&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Žiar nad Hronom&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Žiar nad Hronom&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Žiar nad Hronom&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Byt :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e0e0e0"&gt;
+			&lt;p&gt;&lt;strong&gt;Charakteristika (č&amp;iacute;slo bytu, č&amp;iacute;slo vchodu, č&amp;iacute;slo poschodia, adresa) :&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e0e0e0"&gt;
+			&lt;p&gt;&lt;strong&gt;S&amp;uacute;p.č. stavby :&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e0e0e0"&gt;
+			&lt;p&gt;&lt;strong&gt;Postaven&amp;aacute; na pozemku - parcele registra &amp;quot;C&amp;quot;&amp;nbsp; evidovanej na katastr&amp;aacute;lnej mape:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e0e0e0"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh a&amp;nbsp;popis stavby:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e0e0e0"&gt;
+			&lt;p&gt;&lt;strong&gt;Podiel priestoru na spoločn&amp;yacute;ch častiach a spoločn&amp;yacute;ch&amp;nbsp; zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve s&amp;uacute;pisn&amp;eacute; č. 1509 a spoluvlastn&amp;iacute;cky podiel k pozemku - parcele registra &amp;quot;C&amp;quot; evidovanej na katastr&amp;aacute;lnej mape ako: parc. č. 700/13, Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie o v&amp;yacute;mere 427 m&lt;sup&gt;2&lt;/sup&gt;:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;Byt č. 17,&lt;/p&gt;
+
+			&lt;p&gt;vchod: 17, 2.p., Adresa: Sl&amp;aacute;dkovičova 1509/17, 965 01 Žiar nad Hronom&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;1509&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;700 / 13&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;9 &amp;ndash; Bytov&amp;yacute; dom&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;2247 / 221149&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Spoluvlastn&amp;iacute;cky podiel v&amp;nbsp;1/1.&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;&lt;strong&gt;Gars&amp;oacute;nka č. 17, 2.p., vchod č. 17, na ulici Sl&amp;aacute;dkovičova v meste Žiar nad Hronom. Vypoč&amp;iacute;tan&amp;aacute; podlahov&amp;aacute; plocha je 22,48 m2 + lodžia 3,40 m2.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vzhľadom na skutočnosť, že hodnoten&amp;eacute; nehnuteľnosti neboli spr&amp;iacute;stupnen&amp;eacute;, ohodnotenie predmetu dražby bolo vykonan&amp;eacute; v zmysle &amp;sect; 12 ods.3 z&amp;aacute;kona č.527/2002 o dobrovoľn&amp;yacute;ch dražb&amp;aacute;ch, v znen&amp;iacute; neskor&amp;scaron;&amp;iacute;ch predpisov (&amp;quot;ohodnotenie možno vykonať z dostupn&amp;yacute;ch &amp;uacute;dajov, ktor&amp;eacute; m&amp;aacute; dražobn&amp;iacute;k k dispoz&amp;iacute;cii&amp;quot;). Z d&amp;ocirc;vodu neumožnenia vykonania obhliadky nie je možn&amp;eacute; určiť presn&amp;eacute; technick&amp;eacute; ani dispozičn&amp;eacute; rie&amp;scaron;enie ohodnocovan&amp;yacute;ch nehnuteľnost&amp;iacute;, rovnako ani ich už&amp;iacute;vaciu schopnosť.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Byt č.17 sa nach&amp;aacute;dza na 2.p. a dispozične pozost&amp;aacute;va z 1 ob&amp;yacute;vacej miestnosti predsiene a soci&amp;aacute;lneho zariadenia, loggie. Byt bol v roku 2016 rekon&amp;scaron;truovan&amp;yacute; s obnovou povrchov, podl&amp;aacute;h, in&amp;scaron;tal&amp;aacute;ci&amp;iacute; a vybavenia soci&amp;aacute;lneho zariadenia. Bytov&amp;yacute; dom m&amp;aacute; od roku 2018 nov&amp;yacute; v&amp;yacute;ťah a strojovňu. Bytov&amp;yacute; dom sa nach&amp;aacute;dza v &amp;scaron;ir&amp;scaron;om centre okresn&amp;eacute;ho mesta Žiar nad Hronom v bytovej a občianskej z&amp;aacute;stavbe s&amp;iacute;dliska na Sl&amp;aacute;dkovičovej ulici. Bytov&amp;yacute; dom m&amp;aacute; desať obytn&amp;yacute;ch nadzemn&amp;yacute;ch podlaž&amp;iacute;. Na pr&amp;iacute;zem&amp;iacute; sa nach&amp;aacute;dza obchod a spoločensk&amp;aacute; miestnosť. Bytov&amp;yacute; dom bol dan&amp;yacute; do už&amp;iacute;vania v roku 1976.&lt;/p&gt;
+
+&lt;p&gt;V zmysle z&amp;aacute;kona č. 182/1993 Z.z. o vlastn&amp;iacute;ctve bytov a nebytov&amp;yacute;ch priestorov, v znen&amp;iacute; neskor&amp;scaron;&amp;iacute;ch pr&amp;aacute;vnych predpisov:&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;spoločn&amp;yacute;mi časťami domu s&amp;uacute;:&lt;/u&gt; časti domu nevyhnutn&amp;eacute; na jeho podstatu a bezpečnosť, najm&amp;auml; z&amp;aacute;klady domu, strechy, chodby, obvodov&amp;eacute; m&amp;uacute;ry, priečelia, vchody, schodi&amp;scaron;tia, spoločn&amp;eacute; terasy, podkrovia, povaly, vodorovn&amp;eacute; nosn&amp;eacute; a izolačn&amp;eacute; kon&amp;scaron;trukcie a zvisl&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie,&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;spoločn&amp;yacute;mi zariadeniami domu s&amp;uacute;:&lt;/u&gt;&amp;nbsp; zariadenia, ktor&amp;eacute; s&amp;uacute; určen&amp;eacute; na spoločn&amp;eacute; už&amp;iacute;vanie a sl&amp;uacute;žia v&amp;yacute;lučne tomuto domu, a to aj v pr&amp;iacute;pade, ak s&amp;uacute; umiestnen&amp;eacute; mimo domu. Tak&amp;yacute;mito zariadeniami s&amp;uacute; najm&amp;auml; v&amp;yacute;ťahy, pr&amp;aacute;čovne a kotolne vr&amp;aacute;tane technologick&amp;eacute;ho zariadenia, su&amp;scaron;iarne, kočik&amp;aacute;rne, spoločn&amp;eacute; telev&amp;iacute;zne ant&amp;eacute;ny, bleskozvody, kom&amp;iacute;ny, vodovodn&amp;eacute;, teplonosn&amp;eacute;, kanalizačn&amp;eacute;, elektrick&amp;eacute;, telef&amp;oacute;nne a plynov&amp;eacute; pr&amp;iacute;pojky.&lt;/p&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;Predmet dražby sa draž&amp;iacute; tak ako &amp;bdquo;stoj&amp;iacute; a&amp;nbsp;lež&amp;iacute;.&amp;ldquo;&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>Poznámky:
+P-157/2024 - poznamenáva sa Oznámenie o začatí výkonu záložného práva zo dňa 06.08.2024 pre záložného veriteľa Slovenská sporiteľňa, a.s., Tomášikova 48, 832 37 Bratislava, IČO 00 151 653, SR, ktorý realizuje záložné právo predajom nehnuteľnosti bytu č. 17 na 2.p., vo vchode č.17 a spoluvlastníckeho podielu na spoločných častiach a zariadeniach domu č.s.1509 a pozemku CKN parc.č.700/13 o veľkosti 2247/221149 na dobrovoľnej dražbe v zmysle zákona č.527/2002 Z.z. o dobrovoľných dražbách - pol.885/24
+P-199/2026 - poznamenáva sa Oznámenie o dobrovoľnej dražbe DD HP033/26 zo dňa 27.08.2026 od dražobníka HeyPay s.r.o., Mostová 2, 811 02 Bratislava - Staré Mesto, IČO: 44 842 414, bytu č.17 na 2.p.,vchod č.17 a spoluvlastníckeho podielu na spoločných častiach a zariadeniach bytového domu č.s.1509 na CKN parc.č.700/13 a pozemku CKN parc.č.700/13 o veľkosti 2247/221149 - pol.1154/26
+P-216/2026 - poznamenáva sa Upovedomenie o ďalšom spôsobe vykonania exekúcie 83EX 758/25 zriadením exekučného záložného práva zo dňa 17.9.2026 od Exekútorského úradu so sídlom Mičinská cesta 35, 974 01 Banská Bystrica, súdny exekútor JUDr. Kohút Peter v prospech oprávneného: Slovenská konsolidačná, a.s., Cintorínska 21, 814 99 Bratislava, IČO: 35776005 na byt č. 17, na 2.posch., vchod č. 17 a spoluvlastnícky podiel na spoločných častiach a zariadeniach domu č.súp. 1509 a na CKN parc. č. 700/13 o veľkosti 2247/221149 - č.z. 1234/26
+ČASŤ C: ŤARCHY:
+Záložné právo ku garsónke č.17 na základe §15 odstavec 1 Zák.č.182/93 Z.z. a Zák.č.151/95 Z.z. v prospech spoločenstva vlastníkov bytov a nebytových priestorov: Bytové spoločenstvo domu č.1509
+V-2295/2021 - Záložné právo v prospech: Slovenská sporiteľňa, a.s., IČO: 00151653, Tomášikova 48, 832 37 Bratislava, SR na základe zmluvy zo dňa 1.10.2021 na byt č. 17, na 2. p., vchod č. 17 a spoluvlastnícky podiel na spoločných častiach a zariadeniach domu č. súp.1509 a na CKN parc. č. 700/13 o veľkosti 2247/221149 - pol. 1494/21
+Z-1581/2026 - exekučné záložné právo 83EX 758/25-K zo dňa 17.09.2026 od Exekútorského úradu, Mičinská cesta 35, 974 01 Banská Bystrica, súdny exekútor JUDr. Kohút Peter v prospech oprávneného: Slovenská konsolidačná, a.s., Cintorínska 21, 814 99 Bratislava, IČO: 35776005 na byt č. 17, na 2.posch., vchod č. 17 a spoluvlastnícky podiel na spoločných častiach a zariadeniach domu č.s.1509 a na CKN parc.č.700/13 o veľkosti 2247/221149 – listina zapísaná dňa 18.09.2026 - č.z.1236/26
+Iné údaje: Bez zápisu</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad>Číslo znaleckého posudku: 115/2026
+Meno znalca: Gálik Andrej Ing.
+Dátum vyhotovenia: 03.08.2026
+Všeobecná cena odhadu: 28 300,00 EUR </ns0:PredmetCenaOdhad>
+  <ns0:PredmetCenaVyska>25 470,00 EUR</ns0:PredmetCenaVyska>
+  <ns0:PredmetCenaSposobStanovenia xsi:nil="true" />
+  <ns0:PredmetPodmienkyOdovzdania xsi:nil="true" />
+  <ns0:NajnizsiePodanie>bolo urobené</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie xsi:nil="true" />
+  <ns0:Zabezpeka xsi:nil="true" />
+  <ns0:SposobUhradyCeny xsi:nil="true" />
+  <ns0:ObhliadkaDatum xsi:nil="true" />
+  <ns0:ObhliadkaMiesto xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia xsi:nil="true" />
+  <ns0:NadobudnutieVlastnickehoPrava xsi:nil="true" />
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

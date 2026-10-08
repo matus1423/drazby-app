@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Drazba xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="/PortalJustice/XmlFormularObchodnyVestnik/">
+  <Nazov>Oznámenie o dobrovoľnej dražbe</Nazov>
+  <Cislo>02-1-2025</Cislo>
+  <ZoDna xsi:nil="true" />
+  <Drazobnik>
+    <ObchodneMenoNazov xmlns="">Auctiofin s.r.o.</ObchodneMenoNazov>
+    <Sidlo xmlns="">
+      <Ulica>Rudavska</Ulica>
+      <Cislo>17</Cislo>
+      <Obec>Bratislava IV - Zahorska Bystrica</Obec>
+      <Psc>841 06</Psc>
+      <Stat>Slovensko</Stat>
+    </Sidlo>
+    <Sud xmlns="" Kod="104">Mestský súd Bratislava III</Sud>
+    <Oddiel xmlns="">Sro</Oddiel>
+    <Vlozka xmlns="">111795/B</Vlozka>
+    <Ico xmlns="">50331621</Ico>
+  </Drazobnik>
+  <NavrhovateliaHeader>Označenie navrhovateľa</NavrhovateliaHeader>
+  <Navrhovatelia>
+    <Navrhovatel>
+      <Id>1</Id>
+      <CeleMeno>
+        <ObchodneMenoNazov xmlns="">Mgr. Michal Mihálik PhD.</ObchodneMenoNazov>
+        <Sidlo xmlns="">
+          <Ulica>Zámocká</Ulica>
+          <Cislo>14</Cislo>
+          <Obec>Bratislava</Obec>
+          <Psc>811 04</Psc>
+          <Stat>Slovensko</Stat>
+        </Sidlo>
+        <Oddiel xmlns="" />
+        <Vlozka xmlns="" />
+        <Ico xmlns="">55452523</Ico>
+      </CeleMeno>
+    </Navrhovatel>
+  </Navrhovatelia>
+  <Licitatori xsi:nil="true" />
+  <Notar>
+    <CeleMeno>
+      <TitulPred xmlns="">JUDr.</TitulPred>
+      <TitulZa xmlns="" />
+      <Meno xmlns="">Lucia</Meno>
+      <Priezvisko xmlns="">Haspel Dobrovodská</Priezvisko>
+    </CeleMeno>
+    <Sidlo>
+      <Ulica xmlns="">Kalinčiakova</Ulica>
+      <Cislo xmlns="">33</Cislo>
+      <Obec xmlns="">Bratislava</Obec>
+      <Psc xmlns="">831 04</Psc>
+      <Stat xmlns="" />
+    </Sidlo>
+  </Notar>
+  <KonanieMiesto>Notársky úrad, JUDr. Lucia Haspel Dobrovodská
+Kalinčiakova 33, Bratislava 831 04
+</KonanieMiesto>
+  <KonanieDatum>2026-10-27</KonanieDatum>
+  <KonanieCas>10:00</KonanieCas>
+  <Kolo>Prvé kolo dražby</Kolo>
+  <Predmet>&lt;p&gt;Predmetom dražby podľa tejto zmluvy je &lt;strong&gt;spoluvlastn&amp;iacute;cky podiel o&amp;nbsp;veľkosti 1/7&lt;/strong&gt; na nehnuteľnosti:&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;List vlastn&amp;iacute;ctva č.:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;3164&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Okresn&amp;yacute; &amp;uacute;rad, katastr&amp;aacute;lny odbor: &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Bratislava&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Okres:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Bratislava IV&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Obec&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Bratislava - Lamač&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Katastr&amp;aacute;lne &amp;uacute;zemie&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Lamač&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;Spoluvlastn&amp;iacute;cky podiel o&amp;nbsp;veľkosti 1/7 k&amp;nbsp;parceliam registra &amp;bdquo;E&amp;ldquo;, &lt;/strong&gt;zap&amp;iacute;san&amp;yacute;ch na liste vlastn&amp;iacute;ctva č. &lt;strong&gt;3164&lt;/strong&gt;, okres Bratislava IV, obec: Bratislava &amp;ndash; Lamač, katastr&amp;aacute;lne &amp;uacute;zemie Lamač, &amp;scaron;t&amp;aacute;t: Slovensk&amp;aacute; republika, a&amp;nbsp;to:&lt;/li&gt;
+	&lt;li&gt;parc. č. 3193, v&amp;yacute;mera 2950 m2, Druh pozemku - Orn&amp;aacute; p&amp;ocirc;da&lt;/li&gt;
+	&lt;li&gt;parc. č. 3194, v&amp;yacute;mera&amp;nbsp;&amp;nbsp; 418 m2, Druh pozemku &amp;ndash; Trval&amp;yacute; tr&amp;aacute;vny porast&lt;/li&gt;
+	&lt;li&gt;parc. č. 3195, v&amp;yacute;mera&amp;nbsp;&amp;nbsp;&amp;nbsp; 471m2, Druh pozemku &amp;ndash; Trval&amp;yacute; tr&amp;aacute;vny porast&lt;/li&gt;
+	&lt;li&gt;parc. č. 3196, v&amp;yacute;mera&amp;nbsp; 1281m2, Druh pozemku &amp;ndash; Trval&amp;yacute; tr&amp;aacute;vny porast&lt;/li&gt;
+&lt;/ul&gt;
+</Predmet>
+  <PredmetOpis>&lt;p&gt;Pozemok je evidovan&amp;yacute; v katastri nehnuteľnost&amp;iacute; pre okres Bratislava IV, obec Bratislava - Lamač, k.&amp;uacute;. Lamač na liste vlastn&amp;iacute;ctva č. 3164 ako parcela č. 3193 o v&amp;yacute;mere 2950 m2, druh pozemku orn&amp;aacute; p&amp;ocirc;da, parcela č. 3194 o v&amp;yacute;mere 418 m2, druh pozemku trval&amp;yacute; tr&amp;aacute;vny porast, parcela č. 3195 o v&amp;yacute;mere 471 m2, druh pozemku trval&amp;yacute; tr&amp;aacute;vny porast, parcela č. 3196 o v&amp;yacute;mere 1281 m2, druh pozemku trval&amp;yacute; tr&amp;aacute;vny porast, - parcely registra &amp;quot;E&amp;quot;.&lt;/p&gt;
+</PredmetOpis>
+  <PredmetStavOpis>&lt;p&gt;&lt;em&gt;Pozemok je rovinat&amp;yacute;, zatr&amp;aacute;vnen&amp;yacute;. &lt;/em&gt;Situovan&amp;yacute; je v bl&amp;iacute;zkosti mestskej &amp;scaron;tvrti Bory, je to&amp;nbsp; rezidenčn&amp;aacute; &amp;scaron;tvrť v SZ časti Bratislavy s vynikaj&amp;uacute;cim občianskym vybaven&amp;iacute;m. Vďaka svojej polohe a už vybudovanej dopravnej infra&amp;scaron;trukt&amp;uacute;re s napojen&amp;iacute;m na neďalek&amp;uacute; diaľnicu D2 je dobr&amp;aacute; dostupnosť aj do centra Bratislavy, ktor&amp;eacute; je vzdialen&amp;eacute; 15 min&amp;uacute;t jazdy autom. V okol&amp;iacute; sa nach&amp;aacute;dzaj&amp;uacute; prev&amp;aacute;dzkov&amp;eacute; budovy.&lt;/p&gt;
+
+&lt;p&gt;Podľa poskytnutej &amp;uacute;zemnopl&amp;aacute;novacej inform&amp;aacute;cie je funkčn&amp;eacute; využitie &amp;uacute;zemia&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;- občianska vybavenosť celomestsk&amp;eacute;ho a nadmestsk&amp;eacute;ho v&amp;yacute;znamu&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;- zmie&amp;scaron;an&amp;eacute; &amp;uacute;zemia b&amp;yacute;vania a občianskej vybavenosti&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;- parky, sadovn&amp;iacute;cke a lesoparkov&amp;eacute; &amp;uacute;pravy.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Obyvateľstvu hlavn&amp;eacute;ho mesta s&amp;uacute; k dispoz&amp;iacute;cii &amp;scaron;portovisk&amp;aacute;, k&amp;uacute;palisk&amp;aacute;, &amp;scaron;t&amp;aacute;tne &amp;uacute;rady, &amp;uacute;rady mestskej a miestnej samospr&amp;aacute;vy, z&amp;aacute;kladn&amp;eacute;, stredn&amp;eacute;&amp;nbsp; a vysok&amp;eacute; &amp;scaron;koly, banky a pobočky b&amp;aacute;nk, sieť obchodov, nemocnice, polikliniky, kin&amp;aacute;, domy kult&amp;uacute;ry, re&amp;scaron;taur&amp;aacute;cie a sieť ďal&amp;scaron;&amp;iacute;ch služieb obyvateľstvu. &lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;V meste je v dosahu vlakov&amp;aacute;, autobusov&amp;aacute;, leteck&amp;aacute; a lodn&amp;aacute; doprava. &lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Pozemok je bez technickej infra&amp;scaron;trukt&amp;uacute;ry.&lt;/em&gt;&lt;/p&gt;
+</PredmetStavOpis>
+  <PredmetPravaZavazky>-	Vecné bremeno podľa § 22 a nasl.Zákona č.79/1957 Zb. o výrobe, rozvode a spotrebe elektriny (elektrizačný zákon) v spojení s § 96 ods.4 zákona č.251/2012 Z.z.o energetike a o zmene a doplnení niektorých zákonov v prospech spoločnosti Západoslovenská distribučná, a.s., IČO: 36361518, so sídlom Čulenova 6, Bratislava podľa geometrického plánu č. 18-1/2015, over.č. 199/2015 na pozemku E KN parc.č.3196 týkajúce sa elektroenergetického zariadenia 1x22kV VN linka č.211 na trase Rz Podvornice Rz Stupava,. Z-3288/15 
+-	Vlastník poradové číslo 2 - Záložné právo v prospech Všeobecná úverová banka, a.s. (IČO 31320155) na pozemky registra E KN parc. č. 3193, 3194, 3195, 3196, v podiele 5/14, podľa V-21483/2022 zo dňa 27.09.2022 
+-	Vlastník poradové číslo 3 - Záložné právo v prospech Všeobecná úverová banka, a.s. (IČO 31320155) na pozemky registra E KN parc. č. 3193, 3194, 3195, 3196, v podiele 1/7, podľa V-21483/2022 zo dňa 27.09.2022 
+-	Vlastník poradové číslo 4, 6, 9 - Záložné právo v prospech Všeobecná úverová banka, a.s. (IČO 31320155) na pozemky registra E KN parc. č. 3193, 3194, 3195, 3196, v podiele 1/14, podľa V-21483/2022 zo dňa 27.09.2022 
+</PredmetPravaZavazky>
+  <PredmetCenaOdhad xsi:nil="true" />
+  <PredmetCenaVyska xsi:nil="true" />
+  <PredmetCenaSposobStanovenia>Cena predmetu dražby je stanovená  Ing. Martinou Grexovou,  znalcom pre oblasť oceňovania nehnuteľností znaleckým posudkom č. 144/2026.</PredmetCenaSposobStanovenia>
+  <PredmetPodmienkyOdovzdania>V prípade, ak nadobudol vydražiteľ vlastníctvo k predmetu dražby, je dražobník povinný odovzdať vydražiteľovi predmet dražby. V prípade, ak ide o nehnuteľnosť, odovzdáva predmet dražby vydražiteľovi za účasti dražobníka bývalý vlastník.
+O odovzdaní predmetu dražby bude spísaný protokol, ktorý podpíše dražobník, vydražiteľ a bývalý vlastník.
+Všetky náklady spojené s odovzdaním predmetu dražby nesie vydražiteľ, s výnimkou nadbytočných nákladov, ktoré by inak nevznikli, ak ich svojou vinou spôsobil predchádzajúci vlastník alebo dražobník.
+Nebezpečenstvo škody na predmete dražby a zodpovednosť za škodu spôsobenú predmetom dražby prechádza z jej držiteľa na vydražiteľa dňom odovzdania predmetu dražby. 
+V prípade, ak bol vydražiteľovi riadne a včas oznámený termín odovzdania predmetu dražby a vydražiteľ je s jeho prevzatím v omeškaní, nesie nebezpečenstvo škody a zodpovednosť za škodu vydražiteľ.
+</PredmetPodmienkyOdovzdania>
+  <NajnizsiePodanie>67.131 €</NajnizsiePodanie>
+  <NajvyssiePodanie xsi:nil="true" />
+  <MinimalnePrihodenie>500 €</MinimalnePrihodenie>
+  <Zabezpeka>
+    <Vyska>3.000 €</Vyska>
+    <ZlozenieSposob>Dražobná zábezpeka musí byť uhradená v hotovosti, bankovým prevodom alebo vkladom na účet dražobníka č. ú.:  SK49 0900 0000 0052 1846 7589, vedený v Slovenská sporiteľňa, a. s., variabilný symbol 02/1/2025, bankovou zárukou v prospech dražobníka, alebo notárskou úschovou v prospech dražobníka.</ZlozenieSposob>
+    <ZlozenieCisloUctu>SK49 0900 0000 0052 1846 7589</ZlozenieCisloUctu>
+    <ZlozenieAdresa>Pobočky SlSp, na mieste dražby</ZlozenieAdresa>
+    <ZlozenieDoklad>Výpis z učtu, potvrdenie o vklade</ZlozenieDoklad>
+    <ZlozenieLehota>Do otvorenia dražby</ZlozenieLehota>
+    <Vratenie>Účastníkom dražby, ktorí sa nestanú vydražiteľmi, bude dražobná zábezpeka bezodkladne vrátená bankovým prevodom.</Vratenie>
+  </Zabezpeka>
+  <SposobUhradyCeny>Vydražiteľ je povinný uhradiť cenu dosiahnutú vydražením nie vyššiu ako 6.640 € hneď po skončení dražby. Ak je cena dosiahnutá vydražením vyššia ako 6.640 €  tak túto je  povinný zaplatiť do 15 dní po 
+skončení dražby, a to prevodom v prospech bankového účtu dražobníka uvedeného v bode 9 Oznámenia o dražbe.
+</SposobUhradyCeny>
+  <ObhliadkaDatum>Termín obhliadky bol stanovený na 13. októbra 2026 a 20. októbra 2026 so začiatkom o 10:00 hod. V prípade záujmu obhliadky sa prosím vopred hlásiť na tel. čísle dražobníka  0903/ 705 705.</ObhliadkaDatum>
+  <ObhliadkaMiesto>Lamač</ObhliadkaMiesto>
+  <SpolocnaDrazba Kod="NIE">Nie</SpolocnaDrazba>
+  <SpolocnaDrazbaPoradieDrazeniePredmetov xsi:nil="true" />
+  <OrganizaceOpatrenia>V zmysle § 167r, Zákona o konkurze a reštrukturalizácii, Právo vykúpiť majetok z konkurznej podstaty:
+(1) Oprávnená osoba podľa odseku 4 so súhlasom dlžníka má právo kedykoľvek a ktorúkoľvek časť majetku vykúpiť z konkurznej podstaty za cenu stanovenú znaleckým posudkom. Ustanovenia o pravidlách speňažovania sa v tom prípade nepoužijú.
+(2) Oprávnená osoba podľa odseku 4 so súhlasom dlžníka má právo vykúpiť majetok z konkurznej podstaty za cenu, ktorá bola dosiahnutá v dražbe, v ponukovom konaní alebo za cenu ponúknutú veriteľom, ak takúto cenu uhradí správcovi do desať dní od skončenia dražby, ponukového konania alebo predloženia ponuky veriteľom.
+(3) Ak so súhlasom dlžníka jeho príbuzný v priamom rade, jeho súrodenec alebo manžel uplatní právo vykúpiť obydlie dlžníka z konkurznej podstaty, nepostihnuteľná hodnota obydlia dlžníka sa započíta na úhradu kúpnej ceny.
+(4) Oprávnenou osobou na účely uplatnenia práva vykúpiť majetok z konkurznej podstaty sa rozumie dlžníkov príbuzný v priamom rade, jeho súrodenec, manžel alebo obec, v ktorej katastrálnom území sa nehnuteľnosť nachádza.
+(5) Ak sa poruší právo oprávnenej osoby podľa odseku 4 vykúpiť majetok z konkurznej podstaty, má táto osoba právo domáhať sa od nadobúdateľa, aby jej vec ponúkol na predaj. Toto právo zaniká, ak sa neuplatní do troch mesiacov od speňaženia veci.
+</OrganizaceOpatrenia>
+  <NadobudnutieVlastnickehoPrava>V prípade, ak nadobudol vydražiteľ vlastníctvo k predmetu dražby, je dražobník povinný odovzdať vydražiteľovi predmet dražby. V prípade, ak ide o nehnuteľnosť, odovzdáva predmet dražby vydražiteľovi za účasti dražobníka bývalý vlastník.
+O odovzdaní predmetu dražby bude spísaný protokol, ktorý podpíše dražobník, vydražiteľ a bývalý vlastník.
+Všetky náklady spojené s odovzdaním predmetu dražby nesie vydražiteľ, s výnimkou nadbytočných nákladov, ktoré by inak nevznikli, ak ich svojou vinou spôsobil predchádzajúci vlastník alebo dražobník.
+Nebezpečenstvo škody na predmete dražby a zodpovednosť za škodu spôsobenú predmetom dražby prechádza z jej držiteľa na vydražiteľa dňom odovzdania predmetu dražby. 
+V prípade, ak bol vydražiteľovi riadne a včas oznámený termín odovzdania predmetu dražby a vydražiteľ je s jeho prevzatím v omeškaní, nesie nebezpečenstvo škody a zodpovednosť za škodu vydražiteľ.
+</NadobudnutieVlastnickehoPrava>
+  <DovodUpustenia xsi:nil="true" />
+  <DrazobnikOznamuje xsi:nil="true" />
+</Drazba>

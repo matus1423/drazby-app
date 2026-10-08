@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Cislo>HP049/26</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>HeyPay s.r.o.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Mostová</Ulica>
+      <Cislo>2</Cislo>
+      <Obec>Bratislava</Obec>
+      <Psc>811 02</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="104">Mestský súd Bratislava III</Sud>
+    <Oddiel>Sro</Oddiel>
+    <Vlozka>59140/B</Vlozka>
+    <Ico>44842414</Ico>
+  </ns0:Drazobnik>
+  <ns0:Navrhovatelia xsi:nil="true" />
+  <ns0:LicitatoriHeader>Označenie licitátora</ns0:LicitatoriHeader>
+  <ns0:Licitatori>
+    <ns0:Licitator>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Ján Vzorový</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Hlavná</Ulica>
+          <Cislo>1</Cislo>
+          <Obec>Bratislava-Ružinov</Obec>
+          <Psc>00000</Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Oddiel />
+        <Vlozka />
+        <Ico />
+      </ns0:CeleMeno>
+    </ns0:Licitator>
+  </ns0:Licitatori>
+  <ns0:Notar xsi:nil="true" />
+  <ns0:KonanieMiesto>Bytové družstvo Petržalka, Budatínska 1, 851 05 Bratislava, priestor na 1. poschodí administratívnej budovy BD Petržalka, Bratislavský kraj.</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-09-24</ns0:KonanieDatum>
+  <ns0:KonanieCas>19:00 hod.</ns0:KonanieCas>
+  <ns0:Kolo>prvá dražba</ns0:Kolo>
+  <ns0:Predmet>&lt;p&gt;In&amp;aacute; majetkov&amp;aacute; hodnota:&lt;/p&gt;
+
+&lt;p&gt;Pr&amp;aacute;vo stať sa členom Bytov&amp;eacute;ho družstva Petržalka, družstva, s&amp;iacute;dlo: Budat&amp;iacute;nska č. 1, 851 05 Bratislava, IČO: 00 169 765 na z&amp;aacute;klade a za podmienok stanoven&amp;yacute;ch uznesen&amp;iacute;m Bytov&amp;eacute;ho družstva Petržalka č. 175/09/14 zo dňa 25.09.2014 a platn&amp;yacute;ch Stanov Bytov&amp;eacute;ho družstva Petržalka, spolu s už&amp;iacute;vac&amp;iacute;m pr&amp;aacute;vom - pr&amp;aacute;vom n&amp;aacute;jmu k 1 - izbov&amp;eacute;mu bytu č. 11 na 1. p., bytov&amp;eacute;ho domu Znievska 1, 3, v Bratislave, vchod Znievska 3, s&amp;uacute;pisn&amp;eacute; č. 3027, postavenom na parcel&amp;aacute;ch registra &amp;quot;C&amp;quot; evidovan&amp;yacute;ch na katastr&amp;aacute;lnej mape pod parceln&amp;yacute;m č. 1900, 1901, ktor&amp;yacute; je evidovan&amp;yacute; na LV č. 2286, vedenom Okresn&amp;yacute;m &amp;uacute;radom Bratislava, okres: Bratislava V, obec: Bratislava-Petržalka, katastr&amp;aacute;lne &amp;uacute;zemie: Petržalka, na dobu neurčit&amp;uacute; a za zmluvn&amp;yacute;ch podmienok podľa n&amp;aacute;jomnej zmluvy Bytov&amp;eacute;ho družstva Petržalka. K bytu prisl&amp;uacute;cha podiel priestoru na spoločn&amp;yacute;ch častiach a spoločn&amp;yacute;ch zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve o veľkosti 46/10000.&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;Predmet dražby - in&amp;aacute; majetkov&amp;aacute; hodnota:&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;Pr&amp;aacute;vo stať sa členom Bytov&amp;eacute;ho družstva Petržalka, družstva, s&amp;iacute;dlo: Budat&amp;iacute;nska č. 1, 851 05 Bratislava, IČO: 00 169 765 na z&amp;aacute;klade a za podmienok stanoven&amp;yacute;ch uznesen&amp;iacute;m Bytov&amp;eacute;ho družstva Petržalka č. 175/09/14 zo dňa 25.09.2014 a platn&amp;yacute;ch Stanov Bytov&amp;eacute;ho družstva Petržalka, spolu s už&amp;iacute;vac&amp;iacute;m pr&amp;aacute;vom - pr&amp;aacute;vom n&amp;aacute;jmu k 1 - izbov&amp;eacute;mu bytu č. 11 na 1. p., bytov&amp;eacute;ho domu Znievska 1, 3, v Bratislave, vchod Znievska 3, s&amp;uacute;pisn&amp;eacute; č. 3027, postavenom na parcel&amp;aacute;ch registra &amp;quot;C&amp;quot; evidovan&amp;yacute;ch na katastr&amp;aacute;lnej mape pod parceln&amp;yacute;m č. 1900, 1901, ktor&amp;yacute; je evidovan&amp;yacute; na LV č. 2286, vedenom Okresn&amp;yacute;m &amp;uacute;radom Bratislava, okres: Bratislava V, obec: Bratislava-Petržalka, katastr&amp;aacute;lne &amp;uacute;zemie: Petržalka, na dobu neurčit&amp;uacute; a za zmluvn&amp;yacute;ch podmienok podľa n&amp;aacute;jomnej zmluvy Bytov&amp;eacute;ho družstva Petržalka. K bytu prisl&amp;uacute;cha podiel priestoru na spoločn&amp;yacute;ch častiach a spoločn&amp;yacute;ch zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve o veľkosti 46/10000.&lt;/p&gt;
+
+&lt;p&gt;Uznesenie Bytov&amp;eacute;ho družstva Petržalka č. 175/09/14 zo dňa 25. 09. 2014:&lt;/p&gt;
+
+&lt;p&gt;&amp;bdquo;Predstavenstvo BD Petržalka s c h v a ľ u j e prijať za člena Bytov&amp;eacute;ho družstva Petržalka &amp;uacute;spe&amp;scaron;n&amp;eacute;ho vydražiteľa pr&amp;aacute;va stať sa členom Bytov&amp;eacute;ho družstva Petržalka, za podmienky, že tento včas a riadne uhrad&amp;iacute; cenu dosiahnut&amp;uacute; vydražen&amp;iacute;m a požiada o prijatie za člena a uzavrieť s touto osobou n&amp;aacute;jomn&amp;uacute; zmluvu na dobu neurčit&amp;uacute; ku konkr&amp;eacute;tnemu družstevn&amp;eacute;mu bytu alebo gar&amp;aacute;ži.&amp;ldquo;&lt;/p&gt;
+
+&lt;p&gt;Pr&amp;aacute;vo n&amp;aacute;jmu vznikne uzatvoren&amp;iacute;m n&amp;aacute;jomnej zmluvy Bytov&amp;eacute;ho družstva Petržalka s vydražiteľom s dobou n&amp;aacute;jmu neurčitou, uzatvorenou v s&amp;uacute;lade s pr&amp;iacute;slu&amp;scaron;n&amp;yacute;mi ustanoveniami Občianskeho z&amp;aacute;konn&amp;iacute;ka v platnom znen&amp;iacute; k predmetn&amp;eacute;mu bytu.&lt;/p&gt;
+
+&lt;p&gt;Anuita je splaten&amp;aacute;.&lt;/p&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;Predmetom dražby je pr&amp;aacute;vo, ktor&amp;eacute; bolo schv&amp;aacute;len&amp;eacute; na z&amp;aacute;klade platn&amp;eacute;ho uznesenia navrhovateľa dražby.&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>nie sú</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad>33 000,00 EUR</ns0:PredmetCenaOdhad>
+  <ns0:PredmetCenaVyska>146 000,00 EUR</ns0:PredmetCenaVyska>
+  <ns0:PredmetCenaSposobStanovenia xsi:nil="true" />
+  <ns0:PredmetPodmienkyOdovzdania xsi:nil="true" />
+  <ns0:NajnizsiePodanie>bolo urobené</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie xsi:nil="true" />
+  <ns0:Zabezpeka xsi:nil="true" />
+  <ns0:SposobUhradyCeny xsi:nil="true" />
+  <ns0:ObhliadkaDatum xsi:nil="true" />
+  <ns0:ObhliadkaMiesto xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia xsi:nil="true" />
+  <ns0:NadobudnutieVlastnickehoPrava xsi:nil="true" />
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

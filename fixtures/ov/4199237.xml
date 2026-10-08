@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Nazov>Oznámenie o dobrovoľnej dražbe</ns0:Nazov>
+  <ns0:Cislo>900126A</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>LICITOR group, a.s.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Sládkovičova</Ulica>
+      <Cislo>6</Cislo>
+      <Obec>Žilina</Obec>
+      <Psc>01001</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="131">Okresný súd Žilina</Sud>
+    <Oddiel>Sa</Oddiel>
+    <Vlozka>10476/L</Vlozka>
+    <Ico>36421561</Ico>
+  </ns0:Drazobnik>
+  <ns0:NavrhovateliaHeader>Označenie navrhovateľa</ns0:NavrhovateliaHeader>
+  <ns0:Navrhovatelia>
+    <ns0:Navrhovatel>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Fio banka, a.s., pobočka zahraničnej banky</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Dunajská</Ulica>
+          <Cislo>1</Cislo>
+          <Obec>Bratislava</Obec>
+          <Psc>81108</Psc>
+          <Stat>SR</Stat>
+        </Sidlo>
+        <Oddiel />
+        <Vlozka />
+        <Ico>36869376</Ico>
+      </ns0:CeleMeno>
+    </ns0:Navrhovatel>
+  </ns0:Navrhovatelia>
+  <ns0:Licitatori xsi:nil="true" />
+  <ns0:Notar>
+    <ns0:CeleMeno>
+      <TitulPred>JUDr.</TitulPred>
+      <TitulZa />
+      <Meno>Alan</Meno>
+      <Priezvisko>Schwartz</Priezvisko>
+    </ns0:CeleMeno>
+    <ns0:Sidlo>
+      <Ulica>Plynárenská </Ulica>
+      <Cislo>7/C</Cislo>
+      <Obec>Bratislava</Obec>
+      <Psc>82109</Psc>
+      <Stat />
+    </ns0:Sidlo>
+  </ns0:Notar>
+  <ns0:KonanieMiesto>v sídle notárskeho úradu - JUDr. Alan Schwartz, so sídlom Plynárenská 7/C, 821 09  Bratislava
+
+</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-10-27</ns0:KonanieDatum>
+  <ns0:KonanieCas>11:30 hod.</ns0:KonanieCas>
+  <ns0:Kolo>1. kolo</ns0:Kolo>
+  <ns0:Predmet>&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Č&amp;iacute;slo LV&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Katastr&amp;aacute;lne &amp;uacute;zemie&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Veden&amp;eacute; Okresn&amp;yacute;m &amp;uacute;radom, katastr&amp;aacute;lny odbor&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;5352&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Vinohrady&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;Bratislava III&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;&lt;strong&gt;Pozemky parcely registra &amp;bdquo;C&amp;ldquo;:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Parc. č.&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;mera v m&lt;sup&gt;2&lt;/sup&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;&amp;nbsp;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4688/4&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Vinica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;282&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;&amp;nbsp;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4688/5&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Vinica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;294&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4688/7&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Vinica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;293&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4688/14&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Vinica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;303&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4688/15&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Vinica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;237&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4688/16&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Vinica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;306&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4688/17&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Vinica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;290&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4688/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;82&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4688/19&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Vinica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;293&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4688/20&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Vinica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;3&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4688/21&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;198&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4688/22&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;208&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4688/23&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;218&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4688/24&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;263&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4688/25&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;198&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4688/26&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;212&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4688/27&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;207&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4688/28&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;211&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;&amp;scaron;ka spoluvlastn&amp;iacute;ckeho podielu z&amp;aacute;ložcu&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1/1 v BSM &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/em&gt;&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;Pozemky, k. &amp;uacute;. Vinohrady,&amp;nbsp;obec Bratislava&amp;ndash;mestsk&amp;aacute; časť Nov&amp;eacute; Mesto.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Hodnoten&amp;eacute; s&amp;uacute; pozemky v okrese Bratislava III, v obci Bratislava - m.č. Nov&amp;eacute; Mesto, k.&amp;uacute;. Vinohrady, zap&amp;iacute;san&amp;eacute; na liste vlastn&amp;iacute;ctva č. 5352. Jedn&amp;aacute; sa o parcely registra &amp;bdquo;C&amp;ldquo; evidovan&amp;eacute; na katastr&amp;aacute;lnej mape:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;parc. č. 4688/4&lt;/strong&gt; o v&amp;yacute;mere 282 m&amp;sup2; (vinica)&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;parc. č. 4688/5&lt;/strong&gt; o v&amp;yacute;mere 294 m&amp;sup2; (vinica)&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;parc. č. 4688/7&lt;/strong&gt; o v&amp;yacute;mere 293 m&amp;sup2; (vinica)&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;parc. č. 4688/14&lt;/strong&gt; o v&amp;yacute;mere 303 m&amp;sup2; (vinica)&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;parc. č. 4688/15&lt;/strong&gt; o v&amp;yacute;mere 237 m&amp;sup2; (vinica)&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;parc. č. 4688/16&lt;/strong&gt; o v&amp;yacute;mere 306 m&amp;sup2; (vinica)&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;parc. č. 4688/17&lt;/strong&gt; o v&amp;yacute;mere 290 m&amp;sup2; (vinica)&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;parc. č. 4688/18&lt;/strong&gt; o v&amp;yacute;mere 82 m&amp;sup2; (ostatn&amp;aacute; plocha)&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;parc. č. 4688/19&lt;/strong&gt; o v&amp;yacute;mere 293 m&amp;sup2; (vinica)&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;parc. č. 4688/20&lt;/strong&gt; o v&amp;yacute;mere 3 m&amp;sup2; (vinica)&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;parc. č. 4688/21&lt;/strong&gt; o v&amp;yacute;mere 198 m&amp;sup2; (ostatn&amp;aacute; plocha)&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;parc. č. 4688/22&lt;/strong&gt; o v&amp;yacute;mere 208 m&amp;sup2; (ostatn&amp;aacute; plocha)&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;parc. č. 4688/23&lt;/strong&gt; o v&amp;yacute;mere 218 m&amp;sup2; (ostatn&amp;aacute; plocha)&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;parc. č. 4688/24&lt;/strong&gt; o v&amp;yacute;mere 263 m&amp;sup2; (ostatn&amp;aacute; plocha)&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;parc. č. 4688/25&lt;/strong&gt; o v&amp;yacute;mere 198 m&amp;sup2; (ostatn&amp;aacute; plocha)&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;parc. č. 4688/26&lt;/strong&gt; o v&amp;yacute;mere 212 m&amp;sup2; (ostatn&amp;aacute; plocha)&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;parc. č. 4688/27&lt;/strong&gt; o v&amp;yacute;mere 207 m&amp;sup2; (ostatn&amp;aacute; plocha)&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;parc. č. 4688/28&lt;/strong&gt; o v&amp;yacute;mere 211 m&amp;sup2; (ostatn&amp;aacute; plocha)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;(Celkov&amp;aacute; v&amp;yacute;mera hodnoten&amp;yacute;ch 18 parciel je 4 098 m&amp;sup2;)&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Mestsk&amp;aacute; časť Nov&amp;eacute; Mesto je v&amp;yacute;znamnou mestskou časťou hlavn&amp;eacute;ho mesta Bratislavy. Obyvateľstvu mestskej časti a hlavn&amp;eacute;ho mesta s&amp;uacute; k dispoz&amp;iacute;cii &amp;scaron;t&amp;aacute;tne &amp;uacute;rady, &amp;uacute;rady mestskej a miestnej samospr&amp;aacute;vy, vysok&amp;eacute; &amp;scaron;koly, z&amp;aacute;kladn&amp;eacute; a stredn&amp;eacute; &amp;scaron;koly, banky a pobočky b&amp;aacute;nk, sieť obchodov a veľk&amp;eacute; n&amp;aacute;kupn&amp;eacute; centr&amp;aacute; (OD Slim&amp;aacute;k, Polus City Center / VIVO!), nemocnice, polikliniky, kin&amp;aacute;, domy kult&amp;uacute;ry, re&amp;scaron;taur&amp;aacute;cie, parky, &amp;scaron;portov&amp;eacute; &amp;scaron;tadi&amp;oacute;ny, k&amp;uacute;palisk&amp;aacute; a ďal&amp;scaron;ie men&amp;scaron;ie &amp;scaron;portovisk&amp;aacute;, a kompletne rozvinut&amp;aacute; sieť služieb obyvateľstvu.&lt;/p&gt;
+
+&lt;p&gt;Pozemky s&amp;uacute; umiestnen&amp;eacute; mimo zastavan&amp;eacute;ho &amp;uacute;zemia obce, v lukrat&amp;iacute;vnej a vyhľad&amp;aacute;vanej okrajovej lokalite &amp;quot;Ahoj &amp;ndash; Briežky&amp;quot; pri Sliačskej a Pinotovej ulici.&lt;/p&gt;
+
+&lt;p&gt;&amp;Uacute;zemie mestskej &amp;scaron;tvrte Ahoj &amp;ndash; Briežky lež&amp;iacute; na južn&amp;yacute;ch až juhoz&amp;aacute;padn&amp;yacute;ch svahoch Mal&amp;yacute;ch Karp&amp;aacute;t. Ide o p&amp;ocirc;vodne vinohradn&amp;iacute;cku a chatov&amp;uacute; oblasť situovan&amp;uacute; v pr&amp;iacute;rodnom prostred&amp;iacute; bratislavsk&amp;eacute;ho Lesoparku, z ktorej sa v posledn&amp;yacute;ch rokoch st&amp;aacute;va exkluz&amp;iacute;vna obytn&amp;aacute; z&amp;oacute;na s rozv&amp;iacute;jaj&amp;uacute;cou sa v&amp;yacute;stavbou luxusn&amp;yacute;ch rodinn&amp;yacute;ch domov a malopodlažn&amp;yacute;ch bytov&amp;yacute;ch objektov.&lt;/p&gt;
+
+&lt;p&gt;Predmetn&amp;eacute; pozemky tvoria s&amp;uacute;visl&amp;yacute; &amp;uacute;zemn&amp;yacute; celok v stredne svahovitom ter&amp;eacute;ne s pekn&amp;yacute;m v&amp;yacute;hľadom na okolit&amp;eacute; prostredie a časť Bratislavy. Pozemky s&amp;uacute; v s&amp;uacute;časnosti nezastavan&amp;eacute;, zatr&amp;aacute;vnen&amp;eacute; a čiastočne zarasten&amp;eacute; n&amp;aacute;letov&amp;yacute;mi drevinami a neudržiavanou veget&amp;aacute;ciou.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Pr&amp;iacute;stup k pozemkom je z uličnej siete (Sliačska / Pinotov&amp;aacute; ulica) po spevnenej asfaltovej komunik&amp;aacute;cii. V bl&amp;iacute;zkosti sa nach&amp;aacute;dza zast&amp;aacute;vka autobusovej linky MHD č. 151.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Inžinierske siete (elektrick&amp;aacute; sieť, vodovod, kanaliz&amp;aacute;cia, plyn) s&amp;uacute; vybudovan&amp;eacute; v dosahu na priľahlej pr&amp;iacute;stupovej komunik&amp;aacute;cii a v kontaktnom &amp;uacute;zem&amp;iacute; s novou z&amp;aacute;stavbou, priamo na hodnoten&amp;yacute;ch parcel&amp;aacute;ch nateraz vybudovan&amp;eacute; nie s&amp;uacute;. Vzhľadom na exkluz&amp;iacute;vnu lokalitu na &amp;uacute;p&amp;auml;t&amp;iacute; Mal&amp;yacute;ch Karp&amp;aacute;t, v&amp;yacute;hľad na mesto, dobr&amp;uacute; dostupnosť do centra a dynamick&amp;yacute; rozvoj okolitej z&amp;aacute;stavby hodnot&amp;iacute;m pozemok celkovo ako &lt;strong&gt;veľmi dobr&amp;yacute;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Parc. reg. C KN&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Parcela&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Spolu v&amp;yacute;mera [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Spoluvlastn&amp;iacute;cky podiel&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;mera [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;4688/4&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;vinica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;282,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;282,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;4688/5&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;vinica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;294,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;294,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;4688/7&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;vinica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;293,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;293,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;4688/14&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;vinica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;303,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;303,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;4688/15&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;vinica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;237,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;237,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;4688/16&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;vinica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;306,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;306,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;4688/17&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;vinica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;290,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;290,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;4688/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;82,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;82,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;4688/19&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;vinica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;293,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;293,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;4688/20&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;vinica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;3,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;3,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;4688/21&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;198,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;198,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;4688/22&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;208,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;208,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;4688/23&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;218,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;218,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;4688/24&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;263,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;263,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;4688/25&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;198,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;198,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;4688/26&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;212,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;212,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;4688/27&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;207,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;207,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;4688/28&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;211,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;211,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Spolu v&amp;yacute;mera&amp;nbsp; &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;4 098,00&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;V zmysle &amp;Uacute;zemn&amp;eacute;ho pl&amp;aacute;nu hlavn&amp;eacute;ho mesta SR Bratislavy z roku 2007 v znen&amp;iacute; zmien a doplnkov (ďalej len &amp;Uacute;P) s&amp;uacute; predmetn&amp;eacute; pozemky určen&amp;eacute; pre funkčn&amp;eacute; využitie:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;Pozemky parcela č. 4688/4, 4688/5, 4688/7, 4688/14, 4688/15, 4688/16, 4688/17, 4688/18, 4688/19, 4688/20, 4688/21, 4688/22, 4688/23, 4688/24, 4688/25, 4688/26, 4688/27 a 4688/28:&lt;/strong&gt; &amp;bdquo;m&amp;aacute;lopodlažn&amp;aacute; z&amp;aacute;stavba obytn&amp;eacute;ho &amp;uacute;zemia&amp;ldquo; č. funkcie 102 &amp;ndash; rozvojov&amp;eacute; &amp;uacute;zemie, regulačn&amp;yacute; k&amp;oacute;d A.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Podmienky funkčn&amp;eacute;ho využitia pl&amp;ocirc;ch:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&amp;Uacute;zemia sl&amp;uacute;žiace pre b&amp;yacute;vanie v rodinn&amp;yacute;ch domoch a bytov&amp;yacute;ch domoch do 4 nadzemn&amp;yacute;ch podlaž&amp;iacute; a k nim prisl&amp;uacute;chaj&amp;uacute;ce nevyhnutn&amp;eacute; zariadenia.&lt;/li&gt;
+	&lt;li&gt;V s&amp;uacute;lade s v&amp;yacute;znamom a potrebami &amp;uacute;zemia stavby občianskej vybavenosti, zeleň, ihrisk&amp;aacute;, vodn&amp;eacute; plochy ako s&amp;uacute;časť parteru a pl&amp;ocirc;ch zelene, dopravn&amp;eacute; a technick&amp;eacute; vybavenie, gar&amp;aacute;že, zariadenia pre požiarnu ochranu a civiln&amp;uacute; obranu.&lt;/li&gt;
+	&lt;li&gt;V stabilizovan&amp;yacute;ch &amp;uacute;zemiach charakteru rodinnej z&amp;aacute;stavby sa m&amp;aacute;lopodlažn&amp;eacute; bytov&amp;eacute; domy neprip&amp;uacute;&amp;scaron;ťaj&amp;uacute;.&lt;/li&gt;
+	&lt;li&gt;Premie&amp;scaron;an&amp;eacute; formy rodinnej a m&amp;aacute;lopodlažnej bytovej z&amp;aacute;stavby sa preferuj&amp;uacute; v rozvojov&amp;yacute;ch &amp;uacute;zemiach, m&amp;aacute;lopodlažn&amp;eacute; bytov&amp;eacute; domy sa umiestňuj&amp;uacute; prednostne ako prechodov&amp;eacute; formy medzi viacpodlažnou bytovou z&amp;aacute;stavbou a rodinnou z&amp;aacute;stavbou alebo ako kompozičn&amp;aacute; kostra m&amp;aacute;lopodlažnej z&amp;aacute;stavby.&lt;/li&gt;
+	&lt;li&gt;Podiel funkcie b&amp;yacute;vania mus&amp;iacute; tvoriť minim&amp;aacute;lne 70 % z celkov&amp;yacute;ch podlažn&amp;yacute;ch pl&amp;ocirc;ch nadzemnej časti z&amp;aacute;stavby funkčnej plochy.&lt;/li&gt;
+	&lt;li&gt;Do počtu nadzemn&amp;yacute;ch podlaž&amp;iacute; sa nezahŕňa podkrovie alebo posledn&amp;eacute; ustupuj&amp;uacute;ce podlažie, ak jeho zastavan&amp;aacute; plocha je men&amp;scaron;ia ako 50 % zastavanej plochy predch&amp;aacute;dzaj&amp;uacute;ceho podlažia.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Prevl&amp;aacute;daj&amp;uacute;ca funkcia:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;R&amp;ocirc;zne formy z&amp;aacute;stavby rodinn&amp;yacute;ch domov.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Pr&amp;iacute;pustn&amp;aacute; funkcia:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Bytov&amp;eacute; domy do 4 nadzemn&amp;yacute;ch podlaž&amp;iacute;.&lt;/li&gt;
+	&lt;li&gt;Zeleň l&amp;iacute;niov&amp;aacute; a plo&amp;scaron;n&amp;aacute;, zeleň pozemkov obytn&amp;yacute;ch budov.&lt;/li&gt;
+	&lt;li&gt;Vodn&amp;eacute; plochy ako s&amp;uacute;časť parteru a pl&amp;ocirc;ch zelene.&lt;/li&gt;
+	&lt;li&gt;Zariadenia a vedenia technickej a dopravnej vybavenosti pre obsluhu &amp;uacute;zemia.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Pr&amp;iacute;pustn&amp;aacute; funkcia v obmedzenom rozsahu:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Zariadenia občianskej vybavenosti lok&amp;aacute;lneho v&amp;yacute;znamu rozpt&amp;yacute;len&amp;eacute; v &amp;uacute;zem&amp;iacute; alebo ako vstavan&amp;eacute;.&lt;/li&gt;
+	&lt;li&gt;Zariadenia telov&amp;yacute;chovy a voľn&amp;eacute;ho času rozpt&amp;yacute;len&amp;eacute; v &amp;uacute;zem&amp;iacute;.&lt;/li&gt;
+	&lt;li&gt;Solit&amp;eacute;rne stavby občianskej vybavenosti sl&amp;uacute;žiace &amp;scaron;ir&amp;scaron;iemu &amp;uacute;zemiu.&lt;/li&gt;
+	&lt;li&gt;Zariadenia drobn&amp;yacute;ch prev&amp;aacute;dzok služieb.&lt;/li&gt;
+	&lt;li&gt;Zariadenia na separovan&amp;yacute; zber komun&amp;aacute;lnych odpadov miestneho v&amp;yacute;znamu vr&amp;aacute;tane komun&amp;aacute;lnych odpadov s obsahom &amp;scaron;kodliv&amp;iacute;n z dom&amp;aacute;cnost&amp;iacute;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Nepr&amp;iacute;pustn&amp;aacute; funkcia:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Zariadenia s negat&amp;iacute;vnymi &amp;uacute;činkami na stavby a zariadenia v ich okol&amp;iacute;.&lt;/li&gt;
+	&lt;li&gt;M&amp;aacute;lopodlažn&amp;eacute; bytov&amp;eacute; domy v stabilizovan&amp;yacute;ch &amp;uacute;zemiach rodinn&amp;yacute;ch domov.&lt;/li&gt;
+	&lt;li&gt;Bytov&amp;eacute; domy nad 4 nadzemn&amp;eacute; podlažia.&lt;/li&gt;
+	&lt;li&gt;Stavby občianskej vybavenosti are&amp;aacute;lov&amp;eacute;ho typu s vysokou koncentr&amp;aacute;ciou n&amp;aacute;v&amp;scaron;tevn&amp;iacute;kov a n&amp;aacute;rokov na obsluhu &amp;uacute;zemia.&lt;/li&gt;
+	&lt;li&gt;Stavby na individu&amp;aacute;lnu rekre&amp;aacute;ciu.&lt;/li&gt;
+	&lt;li&gt;Are&amp;aacute;ly priemyseln&amp;yacute;ch podnikov, zariadenia priemyselnej a poľnohospod&amp;aacute;rskej v&amp;yacute;roby, skladov&amp;eacute; are&amp;aacute;ly, distribučn&amp;eacute; centr&amp;aacute; a logistick&amp;eacute; parky, stavebn&amp;eacute; dvory.&lt;/li&gt;
+	&lt;li&gt;ČSPH s umyv&amp;aacute;rňou automobilov a plničkou plynu.&lt;/li&gt;
+	&lt;li&gt;Zariadenia odpadov&amp;eacute;ho hospod&amp;aacute;rstva okrem pr&amp;iacute;pustn&amp;yacute;ch v obmedzenom rozsahu.&lt;/li&gt;
+	&lt;li&gt;Tranzitn&amp;eacute; vedenia technickej vybavenosti nadraden&amp;eacute;ho v&amp;yacute;znamu.&lt;/li&gt;
+	&lt;li&gt;Stavby a zariadenia nes&amp;uacute;visiace s funkciou.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Miera využitia &amp;uacute;zemia (K&amp;oacute;d A):&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Index podlažn&amp;yacute;ch pl&amp;ocirc;ch (IPP max.): 0,3&lt;/li&gt;
+	&lt;li&gt;Regulat&amp;iacute;vy pre rodinn&amp;eacute; domy (RD):
+	&lt;ul style="list-style-type:circle"&gt;
+		&lt;li&gt;RD pozemok nad 1000 m&amp;sup2;: IZP max. 0,20, KZ min. 0,60&lt;/li&gt;
+		&lt;li&gt;RD pozemok 500 &amp;ndash; 1000 m&amp;sup2;: IZP max. 0,22, KZ min. 0,40&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Doplňuj&amp;uacute;ce &amp;uacute;zemnopl&amp;aacute;novacie obmedzenia a inform&amp;aacute;cie:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Pozemky parc. č. 4688/5, 4688/16, 4688/17, 4688/18, 4688/19, 4688/25, 4688/26, 4688/27 a 4688/28 s&amp;uacute; dotknut&amp;eacute; ochrann&amp;yacute;m p&amp;aacute;smom lesa a prech&amp;aacute;dza nimi biokoridor.&lt;/li&gt;
+	&lt;li&gt;Podľa &amp;Uacute;zemn&amp;eacute;ho pl&amp;aacute;nu z&amp;oacute;ny Podhorsk&amp;yacute; p&amp;aacute;s (VZN č. 2/2006 v znen&amp;iacute; neskor&amp;scaron;&amp;iacute;ch Z+D) s&amp;uacute; pozemky veden&amp;eacute; ako poľnohospod&amp;aacute;rska p&amp;ocirc;da. Nakoľko &amp;Uacute;PZ nie je v s&amp;uacute;lade s &amp;Uacute;zemn&amp;yacute;m pl&amp;aacute;nom hl. mesta SR Bratislavy, &amp;Uacute;zemn&amp;yacute; pl&amp;aacute;n hl. mesta SR Bratislavy z r. 2007 v znen&amp;iacute; neskor&amp;scaron;&amp;iacute;ch Z+D je nadradenou &amp;uacute;zemnopl&amp;aacute;novacou dokument&amp;aacute;ciou.&lt;/li&gt;
+	&lt;li&gt;Mestsk&amp;aacute; časť Bratislava-Nov&amp;eacute; Mesto v s&amp;uacute;časnosti obstar&amp;aacute;va nov&amp;yacute; &amp;Uacute;zemn&amp;yacute; pl&amp;aacute;n z&amp;oacute;ny Podhorsk&amp;yacute; p&amp;aacute;s &amp;ndash; Vt&amp;aacute;čnik / Briežky.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;&lt;strong&gt;Predmet dražby sa draž&amp;iacute; tak ako &amp;bdquo;stoj&amp;iacute; a&amp;nbsp;lež&amp;iacute;&lt;/strong&gt;&lt;em&gt;&amp;ldquo;. &amp;nbsp;&lt;/em&gt;Vzhľadom na skutočnosť, že predmetom dražby je použit&amp;aacute; vec, ktor&amp;aacute; sa prev&amp;aacute;dza v&amp;nbsp;stave v&amp;nbsp;akom sa nach&amp;aacute;dza ku dňu konania dražby nezodpoved&amp;aacute; navrhovateľ ani dražobn&amp;iacute;k za jej vady. Dražobn&amp;iacute;k s&amp;uacute;časne oboznamuje &amp;uacute;častn&amp;iacute;kov dražby, že na tento predaj prostredn&amp;iacute;ctvom dražby sa v&amp;nbsp;s&amp;uacute;lade s &amp;sect; 612 ods. 3 p&amp;iacute;sm. b) OZ nevzťahuj&amp;uacute; ustanovenia &amp;sect; 615 až 626 OZ spotrebiteľskej k&amp;uacute;pnej zmluvy upravuj&amp;uacute;cich akosť pred&amp;aacute;vanej veci,&amp;nbsp;zodpovednosť za vady &amp;nbsp;na n&amp;aacute;roky z&amp;nbsp;nich vypl&amp;yacute;vaj&amp;uacute;ce a&amp;nbsp;ustanovenia o&amp;nbsp;spotrebiteľskej z&amp;aacute;ruke. &amp;nbsp;&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>LV č. 5352
+Záložné právo v prospech Fio banka, a.s. (IČ 61858374), V Celnici 1028/10,117 21 Praha 1, ČR, organizačná zložka : Fio banka, a.s., pobočka zahraničnej banky, (IČO 36869376) na pozemky registra C KN parc.č.4688/7, 4688/5, 4688/4, 4688/14, 4688/15, 4688/16, 4688/17, 4688/18, 4688/19, 4688/20, 4688/21, 4688/22, 4688/23, 4688/24, 4688/25, 4688/26, 4688/27, 4688/28, podľa V-35764/2022 zo dňa 16.11.2022 - vz 3040/22.;Zápis GP č.G1-1287/2023 zo dňa 04.07.2023, R-3589/2023; Zápis GP č.overenia G1-2298/2024 zo dňa 04.12.2024, R3928/2025
+
+Záložné právo v prospech Fio banka, a.s. (IČ 61858374), V Celnici 1028/10,117 21 Praha 1, ČR, organizačná zložka : Fio banka, a.s., pobočka zahraničnej banky, (IČO 36869376) na pozemky registra C KN parc.č.4688/7, 4688/5, 4688/4, 4688/14, 4688/15, 4688/16, 4688/17, 4688/18, 4688/19, 4688/20, 4688/21, 4688/22, 4688/23, 4688/24, 4688/25, 4688/26, 4688/27, 4688/28, podľa V-15534/2023 zo dňa 10.07.2023-vz 1094/23, Zápis GP č.G1-1287/2023 zo dňa 04.07.2023, R-3589/2023; Zápis GP č.overenia G1-2298/2024 zo dňa 04.12.2024, R3928/2025
+
+Poznámky:
+Oznámenie o začatí výkonu záložného práva V-35764/2022 záložným veriteľom Fio banka, a.s. (IČO:36869376), pobočka zahraničnej banky, na pozemky registra C KN parc.č.4688/7, 4688/5, 4688/4, 4688/14, 4688/15, 4688/16, 4688/17, 4688/18, 4688/19, 4688/20, 4688/21, 4688/22, 4688/23, 4688/24, 4688/25, 4688/26, 4688/27, 4688/28, spôsobom predaja na dobrovoľnej dražbe, P-582/2026
+Oznámenie o začatí výkonu záložného práva V-15534/2023 záložným veriteľom Fio banka, a.s. (IČO:36869376), pobočka zahraničnej banky, na pozemky registra C KN parc.č.4688/7, 4688/5, 4688/4, 4688/14, 4688/15, 4688/16, 4688/17, 4688/18, 4688/19, 4688/20, 4688/21, 4688/22, 4688/23, 4688/24, 4688/25, 4688/26, 4688/27, 4688/28, spôsobom predaja na dobrovoľnej dražbe, P-582/2026
+
+
+</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad xsi:nil="true" />
+  <ns0:PredmetCenaVyska xsi:nil="true" />
+  <ns0:PredmetCenaSposobStanovenia>znaleckým posudkom č. 260/2026, súdnym znalcom Ing. Mgr. Janou Pecníkovou v sume 2.280.000,-€</ns0:PredmetCenaSposobStanovenia>
+  <ns0:PredmetPodmienkyOdovzdania>a.) zaplatenie ceny dosiahnutej vydražením podľa § 27 ods. 1 zákona č. 527/2002 Z. z. o dobrovoľných dražbách,
+	
+b.) osvedčený odpis notárskej zápisnice osvedčujúcej priebeh dražby podľa § 29 zákona č. 527/2002 Z. z. o dobrovoľných dražbách.
+-	Po nadobudnutí vlastníckeho práva alebo iného práva k predmetu dražby odovzdá dražobník bez zbytočného odkladu vydražiteľovi predmet dražby a listiny, ktoré osvedčujú vlastnícke právo a sú nevyhnutné na nakladanie s predmetom dražby alebo osvedčujú iné práva vydražiteľa k predmetu dražby.
+-	Ak ide o nehnuteľnosť, podnik alebo jeho časť  je predchádzajúci vlastník  povinný v zmysle ustanovenia § 29 ods. 2 zákona č. 527/2002  Z. z. o dobrovoľných dražbách, odovzdať vydražený predmet dražby na základe predloženia osvedčeného odpisu notárskej zápisnice a doloženia totožnosti vydražiteľa bez zbytočných prieťahov vydražiteľovi. Dražobník je povinný na mieste spísať zápisnicu o odovzdaní predmetu dražby. Zápisnicu o odovzdaní predmetu dražby podpíšu predchádzajúci vlastník [skryté], vydražiteľ a dražobník. Jedno vyhotovenie zápisnice dostane predchádzajúci vlastník a dve vyhotovenia dostane vydražiteľ. Ak niektorá osoba odmietne zápisnicu podpísať alebo ju prevziať, táto skutočnosť sa vyznačí v zápisnici a zápisnica sa považuje za odovzdanú aj tejto osobe; o tom dražobník túto osobu poučí.
+
+V prípade, ak predchádzajúci vlastník neposkytne nevyhnutnú súčinnosť pri odovzdaní predmetu dražby a v prípade akejkoľvek spôsobenej škody, ktorá by vznikla  v súvislosti s jeho protiprávnym konaním, môže  byť zaviazaný na jej úhradu podľa  § 33 ods. 8 zákona č. 527/2002 Z. z. o dobrovoľných dražbách v spojitosti s § 420 a nasl. Občianskeho zákonníka. 
+
+Všetky náklady spojené s odovzdaní a prevzatím predmetu dražby nesie vydražiteľ. Nebezpečenstvo škody na predmete dražby prechádza z vlastníka nehnuteľností na vydražiteľa dňom odovzdania predmetu dražby.
+</ns0:PredmetPodmienkyOdovzdania>
+  <ns0:NajnizsiePodanie>2.052.000,-€</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie>2.000,-  €</ns0:MinimalnePrihodenie>
+  <ns0:Zabezpeka>
+    <ns0:Vyska>49.000,-  €</ns0:Vyska>
+    <ns0:ZlozenieSposob>1. bezhotovostný prevod na účet dražobníka č. ú.: 2621858260/1100, vedený v Tatra banka, a.s. pod V.S.: 900126A (SWIFT TATRA banka, a.s.: TATR SK BX, IBAN: SK 1411 0000 0000 2621 8582 60) najneskôr do otvorenia dražby s preukázaním sa potvrdenia o úhrade zákonom povoleným spôsobom. 
+2. v hotovosti do pokladne dražobníka najneskôr do otvorenia dražby.
+3. vo forme bankovej záruky v prospech dražobníka s výhradou prevodu platby po doručení zápisnice o vykonaní dražby za predpokladu,  že účastník dražby sa stane vydražiteľom.
+4. vo forme notárskej úschovy.
+</ns0:ZlozenieSposob>
+    <ns0:ZlozenieCisloUctu>SK 1411 0000 0000 2621 8582 60</ns0:ZlozenieCisloUctu>
+    <ns0:ZlozenieAdresa>LICITOR group, a.s. Sládkovičova 6, 010 01 Žilina, alebo v mieste konania dražby, najneskôr pred otvorením dražby.</ns0:ZlozenieAdresa>
+    <ns0:ZlozenieDoklad>1. originál príkazu na úhradu peňažných prostriedkov vo výške 	dražobnej zábezpeky. Účastník bude pripustený k dražbe, ak do 	otvorenia dražby bude dražobná zábezpeka pripísaná na účet 	dražobníka.
+	2. hotovosť vo výške dražobnej zábezpeky.
+3. originál alebo úradne overená kópia dokladu preukazujúca vystavenie bankovej záruky.
+4. originál alebo úradne overená kópia dokladu preukazujúceho notársku úschovu.
+Dražobnú zábezpeku nie je možné zložiť šekom ani platobnou 	kartou. 
+
+</ns0:ZlozenieDoklad>
+    <ns0:ZlozenieLehota>Najneskôr do otvorenia dražby.</ns0:ZlozenieLehota>
+    <ns0:Vratenie>Neúspešným účastníkom dražby, ktorí zložili dražobnú zábezpeku v hotovosti, bude dražobná zábezpeka vrátená hneď po skončení dražby. 
+Neúspešným účastníkom dražby, ktorí zložili dražobnú zábezpeku bezhotovostným prevodom na účet dražobníka, bude dražobná zábezpeka vrátená bez zbytočného odkladu po skončení dražby bezhotovostným prevodom na účet označený účastníkom dražby.</ns0:Vratenie>
+  </ns0:Zabezpeka>
+  <ns0:SposobUhradyCeny>Vydražiteľ je povinný zaplatiť cenu dosiahnutú vydražením v hotovosti do pokladne v sídle dražobníka alebo bezhotovostným prevodom na účet dražobníka č. 2621858260/1100, vedený v Tatra banka a.s. (SWIFT TATRA banka, a.s.: TATR SK BX, IBAN: SK 1411 0000 0000 2621 8582 60) a to do 30 dní odo dňa skončenia dražby. Dražobná zábezpeka sa vydražiteľovi započítava do ceny dosiahnutej vydražením. </ns0:SposobUhradyCeny>
+  <ns0:ObhliadkaDatum>1. termín: 07.10.2026 o 15:30 hod.
+2. termín: 21.10.2026 o 15:30 hod.
+</ns0:ObhliadkaDatum>
+  <ns0:ObhliadkaMiesto>katastrálne územie</ns0:ObhliadkaMiesto>
+  <ns0:SpolocnaDrazba Kod="NIE">Nie</ns0:SpolocnaDrazba>
+  <ns0:SpolocnaDrazbaPoradieDrazeniePredmetov xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia>Záujemcovia o vykonanie obhliadky sa prihlásia telefonicky najneskôr 24 hodín pred stanoveným termínom obhliadky na t. č. : 0905 447 835. Stretnutie záujemcov sa uskutoční na adrese miesta Predmetu dražby. Obhliadky je možné vykonať aj mimo termín stanovený v oznámení o dražbe po predchádzajúcej dohode s dražobníkom. Bližšie informácie na t. č. : 041/763 22 34 alebo 0918 834 834.
+V zmysle § 12 ods. 2 a § 13 zákona č. 527/2002 Z.z. o dobrovoľných dražbách je vlastník [skryté], držiteľ alebo nájomca povinný umožniť riadnu obhliadku predmetu dražby v stanovených termínoch.
+
+</ns0:OrganizaceOpatrenia>
+  <ns0:NadobudnutieVlastnickehoPrava>V zmysle ustanovenia § 27 ods. 1 zákona č. 527/2002 Z. z. o dobrovoľných dražbách ak vydražiteľ zaplatí cenu dosiahnutú vydražením v ustanovenej lehote prechádza na neho vlastnícke právo dňom udelenia príklepu. Dražobník vydá bez zbytočného odkladu po nadobudnutí vlastníckeho alebo iného práva vydražiteľovi potvrdenie o vydražení predmetu dražby a v prípadoch, v ktorých sa o priebehu dražby spisuje notárska zápisnica vydá dražobník vydražiteľovi dve vyhotovenia osvedčeného odpisu notárskej zápisnice najneskôr do 5 dní. Ku dňu zaplatenia ceny dosiahnutej vydražením vydražiteľom zaniká pohľadávka veriteľa v rozsahu uspokojenia veriteľa z výťažku dražby.</ns0:NadobudnutieVlastnickehoPrava>
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

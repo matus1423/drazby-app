@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Cislo>HP081/25</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>HeyPay s.r.o.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Mostová</Ulica>
+      <Cislo>2</Cislo>
+      <Obec>Bratislava</Obec>
+      <Psc>811 02</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="104">Mestský súd Bratislava III</Sud>
+    <Oddiel>Sro</Oddiel>
+    <Vlozka>59140/B</Vlozka>
+    <Ico>44842414</Ico>
+  </ns0:Drazobnik>
+  <ns0:Navrhovatelia xsi:nil="true" />
+  <ns0:LicitatoriHeader>Označenie licitátora</ns0:LicitatoriHeader>
+  <ns0:Licitatori>
+    <ns0:Licitator>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Ján Vzorový</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Hlavná</Ulica>
+          <Cislo>1</Cislo>
+          <Obec>Bratislava-Ružinov</Obec>
+          <Psc>00000</Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Oddiel />
+        <Vlozka />
+        <Ico />
+      </ns0:CeleMeno>
+    </ns0:Licitator>
+  </ns0:Licitatori>
+  <ns0:Notar xsi:nil="true" />
+  <ns0:KonanieMiesto>Robotnícky dom, Konferenčná miestnosť, 2. poschodie, Robotnícka 3, 974 01 Banská Bystrica.</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-09-28</ns0:KonanieDatum>
+  <ns0:KonanieCas>13:10 hod.</ns0:KonanieCas>
+  <ns0:Kolo>3. kolo</ns0:Kolo>
+  <ns0:Predmet>&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;LV č.&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Okresn&amp;yacute; &amp;uacute;rad&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Okres&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Obec&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Katastr&amp;aacute;lne &amp;uacute;zemie &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;412&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Krupina&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Krupina&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Ladzany&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Ladzany&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Parcely registra &amp;quot;C&amp;quot; evidovan&amp;eacute; na katastr&amp;aacute;lnej mape:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e0e0e0"&gt;
+			&lt;p&gt;&lt;strong&gt;Parceln&amp;eacute; č&amp;iacute;slo&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e0e0e0"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e0e0e0"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;mera /m&lt;sup&gt;2&lt;/sup&gt;/&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;235 / 2&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;184&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;235 / 3&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;415&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;236&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Z&amp;aacute;hrada&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;693&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Stavby:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;S&amp;uacute;pisn&amp;eacute; č&amp;iacute;slo&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Parceln&amp;eacute; č&amp;iacute;slo&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh stavby&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;49&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;235 / 2&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;10 Rodinn&amp;yacute; dom&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Spoluvlastn&amp;iacute;cky podiel v&amp;nbsp;1/2 a 1/2.&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;&lt;strong&gt;Rodinn&amp;yacute; dom s&amp;uacute;pisn&amp;eacute; č&amp;iacute;slo 49 v obci Ladzany. Predmetom dražby s&amp;uacute; tiež pozemky parceln&amp;eacute; č. 235/2, 235/3, 236 o celkovej v&amp;yacute;mere 1 292 m2.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dispozičn&amp;eacute; rie&amp;scaron;enie: Vstup do domu je z dvora, z g&amp;aacute;nku. Na 1.NP sa nach&amp;aacute;dza kuchyňa, 3 obytn&amp;eacute; miestnosti, k&amp;uacute;peľňa s WC a predsieň.&lt;/p&gt;
+
+&lt;p&gt;Rodinn&amp;yacute; dom je situovan&amp;yacute; v zastavanom &amp;uacute;zem&amp;iacute; obce, v z&amp;aacute;stavbe vidieckych rodinn&amp;yacute;ch domov podobn&amp;eacute;ho prevedenia z rovnak&amp;eacute;ho obdobia. Rodinn&amp;yacute; dom sa nach&amp;aacute;dza na vedľaj&amp;scaron;ej komunik&amp;aacute;cii cez obec, v rovinatom až mierne svahovitom ter&amp;eacute;ne, na okraji centra obce. Dom bol postaven&amp;yacute; v medzivojnovom obdob&amp;iacute;, čom je v s&amp;uacute;lade s architektonick&amp;yacute;m, materi&amp;aacute;lov&amp;yacute;m, dispozičn&amp;yacute;m a stavebno-technick&amp;yacute;m preveden&amp;iacute;m domu. K domu bola pristaven&amp;aacute; zadn&amp;aacute; izba v roku 1961. Rodinn&amp;yacute; dom pre&amp;scaron;iel moderniz&amp;aacute;ciou v 60-ich rokoch, av&amp;scaron;ak vyžaduje kompletn&amp;uacute; rekon&amp;scaron;trukciu pre s&amp;uacute;časn&amp;eacute; &amp;scaron;tandardy trval&amp;eacute;ho alebo rekreačn&amp;eacute;ho b&amp;yacute;vania. Stavba je zanedban&amp;aacute;, bez funkčn&amp;eacute;ho k&amp;uacute;renia. Rodinn&amp;yacute; dom m&amp;aacute; 1 nadzemn&amp;eacute; podlažie, neobytn&amp;eacute; podkrovie. Dom nie je podpivničen&amp;yacute;. Viac ako polovica podlahovej plochy v&amp;scaron;etk&amp;yacute;ch miestnost&amp;iacute; je určen&amp;aacute; na b&amp;yacute;vanie. V dome je vytvoren&amp;aacute; jedna bytov&amp;aacute; jednotka.&lt;/p&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;Predmet dražby sa draž&amp;iacute; tak ako &amp;bdquo;stoj&amp;iacute; a&amp;nbsp;lež&amp;iacute;.&amp;ldquo;&lt;/p&gt;
+
+&lt;p&gt;Stavba so s&amp;uacute;p.č.49 (k.&amp;uacute;. Ladzany) je obydl&amp;iacute;m dlžn&amp;iacute;ka (J&amp;aacute;n &amp;Scaron;kreňo). Podľa p&amp;iacute;somnej inform&amp;aacute;cie poskytnutej Obecn&amp;yacute;m &amp;uacute;radom Ladzany, nem&amp;aacute; dlžn&amp;iacute;k (J&amp;aacute;n &amp;Scaron;kreňo) trval&amp;yacute; pobyt v stavbe so s&amp;uacute;p.č.49 (k.&amp;uacute;. Ladzany).&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>Vlastník poradové číslo 1 a 2:
+Poznámky:
+Oznámenie o dobrovoľnej dražbe DD HP081/25 dražobníkom HeyPay s.r.o. Bratislava – Staré Mesto, IČO 44842414 v prospech navrhovateľa dražby JUDr. Gabriela Muránska Matušková, PhD. na nehnuteľnosti: KNC parc. č. 235/2, 235/3, 236, rodinný dom súp. č. 49 na parc. č. 235/2 - P 7/2026 z 26.1.2026 do KN zapísané 27.1.2026 - 6/26
+Oznámenie o opakovanej dobrovoľnej dražbe DD HP081/25 dražobníkom HeyPay s.r.o. Bratislava - Staré Mesto, IČO 44842414 v prospech navrhovateľa dražby JUDr. Gabriela Muránska Matušková, PhD. na nehnuteľnosti: CKN parc. č. 235/2, 235/3, 236, rodinný dom súp. č. 49 na CKN parc. č. 235/2 - P 20/2026 zo dňa 12.3.2026 do KN zapísané do KN dňa 13.3.2026 - pvz.24/26
+Oznámenie o opakovanej dobrovoľnej dražbe DD HP081/25 dražobníkom HeyPay s.r.o., Bratislava -Staré Mesto IČO:44842414, navrhovateľom JUDr. Gabriela Muránska Matušková, PhD., Banská bystrica správca konkurznej podstaty na nehnuteľnosti: CKN par.č. 235/2, 235/3, 236, rodinný dom súp.č. 49 na CKN par.č. 235/2- P-114/2026 zo dňa 11.9.2026 zap. do KN dňa 14.9.2026-pvz.74/26
+ČASŤ C: ŤARCHY: Bez tiarch.
+Iné údaje: Bez zápisu
+Poznámka:          	Vlastnícke právo PRECHÁDZA na vydražiteľa udelením príklepu.                          PRECHODOM vlastníckeho práva (speňažením) zanikajú všetky záložné práva postupom podľa § 93 ods. 2  zákona č.7/2005 Z.z. o konkurze a reštrukturalizácii v znení neskorších predpisov.</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad>Číslo znaleckého posudku: 280/2025
+Meno znalca: Marta Kalinová Ing.
+Dátum vyhotovenia: 11.12.2025
+Všeobecná cena odhadu: 29 000,00 EUR </ns0:PredmetCenaOdhad>
+  <ns0:PredmetCenaVyska>18 000,00 EUR</ns0:PredmetCenaVyska>
+  <ns0:PredmetCenaSposobStanovenia xsi:nil="true" />
+  <ns0:PredmetPodmienkyOdovzdania xsi:nil="true" />
+  <ns0:NajnizsiePodanie>bolo urobené</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie xsi:nil="true" />
+  <ns0:Zabezpeka xsi:nil="true" />
+  <ns0:SposobUhradyCeny xsi:nil="true" />
+  <ns0:ObhliadkaDatum xsi:nil="true" />
+  <ns0:ObhliadkaMiesto xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia xsi:nil="true" />
+  <ns0:NadobudnutieVlastnickehoPrava xsi:nil="true" />
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

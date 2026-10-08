@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Nazov>Oznámenie o dobrovoľnej dražbe</ns0:Nazov>
+  <ns0:Cislo>260004</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>Dražby a aukcie, s.r.o.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Jilemnického</Ulica>
+      <Cislo>4012/30</Cislo>
+      <Obec>Martin</Obec>
+      <Psc>03601</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="131">Okresný súd Žilina</Sud>
+    <Oddiel>Sro</Oddiel>
+    <Vlozka>18739/L</Vlozka>
+    <Ico>36751642</Ico>
+  </ns0:Drazobnik>
+  <ns0:NavrhovateliaHeader>Označenie navrhovateľa</ns0:NavrhovateliaHeader>
+  <ns0:Navrhovatelia>
+    <ns0:Navrhovatel>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Všeobecná úverová banka, a.s.; skrátený názov: VÚB, a.s.</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Mlynské nivy</Ulica>
+          <Cislo>1</Cislo>
+          <Obec>Bratislava</Obec>
+          <Psc>829 90</Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Sud Kod="104">Mestský súd Bratislava III</Sud>
+        <Oddiel>Sa  </Oddiel>
+        <Vlozka>341/B</Vlozka>
+        <Ico>31320155</Ico>
+      </ns0:CeleMeno>
+    </ns0:Navrhovatel>
+  </ns0:Navrhovatelia>
+  <ns0:Licitatori xsi:nil="true" />
+  <ns0:Notar>
+    <ns0:CeleMeno>
+      <TitulPred>JUDr.</TitulPred>
+      <TitulZa />
+      <Meno>Michal</Meno>
+      <Priezvisko>Capek</Priezvisko>
+    </ns0:CeleMeno>
+    <ns0:Sidlo>
+      <Ulica>Nám. M.R. Štefánika</Ulica>
+      <Cislo>14/19</Cislo>
+      <Obec>Brezno</Obec>
+      <Psc>977 01</Psc>
+      <Stat />
+    </ns0:Sidlo>
+  </ns0:Notar>
+  <ns0:KonanieMiesto>Hotel Diana,  konferenčná miestnosť, Hviezdoslavova 19, 915 01 Nové Mesto nad Váhom</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-10-08</ns0:KonanieDatum>
+  <ns0:KonanieCas>11:00 hod.</ns0:KonanieCas>
+  <ns0:Kolo>prvá dražba</ns0:Kolo>
+  <ns0:Predmet>&lt;p&gt;1. nehnuteľnosti nachádzajúce sa v okrese Nové Mesto nad Váhom, obci Lúka, katastrálne územie Lúka, Okresný úrad Nové Mesto nad Váhom - katastrálny odbor na &lt;strong&gt;LV č. 1506 &lt;/strong&gt;ako:&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;strong&gt;Okresný úrad, katastrálny odbor:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3"&gt;
+			&lt;p&gt; Nové Mesto nad Váhom&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;strong&gt;Okres: &lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;Obec:&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;Katastrálne územie:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3"&gt;
+			&lt;p&gt; Nové Mesto nad Váhom&lt;/p&gt;
+
+			&lt;p&gt; Lúka&lt;/p&gt;
+
+			&lt;p&gt; Lúka&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;strong&gt;Číslo listu vlastníctva:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3"&gt;
+			&lt;p&gt;1506&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="5"&gt;
+			&lt;p&gt;Parcely registra „C“evidované na katastrálnej mape:&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="5"&gt;
+			&lt;p&gt;&lt;strong&gt;&lt;em&gt;Pozemky:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;em&gt; &lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;em&gt;Parcel. číslo:&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;em&gt;Druh pozemku:&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;em&gt; Výmera v m&lt;/em&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;pozemok&lt;em&gt; &lt;/em&gt;parcela C-KN&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;395/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Zastavaná plocha a nádvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt; 136 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;pozemok&lt;em&gt; &lt;/em&gt;parcela C-KN&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;396&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Zastavaná plocha a nádvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt; 29 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="5"&gt;
+			&lt;p&gt;&lt;strong&gt;&lt;em&gt;Stavby:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;em&gt;Súpisné číslo:&lt;/em&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;em&gt;  &lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;em&gt;Na pozemku parcelné číslo:&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;em&gt;Druh stavby:  &lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;em&gt;Popis stavby:  &lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;19&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;395/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;10 – Rodinný dom&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Rodinný dom&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt; &lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;396&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;7 - Garáž&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;GARÁŽ&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="3"&gt;
+			&lt;p&gt;&lt;strong&gt;Vo vlastníctve:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;strong&gt;Spoluvlastnícky podiel:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt;&lt;strong&gt;                                                 Jedľová 783/15, 960 01 Zvolen&lt;/strong&gt;SR&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Žaludko Dušan r. Žaludko, 916 33, Lúka, č. 19, Slovenská republika,(nar. [skryté])&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;1/2&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Žaludková Žaneta r. Serišová, 916 33, Lúka, č. 19, Slovenská republika,(nar. [skryté])&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;1/2&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;vrátane všetkých jej súčastí a príslušenstva.&lt;/p&gt;
+
+&lt;p&gt;2. nehnuteľnosti nachádzajúce sa v okrese Nové Mesto nad Váhom, obci Lúka, katastrálne územie Lúka, Okresný úrad Nové Mesto nad Váhom - katastrálny odbor na &lt;strong&gt;LV č. 459 &lt;/strong&gt;ako:&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;strong&gt;Okresný úrad, katastrálny odbor:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3"&gt;
+			&lt;p&gt; Nové Mesto nad Váhom&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;strong&gt;Okres: &lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;Obec:&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;Katastrálne územie:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3"&gt;
+			&lt;p&gt; Nové Mesto nad Váhom&lt;/p&gt;
+
+			&lt;p&gt; Lúka&lt;/p&gt;
+
+			&lt;p&gt; Lúka&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;strong&gt;Číslo listu vlastníctva:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3"&gt;
+			&lt;p&gt;459&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="5"&gt;
+			&lt;p&gt;Parcely registra „C“evidované na katastrálnej mape:&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="5"&gt;
+			&lt;p&gt;&lt;strong&gt;&lt;em&gt;Pozemky:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;em&gt; &lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;em&gt;Parcel. číslo:&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;em&gt;Druh pozemku:&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;em&gt; Výmera v m&lt;/em&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;pozemok&lt;em&gt; &lt;/em&gt;parcela C-KN&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;395/3&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Zastavaná plocha a nádvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt; 614 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="3"&gt;
+			&lt;p&gt;&lt;strong&gt;Vo vlastníctve:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;&lt;strong&gt;Spoluvlastnícky podiel:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt;&lt;strong&gt;                                             &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Žaludko Dušan r. Žaludko, 916 33, Lúka, č. 19, Slovenská republika,(nar. [skryté]), Žaludková Žaneta r. Serišová, 916 33, Lúka, č. 19, Slovenská republika,(nar. [skryté]), &lt;strong&gt;BSM&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;1/2&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Gajdošechová Marta, r.Micháliková, 916 33, Lúka, č. 13, Slovenská republika,(nar. [skryté])&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;1/2&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;vrátane všetkých jej súčastí a príslušenstva.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;&lt;strong&gt;Stavba rodinn&amp;eacute;ho domu-budovy je z roku 1965 podľa kolaud&amp;aacute;cie v pr&amp;iacute;lohe. P&amp;ocirc;vodne postaven&amp;aacute;, ako pr&amp;iacute;stavba k p&amp;ocirc;vodn&amp;eacute;mu domu z roku 1940. V&amp;yacute;voj v čase a v rodine, rozdelil stavbu na dva samostatn&amp;eacute; objekty. Jedn&amp;aacute; sa o dvojpodlažn&amp;yacute; čiastočne podpivničen&amp;yacute; rodinn&amp;yacute; dom, murovan&amp;yacute; zmie&amp;scaron;an&amp;eacute; murivo kv&amp;aacute;dra tehla v skladobnej hr&amp;uacute;bke 440mm vč&amp;iacute;tane oteplenia. Objekt je dlh&amp;scaron;ie obdobie opusten&amp;yacute; s vypnut&amp;yacute;mi m&amp;eacute;diami, elektrika a plyn, ako aj preru&amp;scaron;en&amp;yacute; odpad zo žumpy na dvore, ktor&amp;uacute; už&amp;iacute;vala spolu rodina. Z d&amp;ocirc;vodu nespolupr&amp;aacute;ce a nezdieľania prev&amp;aacute;dzkov&amp;yacute;ch n&amp;aacute;kladov bolo potrubie preru&amp;scaron;en&amp;eacute; a WC je nefunkčn&amp;eacute; v s&amp;uacute;p.č&amp;iacute;sle 19. Nie s&amp;uacute; dokončen&amp;eacute; dvere, krb je len posaden&amp;aacute; vložka bez obmurovania, na povalu, kde je 1x stre&amp;scaron;n&amp;eacute; okno Velux je rebr&amp;iacute;k. Okn&amp;aacute; s&amp;uacute; plastov&amp;eacute;, &amp;scaron;tandardn&amp;aacute; kvalita kuchyňa s atypickou k&amp;uacute;pelňou s nov&amp;yacute;m vybaven&amp;iacute;m zariaďovacie prvky, ale bez &amp;uacute;držby, v dome je vlhko. Životnosť stanovujem odborne, ako murovan&amp;eacute; domy s ohľadom na technick&amp;yacute; stav, s uv&amp;aacute;žen&amp;iacute;m zn&amp;iacute;ženej &amp;scaron;tandardnej životnosti na 80 rokov a pos&amp;uacute;den&amp;eacute; kubickou metodikou, opotrebenie line&amp;aacute;rne. &lt;/strong&gt;&lt;/p&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;&lt;strong&gt;Rodinn&amp;yacute; dom: Rodinn&amp;yacute; dom s&amp;uacute;p.č.19 na parc.č.395/1 k.&amp;uacute;.L&amp;uacute;ka &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;POPIS STAVBY &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;s dvojpodlažnou pr&amp;iacute;stavbou kotolne a nadstavbou jednej miestnosti z roku 2002. Dom m&amp;aacute; byt 3i, je rekon&amp;scaron;truovan&amp;yacute; s 1xk&amp;uacute;pelňou, kuchyňa so &amp;scaron;por&amp;aacute;kom na plyn PB, okn&amp;aacute; plastov&amp;eacute; zdvojen&amp;eacute;, podlahy lamin&amp;aacute;tov&amp;eacute; a dlažby, vykurovanie lok&amp;aacute;lne krbom s vložkou a &amp;uacute;k kotlom na pevn&amp;eacute; palivo, viď foto v kuchyni, dispozične je to byt s pr&amp;iacute;slu&amp;scaron;enstvom kuchyňa, k&amp;uacute;pelňa, 2x&amp;scaron;pajza (1x &amp;scaron;atn&amp;iacute;k), WC spolu v kupelni kde je samostatn&amp;aacute; sprcha a um&amp;yacute;vadlo, chodba. M&amp;uacute;r je skladobne 57cm tehlov&amp;yacute; s izol&amp;aacute;ciou proti zemnej vlhkosti na betonov&amp;yacute;ch prekladan&amp;yacute;ch z&amp;aacute;kladoch. Dom je napojen&amp;yacute; na kanaliz&amp;aacute;ciu do žumpy z WC a trativod z kuchyne a k&amp;uacute;pelne, vodovod, elektriku, s pr&amp;iacute;pravou T&amp;Uacute;V v el.bojleri. Je omietnut&amp;yacute; omietkou brizolit 4x do 2/3 a 4x do 1/3 sokel cementov&amp;yacute;, strecha je prevažne plechov&amp;eacute; &amp;scaron;ablony na sedlovej kon&amp;scaron;trukcii, klampoiarske kon&amp;scaron;trukcie s&amp;uacute; pozinkovan&amp;eacute; aj parapety. Životnosť stanovujem odborne analyticky. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Umiestnenie stavby: &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;V svahovitom ter&amp;eacute;ne do 10%, v rade star&amp;scaron;&amp;iacute;ch a rekon&amp;scaron;truovan&amp;yacute;ch domov, oproti je na kopci mal&amp;yacute; ka&amp;scaron;tieľ. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dvojpodlažn&amp;yacute; rodinn&amp;yacute; dom s.č.19 na KNC 395/1 k.&amp;uacute;.L&amp;uacute;ka, je napojen&amp;yacute; na p&amp;ocirc;vodn&amp;uacute; stavbu s 1x nadzemn&amp;yacute;m a čiastočn&amp;yacute;m podzemn&amp;yacute;m podlaž&amp;iacute;m. Vykurovanie bolo &amp;uacute;stredn&amp;eacute; s pr&amp;iacute;pravou TUV. Moment&amp;aacute;lne je opusten&amp;yacute; a nefnkčn&amp;yacute; elektrika, plyn ani kanaliz&amp;aacute;cia. Vodomer v pivnici je namontovan&amp;yacute; v čase obhliadky. P&amp;ocirc;vodn&amp;yacute; dom samostatn&amp;yacute; m&amp;aacute; vodomer v &amp;scaron;achte pri br&amp;aacute;ne. Pr&amp;iacute;slu&amp;scaron;enstvo je gar&amp;aacute;ž na KNC č.396. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dispozičn&amp;eacute; rie&amp;scaron;enie: &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zo z&amp;aacute;vetria je vstup schodiskom do 1PP, do 1NP plastov&amp;yacute;mi dverami a rebr&amp;iacute;kom na povalu pred dverami vstupu do 3izbov&amp;eacute;ho bytu spolu s kuchyňou a k&amp;uacute;pelňou ako aj &amp;scaron;atn&amp;iacute;kom pr&amp;iacute;stupn&amp;yacute;m z chodby. V 1PP je kotolňa a sklad paliva. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technick&amp;eacute; rie&amp;scaron;enie: &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Podzemn&amp;eacute; podlažie &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Zvisl&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - z monolitick&amp;eacute;ho bet&amp;oacute;nu; deliace kon&amp;scaron;trukcie - tehlov&amp;eacute; (priečkovky, CDM, panelov&amp;aacute; kon&amp;scaron;trukcia, dreven&amp;eacute;) &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vodorovn&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - stropy - s rovn&amp;yacute;m podhľadom bet&amp;oacute;nov&amp;eacute; monolitick&amp;eacute;, prefabrikovan&amp;eacute; a keramick&amp;eacute; &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Schodisko - cementov&amp;yacute; poter &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- &amp;Uacute;pravy vonkaj&amp;scaron;&amp;iacute;ch povrchov - fas&amp;aacute;dne omietky - &amp;scaron;kraban&amp;yacute; brizolit, omietky na b&amp;aacute;ze umel&amp;yacute;ch l&amp;aacute;tok &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- &amp;Uacute;pravy vn&amp;uacute;torn&amp;yacute;ch povrchov - vn&amp;uacute;torn&amp;eacute; omietky - v&amp;aacute;penn&amp;eacute; &amp;scaron;tukov&amp;eacute;, stierkov&amp;eacute; plsťou hladen&amp;eacute; &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- V&amp;yacute;plne otvorov - dvere - hladk&amp;eacute; pln&amp;eacute; alebo zasklen&amp;eacute;; okn&amp;aacute; - plastov&amp;eacute; s dvoj. s trojvrstvov&amp;yacute;m zasklen&amp;iacute;m &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Podlahy - dlažby a podlahy ost. miestnost&amp;iacute; - cementov&amp;yacute; poter, tehlov&amp;aacute; dlažba &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vykurovanie - zdroj vykurovania - kotol &amp;uacute;stredn&amp;eacute;ho vykurovania značkov&amp;eacute; kotly, aj prevedenia turbo (Junkers, Vaillant, Leblanc&amp;hellip;) &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody vody - z pozinkovan&amp;eacute;ho potrubia studenej a teplej vody z centr&amp;aacute;lneho zdroja &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody kanaliz&amp;aacute;cie - plastov&amp;eacute; potrubie &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody elektroin&amp;scaron;tal&amp;aacute;cie - elektroin&amp;scaron;tal&amp;aacute;cia ( bez rozv&amp;aacute;dzačov) - sveteln&amp;aacute;, motorick&amp;aacute;; elektrick&amp;yacute; rozv&amp;aacute;dzač - s automatick&amp;yacute;m isten&amp;iacute;m &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody plynu - rozvod zemn&amp;eacute;ho plynu &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Nadzemn&amp;eacute; podlažie &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Z&amp;aacute;klady - bet&amp;oacute;nov&amp;eacute; - objekt s podzemn&amp;yacute;m podlaž&amp;iacute;m s vodorovnou izol&amp;aacute;ciou &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Zvisl&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - murovan&amp;eacute; z in&amp;yacute;ch materi&amp;aacute;lov (calsilox, siporex, calofrig) v skladobnej hr&amp;uacute;bke nad 40 do 50cm; deliace kon&amp;scaron;trukcie - tehlov&amp;eacute; (priečkovky, CDM, panelov&amp;aacute; kon&amp;scaron;trukcia, dreven&amp;eacute;) &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vodorovn&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - stropy - s rovn&amp;yacute;m podhľadom dreven&amp;eacute; tr&amp;aacute;mov&amp;eacute; &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Strecha - krovy - v&amp;auml;znicov&amp;eacute; valbov&amp;eacute;, stanov&amp;eacute;; krytiny strechy na krove - plechov&amp;eacute; pozinkovan&amp;eacute;; klampiarske kon&amp;scaron;trukcie strechy - z pozinkovan&amp;eacute;ho plechu &amp;uacute;pln&amp;eacute; strechy (žľaby, zvody, kom&amp;iacute;ny, prieniky, snehov&amp;eacute; zachyt&amp;aacute;vače) &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;Uacute;pravy vonkaj&amp;scaron;&amp;iacute;ch povrchov - fas&amp;aacute;dne omietky - &amp;scaron;kraban&amp;yacute; brizolit, omietky na b&amp;aacute;ze umel&amp;yacute;ch l&amp;aacute;tok &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- &amp;Uacute;pravy vn&amp;uacute;torn&amp;yacute;ch povrchov - vn&amp;uacute;torn&amp;eacute; omietky - v&amp;aacute;penn&amp;eacute; &amp;scaron;tukov&amp;eacute;, stierkov&amp;eacute; plsťou hladen&amp;eacute;; vn&amp;uacute;torn&amp;eacute; obklady - prevažnej časti k&amp;uacute;peľne min.nad 1,35 m v&amp;yacute;&amp;scaron;ky; - vane; - samostatnej sprchy; - kuchyne min. pri spor&amp;aacute;ku a dreze (ak je drez na stene) &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- V&amp;yacute;plne otvorov - dvere - plastov&amp;eacute; pln&amp;eacute; alebo&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Podlahy - podlahy obytn&amp;yacute;ch miestnost&amp;iacute; (okrem obytn&amp;yacute;ch kuch&amp;yacute;ň) - palubovky, dosky, xylolit; dlažby a podlahy ost. miestnost&amp;iacute; - keramick&amp;eacute; dlažby &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vybavenie kuch&amp;yacute;ň - plynov&amp;yacute; spor&amp;aacute;k, spor&amp;aacute;k na prop&amp;aacute;n-but&amp;aacute;n; - ods&amp;aacute;vač p&amp;aacute;r; - kuchynsk&amp;aacute; linka z materi&amp;aacute;lov na b&amp;aacute;ze dreva (za bežn&amp;yacute; meter rozvinutej &amp;scaron;&amp;iacute;rky)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vybavenie k&amp;uacute;peľn&amp;iacute; - vaňa plastov&amp;aacute; rohov&amp;aacute; alebo s v&amp;iacute;rivkou; - um&amp;yacute;vadlo; - samostatn&amp;aacute; sprcha; vodovodn&amp;eacute; bat&amp;eacute;rie - p&amp;aacute;kov&amp;eacute; nerezov&amp;eacute; so sprchou; - p&amp;aacute;kov&amp;eacute; nerezov&amp;eacute;; z&amp;aacute;chod - splachovac&amp;iacute; bez um&amp;yacute;vadla &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Ostatn&amp;eacute; vybavenie - kozub - s uzatvoren&amp;yacute;m ohniskom &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vykurovanie - &amp;uacute;stredn&amp;eacute; vykurovanie - teplovod. s rozvod. bez ohľadu na mat. a radi&amp;aacute;tormi - oceľ. a vykurovacie panely &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody vody- &lt;/strong&gt;&lt;strong&gt;z pozinkovan&amp;eacute;ho potrubia studenej a teplej vody z centr&amp;aacute;lneho zdroja; zdroj teplej vody - z&amp;aacute;sobn&amp;iacute;kov&amp;yacute; ohrievač elektrick&amp;yacute;, plynov&amp;yacute; alebo kombinovan&amp;yacute; s &amp;uacute;stredn&amp;yacute;m vykurovan&amp;iacute;m &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody kanaliz&amp;aacute;cie - plastov&amp;eacute; potrubie &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody elektroin&amp;scaron;tal&amp;aacute;cie - elektroin&amp;scaron;tal&amp;aacute;cia ( bez rozv&amp;aacute;dzačov) - sveteln&amp;aacute;; elektrick&amp;yacute; rozv&amp;aacute;dzač - s automatick&amp;yacute;m isten&amp;iacute;m&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody plynu - rozvod zemn&amp;eacute;ho plynu&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gar&amp;aacute;ž: Gar&amp;aacute;ž na knc parc.č.396 k.&amp;uacute;.L&amp;uacute;ka &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;POPIS STAVBY &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Umiestnenie stavby: &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;V spoločnom dvore na vlastnej parcele KNC č.396. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dispozičn&amp;eacute; rie&amp;scaron;enie: &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Parkovanie pre jedno osobn&amp;eacute; vozidlo, bez mont&amp;aacute;žnej jamy. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technick&amp;eacute; rie&amp;scaron;enie: &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Nadzemn&amp;eacute; podlažie &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Z&amp;aacute;klady - bez podmurovky, iba z&amp;aacute;kladov&amp;eacute; p&amp;aacute;sy &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Zvisl&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - murovan&amp;eacute; z p&amp;oacute;robet&amp;oacute;nu (Siporex, Ytong, Ypor, Hebel...) hr&amp;uacute;bky nad 15 do 30 cm &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vodorovn&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - stropy - tr&amp;aacute;mčekov&amp;eacute; s podhľadom &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Strecha - krytina na ploch&amp;yacute;ch strech&amp;aacute;ch - z asfaltov&amp;yacute;ch privarovan&amp;yacute;ch p&amp;aacute;sov &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- &amp;Uacute;pravy vonkaj&amp;scaron;&amp;iacute;ch povrchov - v&amp;aacute;penn&amp;aacute; hrub&amp;aacute; omietka alebo n&amp;aacute;ter &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- &amp;Uacute;pravy vn&amp;uacute;torn&amp;yacute;ch povrchov - v&amp;aacute;penn&amp;aacute; hrub&amp;aacute; omietka &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- V&amp;yacute;plne otvorov - okn&amp;aacute; - jednoduch&amp;eacute; dreven&amp;eacute; alebo oceľov&amp;eacute; &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Podlahy - hrub&amp;eacute; bet&amp;oacute;nov&amp;eacute;, tehlov&amp;aacute; dlažba; - vodorovn&amp;aacute; izol&amp;aacute;cia &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody elektroin&amp;scaron;tal&amp;aacute;cie - elektroin&amp;scaron;tal&amp;aacute;cia - len sveteln&amp;aacute; - poistkov&amp;eacute; automaty&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Plot: Predn&amp;yacute; a bočn&amp;yacute; plot s br&amp;aacute;ničkou &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Plot s br&amp;aacute;ničkou a br&amp;aacute;nou kovovou, po&amp;scaron;koden&amp;aacute; murovan&amp;aacute; kon&amp;scaron;trukcia s podmurovkou z roku 1965 na parc.č.395/3 do v&amp;yacute;&amp;scaron;ky 1,909m odborne stanoven&amp;aacute; životnosť 70 rokov&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Studňa: Kopan&amp;aacute; studňa &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kopan&amp;aacute; studňa DN1000 hlbka 12,0m bez čerpadla z roku 1940 na parc.č.395/3, dnes prevažne je to trativodn&amp;aacute; studňa s odpadom z kuchyne, vane a sprchy, podľa &amp;uacute;častn&amp;iacute;kov. odborne stanoven&amp;aacute; životnosť je 100 rokov&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vonkaj&amp;scaron;ia &amp;uacute;prava: Pr&amp;iacute;pojka vodovod &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vodovod s meran&amp;iacute;m v 1PP, z roku 1965 na parc.č.395/3, odborne stanovujem životnosť na 80 rokov&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pr&amp;iacute;pojka elektrika &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Elektrick&amp;aacute; pr&amp;iacute;pojka 4x25mm2 Al k&amp;aacute;bel z roku 1965 na parc.č.395/3, odborne stanovujem životnosť na 80 rokov&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pr&amp;iacute;pojka plynovod &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Plynovodn&amp;aacute; pr&amp;iacute;pojka DN 25 z roku 1965 na parc.č.407. Odborne stanoven&amp;aacute; životnosť 80 rokov&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alt&amp;aacute;nok &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alt&amp;aacute;nok dreven&amp;yacute; sklad dreva, predpoklad z roku 1980 na parc.č.395/3, odborne určen&amp;aacute; životnosť na 50 rokov&lt;/strong&gt;&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>LV č. 1506:
+Vecné bremeno právo zriadenia a .držby vedenia prípojky plynového rozvodu cez nehn. reg. CKN parc.c.395/1 v prospech vlastníkov nehn. reg. CKN parc.č. 395/2 v rozsahu uvedenom v zmluve V 2093/97 - VZ 130/97, zm.č. 7/13
+
+Vklad záložného práva na nehn. rod. dom s.č. 19 na parc.č. 395/1, pozemok reg. CKN parc.č. 395/1 v prospech Všeobecnej úverovej banky, a.s., Mlynské nivy 1, 829 90 Bratislava, ICO: 31320155, V 757/2013 - zm.č. 41/13, 135/25
+
+Vklad záložného pr.va na nehn. rod. dom s.č. 19 na parc.č. 395/1, garáž na parc.č. 396, pozemky reg.CKN parc.č. 395/1, 396 v prospech Všeobecnej úverovej banky, a.s., Mlynské nivy 1, 829 90 Bratislava, ICO: 31320155, V 2382/2013 - zm.č. 104/13, 135/25
+
+Vlastník poradové číslo 1, 2- Exekučný príkaz EX 228EX 313/24-57 - na zriadenie exekučného záložného práva - na nehn. - rod. dom s.č. 19 na parc.č. 395/1, garáž na parc.č. 396, pozemky reg.CKN parc.č. 395/1, 396, Exekútorský úrad Bánovce nad Bebravou, Mgr. Klaudia Dzuriková Boorová, súdny exekútor, Z-360/2025 - zm.č. 13/25, 135/25
+
+Poznámky:
+  
+P-109/2026 - Oznámenie o spôsobe výkonu záložného práva predajom na dobrovoľnej dražbe nehn. pozemky reg. C KN p.č.395/1, 396, rodinný dom sč.19 na pozemku reg. C KN p.č.395/1, garáž na pozemku rg. C KN p.č.396 - dražobník Dražby a aukcie, s.r.o., Martin, IČO: 36751642 - pre vlast. B1 - zm.č.66/26
+
+P-67/2026 -Začatie výkonu záložného práva zavkladovaného pod V-757/2013 a V-2382/13, v prospech Všeobecnej úverovej banky, a.s., so sídlom Mlynské nivy 1, 829 90 Bratislava, IČO: 31 320 155, na nehn. stavba - rodinný dom s.č. 19 na parc.č. 395/1, garáž bez s.č. na parc.č. 396, pozemky reg. CKN parc.č. 395/1, 396, formou dobrovoľnej dražby pod značkou č. 260004 - zm.č. 44/26
+
+
+LV č. 459
+Vlastník poradové číslo 1- Vklad záložného práva na nehn. parc.č. 395/3 v prospech Všeobecnej úverovej banky, a.s., Mlynské nivy 1, 829 90 Bratislava, ICO: 31320155, V 757/2013 - zm.č. 41/13
+
+Vlastník poradové číslo 1- Exekučný príkaz EX 228EX 313/24-57 na zriadenie exekučného záložného práva na spoluvlastnícky podiel - k nehn. - pozemky reg. C KN p. c. 395/3 pre vlastníka pod B 1, Exekútorský úrad Bánovce nad Bebravou, Mgr. Klaudia Dzuriková Boorová, súdny exekútor Z-360/2025 - zm.č. 13/25
+
+Poznámky:
+
+P-109/2026 - Oznámenie o spôsobe výkonu záložného práva predajom na dobrovoľnej dražbe nehn. pozemok reg. C KN p.č.395/3 - dražobník Dražby a aukcie, s.r.o., Martin, IČO: 36751642 - pre vlast. B1 - zm.č.66/26
+</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad xsi:nil="true" />
+  <ns0:PredmetCenaVyska xsi:nil="true" />
+  <ns0:PredmetCenaSposobStanovenia>znaleckým posudkom č. 91/2026 vypracovaným súdnym znalcom Ing. Miroslavom Ferklom v sume 92.000,00 €</ns0:PredmetCenaSposobStanovenia>
+  <ns0:PredmetPodmienkyOdovzdania>Ak uhradil vydražiteľ cenu dosiahnutú vydražením v ustanovenej lehote, prechádza na neho vlastnícke právo k predmetu dražby udelením príklepu. Užívacie právo odovzdaním predmetu dražby po zaplatení celej ceny dosiahnutej vydražením na základe zápisnice o odovzdaní predmetu dražby. Všetky náklady spojené s odovzdaním a prevzatím predmetu dražby nesie vydražiteľ. V prípade, ak boli porušené ustanovenia tohto zákona, môže osoba, ktorá tvrdí, že tým bola dotknutá na svojich právach, požiadať súd, aby určil neplatnosť dražby. Právo domáhať sa určenia neplatnosti dražby zaniká, ak sa neuplatní do troch mesiacov odo dňa udelenia príklepu okrem prípadu, ak dôvody neplatnosti dražby súvisia so spáchaním trestného činu a zároveň ide o dražbu domu alebo bytu, v ktorom má predchádzajúci vlastník predmetu dražby v čase príklepu hlásený trvalý pobyt podľa osobitného predpisu; v tomto prípade je možné domáhať sa neplatnosti dražby aj po uplynutí tejto lehoty. V prípade spoločnej dražby bude neplatná len tá časť dražby, ktorej sa takýto rozsudok týka. Osoba, ktorá podala na súde žalobu podľa odseku 2, je povinná oznámiť príslušnej správe katastra nehnuteľností začatie súdneho konania. Účastníkmi súdneho konania o neplatnosť dražby sú navrhovateľ dražby, dražobník, vydražiteľom predchádzajúci vlastník a dotknutá osoba. Ak vydražiteľ zmaril dražbu alebo ak súd určil dražbu za neplatnú, účinky príklepu zanikajú ku dňu príklepu. Neplatnosť dražby nie je možné vysloviť z dôvodu oneskoreného začatia dražby, ak bolo príčinou oneskoreného začatia dražby konanie inej dražby tým istým dražobníkom na tom istom mieste a ak neumožnil vlastník [skryté], ako aj osoba, ktorá má k predmetu dražby iné ako vlastnícke právo, vykonať riadnu obhliadku predmetu dražby. Upozorňujeme všetky osoby, ktoré majú k predmetu dražby iné práva, že ich môžu preukázať najneskôr do začatia dražby a uplatniť na dražbe ako dražitelia. V dražobnej miestnosti je zakázané zhotovovať akýkoľvek audiovizuálny a zvukový záznam bez súhlasu dražobníka.</ns0:PredmetPodmienkyOdovzdania>
+  <ns0:NajnizsiePodanie>92.000,00 €</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie>1.000,00 €</ns0:MinimalnePrihodenie>
+  <ns0:Zabezpeka>
+    <ns0:Vyska>15.000,00 €</ns0:Vyska>
+    <ns0:ZlozenieSposob>bezhotovostným prevodom na účet / zložením v hotovosti na účet dražobníka/ notárskou úschovou / zložením v hotovosti do pokladne dražobníka / bankovou zárukou</ns0:ZlozenieSposob>
+    <ns0:ZlozenieCisloUctu>SK5402000000003163615951, VS 260004</ns0:ZlozenieCisloUctu>
+    <ns0:ZlozenieAdresa>Hotel Diana,  konferenčná miestnosť, Hviezdoslavova 19, 915 01 Nové Mesto nad Váhom</ns0:ZlozenieAdresa>
+    <ns0:ZlozenieDoklad>1.originálom príkazu na úhradu preukazujúcim odpísanie finančných prostriedkov z účtu navrhovateľa za predpokladu ich následného pripísania na účet dražobníka 2.originálom potvrdenia o vklade peňažných prostriedkov na bankový účet v hotovosti vydaného bankou 3.originál listiny preukazujúcej zloženie dražobnej zábezpeky do notárskej úschovy.</ns0:ZlozenieDoklad>
+    <ns0:ZlozenieLehota>Do otvorenia dražby</ns0:ZlozenieLehota>
+    <ns0:Vratenie>Bezhotovostným prevodom na účet účastníka dražby, bez zbytočného odkladu po skončení dražby alebo po upustení od dražby, najneskôr však do 5 dní od skončenia dražby alebo od upustenia od dražby.</ns0:Vratenie>
+  </ns0:Zabezpeka>
+  <ns0:SposobUhradyCeny>Cenu dosiahnutú vydražením do 6.638,78 € je vydražiteľ povinný uhradiť ihneď po príklepe, nad túto sumu do 15 dní, pokiaľ sa vydražiteľ s navrhovateľom dražby nedohodnú inak. Vydražiteľ je povinný uhradiť cenu spôsobmi uvedenými pri zložení dražobnej zábezpeky formou bezhotovostného prevodu na účet dražobníka alebo zložením hotovosti na účet dražobníka, pričom táto sa započítava vydražiteľovi do ceny  dosiahnutej vydražením. V prípade bankovej záruky je povinný zaplatiť cenu dosiahnutú vydražením v plnej výške prevodom na účet dražobníka alebo zložením hotovosti na účet dražobníka. Účtom dražobníka sa vo všetkých prípadoch myslí účet vedený v Tatra banke, a.s., č. účtu: IBAN: SK95 1100 0000 0026 2202 7522, VS  260004</ns0:SposobUhradyCeny>
+  <ns0:ObhliadkaDatum>1. obhliadka      01.10.2026              10:30 hod.
+2. obhliadka      02.10.2026              10:30 hod.
+V prípade záujmu nás kontaktujte na tel. č. 0915 879 007.
+</ns0:ObhliadkaDatum>
+  <ns0:ObhliadkaMiesto>katastrálne územie</ns0:ObhliadkaMiesto>
+  <ns0:SpolocnaDrazba Kod="NIE">Nie</ns0:SpolocnaDrazba>
+  <ns0:SpolocnaDrazbaPoradieDrazeniePredmetov xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia>žiadne</ns0:OrganizaceOpatrenia>
+  <ns0:NadobudnutieVlastnickehoPrava>-</ns0:NadobudnutieVlastnickehoPrava>
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Drazba xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="/PortalJustice/XmlFormularObchodnyVestnik/">
+  <Nazov>Oznámenie o opakovanej dobrovoľnej dražbe</Nazov>
+  <Cislo>02-3-2025</Cislo>
+  <ZoDna xsi:nil="true" />
+  <Drazobnik>
+    <ObchodneMenoNazov xmlns="">Auctiofin s.r.o.</ObchodneMenoNazov>
+    <Sidlo xmlns="">
+      <Ulica>Rudavska</Ulica>
+      <Cislo>17</Cislo>
+      <Obec>Bratislava IV - Zahorska Bystrica</Obec>
+      <Psc>841 06</Psc>
+      <Stat>Slovensko</Stat>
+    </Sidlo>
+    <Sud xmlns="" Kod="104">Mestský súd Bratislava III</Sud>
+    <Oddiel xmlns="">Sro</Oddiel>
+    <Vlozka xmlns="">111795/B</Vlozka>
+    <Ico xmlns="">50331621</Ico>
+  </Drazobnik>
+  <NavrhovateliaHeader>Označenie navrhovateľa</NavrhovateliaHeader>
+  <Navrhovatelia>
+    <Navrhovatel>
+      <Id>1</Id>
+      <CeleMeno>
+        <ObchodneMenoNazov xmlns="">Mgr. Michal Mihálik PhD.</ObchodneMenoNazov>
+        <Sidlo xmlns="">
+          <Ulica>Zámocká</Ulica>
+          <Cislo>14</Cislo>
+          <Obec>Bratislava</Obec>
+          <Psc>811 04</Psc>
+          <Stat>Slovensko</Stat>
+        </Sidlo>
+        <Oddiel xmlns="" />
+        <Vlozka xmlns="" />
+        <Ico xmlns="">55452523</Ico>
+      </CeleMeno>
+    </Navrhovatel>
+  </Navrhovatelia>
+  <Licitatori xsi:nil="true" />
+  <Notar>
+    <CeleMeno>
+      <TitulPred xmlns="">JUDr.</TitulPred>
+      <TitulZa xmlns="" />
+      <Meno xmlns="">Lucia</Meno>
+      <Priezvisko xmlns="">Haspel Dobrovodská</Priezvisko>
+    </CeleMeno>
+    <Sidlo>
+      <Ulica xmlns="">Kalinčiakova</Ulica>
+      <Cislo xmlns="">33</Cislo>
+      <Obec xmlns="">Bratislava</Obec>
+      <Psc xmlns="">831 04</Psc>
+      <Stat xmlns="" />
+    </Sidlo>
+  </Notar>
+  <KonanieMiesto>Notársky úrad, JUDr. Lucia Haspel Dobrovodská
+Kalinčiakova 33, Bratislava 831 04
+</KonanieMiesto>
+  <KonanieDatum>2026-10-27</KonanieDatum>
+  <KonanieCas>11:00</KonanieCas>
+  <Kolo>Druhé kolo dražby</Kolo>
+  <Predmet>&lt;p&gt;Predmetom dražby podľa tejto zmluvy je &lt;strong&gt;spoluvlastn&amp;iacute;cky podiel o&amp;nbsp;veľkosti 1/15&lt;/strong&gt; na nehnuteľnosti:&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;List vlastn&amp;iacute;ctva č.:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;2307&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Okresn&amp;yacute; &amp;uacute;rad, katastr&amp;aacute;lny odbor: &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Bratislava&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Okres:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Bratislava IV&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Obec&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Bratislava - Dev&amp;iacute;nska Nov&amp;aacute; Ves&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Katastr&amp;aacute;lne &amp;uacute;zemie&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Dev&amp;iacute;nska Nov&amp;aacute; Ves&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;Spoluvlastn&amp;iacute;cky podiel o&amp;nbsp;veľkosti 1/15 k&amp;nbsp;parceliam registra &amp;bdquo;E&amp;ldquo;, &lt;/strong&gt;zap&amp;iacute;san&amp;yacute;ch na liste vlastn&amp;iacute;ctva č. &lt;strong&gt;2307&lt;/strong&gt;, okres Bratislava IV, obec: Bratislava &amp;ndash; Dev&amp;iacute;nska Nov&amp;aacute; Ves, katastr&amp;aacute;lne &amp;uacute;zemie Dev&amp;iacute;nska Nov&amp;aacute; Ves, &amp;scaron;t&amp;aacute;t: Slovensk&amp;aacute; republika, a&amp;nbsp;to:&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;parc. č. 4396/5, v&amp;yacute;mera 5755 m2, Druh pozemku - Orn&amp;aacute; p&amp;ocirc;da&lt;/li&gt;
+&lt;/ul&gt;
+</Predmet>
+  <PredmetOpis>&lt;p&gt;Pozemok je evidovan&amp;yacute; v katastri nehnuteľnost&amp;iacute; pre okres Bratislava IV, obec Bratislava - Dev&amp;iacute;nska Nov&amp;aacute; Ves, k.&amp;uacute;. Dev&amp;iacute;nska Nov&amp;aacute; Ves na liste vlastn&amp;iacute;ctva č. 2307 ako parcela č. 4396/5 o v&amp;yacute;mere 5755 m2, druh pozemku orn&amp;aacute; p&amp;ocirc;da&amp;nbsp; - parcela registra &amp;quot;E&amp;quot;.&lt;/p&gt;
+</PredmetOpis>
+  <PredmetStavOpis>&lt;p&gt;Situovan&amp;yacute; je v bl&amp;iacute;zkosti mestskej &amp;scaron;tvrti Bory, je to&amp;nbsp; rezidenčn&amp;aacute; &amp;scaron;tvrť v SZ časti Bratislavy s vynikaj&amp;uacute;cim občianskym vybaven&amp;iacute;m. Vďaka svojej polohe a už vybudovanej dopravnej infra&amp;scaron;trukt&amp;uacute;re s napojen&amp;iacute;m na neďalek&amp;uacute; diaľnicu D2 je dobr&amp;aacute; dostupnosť aj do centra Bratislavy, ktor&amp;eacute; je vzdialen&amp;eacute; 15 min&amp;uacute;t jazdy autom.&lt;/p&gt;
+
+&lt;p&gt;V okol&amp;iacute; sa nach&amp;aacute;dzaj&amp;uacute; prev&amp;aacute;dzkov&amp;eacute; budovy.&lt;/p&gt;
+
+&lt;p&gt;Podľa inform&amp;aacute;cie z &amp;uacute;zemn&amp;eacute;ho pl&amp;aacute;nu je funkčn&amp;eacute; využitie &amp;uacute;zemia - ostatn&amp;aacute; ochrann&amp;aacute; a izolačn&amp;aacute; zeleň.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Pozemok je bez technickej infra&amp;scaron;trukt&amp;uacute;ry.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Povy&amp;scaron;uj&amp;uacute;ce a redukuj&amp;uacute;ce faktory sa nevyskytuj&amp;uacute;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Pozemok je podľa &amp;uacute;zemn&amp;eacute;ho pl&amp;aacute;nu určen&amp;yacute; na &lt;/em&gt;využitie -&lt;em&gt; ostatn&amp;aacute; ochrann&amp;aacute; a izolačn&amp;aacute; zeleň. In&amp;eacute; využitie nie je možn&amp;eacute; predpokladať.&lt;/em&gt;&lt;/p&gt;
+</PredmetStavOpis>
+  <PredmetPravaZavazky>-	Vecné bremeno podľa § 22 a nasl. Zákona č. 79/1957 Zb. o výrobe, rozvode a spotrebe elektriny (elektrizačný zákon) v spojení s § 96 ods. 4 zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v prospech spoločnosti Západoslovenská distribučná, a.s., IČO: 36361518, so sídlom Čulenova 6, 816 47 Bratislava podľa geometrického plánu č. 87-2/2014, č. over. 1121/2014 na pozemok registra E-KN parc. č. 4396/5 týkajúce sa elektroenergetického zariadenia: 1x22 kV VN linka č. 1041 na trase Rz Podvornice - sídlisko Kostolné a Podhorská, Z-11290/14 
+-	Vecné bremeno podľa § 22 a nasl. Zákona č. 79/1957 Zb. o výrobe, rozvode a spotrebe elektriny (elektrizačný zákon) v spojení s § 96 ods. 4 zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v prospech spoločnosti Západoslovenská distribučná, a.s., IČO: 36361518, so sídlom Čulenova 6, 816 47 Bratislava podľa geometrického plánu č. 85-2/2014, č. over. 1122/2014 na pozemok reg. EKN p.č. 4396/5 týkajúce sa elektroenergetického zariadenia: 1x22 kV VN linka č. 405 na trase Rz Podvornice - Rz Malacky, Z-11291/14
+</PredmetPravaZavazky>
+  <PredmetCenaOdhad xsi:nil="true" />
+  <PredmetCenaVyska xsi:nil="true" />
+  <PredmetCenaSposobStanovenia>Cena predmetu dražby je stanovená  Ing. Martinou Grexovou,  znalcom pre oblasť oceňovania nehnuteľností znaleckým posudkom č. 144/2026.</PredmetCenaSposobStanovenia>
+  <PredmetPodmienkyOdovzdania>V prípade, ak nadobudol vydražiteľ vlastníctvo k predmetu dražby, je dražobník povinný odovzdať vydražiteľovi predmet dražby. V prípade, ak ide o nehnuteľnosť, odovzdáva predmet dražby vydražiteľovi za účasti dražobníka správca konkurznej podstaty bývalého vlastníka.
+O odovzdaní predmetu dražby bude spísaný protokol, ktorý podpíše dražobník, vydražiteľ a správca konkurznej podstaty bývalého vlastníka.
+Všetky náklady spojené s odovzdaním predmetu dražby nesie vydražiteľ, s výnimkou nadbytočných nákladov, ktoré by inak nevznikli, ak ich svojou vinou spôsobil predchádzajúci vlastník alebo dražobník.
+Nebezpečenstvo škody na predmete dražby a zodpovednosť za škodu spôsobenú predmetom dražby prechádza z jej držiteľa na vydražiteľa dňom odovzdania predmetu dražby. 
+V prípade, ak bol vydražiteľovi riadne a včas oznámený termín odovzdania predmetu dražby a vydražiteľ je s jeho prevzatím v omeškaní, nesie nebezpečenstvo škody a zodpovednosť za škodu vydražiteľ.
+</PredmetPodmienkyOdovzdania>
+  <NajnizsiePodanie>19.257,30</NajnizsiePodanie>
+  <NajvyssiePodanie xsi:nil="true" />
+  <MinimalnePrihodenie>500 €</MinimalnePrihodenie>
+  <Zabezpeka>
+    <Vyska>2.000 €</Vyska>
+    <ZlozenieSposob>Dražobná zábezpeka musí byť uhradená v hotovosti, bankovým prevodom alebo vkladom na účet dražobníka č. ú.:  SK49 0900 0000 0052 1846 7589, vedený v Slovenská sporiteľňa, a. s., variabilný symbol 02/3/2025, bankovou zárukou v prospech dražobníka, alebo notárskou úschovou v prospech dražobníka.</ZlozenieSposob>
+    <ZlozenieCisloUctu>SK49 0900 0000 0052 1846 7589</ZlozenieCisloUctu>
+    <ZlozenieAdresa>Pobočky SlSp, na mieste dražby</ZlozenieAdresa>
+    <ZlozenieDoklad>Potvrdenie o vklade, výpis z účtu</ZlozenieDoklad>
+    <ZlozenieLehota>Do otvorenia dražby</ZlozenieLehota>
+    <Vratenie>Účastníkom dražby, ktorí sa nestanú vydražiteľmi, bude dražobná zábezpeka bezodkladne vrátená bankovým prevodom, alebo v hotovosti</Vratenie>
+  </Zabezpeka>
+  <SposobUhradyCeny>Vydražiteľ je povinný uhradiť cenu dosiahnutú vydražením nie vyššiu ako 6.640 € hneď po skončení dražby. Ak je cena dosiahnutá vydražením vyššia ako 6.640 €  tak túto je  povinný zaplatiť do 15 dní po 
+skončení dražby, a to prevodom v prospech bankového účtu dražobníka uvedeného v bode 9 Oznámenia o dražbe.
+</SposobUhradyCeny>
+  <ObhliadkaDatum>Termín obhliadky bol stanovený na 13. októbra 2026 a 20. októbra 2026 so začiatkom o 11:00 hod. V prípade záujmu obhliadky sa prosím vopred hlásiť na tel. čísle dražobníka  0903/ 705 705.</ObhliadkaDatum>
+  <ObhliadkaMiesto>Devínska Nová Ves</ObhliadkaMiesto>
+  <SpolocnaDrazba Kod="NIE">Nie</SpolocnaDrazba>
+  <SpolocnaDrazbaPoradieDrazeniePredmetov xsi:nil="true" />
+  <OrganizaceOpatrenia>§ 93 Vecné práva k majetku pri jeho odplatnom prevode
+(1) Pri speňažovaní majetku správca nie je viazaný zmluvnými predkupnými právami. V prípade speňažovania majetku, ku ktorému sa viaže zákonné predkupné právo alebo predkupné právo zriadené ako vecné právo, správca písomne ponúkne predmet predkupného práva za podmienok ustanovených osobitnými predpismi21) tomu, kto je z predkupného práva oprávnený; ak osobitný predpis neustanovuje kratšiu lehotu, správca nie je týmto predkupným právom viazaný, ak oprávnený predkupné právo nevyužije do 60 dní od doručenia písomnej ponuky.
+
+</OrganizaceOpatrenia>
+  <NadobudnutieVlastnickehoPrava>Vydražiteľ je povinný uhradiť cenu dosiahnutú vydražením nie vyššiu ako 6.640 € hneď po skončení dražby. Ak je cena dosiahnutá vydražením vyššia ako 6.640 €  tak túto je  povinný zaplatiť do 15 dní po 
+skončení dražby, a to prevodom v prospech bankového účtu dražobníka uvedeného v bode 9 Oznámenia o dražbe.
+Dražobná zábezpeka, ktorú vydražiteľ uhradil pred konaním dražby, sa započítava do ceny dosiahnutej vydražením.  V prípade, ak vydražiteľ uhradil cenu dosiahnutú vydražením riadne a včas, prechádza na neho vlastníctvo vydraženého predmetu dražby udelením príklepu. 
+V opačnom prípade zodpovedá vydražiteľ za škodu spôsobenú svojím konaním, ktorým zabránil prechodu vlastníctva, a dražobník je oprávnený požadovať od vydražiteľa náhradu takto vzniknutej škody (škoda bude uhradená z dražobnej zábezpeky, ak je škoda vyššia ako zložená dražobná zábezpeka, bude dražobník požadovať jej uhradenie priamo od vydražiteľa).
+</NadobudnutieVlastnickehoPrava>
+  <DovodUpustenia xsi:nil="true" />
+  <DrazobnikOznamuje xsi:nil="true" />
+</Drazba>

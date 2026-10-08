@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Nazov>Oznámenie o opakovanej dobrovoľnej dražbe</ns0:Nazov>
+  <ns0:Cislo>82/2026</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>U9, a.s.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Zelinárska</Ulica>
+      <Cislo>6</Cislo>
+      <Obec>Bratislava</Obec>
+      <Psc>82108</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="104">Mestský súd Bratislava III</Sud>
+    <Oddiel>Sa</Oddiel>
+    <Vlozka>3070/B</Vlozka>
+    <Ico>35849703</Ico>
+  </ns0:Drazobnik>
+  <ns0:NavrhovateliaHeader>Označenie navrhovateľa</ns0:NavrhovateliaHeader>
+  <ns0:Navrhovatelia>
+    <ns0:Navrhovatel>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Všeobecná úverová banka, a.s.; skrátený názov: VÚB, a.s.</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Mlynské nivy</Ulica>
+          <Cislo>1</Cislo>
+          <Obec>Bratislava</Obec>
+          <Psc>82990</Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Sud Kod="104">Mestský súd Bratislava III</Sud>
+        <Oddiel>Sa  </Oddiel>
+        <Vlozka>341/B</Vlozka>
+        <Ico>31320155</Ico>
+      </ns0:CeleMeno>
+    </ns0:Navrhovatel>
+  </ns0:Navrhovatelia>
+  <ns0:Licitatori xsi:nil="true" />
+  <ns0:Notar>
+    <ns0:CeleMeno>
+      <TitulPred>Mgr. </TitulPred>
+      <TitulZa />
+      <Meno>Tomáš</Meno>
+      <Priezvisko>Gerbery</Priezvisko>
+    </ns0:CeleMeno>
+    <ns0:Sidlo>
+      <Ulica>Mnoheľova </Ulica>
+      <Cislo>830/17</Cislo>
+      <Obec>Poprad</Obec>
+      <Psc>058 01</Psc>
+      <Stat />
+    </ns0:Sidlo>
+  </ns0:Notar>
+  <ns0:KonanieMiesto>RS Hotel &amp; Motel, Čerenčianská 1712/30, 979 01 Rimavská Sobota - salónik na prízemí   </ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-11-04</ns0:KonanieDatum>
+  <ns0:KonanieCas>10:30 hod. </ns0:KonanieCas>
+  <ns0:Kolo>2 kolo dražby</ns0:Kolo>
+  <ns0:Predmet>&lt;p&gt;Predmetom dražby s&amp;uacute; nehnuteľnosti evidovan&amp;eacute; Okresn&amp;yacute;m &amp;uacute;radom Lučenec &amp;ndash; katastr&amp;aacute;lny odbor na liste vlastn&amp;iacute;ctva č. &lt;strong&gt;285&lt;/strong&gt; katastr&amp;aacute;lne &amp;uacute;zemie &lt;strong&gt;Čakanovce&lt;/strong&gt;, obec Čakanovce, okres Lučenec, a&amp;nbsp;to:&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pozemky parc. reg. &amp;bdquo;C&amp;ldquo;: &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;bull; parc. č. 46/1, druh pozemku: zastavan&amp;aacute; plocha a n&amp;aacute;dvorie o&amp;nbsp;v&amp;yacute;mere 422 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;bull; parc. č. 47, druh pozemku: z&amp;aacute;hrada o&amp;nbsp;v&amp;yacute;mere 501 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;bull; parc. č. 48, druh pozemku: zastavan&amp;aacute; plocha a n&amp;aacute;dvorie o&amp;nbsp;v&amp;yacute;mere 114 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stavby:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;bull; s&amp;uacute;p. č. 380, na parc. č. 46/1 druh stavby: rodinn&amp;yacute; dom, popis stavby: rodinn&amp;yacute; dom&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Pr&amp;iacute;slu&amp;scaron;enstvo, ktor&amp;eacute; sa nezapisuje alebo nie je zap&amp;iacute;san&amp;eacute; na liste vlastn&amp;iacute;ctva: sklad, chlieviky, oplotenie, studňa, vodovodn&amp;aacute; pr&amp;iacute;pojka, vodomern&amp;aacute; &amp;scaron;achta, kanalizačn&amp;aacute; pr&amp;iacute;pojka, žumpa, elektrick&amp;aacute; NN pr&amp;iacute;pojka, oporn&amp;eacute; m&amp;uacute;ry, vonkaj&amp;scaron;ie schody, spevnen&amp;eacute; plochy, alt&amp;aacute;nok pri RD, tr&amp;aacute;vnik.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Spoluvlastn&amp;iacute;cky podiel 1/1&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predmet dražby sa draž&amp;iacute; tak ako stoj&amp;iacute; a lež&amp;iacute;.&lt;/strong&gt;&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;&lt;strong&gt;Vzhľadom ku skutočnosti, že predmet dražby nebol znalcovi Ing. Petrovi Makonimu riadne spr&amp;iacute;stupnen&amp;yacute; na obhliadku znaleck&amp;yacute; posudok, ktor&amp;yacute;m je ocenen&amp;yacute; predmet dražby bol vypracovan&amp;yacute; v zmysle &amp;sect; 12 ods. 3 z&amp;aacute;kona č. 527/2002 Z. z. o dobrovoľn&amp;yacute;ch dražb&amp;aacute;ch v znen&amp;iacute; neskor&amp;scaron;&amp;iacute;ch predpisov, teda z dostupn&amp;yacute;ch &amp;uacute;dajov o&amp;nbsp;nehnuteľnosti a&amp;nbsp;to hlavne zo star&amp;scaron;ieho znaleck&amp;eacute;ho posudku č 89/2020, ktor&amp;yacute; vypracoval &lt;/strong&gt;&lt;strong&gt;Ing. J&amp;aacute;n Pir&amp;scaron;el&lt;/strong&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rodinn&amp;yacute; dom s.č. 380 na parc.č. 46/1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Nehnuteľnosť sa nach&amp;aacute;dza v Obci Čakanovce v okrese Lučenec, evidovan&amp;aacute; na LV č. 285 na parc. č. EN 46/1. Nehnuteľnosť je v zastavanom &amp;uacute;zem&amp;iacute; obce, skolaudovan&amp;yacute; dňa 11.12.1990 a lež&amp;iacute; na okraji obcei v k.&amp;uacute;. Čakanovce . Ide o voľne stojac&amp;iacute; rodinn&amp;yacute; dom, ktor&amp;yacute; je dvojpodlažn&amp;yacute;, čiastočne podpivničen&amp;yacute; s rovnou strechou pokrytou oceľov&amp;yacute;m plechom a ukončen&amp;yacute; podľa projektovej dokument&amp;aacute;cie v roku 1990. Na prvom podzemnom podlaž&amp;iacute; sa nach&amp;aacute;dzaj&amp;uacute; pivnica, kotolňa a uholňa. Na pr&amp;iacute;zem&amp;iacute; sa nach&amp;aacute;dza: izba, kuchyňa, &amp;scaron;pajza, pr&amp;aacute;čovňa, predsieň, chodba, gar&amp;aacute;ž a terasa na pr&amp;iacute;zem&amp;iacute;. V 2NP sa nach&amp;aacute;dzaj&amp;uacute; z&amp;aacute;dverie, predsieň, ob&amp;yacute;vacia izba, 2 izby, kuchyňa, &amp;scaron;pajza, k&amp;uacute;peľňa, WC, l&amp;oacute;ggia a schodisko. Z&amp;aacute;kladov&amp;eacute; kon&amp;scaron;trukcie tvoria bet. z&amp;aacute;kl. p&amp;aacute;sy pod nosn&amp;yacute;m murivom. Obvodov&amp;eacute; murivo je hr. od 40 cm do 50 cm z&amp;nbsp;teh&amp;aacute;l. Vn&amp;uacute;torn&amp;eacute; nosn&amp;eacute; muriv&amp;aacute; hr. 300 mm s&amp;uacute; tiež z t&amp;yacute;chto teh&amp;aacute;l, deliace kon&amp;scaron;trukcie s&amp;uacute; tvoren&amp;eacute; tehlov&amp;yacute;m murivom. Stropn&amp;eacute; dosky nad suter&amp;eacute;nom s&amp;uacute; monolitick&amp;eacute; železobet&amp;oacute;nov&amp;eacute; kon&amp;scaron;trukcie, nad pr&amp;iacute;zem&amp;iacute;m s poschod&amp;iacute;m keramick&amp;eacute;. Okn&amp;aacute; s&amp;uacute; plastov&amp;eacute; s&amp;nbsp;oceľov&amp;yacute;mi žal&amp;uacute;ziami. Podlahy v izb&amp;aacute;ch s&amp;uacute; pl&amp;aacute;vaj&amp;uacute;ce podlahy ako aj bukov&amp;eacute; vlysy a v ostatn&amp;yacute;ch miestnostiach je keramick&amp;aacute; dlažba. Elektroin&amp;scaron;tal&amp;aacute;cia je sveteln&amp;aacute; a motorick&amp;aacute; na PA, rozvod vody studenej a&amp;nbsp;teplej, a zdrojom teplej vody je el. bojler na tepl&amp;uacute; vodu. Vykurovanie je &amp;Uacute;K- na pr&amp;iacute;zem&amp;iacute; v suter&amp;eacute;ne a&amp;nbsp;na poschod&amp;iacute; a v podkrov&amp;iacute; radi&amp;aacute;tory oceľov&amp;eacute;. Z vybavenosti dom m&amp;aacute; na pr&amp;iacute;zem&amp;iacute; rohov&amp;uacute; vaňu a&amp;nbsp;dve um&amp;yacute;vadl&amp;aacute; ako aj WC a na II.NP samostatn&amp;uacute; sprchu, um&amp;yacute;vadlo a WC. Kuchyňa na pr&amp;iacute;zem&amp;iacute; je vybaven&amp;aacute; dreven&amp;yacute;m n&amp;aacute;bytkom s vybavenosťou: ods&amp;aacute;vač p&amp;aacute;r, zabudovan&amp;yacute; plynov&amp;yacute; spor&amp;aacute;k a in&amp;yacute;mi zariadeniami patriacimi do kuchyni -dĺžka kuchyne je 8.0 bm, detto aj na II.NP je kuchynsk&amp;aacute; linka v dĺžke 5,0 bm s vybaven&amp;iacute;m Soci&amp;aacute;lne miestnosti v I NP, II.NP s&amp;uacute; obložen&amp;eacute; bielninov&amp;yacute;mi obkladmi a&amp;nbsp;položenou dlažbou. V suter&amp;eacute;ne je kotol &amp;uacute;stredn&amp;eacute;ho k&amp;uacute;renie pevn&amp;eacute; palivo, el. kotol a kotol na plyn a boiler na tepl&amp;uacute; vodu.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Vodovod je napojen&amp;yacute; na ver. sieť ako aj cez dom&amp;aacute;cu vod&amp;aacute;reň a aj na vlastn&amp;uacute; studňu, kanaliz&amp;aacute;cia domu je napojen&amp;aacute; na vlastn&amp;uacute; žumpu, detto aj na el. vedenie. Rodinn&amp;yacute; dom je s obytn&amp;yacute;mi miestnosťami orientovan&amp;yacute; na juhoz&amp;aacute;pad a juh v rovinatom a&amp;nbsp;mierne svahovitom ter&amp;eacute;ne na okraji obce Čakanovce. Inžinierske siete ako el. sieť, verejn&amp;yacute; vodovod a plynovod je k dispoz&amp;iacute;cii. Technick&amp;yacute; stav RD je dobr&amp;yacute;. V rokoch 2015-2020 boli na dome uroben&amp;eacute; viacer&amp;eacute; rekon&amp;scaron;trukcie vn&amp;uacute;torn&amp;yacute;ch stavebn&amp;yacute;ch kon&amp;scaron;trukčn&amp;yacute;ch prvkov. Objekt je primerane udržiavan&amp;yacute; a je v&amp;nbsp;dobrom technickom stave.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sklad na par.č. 46/1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ide o pr&amp;iacute;slu&amp;scaron;enstvo k RD-sklady na parc.č. 46/1, ktor&amp;eacute; nemaj&amp;uacute; bet. p&amp;aacute;sy , ale len z&amp;aacute;klady pod stĺpikmi, ktor&amp;eacute; s&amp;uacute; obojstranne obit&amp;eacute; dreven&amp;yacute;mi doskami, podlaha je len spevnen&amp;yacute; &amp;iacute;l, strecha je pultov&amp;aacute; pokryt&amp;aacute; vlnit&amp;yacute;mi asfalov&amp;yacute;mi vlnovkami, okno je jednoduch&amp;eacute; dreven&amp;eacute;, vr&amp;aacute;ta dreven&amp;eacute; .In&amp;eacute; vybavenie drobn&amp;yacute; objekt nem&amp;aacute;. Objekt bol postaven&amp;yacute; v roku 2000, znalec poč&amp;iacute;ta životnosť 50 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chlieviky na p.č. 46/1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ide o pr&amp;iacute;slu&amp;scaron;enstvo k&amp;nbsp;RD - chlieviky na parc.č. 46/1, ktor&amp;eacute; nemaj&amp;uacute; bet. p&amp;aacute;sy, ale len z&amp;aacute;klady pod stĺpikmi, ktor&amp;eacute; s&amp;uacute; obojstranne obit&amp;eacute; dreven&amp;yacute;mi doskami, podlaha je z cem. poteru, strecha je pultov&amp;aacute; pokryt&amp;aacute; s vlnit&amp;yacute;mi asfaltov&amp;yacute;mi ylnovkami., vr&amp;aacute;ta s&amp;uacute; dreven&amp;eacute; .In&amp;eacute; vybavenie drobn&amp;yacute; objekt nem&amp;aacute;. objekt bol postaven&amp;yacute; v roku 2000, znalec poč&amp;iacute;ta životnosť 50 rokov. Objekt chlievikov je postaven&amp;yacute; spolu s objektom skladov a tvor&amp;iacute; jeden objekt.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Oplotenie&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Studňa&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vodovodn&amp;aacute; pr&amp;iacute;pojka&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vodomern&amp;aacute; &amp;scaron;achta&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kanalizačn&amp;aacute; pr&amp;iacute;pojka&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Žumpa&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Elektrick&amp;aacute; NN pr&amp;iacute;pojka&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Oporn&amp;eacute; m&amp;uacute;ry&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vonkaj&amp;scaron;ie schody&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spevnen&amp;eacute; plochy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alt&amp;aacute;nok pri RD&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tr&amp;aacute;vnik&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pozemky&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Zo v&amp;scaron;eobecnej situ&amp;aacute;cie sa jedn&amp;aacute; o&amp;nbsp;obec do 5 000 obyvateľov. Z hľadiska intenzity využitia ide o objekty rodinn&amp;yacute;ch domov (stavby pre b&amp;yacute;vanie). Z hľadiska dopravn&amp;yacute;ch vzťahov ide o dostupn&amp;uacute; lokalitu s&amp;nbsp;autobusovou dopravou. Podľa funkčn&amp;eacute;ho využitia ide o&amp;nbsp;plochy obytn&amp;eacute;ho &amp;uacute;zemia. Podľa technickej infra&amp;scaron;trukt&amp;uacute;ry ide o&amp;nbsp;pozemky s dobre vybavenou lokalitou s miestnymi rozvodmi inžinierskych siet&amp;iacute; voda, elektrika, plyn.&lt;/p&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;Viď opis predmetu dražby.&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>Všetky nasledujúce záložné práva v prípade úspešnej dražby zanikajú v zmysle § 151ma a § 151md zákona č. 40/64 Zb. (Občiansky zákonník) a vydražiteľ nadobúda predmet dražby bez zaťaženia záložnými právami:
+
+Vlastník poradové číslo 1
+Záložné právo v prospech: Všeobecná úverová banka, a.s., IČO 31320155, Mlynské nivy 1, 829 90 Bratislava, SR, na pozemky registra C KN parc.č. 46/1, 47, 48 a stavbu s.č. 380 rodinný dom na pozemku registra C KN parc.č. 46/1, na podiel B1, č. V-316/2023 z 03.03.2023 - 26/23, 28/23
+
+Vlastník poradové číslo 2
+Záložné právo v prospech: Všeobecná úverová banka, a.s., IČO 31320155, Mlynské nivy 1, 829 90 Bratislava, SR, na pozemky registra C KN parc.č. 46/1, 47, 48 a stavbu s.č. 380 rodinný dom na pozemku registra C KN parc.č. 46/1, na podiel B2, č. V-316/2023 z 03.03.2023 - 26/23, 28/23
+</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad xsi:nil="true" />
+  <ns0:PredmetCenaVyska xsi:nil="true" />
+  <ns0:PredmetCenaSposobStanovenia>Hodnota predmetu dražby bola zistená podľa znaleckého posudku č. 17/2026, ktorý vypracoval Ing. Peter Makóni, znalec v odbore Stavebníctvo, odvetvie: pozemné stavby, Odhad hodnoty nehnuteľností, zapísaný v zozname znalcov, tlmočníkov a prekladateľov vedenom Ministerstvom spravodlivosti Slovenskej republiky pod číslom 914955. 
+Dátum vypracovania znaleckého posudku: 03.03.2026
+Suma ohodnotenia: 96.700,00 EUR
+</ns0:PredmetCenaSposobStanovenia>
+  <ns0:PredmetPodmienkyOdovzdania>1.	Po nadobudnutí vlastníckeho práva alebo iného práva k predmetu dražby   odovzdá dražobník bez zbytočného odkladu vydražiteľovi predmet dražby a listiny, ktoré osvedčujú vlastnícke právo a sú nevyhnutné na nakladanie s predmetom dražby alebo osvedčujú iné práva vydražiteľa k predmetu dražby a vydražiteľ prevzatie predmetu dražby písomne potvrdí.
+2. Ak ide o nehnuteľnosť, podnik alebo jeho časť, predchádzajúci vlastník je povinný odovzdať predmet dražby na základe predloženia osvedčeného odpisu notárskej zápisnice a doloženia totožnosti vydražiteľa bez zbytočných prieťahov. Dražobník je povinný na mieste spísať zápisnicu o odovzdaní predmetu dražby. Zápisnicu o odovzdaní predmetu dražby podpíše predchádzajúci vlastník [skryté], vydražiteľ a dražobník. Jedno vyhotovenie zápisnice dostane predchádzajúci vlastník a dve vyhotovenia dostane vydražiteľ. Ak niektorá osoba odmietne zápisnicu podpísať alebo ju prevziať, táto skutočnosť sa vyznačí v zápisnici a zápisnica sa považuje za odovzdanú aj tejto osobe.
+3. Všetky náklady spojené s odovzdaním a prevzatím predmetu dražby nesie vydražiteľ. Táto povinnosť sa nevzťahuje na náklady, ktoré by ináč nevznikli, ak ich svojou vinou spôsobil predchádzajúci vlastník, majiteľ alebo dražobník alebo ak im tieto náklady vznikli náhodou, ktorá ich postihla.
+4. Osoba povinná vydať predmet dražby zodpovedá vydražiteľovi za škodu spôsobenú omeškaním s odovzdaním predmetu dražby.
+</ns0:PredmetPodmienkyOdovzdania>
+  <ns0:NajnizsiePodanie>72.525,00 EUR</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie>500 EUR</ns0:MinimalnePrihodenie>
+  <ns0:Zabezpeka>
+    <ns0:Vyska>10.000,00 EUR</ns0:Vyska>
+    <ns0:ZlozenieSposob>1.	Bezhotovostný prevod alebo vklad na účet dražobníka IBAN: SK49 1111 0000 0066 1989 4017 (BIC:UNCRSKBX), vedený v UniCredit Bank Czech Republic and Slovakia, a.s. s variabilným symbolom 822026
+2.	V hotovosti do pokladne v sídle dražobníka alebo v mieste konania dražby.
+3.	Banková záruka.
+4.	Notárska úschova.
+Dražobnú zábezpeku nie je možné zložiť platobnou kartou ani šekom.
+</ns0:ZlozenieSposob>
+    <ns0:ZlozenieCisloUctu>IBAN: SK49 1111 0000 0066 1989 4017</ns0:ZlozenieCisloUctu>
+    <ns0:ZlozenieAdresa>V hotovosti do pokladne v sídle dražobníka alebo v mieste konania dražby.</ns0:ZlozenieAdresa>
+    <ns0:ZlozenieDoklad>1.	Originál príkazu na úhradu peňažných prostriedkov vo výške dražobnej zábezpeky. Účastník bude pripustený k dražbe, ak do otvorenia dražby bude dražobná zábezpeka pripísaná na účet dražobníka.
+2.	Príjmový pokladničný doklad na hotovosť vo výške dražobnej zábezpeky, Účastník bude pripustený k dražbe, ak do uplynutia lehoty na zloženie dražobnej zábezpeky bude dražobná zábezpeka zložená do pokladne dražobníka..
+3.	Originál alebo overená kópia preukazujúca vystavenie bankovej záruky.
+4.	Originál alebo overenú kópiu dokladu preukazujúceho notársku úschovu.
+</ns0:ZlozenieDoklad>
+    <ns0:ZlozenieLehota>Do otvorenia dražby.</ns0:ZlozenieLehota>
+    <ns0:Vratenie>Bez zbytočného odkladu po skončení dražby bezhotovostným prevodom na účet účastníka dražby alebo v hotovosti.</ns0:Vratenie>
+  </ns0:Zabezpeka>
+  <ns0:SposobUhradyCeny>Vydražiteľ je povinný zaplatiť cenu dosiahnutú vydražením v hotovosti do pokladne v sídle dražobníka alebo bezhotovostným prevodom alebo vkladom na účet dražobníka IBAN SK71 0200 0000 0019 5703 8659 (BIC: SUBASKBX), vedený vo VÚB, a. s. s variabilným symbolom 822026 a to do 15 dní odo dňa skončenia dražby v prípade, že suma dosiahnutá vydražením presiahne 6.640,00 EUR; v opačnom prípade hneď po ukončení dražby.</ns0:SposobUhradyCeny>
+  <ns0:ObhliadkaDatum>1. termín obhliadky: 05.10.2026 o 09:00 hod.
+2. termín obhliadky: 30.10.2026 o 09:00 hod.
+</ns0:ObhliadkaDatum>
+  <ns0:ObhliadkaMiesto>Obhliadky sa uskutočnia na mieste kde sa predmet dražby nachádza.</ns0:ObhliadkaMiesto>
+  <ns0:SpolocnaDrazba Kod="NIE">Nie</ns0:SpolocnaDrazba>
+  <ns0:SpolocnaDrazbaPoradieDrazeniePredmetov xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia>Záujemcovia o obhliadku sa ohlásia aspoň jeden deň pred konaním obhliadky na tel. č.: 0948 513 670, Po- Pi, 8:00- 16:00 hod. V zmysle § 12 ods. 2 a § 13 zákona č. 527/2002 Z.z. o dobrovoľných dražbách je vlastník [skryté], držiteľ alebo nájomca povinný umožniť riadnu obhliadku predmetu dražby v stanovených termínoch.</ns0:OrganizaceOpatrenia>
+  <ns0:NadobudnutieVlastnickehoPrava>Ak uhradil vydražiteľ cenu dosiahnutú vydražením v ustanovenej lehote, prechádza na neho vlastnícke právo alebo iné právo k predmetu dražby udelením príklepu; to neplatí, ak je vydražiteľom osoba, ktorá je povinná zapísať sa do registra partnerov verejného sektora podľa osobitného predpisu, ak v čase príklepu nie je zapísaná v tomto registri. Dražobník vydá bez zbytočného odkladu po nadobudnutí vlastníckeho alebo iného práva vydražiteľovi potvrdenie o vydražení predmetu dražby a v prípadoch, v ktorých sa o priebehu dražby spisuje notárska zápisnica vydá dražobník vydražiteľovi dve vyhotovenia osvedčeného odpisu notárskej zápisnice.</ns0:NadobudnutieVlastnickehoPrava>
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

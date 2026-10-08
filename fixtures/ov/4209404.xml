@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Drazba xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="/PortalJustice/XmlFormularObchodnyVestnik/">
+  <Cislo>401523</Cislo>
+  <ZoDna>2023-12-20</ZoDna>
+  <Drazobnik>
+    <ObchodneMenoNazov xmlns="">LICITOR group, a.s.</ObchodneMenoNazov>
+    <Sidlo xmlns="">
+      <Ulica>Sládkovičova</Ulica>
+      <Cislo>6</Cislo>
+      <Obec>Žilina</Obec>
+      <Psc>01001</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud xmlns="" Kod="131">Okresný súd Žilina</Sud>
+    <Oddiel xmlns="">Sa</Oddiel>
+    <Vlozka xmlns="">10476/L</Vlozka>
+    <Ico xmlns="">36421561</Ico>
+  </Drazobnik>
+  <NavrhovateliaHeader>Označenie navrhovateľa</NavrhovateliaHeader>
+  <Navrhovatelia>
+    <Navrhovatel>
+      <Id>1</Id>
+      <CeleMeno>
+        <ObchodneMenoNazov xmlns="">Slovenská sporiteľňa, a.s.</ObchodneMenoNazov>
+        <Sidlo xmlns="">
+          <Ulica>Tomášikova</Ulica>
+          <Cislo>48</Cislo>
+          <Obec>Bratislava</Obec>
+          <Psc>83237</Psc>
+          <Stat>SR</Stat>
+        </Sidlo>
+        <Oddiel xmlns="" />
+        <Vlozka xmlns="" />
+        <Ico xmlns="">00151653</Ico>
+      </CeleMeno>
+    </Navrhovatel>
+  </Navrhovatelia>
+  <Licitatori xsi:nil="true" />
+  <Notar xsi:nil="true" />
+  <KonanieMiesto>AquaCity Poprad, Športová 1397/1, 058 01 Poprad	(Meeting room 1 - na 3. poschodí)
+</KonanieMiesto>
+  <KonanieDatum>2024-01-29</KonanieDatum>
+  <Predmet>&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td colspan="5"&gt;
+			&lt;p&gt;&lt;strong&gt;PREDMET DRAŽBY &amp;ndash; spoluvlastn&amp;iacute;cky podiel 1/1&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="5" style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Z&amp;aacute;kladn&amp;aacute; &amp;scaron;pecifik&amp;aacute;cia :&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Č&amp;iacute;slo LV :&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Okres :&lt;/p&gt;
+
+			&lt;p&gt;Obec :&lt;/p&gt;
+
+			&lt;p&gt;Katastr&amp;aacute;lne &amp;uacute;zemie :&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3" style="vertical-align:top"&gt;
+			&lt;p&gt;Okresn&amp;yacute; &amp;uacute;rad, katastr&amp;aacute;lny odbor :&lt;/p&gt;
+
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td rowspan="3"&gt;
+			&lt;p&gt;16537&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Bardejov&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3"&gt;
+			&lt;p&gt;Bardejov&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;Bardejov&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3" rowspan="2"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Bardejov&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="5" style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Pozemky : parcely registra &amp;bdquo;C&amp;ldquo;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Parceln&amp;eacute; č&amp;iacute;slo :&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;Druh pozemku :&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;V&amp;yacute;mera v&amp;nbsp;m2 :&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;pozn&amp;aacute;mky &amp;ndash; charakteristika &amp;ndash; pr&amp;iacute;slu&amp;scaron;nosť k&amp;nbsp;Z&amp;Uacute;O &amp;ndash;EL :&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;1919/31&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;Trval&amp;yacute; tr&amp;aacute;vny porast&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;1450&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;-&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td colspan="5"&gt;
+			&lt;p&gt;&lt;strong&gt;PREDMET DRAŽBY &amp;ndash; spoluvlastn&amp;iacute;cky podiel 2/20&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="5" style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Z&amp;aacute;kladn&amp;aacute; &amp;scaron;pecifik&amp;aacute;cia :&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Č&amp;iacute;slo LV :&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Okres :&lt;/p&gt;
+
+			&lt;p&gt;Obec :&lt;/p&gt;
+
+			&lt;p&gt;Katastr&amp;aacute;lne &amp;uacute;zemie :&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3" style="vertical-align:top"&gt;
+			&lt;p&gt;Okresn&amp;yacute; &amp;uacute;rad, katastr&amp;aacute;lny odbor :&lt;/p&gt;
+
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td rowspan="3"&gt;
+			&lt;p&gt;16932&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Bardejov&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3"&gt;
+			&lt;p&gt;Bardejov&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;Bardejov&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3" rowspan="2"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Bardejov&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="5" style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Pozemky : parcely registra &amp;bdquo;C&amp;ldquo;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Parceln&amp;eacute; č&amp;iacute;slo :&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;Druh pozemku :&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;V&amp;yacute;mera v&amp;nbsp;m2 :&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;pozn&amp;aacute;mky &amp;ndash; charakteristika &amp;ndash; pr&amp;iacute;slu&amp;scaron;nosť k&amp;nbsp;Z&amp;Uacute;O &amp;ndash;EL :&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;1919/29&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;Trval&amp;yacute; tr&amp;aacute;vny porast&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;316&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;-&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</Predmet>
+  <PredmetOpis xsi:nil="true" />
+  <PredmetStavOpis xsi:nil="true" />
+  <PredmetPravaZavazky xsi:nil="true" />
+  <PredmetCenaOdhad xsi:nil="true" />
+  <PredmetCenaVyska xsi:nil="true" />
+  <PredmetCenaSposobStanovenia xsi:nil="true" />
+  <PredmetPodmienkyOdovzdania xsi:nil="true" />
+  <NajnizsiePodanie xsi:nil="true" />
+  <NajvyssiePodanie xsi:nil="true" />
+  <MinimalnePrihodenie xsi:nil="true" />
+  <Zabezpeka xsi:nil="true" />
+  <SposobUhradyCeny xsi:nil="true" />
+  <ObhliadkaDatum xsi:nil="true" />
+  <ObhliadkaMiesto xsi:nil="true" />
+  <OrganizaceOpatrenia xsi:nil="true" />
+  <NadobudnutieVlastnickehoPrava xsi:nil="true" />
+  <DovodUpustenia xsi:nil="true" />
+  <DrazobnikOznamuje>&lt;p&gt;je neplatn&amp;aacute; na z&amp;aacute;klade&amp;nbsp;Rozsudkom Okresn&amp;eacute;ho s&amp;uacute;du v Bardejove zo dňa 23.9.2025, pod sp. zn. 5Csp/27/2024-269 v&amp;nbsp;spojen&amp;iacute; s rozhodnut&amp;iacute;m Krajsk&amp;eacute;ho s&amp;uacute;du v&amp;nbsp;Pre&amp;scaron;ove zo dňa 9.6.2026, pod sp. zn. 13CoCsp/7/2026-373.&lt;/p&gt;
+</DrazobnikOznamuje>
+</Drazba>

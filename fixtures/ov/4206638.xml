@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Cislo>VDS: 10-7/2026</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>VIAM - dražobná spoločnosť s.r.o.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Trieda SNP</Ulica>
+      <Cislo>39</Cislo>
+      <Obec>Košice</Obec>
+      <Psc>04011</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="148">Mestský súd Košice</Sud>
+    <Oddiel>Sro</Oddiel>
+    <Vlozka>21836/V</Vlozka>
+    <Ico>44166591</Ico>
+  </ns0:Drazobnik>
+  <ns0:Navrhovatelia xsi:nil="true" />
+  <ns0:LicitatoriHeader>Označenie licitátora</ns0:LicitatoriHeader>
+  <ns0:Licitatori>
+    <ns0:Licitator>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Ján Vzorový</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Hlavná</Ulica>
+          <Cislo>1</Cislo>
+          <Obec>Košice</Obec>
+          <Psc>00000</Psc>
+          <Stat>SR</Stat>
+        </Sidlo>
+        <Oddiel />
+        <Vlozka />
+        <Ico />
+      </ns0:CeleMeno>
+    </ns0:Licitator>
+  </ns0:Licitatori>
+  <ns0:Notar xsi:nil="true" />
+  <ns0:KonanieMiesto>Kultúrne a spoločenské stredisko v Prievidzi, ul. Františka Madvu 11, 971 01 Prievidza - miestnosť na II. NP - 2.05 Salónik,</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-09-25</ns0:KonanieDatum>
+  <ns0:KonanieCas>11.30 hod.</ns0:KonanieCas>
+  <ns0:Kolo>prvá dražba</ns0:Kolo>
+  <ns0:Predmet>&lt;p&gt;- byt č. 3 na 2. poschod&amp;iacute; obytn&amp;eacute;ho domu na ul. Morovnianska cesta, s&amp;uacute;pisn&amp;eacute; č&amp;iacute;slo: 1790, vchod: 7 zap&amp;iacute;san&amp;yacute; na LV č. 4880, nach&amp;aacute;dzaj&amp;uacute;ci sa na parcele registra ,,C&amp;ldquo; evidovan&amp;eacute; na katastr&amp;aacute;lnej mape, parceln&amp;eacute; č. 1441 o v&amp;yacute;mere 713 m2, Druh pozemku: Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie. Podiel priestoru na spoločn&amp;yacute;ch častiach a spoločn&amp;yacute;ch zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a spoluvlastn&amp;iacute;cky podiel&amp;nbsp;k pozemku: 636/30556, katastr&amp;aacute;lne &amp;uacute;zemie: Handlov&amp;aacute;, obec: Handlov&amp;aacute;, okres: Prievidza, Okresn&amp;yacute; &amp;uacute;rad Prievidza, Katastr&amp;aacute;lny odbor&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;Uveden&amp;aacute; bytov&amp;aacute; jednotka sa nach&amp;aacute;dza na 2.poschod&amp;iacute;. Pozost&amp;aacute;va z dvoch obytn&amp;yacute;ch miestnost&amp;iacute;, kuchyne, k&amp;uacute;peľne, chodby, WC a pivnice. V&amp;yacute;mera bytu je 61,30 m2. Byt je v p&amp;ocirc;vodnom stave. Ku bytu patr&amp;iacute; aj pivnica na pr&amp;iacute;zem&amp;iacute; bytov&amp;eacute;ho domu.&lt;/p&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;Sekciov&amp;yacute; bytov&amp;yacute; dom zložen&amp;yacute; z 3 samostatn&amp;yacute;ch sekci&amp;iacute; (vchodov). Objekt m&amp;aacute; pultov&amp;uacute; strechu a&amp;nbsp;plasticky &amp;scaron;trukt&amp;uacute;rovan&amp;eacute; priečelia s v&amp;yacute;razn&amp;yacute;mi prvkami lodži&amp;iacute;. Strecha a obvodov&amp;yacute; pl&amp;aacute;&amp;scaron;ť pre&amp;scaron;li zateplen&amp;iacute;m. Budova je vybaven&amp;aacute; modernizovan&amp;yacute;m osobn&amp;yacute;m v&amp;yacute;ťahom. Budova m&amp;aacute; 6 nadzemn&amp;eacute;, kde sa nach&amp;aacute;dzaj&amp;uacute; byty s&amp;nbsp;vlastn&amp;yacute;mi loggiami. Bytov&amp;yacute; dom je napojen&amp;yacute; na kompletn&amp;uacute; mestsk&amp;uacute; infra&amp;scaron;trukt&amp;uacute;ru &amp;ndash; verejn&amp;yacute; vodovod, kanaliz&amp;aacute;ciu, elektrick&amp;uacute; sieť a centr&amp;aacute;lne z&amp;aacute;sobovanie teplom (CZT). Stavba je evidovan&amp;aacute; na parcel&amp;aacute;ch v r&amp;aacute;mci s&amp;iacute;dliskovej z&amp;aacute;stavby. V tesnej bl&amp;iacute;zkosti sa nach&amp;aacute;dza občianska vybavenosť vr&amp;aacute;tane &amp;scaron;portov&amp;yacute;ch pl&amp;ocirc;ch a zast&amp;aacute;vok MHD.&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>
+Časť „B“: VLASTNÍCI A INÉ OPRÁVNENÉ OSOBY Z PRÁVA K NEHNUTEĽNOSTI Poradové číslo 3
+Titul nadobudnutia:
+Zmluva zo dňa 27.12.99 č.V 120/00
+Iné údaje: bez zápisu
+Poznámky: 
+Na byt č. 3, 2. posch., vchod č. 7 : Oznámenie o začatí výkonu záložného práva dražbou - VIAM - dražobná spoločnosť s.r.o., Trieda SNP39, 040 11 Košice, IČO: 44166591 – P 171/2026 - VZ 711/26
+
+Časť „C“: ŤARCHY
+Poradové číslo 3
+Záložné právo v prospech vlastníkov bytov a nebytových priestorov v zmysle § 15 zák.č.182/93 z.z.
+</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad>Hodnota predmetu dražby bola zistená podľa znaleckého posudku č. 99/2026, ktorý vypracoval Ing. Dionýz Dobos, znalec v odbore Stavebníctvo, odvetvie: oceňovanie nehnuteľností zapísaný v zozname, tlmočníkov a prekladateľov vedenom MS SR pod číslom 910 563. Dátum vypracovania znaleckého posudku dňa 04.08.2026. Všeobecná cena odhadu 30.100 EUR.  </ns0:PredmetCenaOdhad>
+  <ns0:PredmetCenaVyska>56.000 EUR</ns0:PredmetCenaVyska>
+  <ns0:PredmetCenaSposobStanovenia xsi:nil="true" />
+  <ns0:PredmetPodmienkyOdovzdania xsi:nil="true" />
+  <ns0:NajnizsiePodanie>30.100 EUR</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie xsi:nil="true" />
+  <ns0:Zabezpeka xsi:nil="true" />
+  <ns0:SposobUhradyCeny xsi:nil="true" />
+  <ns0:ObhliadkaDatum xsi:nil="true" />
+  <ns0:ObhliadkaMiesto xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia xsi:nil="true" />
+  <ns0:NadobudnutieVlastnickehoPrava xsi:nil="true" />
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

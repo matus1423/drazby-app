@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Cislo>011/2026</ns0:Cislo>
+  <ns0:ZoDna>2026-05-13</ns0:ZoDna>
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>DRAŽOBNÍK, s.r.o.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Národná trieda</Ulica>
+      <Cislo>10</Cislo>
+      <Obec>Košice</Obec>
+      <Psc>04001</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="148">Mestský súd Košice</Sud>
+    <Oddiel>Sro</Oddiel>
+    <Vlozka>19669/V</Vlozka>
+    <Ico>36764281</Ico>
+  </ns0:Drazobnik>
+  <ns0:NavrhovateliaHeader>Označenie navrhovateľa</ns0:NavrhovateliaHeader>
+  <ns0:Navrhovatelia>
+    <ns0:Navrhovatel>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Ján Vzorový</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Hlavná</Ulica>
+          <Cislo>1</Cislo>
+          <Obec>Košice</Obec>
+          <Psc>00000</Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Oddiel />
+        <Vlozka />
+        <Ico />
+      </ns0:CeleMeno>
+    </ns0:Navrhovatel>
+  </ns0:Navrhovatelia>
+  <ns0:Licitatori xsi:nil="true" />
+  <ns0:Notar xsi:nil="true" />
+  <ns0:KonanieMiesto>Dražobná miestnosť, v sídle spol. DRAŽOBNÍK, s.r.o., Národná trieda 10, Košice, Košický kraj
+</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-06-03</ns0:KonanieDatum>
+  <ns0:KonanieCas>10,30 hod.</ns0:KonanieCas>
+  <ns0:Kolo>opakované (2.kolo)</ns0:Kolo>
+  <ns0:Predmet>&lt;p&gt;&lt;strong&gt;Parcely &lt;/strong&gt;registra &amp;ldquo;C&amp;ldquo; evidovan&amp;eacute; na katastr&amp;aacute;lnej mape:&lt;/p&gt;
+
+&lt;p&gt;parc. č.&lt;strong&gt; &lt;/strong&gt;113/20&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; o&amp;nbsp;v&amp;yacute;mere 75 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č.&lt;strong&gt; &lt;/strong&gt;113/131&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; o&amp;nbsp;v&amp;yacute;mere 6 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č.&lt;strong&gt; &lt;/strong&gt;402/6&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Orn&amp;aacute; p&amp;ocirc;da&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;o&amp;nbsp;v&amp;yacute;mere 304 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č.&lt;strong&gt; &lt;/strong&gt;402/11&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; o&amp;nbsp;v&amp;yacute;mere 206 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č.&lt;strong&gt; &lt;/strong&gt;402/13&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; o&amp;nbsp;v&amp;yacute;mere 6 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stavby&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;s&amp;uacute;p. č. 182&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Rodinn&amp;yacute; dom&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;na parc. č. 402/11, 113/131&lt;/p&gt;
+
+&lt;p&gt;spoluvlastn&amp;iacute;cky podiel: 1/1&lt;/p&gt;
+
+&lt;p&gt;Identifikovan&amp;eacute; nehnuteľnosti s&amp;uacute; zap&amp;iacute;san&amp;eacute; na liste vlastn&amp;iacute;ctva Okresn&amp;eacute;ho &amp;uacute;radu Ko&amp;scaron;ice - Okolie, katastr&amp;aacute;lny odbor, &lt;strong&gt;LV č. 557&lt;/strong&gt;, okres: Ko&amp;scaron;ice - okolie, obec: Chrastn&amp;eacute;, &lt;strong&gt;katastr&amp;aacute;lne &amp;uacute;zemie: Chrastn&amp;eacute;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Pr&amp;iacute;slu&amp;scaron;enstvo predmetu dražby, ktor&amp;eacute; sa nezapisuje alebo nie je zap&amp;iacute;san&amp;eacute; na liste vlastn&amp;iacute;ctve: ploty, vodovodn&amp;aacute; pr&amp;iacute;pojka, vodomern&amp;aacute; &amp;scaron;achta, kanalizačn&amp;aacute; pr&amp;iacute;pojka, kanalizačn&amp;aacute; &amp;scaron;achta, pr&amp;iacute;pojka NN, spevnen&amp;aacute; plocha pred gar&amp;aacute;žou, spevnen&amp;aacute; plocha pred domom, vonkaj&amp;scaron;ia terasa, rozostavan&amp;yacute; baz&amp;eacute;n&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis xsi:nil="true" />
+  <ns0:PredmetStavOpis xsi:nil="true" />
+  <ns0:PredmetPravaZavazky xsi:nil="true" />
+  <ns0:PredmetCenaOdhad xsi:nil="true" />
+  <ns0:PredmetCenaVyska xsi:nil="true" />
+  <ns0:PredmetCenaSposobStanovenia xsi:nil="true" />
+  <ns0:PredmetPodmienkyOdovzdania xsi:nil="true" />
+  <ns0:NajnizsiePodanie xsi:nil="true" />
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie xsi:nil="true" />
+  <ns0:Zabezpeka xsi:nil="true" />
+  <ns0:SposobUhradyCeny xsi:nil="true" />
+  <ns0:ObhliadkaDatum xsi:nil="true" />
+  <ns0:ObhliadkaMiesto xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia xsi:nil="true" />
+  <ns0:NadobudnutieVlastnickehoPrava xsi:nil="true" />
+  <ns0:DovodUpustenia>&lt;p&gt;V&amp;nbsp;zmysle &amp;sect; 19 ods. 1 p&amp;iacute;sm. k) z&amp;aacute;kona č. 527/2002 Z. z. o&amp;nbsp;dobrovoľn&amp;yacute;ch dražb&amp;aacute;ch v&amp;nbsp;znen&amp;iacute; neskor&amp;scaron;&amp;iacute;ch predpisov.&lt;/p&gt;
+</ns0:DovodUpustenia>
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

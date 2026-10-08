@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:AuctionDecree xmlns:ns0="http://schemas.gov.sk/form/00166073.MSSR_OV_Drazobna_vyhlaska/2.x">
+  <ns0:TypeOfProperty>
+    <ns0:Codelist>
+      <ns0:CodelistCode>1000541</ns0:CodelistCode>
+      <ns0:CodelistItem>
+        <ns0:ItemCode>RealEstate</ns0:ItemCode>
+        <ns0:ItemName Language="sk">Nehnuteľné veci</ns0:ItemName>
+      </ns0:CodelistItem>
+    </ns0:Codelist>
+  </ns0:TypeOfProperty>
+  <ns0:DeclarationDate>2026-09-22</ns0:DeclarationDate>
+  <ns0:NumberOfExecution>130 EX233/24</ns0:NumberOfExecution>
+  <ns0:Order>prvá</ns0:Order>
+  <ns0:ExecutorOffice>
+    <ns0:PersonData>
+      <ns0:Name>JUDr. Ľubomír Pekár</ns0:Name>
+      <ns0:PhysicalAddress>
+        <ns0:Municipality>
+          <ns0:Codelist>
+            <ns0:CodelistCode>CL000025</ns0:CodelistCode>
+            <ns0:CodelistItem>
+              <ns0:ItemCode>SK0235504025</ns0:ItemCode>
+              <ns0:ItemName Language="sk">Šaľa</ns0:ItemName>
+            </ns0:CodelistItem>
+          </ns0:Codelist>
+        </ns0:Municipality>
+        <ns0:StreetName>P. Pazmáňa</ns0:StreetName>
+        <ns0:BuildingNumber>49/3</ns0:BuildingNumber>
+        <ns0:DeliveryAddress>
+          <ns0:PostalCode>92701</ns0:PostalCode>
+        </ns0:DeliveryAddress>
+      </ns0:PhysicalAddress>
+      <ns0:TelephoneAddress>
+        <ns0:Number>
+          <ns0:FormattedNumber>0317706289</ns0:FormattedNumber>
+        </ns0:Number>
+      </ns0:TelephoneAddress>
+      <ns0:ElectronicAddress>
+        <ns0:InternetAddress>podatelna.pekar@eusala.sk</ns0:InternetAddress>
+      </ns0:ElectronicAddress>
+    </ns0:PersonData>
+  </ns0:ExecutorOffice>
+  <ns0:AreYouRepresentativeExecutorOffice>
+    <ns0:Codelist>
+      <ns0:CodelistCode>1000914</ns0:CodelistCode>
+      <ns0:CodelistItem>
+        <ns0:ItemCode>False</ns0:ItemCode>
+        <ns0:ItemName Language="sk">Nie</ns0:ItemName>
+      </ns0:CodelistItem>
+    </ns0:Codelist>
+  </ns0:AreYouRepresentativeExecutorOffice>
+  <ns0:Date>2026-11-12</ns0:Date>
+  <ns0:Time>11:30 hod</ns0:Time>
+  <ns0:Place>
+    <ns0:Municipality>
+      <ns0:Codelist>
+        <ns0:CodelistCode>CL000025</ns0:CodelistCode>
+        <ns0:CodelistItem>
+          <ns0:ItemCode>SK0235504025</ns0:ItemCode>
+          <ns0:ItemName Language="sk">Šaľa</ns0:ItemName>
+        </ns0:CodelistItem>
+      </ns0:Codelist>
+    </ns0:Municipality>
+    <ns0:StreetName>P.Pázmaňa</ns0:StreetName>
+    <ns0:BuildingNumber>49/3</ns0:BuildingNumber>
+    <ns0:DeliveryAddress>
+      <ns0:PostalCode>92701</ns0:PostalCode>
+    </ns0:DeliveryAddress>
+  </ns0:Place>
+  <ns0:RealEstate>
+    <ns0:Item>
+      <ns0:Region>
+        <ns0:Codelist>
+          <ns0:CodelistCode>CL000023</ns0:CodelistCode>
+          <ns0:CodelistItem>
+            <ns0:ItemCode>SK021</ns0:ItemCode>
+            <ns0:ItemName Language="sk">Trnavský kraj</ns0:ItemName>
+          </ns0:CodelistItem>
+        </ns0:Codelist>
+      </ns0:Region>
+      <ns0:County>
+        <ns0:Codelist>
+          <ns0:CodelistCode>CL000024</ns0:CodelistCode>
+          <ns0:CodelistItem>
+            <ns0:ItemCode>SK0215</ns0:ItemCode>
+            <ns0:ItemName Language="sk">Okres Senica</ns0:ItemName>
+          </ns0:CodelistItem>
+        </ns0:Codelist>
+      </ns0:County>
+      <ns0:Municipality>
+        <ns0:Codelist>
+          <ns0:CodelistCode>CL000025</ns0:CodelistCode>
+          <ns0:CodelistItem>
+            <ns0:ItemCode>SK0215504203</ns0:ItemCode>
+            <ns0:ItemName Language="sk">Senica</ns0:ItemName>
+          </ns0:CodelistItem>
+        </ns0:Codelist>
+      </ns0:Municipality>
+      <ns0:CadastralUnit>Senica</ns0:CadastralUnit>
+      <ns0:FolioNumber>7489</ns0:FolioNumber>
+      <ns0:IsPlotPartOfAuction>
+        <ns0:Codelist>
+          <ns0:CodelistCode>1000914</ns0:CodelistCode>
+          <ns0:CodelistItem>
+            <ns0:ItemCode>True</ns0:ItemCode>
+            <ns0:ItemName Language="sk">Áno</ns0:ItemName>
+          </ns0:CodelistItem>
+        </ns0:Codelist>
+      </ns0:IsPlotPartOfAuction>
+      <ns0:Fields>
+        <ns0:PlotType>E</ns0:PlotType>
+        <ns0:PlotNumber>235/6</ns0:PlotNumber>
+        <ns0:PlotSize>720</ns0:PlotSize>
+        <ns0:KindOfPlot>zastavaná plocha a nádvorie</ns0:KindOfPlot>
+        <ns0:DescriptionOfRealestate>zastavané plochy a nádvoria</ns0:DescriptionOfRealestate>
+        <ns0:Accessories />
+      </ns0:Fields>
+      <ns0:IsBuildingPartOfAuction>
+        <ns0:Codelist>
+          <ns0:CodelistCode>1000914</ns0:CodelistCode>
+          <ns0:CodelistItem>
+            <ns0:ItemCode>True</ns0:ItemCode>
+            <ns0:ItemName Language="sk">Áno</ns0:ItemName>
+          </ns0:CodelistItem>
+        </ns0:Codelist>
+      </ns0:IsBuildingPartOfAuction>
+      <ns0:Buildings>
+        <ns0:PropertyRegistrationNumber>661</ns0:PropertyRegistrationNumber>
+        <ns0:PlotType>Právny vzťah k pozemku parcelné číslo 3418/1 pod stavbou s.č. 661 nie je evidovaný na liste vlastníctva.</ns0:PlotType>
+        <ns0:PlotNumber>3418/1</ns0:PlotNumber>
+        <ns0:KindOfBuild>10</ns0:KindOfBuild>
+        <ns0:DescriptionOfBuilding>rodinný dom</ns0:DescriptionOfBuilding>
+        <ns0:Accessories />
+      </ns0:Buildings>
+      <ns0:MoreInformation>Právny vzťah k pozemku parcelné číslo 3418/1 pod stavbou s.č. 661 nie je evidovaný na liste vlastníctva.</ns0:MoreInformation>
+      <ns0:Owner>
+        <ns0:Name>[skryté]</ns0:Name>
+        <ns0:Address>[skryté]</ns0:Address>
+        <ns0:PartOfCapital>1/4</ns0:PartOfCapital>
+      </ns0:Owner>
+      <ns0:Owner>
+        <ns0:Name>[skryté]</ns0:Name>
+        <ns0:Address>[skryté]</ns0:Address>
+        <ns0:PartOfCapital>3/4</ns0:PartOfCapital>
+      </ns0:Owner>
+    </ns0:Item>
+    <ns0:Guarantee>
+      <ns0:AmountOfSecurity>76500</ns0:AmountOfSecurity>
+      <ns0:MethodOfDepositingSecurity>účet</ns0:MethodOfDepositingSecurity>
+      <ns0:DeadlineForLodgingSecurity>11.11.2026 do 16:00 hod</ns0:DeadlineForLodgingSecurity>
+      <ns0:AccountNumber>SK6611110000006715716034</ns0:AccountNumber>
+      <ns0:Address>P. Pázmaňa 49/3, Šaľa</ns0:Address>
+      <ns0:ProofOfSecurity>doklad z banky</ns0:ProofOfSecurity>
+      <ns0:MethodOfReturningSecurity>prevodom na účet</ns0:MethodOfReturningSecurity>
+      <ns0:DeadlineForReturnOfSecurity>bezodkladne</ns0:DeadlineForReturnOfSecurity>
+    </ns0:Guarantee>
+    <ns0:Bid>
+      <ns0:LowestBid>153000</ns0:LowestBid>
+      <ns0:ValueOfPropertyDeterminedByExpert>153000</ns0:ValueOfPropertyDeterminedByExpert>
+      <ns0:MethodOfPaymentOfHighestBid>účet</ns0:MethodOfPaymentOfHighestBid>
+      <ns0:DeadlineForPaymentOfHighestBid>30 dní od udelenia príklepu</ns0:DeadlineForPaymentOfHighestBid>
+      <ns0:DefectsThatAuctioneerMustTakeOver>Na nehnuteľnostiach, ktoré sú predmetom dražby neviaznu žiadne závady ani vecné bremená.</ns0:DefectsThatAuctioneerMustTakeOver>
+      <ns0:TransferOfDefectsAndBenefits>Po udelení príklepu prechádzajú na vydražiteľa úžitky nehnuteľnosti, ako i závady, ktoré nezanikajú v dôsledku dražby.</ns0:TransferOfDefectsAndBenefits>
+      <ns0:HandingOverAuctionedProperty>Po udelení príklepu sa vydražiteľ po upovedomení exekútora môže ujať držby vydraženej nehnuteľnosti.</ns0:HandingOverAuctionedProperty>
+    </ns0:Bid>
+    <ns0:Inspection>
+      <ns0:Date>2026-11-06</ns0:Date>
+      <ns0:Time>10:00 hod</ns0:Time>
+      <ns0:Address>
+        <ns0:Municipality>
+          <ns0:Codelist>
+            <ns0:CodelistCode>CL000025</ns0:CodelistCode>
+            <ns0:CodelistItem>
+              <ns0:ItemCode />
+              <ns0:ItemName Language="sk">Senica</ns0:ItemName>
+            </ns0:CodelistItem>
+          </ns0:Codelist>
+        </ns0:Municipality>
+        <ns0:StreetName>č. </ns0:StreetName>
+        <ns0:BuildingNumber>661</ns0:BuildingNumber>
+        <ns0:DeliveryAddress>
+          <ns0:PostalCode>90501</ns0:PostalCode>
+        </ns0:DeliveryAddress>
+      </ns0:Address>
+    </ns0:Inspection>
+    <ns0:Note>Senica s.č. 661 na pozemku parcelné číslo 3418/1
+ </ns0:Note>
+  </ns0:RealEstate>
+  <ns0:HasInspectionExactAddress>
+    <ns0:Codelist>
+      <ns0:CodelistCode>1000914</ns0:CodelistCode>
+      <ns0:CodelistItem>
+        <ns0:ItemCode>True</ns0:ItemCode>
+        <ns0:ItemName Language="sk">Áno</ns0:ItemName>
+      </ns0:CodelistItem>
+    </ns0:Codelist>
+  </ns0:HasInspectionExactAddress>
+  <ns0:MoreInformation>Vklad vlastníckeho práva vydražiteľa k vydraženým nehnuteľnostiam sa vykoná zápisom do katastra nehnuteľností na základe rozhodnutia súdu o schválení príklepu a po zaplatení najvyššieho podania.
+    Vyzývam  všetky osoby , ktoré sú odkázané so svojimi nárokmi na najvyššie podanie, aby uviedli výšku  svojich nárokov aj s príslušenstvom  ku dňu termínu dražby a preukázali ich listinami. Tieto osoby upozorňujem, že inak  sa na ich  nároky bude prihliadať len podľa obsahu exekučného spisu. 
+    Vyzývam veriteľov povinného, aby   vyhlásili,   či   žiadajú   zaplatenie svojich pohľadávok, a upozorňujem ich, že  ak nepožiadajú o zaplatenie v hotovosti pred termínom dražby, vydražiteľ môže ich dlh  prevziať.
+    Osoby, ktoré môžu  uplatniť práva nepripúšťajúce dražbu v zmysle § 55 ods.1 Exekučného poriadku vyzývam, aby uplatnenie týchto práv preukázali pred  začatím dražby, a upozorňujem ich, že inak také práva  nemôžu uplatniť na ujmu dobromyseľného vydražiteľa.
+
+     Osoby, ktoré majú k draženej nehnuteľnosti  predkupné  právo, ho môžu uplatniť len na dražbe ako dražitelia. Ich predkupné právo udelením príklepu zaniká.
+
+Čas a miesto obhliadky nehnuteľnosti: 06.11.2026 o 10:00 hod., k.ú. Senica,
+Vyzývam povinného, aby v určenom čase a mieste obhliadky umožnil záujemcom obhliadku, a to za prítomnosti exekútora alebo jeho zamestnancov.
+Na účely obhliadky draženej nehnuteľnosti je exekútor alebo jeho zamestnanec oprávnený vymôcť si na draženú nehnuteľnosť prístup.
+
+</ns0:MoreInformation>
+</ns0:AuctionDecree>

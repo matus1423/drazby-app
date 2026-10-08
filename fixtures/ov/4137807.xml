@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Cislo>02/2026</ns0:Cislo>
+  <ns0:ZoDna>2026-04-29</ns0:ZoDna>
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>Imagination plus, spol. s r.o.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>29.augusta</Ulica>
+      <Cislo>1503/1A</Cislo>
+      <Obec>Partizánske</Obec>
+      <Psc>95801</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="117">Okresný súd Trenčín</Sud>
+    <Oddiel>Sro</Oddiel>
+    <Vlozka>25504/R</Vlozka>
+    <Ico>46470336</Ico>
+  </ns0:Drazobnik>
+  <ns0:NavrhovateliaHeader>Označenie navrhovateľa</ns0:NavrhovateliaHeader>
+  <ns0:Navrhovatelia>
+    <ns0:Navrhovatel>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>BYTOS - správa bytov PRIEVIDZA, s.r.o.</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>M. Mišíka</Ulica>
+          <Cislo>42</Cislo>
+          <Obec>Prievidza</Obec>
+          <Psc>97101</Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Sud Kod="117">Okresný súd Trenčín</Sud>
+        <Oddiel>Sro </Oddiel>
+        <Vlozka>12044/R</Vlozka>
+        <Ico>36313009</Ico>
+      </ns0:CeleMeno>
+    </ns0:Navrhovatel>
+  </ns0:Navrhovatelia>
+  <ns0:Licitatori xsi:nil="true" />
+  <ns0:Notar xsi:nil="true" />
+  <ns0:KonanieMiesto>Notársky úrad – Mgr. Martin Výskok, Februárová 153/3, 958 01  Partizánske, SR</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-06-04</ns0:KonanieDatum>
+  <ns0:KonanieCas>10:00 hod.</ns0:KonanieCas>
+  <ns0:Kolo>prvé kolo</ns0:Kolo>
+  <ns0:Predmet>&lt;table align="center" border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td colspan="7" style="background-color:#e5dfec"&gt;
+			&lt;p&gt;PREDMET DRAŽBY&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="7" style="background-color:#e5dfec"&gt;
+			&lt;p&gt;&lt;strong&gt;Základná špecifikácia :&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2" style="background-color:#e5dfec"&gt;
+			&lt;p&gt;&lt;strong&gt;Číslo listu vlastníctva : &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#e5dfec"&gt;
+			&lt;p&gt;&lt;strong&gt;Okres :&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;Obec :&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;Katastrálne územie :&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3" style="background-color:#e5dfec"&gt;
+			&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;Správa katastra :&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2" rowspan="3" style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;6347&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Prievidza&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3" rowspan="3"&gt;
+			&lt;p&gt;&lt;strong&gt;Okresný úrad Prievidza, katastrálny odbor&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Prievidza&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Prievidza&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="7" style="background-color:#e5dfec"&gt;
+			&lt;p&gt;&lt;strong&gt;Pozemky : Parcely registra „C“&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e5dfec"&gt;
+			&lt;p&gt;&lt;strong&gt;Parcelné číslo :&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3" style="background-color:#e5dfec"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku :&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e5dfec"&gt;
+			&lt;p&gt;&lt;strong&gt;Výmera v m&lt;sup&gt;2&lt;/sup&gt; :&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#e5dfec"&gt;
+			&lt;p&gt;&lt;strong&gt;poznámky – charakteristika – príslušnosť k ZÚO –EL :&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Parcela číslo 913&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3" style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Zastavaná plocha&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;a nádvorie&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;330&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="7" style="background-color:#e5dfec"&gt;
+			&lt;p&gt;&lt;strong&gt;Stavby : &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2" style="background-color:#e5dfec"&gt;
+			&lt;p&gt;&lt;strong&gt;Súpisné číslo : &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e5dfec"&gt;
+			&lt;p&gt;&lt;strong&gt;Stavba postavená na parcele číslo : &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3" style="background-color:#e5dfec"&gt;
+			&lt;p&gt;&lt;strong&gt;Charakteristika : &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e5dfec"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh stavby :&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;20451&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;913&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3" style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Obytný dom&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;9&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="7" style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Vchod č. 10, poschodie 4, číslo bytu 9, vlastn. B44 - Podiel priestoru na spoločných&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;častiach a spoločných zariadeniach domu, na príslušenstve a spoluvlastnícky podiel k pozemku 55/942&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="7" style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Spoluvlastnícky podiel: 1/1&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="7" style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Štípala Roman r. Štípala a Beáta Štípalová r. Kališová, Trhová 329/4, Prievidza, PSČ 971 01, SR,&lt;br /&gt;(nar. [skryté]),(nar. [skryté]), BSM&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis xsi:nil="true" />
+  <ns0:PredmetStavOpis xsi:nil="true" />
+  <ns0:PredmetPravaZavazky xsi:nil="true" />
+  <ns0:PredmetCenaOdhad xsi:nil="true" />
+  <ns0:PredmetCenaVyska xsi:nil="true" />
+  <ns0:PredmetCenaSposobStanovenia xsi:nil="true" />
+  <ns0:PredmetPodmienkyOdovzdania xsi:nil="true" />
+  <ns0:NajnizsiePodanie xsi:nil="true" />
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie xsi:nil="true" />
+  <ns0:Zabezpeka xsi:nil="true" />
+  <ns0:SposobUhradyCeny xsi:nil="true" />
+  <ns0:ObhliadkaDatum xsi:nil="true" />
+  <ns0:ObhliadkaMiesto xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia xsi:nil="true" />
+  <ns0:NadobudnutieVlastnickehoPrava xsi:nil="true" />
+  <ns0:DovodUpustenia>&lt;p&gt;§ 19 ods. 1 písm.  k) ak je navrhovateľom dražby záložný veriteľ a dlžník alebo vlastník predmetu dražby pred dražbou zloží dražobníkovi na účely splnenia dlhu sumu rovnajúcu sa pohľadávke s príslušenstvom vrátane nákladov dražby v rozsahu, v akom je povinný [skryté]; dražobník je oprávnený prijať plnenie popri veriteľovi.&lt;/p&gt;
+</ns0:DovodUpustenia>
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

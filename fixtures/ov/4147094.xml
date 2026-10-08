@@ -1,0 +1,521 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Drazba xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="/PortalJustice/XmlFormularObchodnyVestnik/">
+  <Cislo>500425</Cislo>
+  <ZoDna xsi:nil="true" />
+  <Drazobnik>
+    <ObchodneMenoNazov xmlns="">LICITOR group, a.s.</ObchodneMenoNazov>
+    <Sidlo xmlns="">
+      <Ulica>Sládkovičova</Ulica>
+      <Cislo>6</Cislo>
+      <Obec>Žilina</Obec>
+      <Psc>01001</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud xmlns="" Kod="131">Okresný súd Žilina</Sud>
+    <Oddiel xmlns="">Sa</Oddiel>
+    <Vlozka xmlns="">10476/L</Vlozka>
+    <Ico xmlns="">36421561</Ico>
+  </Drazobnik>
+  <Navrhovatelia xsi:nil="true" />
+  <LicitatoriHeader>Označenie licitátora</LicitatoriHeader>
+  <Licitatori>
+    <Licitator>
+      <Id>1</Id>
+      <CeleMeno>
+        <ObchodneMenoNazov xmlns="">JUDr. Martin Šustek, LL.M.</ObchodneMenoNazov>
+        <Sidlo xmlns="">
+          <Ulica>-</Ulica>
+          <Cislo>-</Cislo>
+          <Obec>-</Obec>
+          <Psc>-</Psc>
+          <Stat>SR</Stat>
+        </Sidlo>
+        <Oddiel xmlns="" />
+        <Vlozka xmlns="" />
+        <Ico xmlns="">12345679</Ico>
+      </CeleMeno>
+    </Licitator>
+  </Licitatori>
+  <Notar xsi:nil="true" />
+  <KonanieMiesto>AquaCity Poprad, Športová 1397/1, 058 01 Poprad  (Meeting room 1 - na 3. poschodí)</KonanieMiesto>
+  <KonanieDatum>2026-06-16</KonanieDatum>
+  <KonanieCas>11:00 hod.</KonanieCas>
+  <Kolo>1. kolo</Kolo>
+  <Predmet>&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;&lt;strong&gt;Č&amp;iacute;slo LV&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;&lt;strong&gt;Katastr&amp;aacute;lne &amp;uacute;zemie&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;&lt;strong&gt;Katastr&amp;aacute;lny odbor Okresn&amp;eacute;ho &amp;uacute;radu&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;540&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Rožňava&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;Rožňava&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;&lt;strong&gt;Pozemky parcely registra &amp;bdquo;C&amp;ldquo;:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Parc. č&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;mera v m&lt;sup&gt;2&lt;/sup&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Sp&amp;ocirc;sob využitia pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1866/137&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;360&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;15&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1866/138&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Z&amp;aacute;hrada&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;274&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;4&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#bfbfbf"&gt;
+			&lt;p&gt;&lt;strong&gt;Stavby na pozemku:&amp;nbsp; &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;S&amp;uacute;p. č. stavby&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Postaven&amp;aacute; na par. č.&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh stavby&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Pozn&amp;aacute;mka&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;686&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1866/137&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;10- Rodinn&amp;yacute; dom&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#bfbfbf"&gt;
+			&lt;p&gt;&lt;strong&gt;Spoluvlastn&amp;iacute;cky podiel z&amp;aacute;ložcu:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1/1&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+</Predmet>
+  <PredmetOpis>&lt;p&gt;&lt;em&gt;&lt;u&gt;Rodinn&amp;yacute; dom č.s. 686, na ul. P&amp;aacute;terov&amp;aacute;, k.&amp;uacute;. Rožňava&lt;/u&gt; &lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Rodinn&amp;yacute; dom č.s. 686 na parcele KN - C č. 1866/137, v katastr&amp;aacute;lnom &amp;uacute;zem&amp;iacute; Rožňava, je umiestnen&amp;yacute; v z&amp;aacute;stavbe rodinn&amp;yacute;ch domov, v &amp;scaron;ir&amp;scaron;om okol&amp;iacute; centra mesta. Rodinn&amp;yacute; dom bol postaven&amp;yacute; na z&amp;aacute;klade Rozhodnutia o pr&amp;iacute;pustnosti stavby, vydan&amp;eacute;ho MNV v Rožňave, odbor v&amp;yacute;stavby č. 1503/69, dňa 14.5.1969, ako aj podľa Osvedčenia na vykon&amp;aacute;vanie projekčn&amp;yacute;ch pr&amp;aacute;c rodinn&amp;eacute;ho domu v roku 1969 a schv&amp;aacute;lenia projektovej dokument&amp;aacute;cie rodinn&amp;eacute;ho domu v roku 1969, v zmysle ktor&amp;eacute;ho sa predpoklad&amp;aacute; ukončenie stavby do dvoch rokov, t.j. v roku 1971. &lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Keďže sa nezachovalo kolaudačn&amp;eacute; rozhodnutie, predpokladan&amp;yacute; začiatok už&amp;iacute;vania rodinn&amp;eacute;ho domu je rok 1971. Jedn&amp;aacute; sa o samostatne stojaci, trojpodlažn&amp;yacute; rodinn&amp;yacute; dom, s plochou strechou. Na dome bola začat&amp;aacute; rekon&amp;scaron;trukcia v roku 2018, ktor&amp;aacute; trv&amp;aacute; doteraz. V roku 2018 boli vymenen&amp;eacute; okn&amp;aacute; a vstupn&amp;eacute; dvere za dreven&amp;eacute;, z europrofilov s izolačn&amp;yacute;m dvojsklom, nov&amp;eacute; omietky, keramick&amp;eacute; dlažby a podlahy. V roku 2018 nov&amp;aacute; murovan&amp;aacute; kuchynsk&amp;aacute; linka, zatiaľ bez spotrebičov, nov&amp;aacute; k&amp;uacute;peľňa s WC v 1. NP, nov&amp;eacute; rozvody vody, kanaliz&amp;aacute;cie a elektrickej energie. V roku 2010 bol zaveden&amp;yacute; plyn. V roku 2026 bola vymenen&amp;aacute; stre&amp;scaron;n&amp;aacute; krytina z asfaltov&amp;yacute;ch natavovan&amp;yacute;ch p&amp;aacute;sov. Dokončenosť jednotliv&amp;yacute;ch kon&amp;scaron;trukci&amp;iacute; a vybavenia je uveden&amp;aacute; vo v&amp;yacute;počte. Dom je napojen&amp;yacute; na NN rozvod elektrickej energie, vodovod, kanaliz&amp;aacute;ciu a plyn.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Dispozičn&amp;eacute; rie&amp;scaron;enie:&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;V 1. podzemnom podlaž&amp;iacute; sa nach&amp;aacute;dza: chodba so schodiskom, 3 sklady, gar&amp;aacute;ž.&lt;/p&gt;
+
+&lt;p&gt;V 1. nadzemnom podlaž&amp;iacute; sa nach&amp;aacute;dza: predsieň so schodiskom, ob&amp;yacute;vacia izba, kuchyňa, k&amp;uacute;peľňa s WC, balk&amp;oacute;n.&lt;/p&gt;
+
+&lt;p&gt;V 2. nadzemnom podlaž&amp;iacute; sa nach&amp;aacute;dza: chodba so schodiskom, 4 izby, k&amp;uacute;peľňa s WC.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Technick&amp;eacute; rie&amp;scaron;enie:&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;1. Podzemn&amp;eacute; podlažie&lt;/p&gt;
+
+&lt;p&gt;- Zvisl&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - murovan&amp;eacute; z teh&amp;aacute;l v skladobnej hr. nad 40 do 50 cm; deliace kon&amp;scaron;trukcie - tehlov&amp;eacute;&lt;/p&gt;
+
+&lt;p&gt;- Vodorovn&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - stropy - s rovn&amp;yacute;m podhľadom bet&amp;oacute;nov&amp;eacute; monolitick&amp;eacute;, prefabrikovan&amp;eacute; alebo keramick&amp;eacute;&lt;/p&gt;
+
+&lt;p&gt;- Schodisko - cementov&amp;yacute; poter&lt;/p&gt;
+
+&lt;p&gt;- &amp;Uacute;pravy vonkaj&amp;scaron;&amp;iacute;ch povrchov - fas&amp;aacute;dne omietky - &amp;scaron;kraban&amp;yacute; brizolit; obklady fas&amp;aacute;d - obkladov&amp;eacute; murivo z pr&amp;iacute;rodn&amp;eacute;ho kameňa (hakl&amp;iacute;ky, kop&amp;aacute;ky)&lt;/p&gt;
+
+&lt;p&gt;- &amp;Uacute;pravy vn&amp;uacute;torn&amp;yacute;ch povrchov - vn&amp;uacute;torn&amp;eacute; omietky - v&amp;aacute;penn&amp;eacute; &amp;scaron;tukov&amp;eacute;, stierkov&amp;eacute; plsťou hladen&amp;eacute;; vn&amp;uacute;torn&amp;eacute; obklady pri dreze (ak je drez na stene)&lt;/p&gt;
+
+&lt;p&gt;- V&amp;yacute;plne otvorov - dvere - hladk&amp;eacute; pln&amp;eacute; alebo zasklen&amp;eacute;; okn&amp;aacute; - dreven&amp;eacute; z europrofilov s izolačn&amp;yacute;m dvojsklom (cenov&amp;yacute; ekvivalent - plastov&amp;eacute; s dvojvrstvov&amp;yacute;m zasklen&amp;iacute;m)&lt;/p&gt;
+
+&lt;p&gt;- Podlahy - dlažby a podlahy ost. miestnost&amp;iacute; - cementov&amp;yacute; poter&lt;/p&gt;
+
+&lt;p&gt;- Vybavenie k&amp;uacute;peľn&amp;iacute; - vodovodn&amp;eacute; bat&amp;eacute;rie - ostatn&amp;eacute;&lt;/p&gt;
+
+&lt;p&gt;- Ostatn&amp;eacute; vybavenie - vr&amp;aacute;ta gar&amp;aacute;žov&amp;eacute; - r&amp;aacute;mov&amp;eacute; s v&amp;yacute;plňou&lt;/p&gt;
+
+&lt;p&gt;- Vykurovanie - zdroj vykurovania - kotol &amp;uacute;stredn&amp;eacute;ho vykurovania na plyn; - kotol &amp;uacute;stredn&amp;eacute;ho vykurovania na tuh&amp;eacute; paliv&amp;aacute;&lt;/p&gt;
+
+&lt;p&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody vody - z plastov&amp;eacute;ho potrubia studenej a teplej vody z centr&amp;aacute;lneho zdroja; zdroj teplej vody - z&amp;aacute;sobn&amp;iacute;kov&amp;yacute; ohrievač elektrick&amp;yacute;, plynov&amp;yacute; alebo kombinovan&amp;yacute; s &amp;uacute;stredn&amp;yacute;m vykurovan&amp;iacute;m&lt;/p&gt;
+
+&lt;p&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody kanaliz&amp;aacute;cie - liatinov&amp;eacute; potrubie&lt;/p&gt;
+
+&lt;p&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody elektroin&amp;scaron;tal&amp;aacute;cie - elektroin&amp;scaron;tal&amp;aacute;cia ( bez rozv&amp;aacute;dzačov) - sveteln&amp;aacute;, motorick&amp;aacute;&lt;/p&gt;
+
+&lt;p&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody plynu - rozvod zemn&amp;eacute;ho plynu&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;1. Nadzemn&amp;eacute; podlažie&lt;/p&gt;
+
+&lt;p&gt;- Z&amp;aacute;klady - bet&amp;oacute;nov&amp;eacute; - objekt s podzemn&amp;yacute;m podlaž&amp;iacute;m s vodorovnou izol&amp;aacute;ciou&lt;/p&gt;
+
+&lt;p&gt;- Zvisl&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - murovan&amp;eacute; z teh&amp;aacute;l v skladobnej hr. nad 40 do 50 cm; deliace kon&amp;scaron;trukcie - tehlov&amp;eacute;&lt;/p&gt;
+
+&lt;p&gt;- Vodorovn&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - stropy - s rovn&amp;yacute;m podhľadom bet&amp;oacute;nov&amp;eacute; monolitick&amp;eacute;, prefabrikovan&amp;eacute; a keramick&amp;eacute;&lt;/p&gt;
+
+&lt;p&gt;- Schodisko - n&amp;aacute;stupnica z tvrd&amp;eacute;ho dreva&lt;/p&gt;
+
+&lt;p&gt;- Strecha - ploch&amp;eacute; strechy - jednopl&amp;aacute;&amp;scaron;ťov&amp;eacute; s tepelnou izol&amp;aacute;ciou; krytiny na ploch&amp;yacute;ch strech&amp;aacute;ch - z asfaltov&amp;yacute;ch natavovan&amp;yacute;ch p&amp;aacute;sov; klampiarske kon&amp;scaron;trukcie strechy - z pozinkovan&amp;eacute;ho plechu &amp;uacute;pln&amp;eacute; strechy (žľaby, zvody, kom&amp;iacute;ny, prieniky, snehov&amp;eacute; zachyt&amp;aacute;vače)&lt;/p&gt;
+
+&lt;p&gt;- &amp;Uacute;pravy vonkaj&amp;scaron;&amp;iacute;ch povrchov - fas&amp;aacute;dne omietky - &amp;scaron;kraban&amp;yacute; brizolit; obklady fas&amp;aacute;d - obkladov&amp;eacute; murivo z pr&amp;iacute;rodn&amp;eacute;ho kameňa (hakl&amp;iacute;ky, kop&amp;aacute;ky)&lt;/p&gt;
+
+&lt;p&gt;- &amp;Uacute;pravy vn&amp;uacute;torn&amp;yacute;ch povrchov - vn&amp;uacute;torn&amp;eacute; omietky - v&amp;aacute;penn&amp;eacute; &amp;scaron;tukov&amp;eacute;, stierkov&amp;eacute; plsťou hladen&amp;eacute;; vn&amp;uacute;torn&amp;eacute; obklady - prevažnej časti k&amp;uacute;peľne min.nad 1,35 m v&amp;yacute;&amp;scaron;ky; - vane;&lt;/p&gt;
+
+&lt;p&gt;- WC min. do v&amp;yacute;&amp;scaron;ky 1 m; - kuchyne min. pri spor&amp;aacute;ku a dreze (ak je drez na stene)&lt;/p&gt;
+
+&lt;p&gt;- V&amp;yacute;plne otvorov - dvere - hladk&amp;eacute; pln&amp;eacute; alebo zasklen&amp;eacute;; okn&amp;aacute; - dreven&amp;eacute; z europrofilov s izolačn&amp;yacute;m dvojsklom (cenov&amp;yacute; ekvivalent - plastov&amp;eacute; s dvojvrstvov&amp;yacute;m zasklen&amp;iacute;m)&lt;/p&gt;
+
+&lt;p&gt;- Podlahy - podlahy obytn&amp;yacute;ch miestnost&amp;iacute; (okrem obytn&amp;yacute;ch kuch&amp;yacute;ň) - dubov&amp;eacute; parkety - vlysy; dlažby a podlahy ost. miestnost&amp;iacute; - keramick&amp;eacute; dlažby&lt;/p&gt;
+
+&lt;p&gt;- Vybavenie kuch&amp;yacute;ň - spor&amp;aacute;k elektrick&amp;yacute; s elektrickou r&amp;uacute;rou a keramickou platňou; - ods&amp;aacute;vač p&amp;aacute;r; - drezov&amp;eacute; um&amp;yacute;vadlo nerezov&amp;eacute; alebo plastov&amp;eacute;&lt;/p&gt;
+
+&lt;p&gt;- Vybavenie k&amp;uacute;peľn&amp;iacute; - vaňa plastov&amp;aacute; rohov&amp;aacute; alebo s v&amp;iacute;rivkou; - um&amp;yacute;vadlo; vodovodn&amp;eacute; bat&amp;eacute;rie - p&amp;aacute;kov&amp;eacute; nerezov&amp;eacute; so sprchou; - p&amp;aacute;kov&amp;eacute; nerezov&amp;eacute;; - ostatn&amp;eacute;; z&amp;aacute;chod - splachovac&amp;iacute; s um&amp;yacute;vadlom&lt;/p&gt;
+
+&lt;p&gt;- Ostatn&amp;eacute; vybavenie - kozub - s otvoren&amp;yacute;m ohniskom&lt;/p&gt;
+
+&lt;p&gt;- Vykurovanie - &amp;uacute;stredn&amp;eacute; vykurovanie - teplovod. s rozvod. bez ohľadu na mat. a radi&amp;aacute;tormi - liatinov&amp;eacute;&lt;/p&gt;
+
+&lt;p&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody vody - z plastov&amp;eacute;ho potrubia studenej a teplej vody z centr&amp;aacute;lneho zdroja&lt;/p&gt;
+
+&lt;p&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody kanaliz&amp;aacute;cie - plastov&amp;eacute; potrubie&lt;/p&gt;
+
+&lt;p&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody elektroin&amp;scaron;tal&amp;aacute;cie - elektroin&amp;scaron;tal&amp;aacute;cia ( bez rozv&amp;aacute;dzačov) - sveteln&amp;aacute;, motorick&amp;aacute;; elektrick&amp;yacute; rozv&amp;aacute;dzač - s automatick&amp;yacute;m isten&amp;iacute;m&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. Nadzemn&amp;eacute; podlažie&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;- Zvisl&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - murovan&amp;eacute; z teh&amp;aacute;l v skladobnej hr. nad 40 do 50 cm; deliace kon&amp;scaron;trukcie - tehlov&amp;eacute;&lt;/p&gt;
+
+&lt;p&gt;- Vodorovn&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - stropy - s rovn&amp;yacute;m podhľadom bet&amp;oacute;nov&amp;eacute; monolitick&amp;eacute;, prefabrikovan&amp;eacute; a keramick&amp;eacute;&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash; &amp;Uacute;pravy vonkaj&amp;scaron;&amp;iacute;ch povrchov - fas&amp;aacute;dne omietky - &amp;scaron;kraban&amp;yacute; brizolit&lt;/p&gt;
+
+&lt;p&gt;- &amp;Uacute;pravy vn&amp;uacute;torn&amp;yacute;ch povrchov - vn&amp;uacute;torn&amp;eacute; omietky - v&amp;aacute;penn&amp;eacute; &amp;scaron;tukov&amp;eacute;, stierkov&amp;eacute; plsťou hladen&amp;eacute;; vn&amp;uacute;torn&amp;eacute; obklady - prevažnej časti k&amp;uacute;peľne min.nad 1,35 m v&amp;yacute;&amp;scaron;ky; - vane; - samostatnej sprchy;&lt;/p&gt;
+
+&lt;p&gt;- WC min. do v&amp;yacute;&amp;scaron;ky 1 m&lt;/p&gt;
+
+&lt;p&gt;- V&amp;yacute;plne otvorov - dvere - hladk&amp;eacute; pln&amp;eacute; alebo zasklen&amp;eacute;; okn&amp;aacute; - dreven&amp;eacute; z europrofilov s izolačn&amp;yacute;m dvojsklom (cenov&amp;yacute; ekvivalent - plastov&amp;eacute; s dvojvrstvov&amp;yacute;m zasklen&amp;iacute;m)&lt;/p&gt;
+
+&lt;p&gt;- Podlahy - podlahy obytn&amp;yacute;ch miestnost&amp;iacute; (okrem obytn&amp;yacute;ch kuch&amp;yacute;ň) - dubov&amp;eacute; parkety - vlysy; dlažby a podlahy ost. miestnost&amp;iacute; - keramick&amp;eacute; dlažby&lt;/p&gt;
+
+&lt;p&gt;- Vybavenie k&amp;uacute;peľn&amp;iacute; - um&amp;yacute;vadlo; - samostatn&amp;aacute; sprcha; vodovodn&amp;eacute; bat&amp;eacute;rie - p&amp;aacute;kov&amp;eacute; nerezov&amp;eacute; so sprchou; - p&amp;aacute;kov&amp;eacute; nerezov&amp;eacute;; z&amp;aacute;chod - splachovac&amp;iacute; s um&amp;yacute;vadlom&lt;/p&gt;
+
+&lt;p&gt;- Vykurovanie - &amp;uacute;stredn&amp;eacute; vykurovanie - teplovod. s rozvod. bez ohľadu na mat. a radi&amp;aacute;tormi - liatinov&amp;eacute;&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash; Vn&amp;uacute;torn&amp;eacute; rozvody vody - z plastov&amp;eacute;ho potrubia studenej a teplej vody z centr&amp;aacute;lneho zdroja&lt;/p&gt;
+
+&lt;p&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody elektroin&amp;scaron;tal&amp;aacute;cie - elektroin&amp;scaron;tal&amp;aacute;cia ( bez rozv&amp;aacute;dzačov) &amp;ndash; sveteln&amp;aacute;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;V&amp;yacute;počet zastavanej plochy:&lt;/em&gt;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;Podlažie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;Začiatok už&amp;iacute;vania&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;V&amp;yacute;počet zastavanej plochy&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;ZP [m2]&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;kZP&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1.PP&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1971&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;8,74*11,20&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;97,89&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;120/97,89=1,226&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1.NP&lt;/p&gt;
+
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1971&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;8,74*11,20+1,70*3,10&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;103,16&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;120/103,16=1,163&lt;/p&gt;
+
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2.NP&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1971&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;8,74*11,20+1,70*3,10&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;103,16&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;120/103,16=1,163&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Pr&amp;iacute;slu&amp;scaron;enstvo:&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Plot uličn&amp;yacute; a predz&amp;aacute;hradky na parc. KN-C č. 1866/137 &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Plot uličn&amp;yacute; a predz&amp;aacute;hradky, bol postaven&amp;yacute; v roku 1990, je realizovan&amp;yacute; na bet&amp;oacute;novom z&amp;aacute;klade a bet&amp;oacute;novej podmurovke, s v&amp;yacute;plňou z oceľovej tyčoviny v r&amp;aacute;moch, s pohľadovou v&amp;yacute;&amp;scaron;kou 1,10 m, s plotov&amp;yacute;mi vr&amp;aacute;tami a vr&amp;aacute;tkami.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Plot dvora na parc. KN-C č. 1866/137 a 1866/138&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Plot dvora zo severnej a z&amp;aacute;padnej strany je realizovan&amp;yacute; zo strojov&amp;eacute;ho pletiva, na zabet&amp;oacute;novan&amp;yacute;ch oceľov&amp;yacute;ch stĺpikoch, pohľadovej v&amp;yacute;&amp;scaron;ky 1,80 m. Realizovan&amp;yacute; v roku 1990.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vodovodn&amp;aacute; pr&amp;iacute;pojka na parc. KN-C č. 1866/137 &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Vodovodn&amp;aacute; pr&amp;iacute;pojka je realizovan&amp;aacute; z oceľov&amp;eacute;ho potrubia, v roku 1971.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vodomern&amp;aacute; &amp;scaron;achta na parc. KN-C č. 1866/137 &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Vodomern&amp;aacute; &amp;scaron;achta z bet&amp;oacute;nov&amp;yacute;ch skruž&amp;iacute; s priemerom 1,0 m a hĺbkou 1,33 m, s poklopom, je umiestnen&amp;aacute; v predz&amp;aacute;hradke, realizovan&amp;aacute; v roku 1971.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kanalizačn&amp;aacute; pr&amp;iacute;pojka na parc. KN-C č. 1866/137 &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Kanalizačn&amp;aacute; pr&amp;iacute;pojka je veden&amp;aacute; cez predz&amp;aacute;hradku, realizovan&amp;aacute; z kameninov&amp;yacute;ch r&amp;uacute;r, v roku 1971.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Plynov&amp;aacute; pr&amp;iacute;pojka na parc. KN-C č. 1866/137 &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Pr&amp;iacute;pojka plynu je realizovan&amp;aacute; k rodinn&amp;eacute;mu domu, v roku 2010.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Elektrick&amp;aacute; pr&amp;iacute;pojka na parc.KN-C č. 1866/137 &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Elektrick&amp;aacute; pr&amp;iacute;pojka n&amp;iacute;zkeho nap&amp;auml;tia je veden&amp;aacute; v zemi do rozv&amp;aacute;dzača s elektromerom na fas&amp;aacute;de rodinn&amp;eacute;ho domu, realizovan&amp;aacute; v roku 1971.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spevnen&amp;eacute; plochy zo z&amp;aacute;mkovej dlažby na parc. KN-C č. 1866/137&lt;/strong&gt; Spevnen&amp;aacute; plocha zo z&amp;aacute;mkovej dlažby kladenej do piesku pokr&amp;yacute;va plochu pred gar&amp;aacute;žou, realizovan&amp;aacute; v roku 1990.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spevnen&amp;eacute; plochy chodn&amp;iacute;ka na parc. KN-C č. 1866/137 &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Spevnen&amp;aacute; plocha z monolitick&amp;eacute;ho bet&amp;oacute;nu pokr&amp;yacute;va chodn&amp;iacute;k od br&amp;aacute;nky uličn&amp;eacute;ho plotu až k domu, ako aj okapov&amp;yacute; chodn&amp;iacute;k okolo domu, realizovan&amp;aacute; v roku 1971.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Pozemky C-KN&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Predmetom ohodnotenia s&amp;uacute; pozemky v zastavanom &amp;uacute;zem&amp;iacute; mesta Rožňava, s počtom obyvateľov cca. 19 000, umiestnen&amp;eacute; v z&amp;aacute;stavbe rodinn&amp;yacute;ch domov podobn&amp;eacute;ho typu, zastavan&amp;eacute; rodinn&amp;yacute;m domom so &amp;scaron;tandardn&amp;yacute;m vybaven&amp;iacute;m. Pozemky s&amp;uacute; zastavan&amp;eacute; rodinn&amp;yacute;m domom s pr&amp;iacute;slu&amp;scaron;enstvom, s dvorom a z&amp;aacute;hradou. Dopravn&amp;aacute; dostupnosť je železničnou a autobusovou dopravou, s možnosťou využitia MHD. Funkčn&amp;eacute; využitie pozemku - je to lokalita v zastavanom &amp;uacute;zem&amp;iacute; obce pre b&amp;yacute;vanie v rodinn&amp;yacute;ch domoch. Pozemok je priamo napojen&amp;yacute; na inžinierske siete: elektrick&amp;aacute; energia, vodovod, kanaliz&amp;aacute;cia a plyn.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Parcela&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Spolu&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;v&amp;yacute;mera [m&lt;/strong&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;strong&gt;]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Spoluvl.&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;podiel&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;mera [m&lt;/strong&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;strong&gt;]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1866/137&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;360,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;360,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1866/138&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;z&amp;aacute;hrada&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;274,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;274,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Spolu v&amp;yacute;mera&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;634,00&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+</PredmetOpis>
+  <PredmetStavOpis>&lt;p&gt;Vzhľadom na skutočnosť, že predmetom dražby je použit&amp;aacute; vec, ktor&amp;aacute; sa prev&amp;aacute;dza v&amp;nbsp;stave v&amp;nbsp;akom sa nach&amp;aacute;dza ku dňu konania dražby nezodpoved&amp;aacute; navrhovateľ ani dražobn&amp;iacute;k za jej vady. Dražobn&amp;iacute;k s&amp;uacute;časne oboznamuje &amp;uacute;častn&amp;iacute;kov dražby, že na tento predaj prostredn&amp;iacute;ctvom dražby sa v&amp;nbsp;s&amp;uacute;lade s &amp;sect; 612 ods. 3 p&amp;iacute;sm. b) OZ nevzťahuj&amp;uacute; ustanovenia &amp;sect; 615 až 626 OZ spotrebiteľskej k&amp;uacute;pnej zmluvy upravuj&amp;uacute;cich akosť pred&amp;aacute;vanej veci,&amp;nbsp;zodpovednosť za vady &amp;nbsp;na n&amp;aacute;roky z&amp;nbsp;nich vypl&amp;yacute;vaj&amp;uacute;ce a&amp;nbsp;ustanovenia o&amp;nbsp;spotrebiteľskej z&amp;aacute;ruke.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</PredmetStavOpis>
+  <PredmetPravaZavazky>LV č. 540
+Vl. č. 1
+Vklad záložného práva do KN k nehnuteľnostiam: pozemok registra C KN p.č. 1866/137, zastavaná plocha a nádvoria o výmere 360 m2, p.č. 1866/138, záhrada o výmere 274 m2, stavba so s.č. 686 na p.č. 1866/137 v podiele 1/2 v prospech: MED-ART, spol.s.r.o., IČO: 34113924, Nitra na základe zmluvy o zriadení ZP zo dňa 17.10.2014. V - 2361/14 - 2302/14.
+ Poznámka:
+Poznamenáva sa: Oznámenie o začatí výkonu záložného práva a to formou priameho predaja zálohu , na základe V-2361/14 na nehnuteľnosti parc. reg. C p.č. 1866/137, 1866/138, stavba: rodinný dom s.č. 686 postavený na parc.č. 1866/137 v podiele 1/1 - MED-ART, spol. s.r.o., Hornočermánska 4, 94901 Nitra, IČO: 34113924 - P-159/2023 - 455/2023 Oznámenie o zmene spôsobu výkonu záložného práva - Oznamujeme zmenu spôsobu výkonu záložného práva a to spôsobom predajom zálohu dobrovoľnou dražbou. zo dňa 03.03.2026 - P91/2026 - 306/2026
+				Vl. č. 2,3
+Vklad záložného práva do KN k nehnuteľnostiam: pozemok registra C KN p.č. 1866/137, zastavaná plocha a nádvoria o výmere 360 m2, p.č. 1866/138, záhrada o výmere 274 m2, stavba so s.č. 686 na p.č. 1866/137 v podiele 1/4 v prospech: MED-ART, spol.s.r.o., IČO: 34113924, Nitra na základe zmluvy o zriadení ZP zo dňa 17.10.2014. V - 2361/14 - 2302/14.
+
+Poznámka:
+Poznamenáva sa: Oznámenie o začatí výkonu záložného práva a to formou priameho predaja zálohu , na základe V-2361/14 na nehnuteľnosti parc. reg. C p.č. 1866/137, 1866/138, stavba: rodinný dom s.č. 686 postavený na parc.č. 1866/137 v podiele 1/1 - MED-ART, spol. s.r.o., Hornočermánska 4, 94901 Nitra, IČO: 34113924 - P-159/2023 - 455/2023 Oznámenie o zmene spôsobu výkonu záložného práva - Oznamujeme zmenu spôsobu výkonu záložného práva a to spôsobom predajom zálohu dobrovoľnou dražbou. zo dňa 03.03.2026 - P91/2026 - 306/2026
+
+Poznamenáva sa: Oznámenie o začatí výkonu záložného práva a to formou priameho predaja zálohu , na základe V-2361/14 na nehnuteľnosti parc. reg. C p.č. 1866/137, 1866/138, stavba: rodinný dom s.č. 686 postavený na parc.č. 1866/137 v podiele 1/1 - MED-ART, spol. s.r.o., Hornočermánska 4, 94901 Nitra, IČO: 34113924 - P-159/2023 - 455/2023 Oznámenie o zmene spôsobu výkonu záložného práva - Oznamujeme zmenu spôsobu výkonu záložného práva a to spôsobom predajom zálohu dobrovoľnou dražbou. zo dňa 03.03.2026 - P91/2026 - 306/2026
+
+</PredmetPravaZavazky>
+  <PredmetCenaOdhad>znaleckým posudkom č. 22/2026, súdnym znalcom Ing. Emíliou Hasíkovou v sume 208.000,- €</PredmetCenaOdhad>
+  <PredmetCenaVyska>neúspešná</PredmetCenaVyska>
+  <PredmetCenaSposobStanovenia xsi:nil="true" />
+  <PredmetPodmienkyOdovzdania xsi:nil="true" />
+  <NajnizsiePodanie>nebolo urobené</NajnizsiePodanie>
+  <NajvyssiePodanie xsi:nil="true" />
+  <MinimalnePrihodenie xsi:nil="true" />
+  <Zabezpeka xsi:nil="true" />
+  <SposobUhradyCeny xsi:nil="true" />
+  <ObhliadkaDatum xsi:nil="true" />
+  <ObhliadkaMiesto xsi:nil="true" />
+  <OrganizaceOpatrenia xsi:nil="true" />
+  <NadobudnutieVlastnickehoPrava xsi:nil="true" />
+  <DovodUpustenia xsi:nil="true" />
+  <DrazobnikOznamuje xsi:nil="true" />
+</Drazba>

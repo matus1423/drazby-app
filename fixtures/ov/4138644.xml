@@ -1,0 +1,517 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Drazba xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="/PortalJustice/XmlFormularObchodnyVestnik/">
+  <Cislo>400126</Cislo>
+  <ZoDna xsi:nil="true" />
+  <Drazobnik>
+    <ObchodneMenoNazov xmlns="">LICITOR group, a.s.</ObchodneMenoNazov>
+    <Sidlo xmlns="">
+      <Ulica>Sládkovičova</Ulica>
+      <Cislo>6</Cislo>
+      <Obec>Žilina</Obec>
+      <Psc>01001</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud xmlns="" Kod="131">Okresný súd Žilina</Sud>
+    <Oddiel xmlns="">Sa</Oddiel>
+    <Vlozka xmlns="">10476/L</Vlozka>
+    <Ico xmlns="">36421561</Ico>
+  </Drazobnik>
+  <Navrhovatelia xsi:nil="true" />
+  <LicitatoriHeader>Označenie licitátora</LicitatoriHeader>
+  <Licitatori>
+    <Licitator>
+      <Id>1</Id>
+      <CeleMeno>
+        <ObchodneMenoNazov xmlns="">JUDr. Martin Šustek, LL.M.</ObchodneMenoNazov>
+        <Sidlo xmlns="">
+          <Ulica>-</Ulica>
+          <Cislo>-</Cislo>
+          <Obec>-</Obec>
+          <Psc>-</Psc>
+          <Stat>-</Stat>
+        </Sidlo>
+        <Oddiel xmlns="" />
+        <Vlozka xmlns="" />
+        <Ico xmlns="">12345679</Ico>
+      </CeleMeno>
+    </Licitator>
+  </Licitatori>
+  <Notar xsi:nil="true" />
+  <KonanieMiesto>sídlo dražobníka – Sládkovičova 181/6, 010 01 Žilina (dražobná miestnosť  – v suteréne)</KonanieMiesto>
+  <KonanieDatum>2026-06-02</KonanieDatum>
+  <KonanieCas>11:00 hod.</KonanieCas>
+  <Kolo>prvá dražba</Kolo>
+  <Predmet>&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;PREDMET DRAŽBY č. 1 &lt;/strong&gt;&lt;strong&gt;&amp;ndash; spoluvlastn&amp;iacute;cky podiel: 1/1&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Z&amp;aacute;kladn&amp;aacute; &amp;scaron;pecifik&amp;aacute;cia:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;Č&amp;iacute;slo LV:&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;Okres:&lt;/p&gt;
+
+			&lt;p&gt;Obec:&lt;/p&gt;
+
+			&lt;p&gt;Katastr&amp;aacute;lne &amp;uacute;zemie:&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;Okresn&amp;yacute; &amp;uacute;rad, katastr&amp;aacute;lny odbor:&lt;/p&gt;
+
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td rowspan="3"&gt;
+			&lt;p&gt;5009&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Žilina&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" rowspan="3"&gt;
+			&lt;p&gt;Žilina&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;Teplička nad V&amp;aacute;hom&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Teplička nad V&amp;aacute;hom&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Pozemky: parcely registra &amp;bdquo;C&amp;ldquo;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Stavby: &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;S&amp;uacute;pisn&amp;eacute; č&amp;iacute;slo:&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;Stavba postaven&amp;aacute; na parcele č&amp;iacute;slo:&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;Charakteristika:&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;Druh stavby:&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;1326&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;1470/76&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Predajno-obchodn&amp;eacute; priestory a&amp;nbsp;kancel&amp;aacute;rie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;15&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;1357&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;1470/74&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Gar&amp;aacute;že a&amp;nbsp;skladov&amp;eacute; priestory&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;1&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;PREDMET DRAŽBY č. 2 &lt;/strong&gt;&lt;strong&gt;&amp;ndash; spoluvlastn&amp;iacute;cky podiel: 1/1&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Z&amp;aacute;kladn&amp;aacute; &amp;scaron;pecifik&amp;aacute;cia:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;Č&amp;iacute;slo LV:&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;Okres:&lt;/p&gt;
+
+			&lt;p&gt;Obec:&lt;/p&gt;
+
+			&lt;p&gt;Katastr&amp;aacute;lne &amp;uacute;zemie:&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;Okresn&amp;yacute; &amp;uacute;rad, katastr&amp;aacute;lny odbor:&lt;/p&gt;
+
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td rowspan="3"&gt;
+			&lt;p&gt;4443&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Žilina&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" rowspan="3"&gt;
+			&lt;p&gt;Žilina&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;Teplička nad V&amp;aacute;hom&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Teplička nad V&amp;aacute;hom&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Pozemky: parcely registra &amp;bdquo;C&amp;ldquo;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;Parceln&amp;eacute; č&amp;iacute;slo:&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;Druh pozemku:&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;V&amp;yacute;mera v&amp;nbsp;m&lt;sup&gt;2&lt;/sup&gt;:&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;pozn&amp;aacute;mky &amp;ndash; charakteristika &amp;ndash; pr&amp;iacute;slu&amp;scaron;nosť k&amp;nbsp;Z&amp;Uacute;O &amp;ndash;EL:&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;1470/73&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;1608&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;1470/74&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;692&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;1470/76&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;192&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</Predmet>
+  <PredmetOpis>&lt;p&gt;&lt;em&gt;&lt;u&gt;Administrat&amp;iacute;vna budova č.s. 1326 na parc. KN-C č. 1470/76 k.&amp;uacute;. Teplička nad V&amp;aacute;hom &lt;/u&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;DISPOZIČN&amp;Eacute; RIE&amp;Scaron;ENIE STAVBY: &lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;1.NP Cez z&amp;aacute;vetrie sa dostaneme do z&amp;aacute;dveria. Zo z&amp;aacute;dveria chodbou sa ide do predajne. Do predajne je aj vstup z vonku z ter&amp;eacute;nu. Na pr&amp;iacute;zem&amp;iacute; je pre zamestnancov kuchynka, WC so skladom pre upratovačku a sklad. Z vonkaj&amp;scaron;&amp;iacute;ch priestorov sa vch&amp;aacute;dza do &amp;scaron;atne pre zamestnancov, kde maj&amp;uacute; WC, sprchu a kuchynku. &lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;2.NP ŽB schodisko sa dostaneme na 2.NP, kde je zasadačka, kancel&amp;aacute;ria, sekretari&amp;aacute;t, riaditeľ, kuchynka pre zamestnancov a soci&amp;aacute;lne zariadenie. &lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;3.NP ŽB schodisko sa dostaneme na 3.NP, kde sa nach&amp;aacute;dzaj&amp;uacute; 4 kancel&amp;aacute;rie, kuchynka a soci&amp;aacute;lne zariadenie. &lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;u&gt;Technick&amp;yacute; popis stavby:&lt;/u&gt; Ohodnocovan&amp;yacute; je technicko &amp;ndash; administrat&amp;iacute;vny objekt s napojen&amp;iacute;m na inžinierske siete (vodovod, kanaliz&amp;aacute;cia, elektrika, plyn) v obci Teplička and V&amp;aacute;hom. Objekt je osaden&amp;yacute; v rovinatom ter&amp;eacute;ne, v oplotenom are&amp;aacute;li. Admiistrat&amp;iacute;vna budova je postaven&amp;aacute; ako trojpodlažn&amp;yacute; objekt, nosn&amp;yacute; syst&amp;eacute;m tvor&amp;iacute; ŽB skelet, v&amp;yacute;plňov&amp;eacute; murivo tvoria plynosilik&amp;aacute;tov&amp;eacute; tv&amp;aacute;rnice s presklenou fas&amp;aacute;dou, stropy s&amp;uacute; železobet&amp;oacute;nov&amp;eacute; monolitick&amp;eacute;, priečky s&amp;uacute; murovan&amp;eacute; z tv&amp;aacute;rnic PORFIX, objekt je zateplen&amp;yacute; zatepľovac&amp;iacute;m syst&amp;eacute;mom. Založenie stavby je na z&amp;aacute;kladov&amp;yacute;ch p&amp;auml;tk&amp;aacute;ch s vodorovn&amp;yacute;mi izol&amp;aacute;ciami proti zemenj vlhkosti, schodisko je monolitick&amp;eacute; železobet&amp;oacute;nov&amp;eacute;, obložen&amp;eacute; žulovou dlažbou. Vn&amp;uacute;torn&amp;eacute; omietky s&amp;uacute; v&amp;aacute;penn&amp;eacute; &amp;scaron;tukov&amp;eacute; so stierkami a farebn&amp;yacute;mi maľbami, vonkaj&amp;scaron;ie omietky s&amp;uacute; baumitov&amp;eacute;, sokel obložen&amp;yacute; žulou. Tepeln&amp;eacute; izol&amp;aacute;cie s&amp;uacute; preveden&amp;eacute; zo styroduru na poschodiach penov&amp;yacute;m polystyr&amp;eacute;nom, strecha je ploch&amp;aacute;, zateplenie Nobasilom v hr. 250mm. Strechu tvoria zb&amp;iacute;jan&amp;eacute; v&amp;auml;zn&amp;iacute;ky, ktor&amp;eacute; vytv&amp;aacute;raj&amp;uacute; sp&amp;aacute;d pultovej strechy, krytina je z krytiny FATRAFOL. Klampiarske kon&amp;scaron;trukcie s&amp;uacute; kompletne z tit&amp;aacute;nzinku. Na podlah&amp;aacute;ch s&amp;uacute; vo v&amp;scaron;etk&amp;yacute;ch podlažiach dlažby zo žuly, v soci&amp;aacute;lnych častiach s&amp;uacute; kvalitn&amp;eacute; obklady, okn&amp;aacute; s&amp;uacute; plastov&amp;eacute; s izolačn&amp;yacute;m trojsklom s celoobvodov&amp;yacute;m kovan&amp;iacute;m, na schodisku je nerezov&amp;eacute; z&amp;aacute;bradlie, vn&amp;uacute;torn&amp;eacute; dvere pln&amp;eacute; aj presklen&amp;eacute;, protipožiarne, dyhovan&amp;eacute; v obložkov&amp;yacute;ch z&amp;aacute;rubniach, vstupn&amp;eacute; dvere s&amp;uacute; kovov&amp;eacute; presklen&amp;eacute; s f&amp;oacute;liou proti rozbitiu s bezpečostn&amp;yacute;m kovan&amp;iacute;m. Vybavenie interi&amp;eacute;ru je vo vy&amp;scaron;&amp;scaron;om &amp;scaron;tandarde. Zabudovan&amp;eacute; WC geberit, keramick&amp;eacute; um&amp;yacute;vadl&amp;aacute;, kuchynsk&amp;eacute; linky z tvrd&amp;eacute;ho dreva, nerezov&amp;eacute; drezy, v soci&amp;aacute;lnych zariadeniach ods&amp;aacute;vanie, p&amp;aacute;kov&amp;eacute; &amp;uacute;sporn&amp;eacute; bat&amp;eacute;rie, klimatiz&amp;aacute;cia. Vykurovanie objektu je z kotla na plyn, rozvody s&amp;uacute; z hlin&amp;iacute;koplastu, radi&amp;aacute;tory KORAD, rozvod teplej a studenej vody vo v&amp;scaron;etk&amp;yacute;ch podlažiach, rozvody zdravotechniky z plastv&amp;eacute;ho potrubia s napojen&amp;iacute;m na spla&amp;scaron;kov&amp;uacute; kanaliz&amp;aacute;ciu. Objekt je chr&amp;aacute;nen&amp;yacute; bleskozvodom. Dispozičn&amp;eacute; rie&amp;scaron;enia s&amp;uacute; zrejm&amp;eacute; z jednotliv&amp;yacute;ch podlaž&amp;iacute;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Sklady a gar&amp;aacute;že s&amp;uacute;p.č. 1357 na parc. KN-C č. 1470/74 k.&amp;uacute;. Teplička nad V&amp;aacute;hom &lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Objekt skladov a gar&amp;aacute;ž&amp;iacute; je pr&amp;iacute;zemn&amp;yacute;, ktor&amp;yacute; je dispozične rozdelen&amp;yacute; na sklady pre stavebn&amp;yacute; materi&amp;aacute;l a gar&amp;aacute;žov&amp;eacute; priestory pre stavebn&amp;eacute; mechanizmy a stroje ako aj ich opravy a &amp;uacute;držbu. Objekt je založen&amp;yacute; na z&amp;aacute;kladov&amp;yacute;ch železobet&amp;oacute;nov&amp;yacute;ch p&amp;auml;tk&amp;aacute;ch vystužen&amp;yacute;ch železobet&amp;oacute;nov&amp;yacute;mi stužidlami. Zvisl&amp;eacute; kon&amp;scaron;trukcie tvoria oceľov&amp;eacute; zv&amp;aacute;ran&amp;eacute; r&amp;aacute;my v osov&amp;yacute;ch vzdialenostiach 4 x 15 m s priečnym zavetren&amp;iacute;m. Opl&amp;aacute;&amp;scaron;tenie tvoria sendvičov&amp;eacute; izolovan&amp;eacute; panely s povrchom z profilovan&amp;eacute;ho plechu, strechu s&amp;uacute; z oceľov&amp;yacute;ch v&amp;auml;zn&amp;iacute;kov, na ktor&amp;yacute;ch je uložen&amp;yacute; VSŽ plech, strop je tepelne izolovan&amp;yacute; s rovn&amp;yacute;m podhľadom. Presvetľovacie okn&amp;aacute; s&amp;uacute; plastov&amp;eacute;, objekt je vykurovan&amp;yacute; kotlom na plyn BAXI, v oprav&amp;aacute;renskej dielni je kotol na tuh&amp;eacute; palivo a rekuper&amp;aacute;cia. Gar&amp;aacute;žov&amp;eacute; br&amp;aacute;ny s&amp;uacute; sekčn&amp;eacute; na elektropohon. Podlahy s&amp;uacute; bet&amp;oacute;nov&amp;eacute; z dr&amp;aacute;tkobet&amp;oacute;nu. V objekte je rozvod elektroin&amp;scaron;tal&amp;aacute;cie 220/380 V z meden&amp;yacute;ch vodičov, rozvod vody, v objekte nie s&amp;uacute; soci&amp;aacute;lne zariadenia.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/strong&gt;&lt;strong&gt;PR&amp;Iacute;SLU&amp;Scaron;ENSTVO&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;strong&gt;&lt;u&gt;Oplotenie are&amp;aacute;lu na parc. KN-C č. 1470/73 k.&amp;uacute;. Teplička nad V&amp;aacute;hom&lt;/u&gt;&lt;/strong&gt; Predmetom ohodnotenia je oplotenie are&amp;aacute;lu, ktor&amp;eacute; pozost&amp;aacute;va z murovanej podmurovky z tv&amp;aacute;rnic, obloženej žulov&amp;yacute;mi doskami, z oceľov&amp;yacute;ch stĺpikov a poplastovan&amp;eacute;ho pletiva. Vstupn&amp;aacute; br&amp;aacute;na je kovan&amp;aacute;, elektricky ovl&amp;aacute;dan&amp;aacute;. Predpokladan&amp;aacute; životnosť je stanoven&amp;aacute; odborn&amp;yacute;m odhadom na 40 rokov pri bežnej &amp;uacute;držbe.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;strong&gt;&lt;u&gt;Vŕtan&amp;aacute; studňa na parc. KN-C č. 1470/73 k.&amp;uacute;. Teplička nad V&amp;aacute;hom&lt;/u&gt;&lt;/strong&gt; Predmetom ohodnotenia je vŕtan&amp;aacute; studňa, ktor&amp;aacute; sl&amp;uacute;ži ako rezerva pitnej a &amp;uacute;žitkovej vody. Hĺbka je 19,0m, priemer 160mm a potrubie je z PVC. Predpokladan&amp;aacute; životnosť je stanoven&amp;aacute; odborn&amp;yacute;m odhadom na 50 rokov pri bežnej &amp;uacute;držbe.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;strong&gt;&lt;u&gt;Elektrick&amp;aacute; pr&amp;iacute;pojka na parc. KN-C č.1470/73 k.&amp;uacute;. Teplička nad V&amp;aacute;hom&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Elektrick&amp;aacute; pr&amp;iacute;pojka NN je rie&amp;scaron;en&amp;aacute; zemn&amp;yacute;m k&amp;aacute;blom Al 4x25mm celkovej dĺžky 40,0 bm. Predpokladan&amp;aacute; životnosť je stanoven&amp;aacute; odborn&amp;yacute;m odhadom na 50 rokov pri bežnej &amp;uacute;držbe.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;u&gt;Vodovodn&amp;aacute; pr&amp;iacute;pojka na parc. KN-C č.1470/73 k.&amp;uacute;. Teplička nad V&amp;aacute;hom&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Predmetom ohodnotenia je vodovodn&amp;aacute; pr&amp;iacute;pojka. Vodovodn&amp;aacute; pr&amp;iacute;pojka je z HDPE potrubia DN 40mm a m&amp;aacute; dĺžku 36,0 bm. Predpokladan&amp;aacute; životnosť je stanoven&amp;aacute; odborn&amp;yacute;m odhadom na 50 rokov pri bežnej &amp;uacute;držbe.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;strong&gt;&lt;u&gt;Vodomern&amp;aacute; &amp;scaron;achta na parc. KN-C č.1470/73 k.&amp;uacute;. Teplička nad V&amp;aacute;hom&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Predmetom ohodnotenia je vodomern&amp;aacute; &amp;scaron;achta. Vodomern&amp;aacute; &amp;scaron;achta je monolitick&amp;aacute; železobet&amp;oacute;nov&amp;aacute; so železobet&amp;oacute;nov&amp;yacute;m stropom a oceľov&amp;yacute;m poklopom. Predpokladan&amp;aacute; životnosť je stanoven&amp;aacute; odborn&amp;yacute;m odhadom na 70 rokov pri bežnej &amp;uacute;držbe.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;strong&gt;&lt;u&gt;Kanalizačn&amp;aacute; pr&amp;iacute;pojka na parc. KN-C č.1470/73 k.&amp;uacute;. Teplička nad V&amp;aacute;hom&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Predmetom ohodnotenia je kanalizačn&amp;aacute; pr&amp;iacute;pojka. Kanalizačn&amp;aacute; pr&amp;iacute;pojka je z plastov&amp;eacute;ho potrubia DN 200 mm a m&amp;aacute; dĺžku 28,0 bm. Predpokladan&amp;aacute; životnosť je stanoven&amp;aacute; odborn&amp;yacute;m odhadom na 60 rokov pri bežnej &amp;uacute;držbe.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;strong&gt;&lt;u&gt;Kanalizačn&amp;aacute; pr&amp;iacute;pojka dažďovej kanaliz&amp;aacute;cie na parc. KN-C č.1470/73 k.&amp;uacute;. Teplička nad V&amp;aacute;hom&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Predmetom ohodnotenia je kanalizačn&amp;aacute; pr&amp;iacute;pojka. Kanalizačn&amp;aacute; pr&amp;iacute;pojka je z plastov&amp;eacute;ho potrubia DN 200 mm a m&amp;aacute; dĺžku 128,6 bm. Predpokladan&amp;aacute; životnosť je stanoven&amp;aacute; odborn&amp;yacute;m odhadom na 60 rokov pri bežnej &amp;uacute;držbe.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;strong&gt;&lt;u&gt;Kanalizačn&amp;eacute; &amp;scaron;achty na parc. KN-C č.1470/73 k.&amp;uacute;. Teplička nad V&amp;aacute;hom&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Predmetom ohodnotenia s&amp;uacute; kanalizačn&amp;eacute; &amp;scaron;achty. Predpokladan&amp;aacute; životnosť je stanoven&amp;aacute; odborn&amp;yacute;m odhadom na 60 rokov pri bežnej &amp;uacute;držbe.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;strong&gt;&lt;u&gt;Plynov&amp;aacute; pr&amp;iacute;pojka na parc. KN-C č.1470/73 k.&amp;uacute;. Teplička nad V&amp;aacute;hom&lt;/u&gt;&lt;/strong&gt; Plynov&amp;aacute; pr&amp;iacute;pojka je veden&amp;aacute; z verejn&amp;eacute;ho plynovodu z potrubia DN 25mm. Plynov&amp;aacute; pr&amp;iacute;pojka m&amp;aacute; dĺžku 36,0 bm. Predpokladan&amp;aacute; životnosť je stanoven&amp;aacute; odborn&amp;yacute;m odhadom na 50 rokov pri bežnej &amp;uacute;držbe.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;strong&gt;&lt;u&gt;Spevnen&amp;aacute; plocha dvora na parc. KN-C č.1470/73 k.&amp;uacute;. Teplička nad V&amp;aacute;hom&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Predmetom ohodnotenia s&amp;uacute; spevnen&amp;eacute; plochy z drven&amp;eacute;ho makad&amp;aacute;mu, ktor&amp;eacute; sl&amp;uacute;žia ako odstavn&amp;eacute; plochy pre n&amp;aacute;kladn&amp;eacute; vozidl&amp;aacute; a stavebn&amp;eacute; mechanizmy. Životnosť vonkaj&amp;scaron;&amp;iacute;ch &amp;uacute;prav je stanoven&amp;aacute; odborn&amp;yacute;m odhadom na 40 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;strong&gt;&lt;u&gt;Spevnen&amp;eacute; plochy na parc. KN-C č.1470/73 k.&amp;uacute;. Teplička nad V&amp;aacute;hom&lt;/u&gt;&lt;/strong&gt; Predmetom ohodnotenia s&amp;uacute; spevnen&amp;eacute; plochy, ktor&amp;eacute; sl&amp;uacute;žia ako chodn&amp;iacute;ky pre pe&amp;scaron;&amp;iacute;ch. Spevnen&amp;eacute; plochy s&amp;uacute; z bet&amp;oacute;novej z&amp;aacute;mkovej dlažby osadenej v bet&amp;oacute;novej mazanine. Životnosť vonkaj&amp;scaron;&amp;iacute;ch &amp;uacute;prav je stanoven&amp;aacute; odborn&amp;yacute;m odhadom na 40 rokov.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;POZEMKY - Pozemky sa nach&amp;aacute;dzaj&amp;uacute; v extravil&amp;aacute;ne obce Teplička nad V&amp;aacute;hom, v k.&amp;uacute;. Teplička nad V&amp;aacute;hom. Hodnoten&amp;aacute; plocha je z časti zastavan&amp;aacute; objektami administrat&amp;iacute;vnej budovy s&amp;uacute;p.č. 1326 a gar&amp;aacute;ž&amp;iacute; a skladov&amp;yacute;ch priestorov (zastavan&amp;eacute; pozemky parc.KN-C 1470/73, 1470/74, 1470/76). Are&amp;aacute;l m&amp;aacute; dobudovan&amp;uacute; kompletn&amp;uacute; infra&amp;scaron;trukt&amp;uacute;ru s možnosťou napojenia sa na v&amp;scaron;etky inžinierske siete. Dostupnosť centra obce Teplička nad V&amp;aacute;hom ako aj mesta Žilina a t&amp;yacute;m aj kompletnej občianskej vybavenosti je veľmi dobr&amp;aacute;, t.j. hodnoten&amp;eacute; pozemky sa nach&amp;aacute;dzaj&amp;uacute; do 5min. jazdy autom.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Parc. reg. C KN č. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;Parcela&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;Druh pozemku&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;Spolu v&amp;yacute;mera [m2]&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;Podiel&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;V&amp;yacute;mera [m2]&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1470/73&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;zastavan&amp;eacute; plochy a n&amp;aacute;dvoria&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1608,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1608,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1470/74&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;zastavan&amp;eacute; plochy a n&amp;aacute;dvoria&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;692,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;692,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1470/76&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;eacute; plochy a n&amp;aacute;dvoria&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;192,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;192,00&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Spolu v&amp;yacute;mera&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;2&amp;nbsp;492,00&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</PredmetOpis>
+  <PredmetStavOpis>&lt;p&gt;&lt;strong&gt;Predmet dražby sa draž&amp;iacute; tak ako &amp;bdquo;stoj&amp;iacute; a&amp;nbsp;lež&amp;iacute;&amp;ldquo;. &lt;/strong&gt;Vzhľadom na skutočnosť, že predmetom dražby je použit&amp;aacute; vec, ktor&amp;aacute; sa prev&amp;aacute;dza v&amp;nbsp;stave v&amp;nbsp;akom sa nach&amp;aacute;dza ku dňu konania dražby nezodpoved&amp;aacute; navrhovateľ ani dražobn&amp;iacute;k za jej vady. Dražobn&amp;iacute;k s&amp;uacute;časne oboznamuje &amp;uacute;častn&amp;iacute;kov dražby, že na tento predaj prostredn&amp;iacute;ctvom dražby sa v&amp;nbsp;s&amp;uacute;lade s &amp;sect; 612 ods. 3 p&amp;iacute;sm. b) OZ nevzťahuj&amp;uacute; ustanovenia &amp;sect; 615 až 626 OZ spotrebiteľskej k&amp;uacute;pnej zmluvy upravuj&amp;uacute;cich akosť pred&amp;aacute;vanej veci,&amp;nbsp;zodpovednosť za vady &amp;nbsp;na n&amp;aacute;roky z&amp;nbsp;nich vypl&amp;yacute;vaj&amp;uacute;ce a&amp;nbsp;ustanovenia o&amp;nbsp;spotrebiteľskej z&amp;aacute;ruke. &amp;nbsp;&lt;/p&gt;
+</PredmetStavOpis>
+  <PredmetPravaZavazky>LV č. 5009
+V 1458/2021 - Záložná zmluva k nehnuteľnostiam č. 141/CC/19-ZZ1 v prospech Slovenská sporiteľňa, a.s., Tomášikova 48, 832 37 Bratislava, IČO:00151653 na stavbu - predajnoobchodné priestory a kancelárie súp. číslo 1326 na pozemku C KN parc. č. 1470/76, stavbu - garáže a skladové priestory súp. číslo 1357 na pozemku C KN parc. č. 1470/74, vklad povolený dňa 29.03.2021 - 133/2021;
+
+Z 7633/2025 - Exekučný príkaz č. 384EX 597/25 na vykonanie exekúcie zriadením ex. zál. práva od súdneho exekútora JUDr. Jozef Augustín, PhD., Moyzesova 923/49, Žilina v prospech oprávneného Ravson s.r.o., Družobná 65, Bratislava, IČO: 00644021 na stavbu: predaj.-obch. priest. a kanc. čs. 1326 na pozemku registra C KN parc.č. 1470/76, garáže a skladové priestory čs. 1357 na pozemku registra C KN parc.č. 1470/74 - 624/2025;
+
+Z 7634/2025 - Exekučný príkaz č. 384EX 586/25 na vykonanie exekúcie zriadením ex. zál. práva od súdneho exekútora JUDr. Jozef Augustín, PhD., Moyzesova 923/49, Žilina v prospech oprávneného Ravson s.r.o., Družobná 65, Bratislava, IČO: 00644021 na stavbu: predaj.-obch. priest. a kanc. čs. 1326 na pozemku registra C KN parc.č. 1470/76, garáže a skladové priestory čs. 1357 na pozemku registra C KN parc.č. 1470/74 - 625/2025;
+
+Z 7673/2025 - Exekučný príkaz č. 384EX 550/25 na vykonanie exekúcie zriadením ex. zál. práva od súdneho exekútora JUDr. Jozef Augustín, PhD., Moyzesova 923/49, Žilina v prospech oprávneného Štefan Budzák, Tatranská 1010/19, Lendak, IČO: 44407165 na stavbu: predaj.- obch. priest. a kanc. čs. 1326 na pozemku registra C KN parc.č. 1470/76, garáže a skladové priestory čs. 1357 na pozemku registra C KN parc.č. 1470/74 - 626/2025;
+
+Z 7674/2025 - Exekučný príkaz č. 384EX 562/25 na vykonanie exekúcie zriadením ex. zál. práva od súdneho exekútora JUDr. Jozef Augustín, PhD., Moyzesova 923/49, Žilina v prospech oprávneného KRANKAS s.r.o., Bratislavská 1, Žilina, IČO: 36372111 na stavbu: predaj.-obch. priest. a kanc. čs. 1326 na pozemku registra C KN parc.č. 1470/76, garáže a skladové priestory čs. 1357 na pozemku registra C KN parc.č. 1470/74 - 627/2025;
+
+Z 7821/2025 - Exekučný príkaz č. 384EX 555/25 na vykonanie exekúcie zriadením ex. zál. práva od súdneho exekútora JUDr. Jozef Augustín, PhD., Moyzesova 923/49, Žilina v prospech oprávneného J-D Company SK, s.r.o., Mútne 282/0, IČO: 51293862 na stavbu: predaj.-obch. priest. a kanc. čs. 1326 na pozemku registra C KN parc.č. 1470/76, garáže a skladové priestory čs. 1357 na pozemku registra C KN parc.č. 1470/74 - 641/2025;
+
+Z 8049/2025 - Exekučný príkaz č. 384EX 652/25 na vykonanie exekúcie zriadením ex. zál. práva od súdneho exekútora JUDr. Jozef Augustín, PhD., Moyzesova 923/49, Žilina v prospech oprávneného Grave spol.s.r.o., Jaseňová /18, Žilina., IČO: 31624626 na stavbu: predaj.-obch. priest. a kanc. čs. 1326 na pozemku registra C KN parc.č. 1470/76, garáže a skladové priestory čs. 1357 na pozemku registra C KN parc.č. 1470/74 - 658/2025;
+
+Z 8051/2025 - Exekučný príkaz č. 384EX 661/25 na vykonanie exekúcie zriadením ex. zál. práva od súdneho exekútora JUDr. Jozef Augustín, PhD., Moyzesova 923/49, Žilina v prospech oprávneného DOKA Slovakia, Debniaca technika s.r.o., Ivanská cesta /28, Bratislava-Ružinov., IČO: 31354335 na stavbu: predaj.-obch. priest. a kanc. čs. 1326 na pozemku registra C KN parc.č. 1470/76, garáže a skladové priestory čs. 1357 na pozemku registra C KN parc.č. 1470/74 - 659/2025;
+
+Z 8053/2025 - Exekučný príkaz č. 384EX 636/25 na vykonanie exekúcie zriadením ex. zál. práva od súdneho exekútora JUDr. Jozef Augustín, PhD., Moyzesova 923/49, Žilina v prospech oprávneného Almya spol.s.r.o., M.R.Štefánika 77, Žilina., IČO: 46418750 na stavbu: predaj.- obch. priest. a kanc. čs. 1326 na pozemku registra C KN parc.č. 1470/76, garáže a skladové priestory čs. 1357 na pozemku registra C KN parc.č. 1470/74 - 660/2025;
+
+Z 8430/2025 - Rozhodnutie č. 105122218/2025 o zriadení zál. práva v prospech Daňový úrad Žilina, Janka Kráľa 2, Žilina na stavbu: predaj.-obch. priest. a kanc. čs. 1326 na pozemku registra C KN parc.č. 1470/76, garáže a skladové priestory čs. 1357 na pozemku registra C KN parc.č. 1470/74, zákaz nakladania s predmetom zál. práva - 684/2025; 16/2026;
+
+Z 388/2026 - Exekučný príkaz č. 384EX 666/25 na vykonanie exekúcie zriadením ex. zál. práva od súdneho exekútora JUDr. Jozef Augustín, PhD., Moyzesova 923/49, Žilina v prospech oprávneného GRAVE spol.s.r.o., Jaseňová /18, Žilina., IČO: 31624626 na stavbu: predaj.-obch. priest. a kanc. čs. 1326 na pozemku registra C KN parc.č. 1470/76, garáže a skladové priestory čs. 1357 na pozemku registra C KN parc.č. 1470/74 - 30/2026;
+
+Z 389/2026 - Exekučný príkaz č. 384EX 699/25 na vykonanie exekúcie zriadením ex. zál. práva od súdneho exekútora JUDr. Jozef Augustín, PhD., Moyzesova 923/49, Žilina v prospech oprávneného SLOVNAPO,.s.r.o., Závodská 46/2937, Žilina., IČO: 31607527 na stavbu: predaj.-obch. priest. a kanc. čs. 1326 na pozemku registra C KN parc.č. 1470/76, garáže a skladové priestory čs. 1357 na pozemku registra C KN parc.č. 1470/74 - 31/2026;
+
+Z 390/2026 - Exekučný príkaz č. 384EX 703/25 na vykonanie exekúcie zriadením ex. zál. práva od súdneho exekútora JUDr. Jozef Augustín, PhD., Moyzesova 923/49, Žilina v prospech oprávneného MD-MAX crane.s.r.o., Robotnícka 2137, P.Bystrica., IČO: 54239834 na stavbu: predaj.-obch. priest. a kanc. čs. 1326 na pozemku registra C KN parc.č. 1470/76, garáže a skladové priestory čs. 1357 na pozemku registra C KN parc.č. 1470/74 - 32/2026;
+
+Z 1230/2026 - Exekučný príkaz č. 384EX 754/25 na vykonanie exekúcie zriadením ex. zál. práva od súdneho exekútora JUDr. Jozef Augustín, PhD., Moyzesova 923/49, Žilina v prospech oprávneného MARPAI, s.r.o., Štúrova 1211/63, Kys. Nové Mesto, IČO: 46947035 na stavbu: predaj.-obch. priest. a kanc. čs. 1326 na pozemku registra C KN parc.č. 1470/76, garáže a skladové priestory čs. 1357 na pozemku registra C KN parc.č. 1470/74 - 186/2026;
+
+Z 1231/2026 - Exekučný príkaz č. 384EX 16/26 na vykonanie exekúcie zriadením ex. zál. práva od súdneho exekútora JUDr. Jozef Augustín, PhD., Moyzesova 923/49, Žilina v prospech oprávneného MD-MAX, s.r.o., Robotnícka 4357, Pov.Bystrica, IČO: 46564667 na stavbu: predaj.-obch. priest. a kanc. čs. 1326 na pozemku registra C KN parc.č. 1470/76, garáže a skladové priestory čs. 1357 na pozemku registra C KN parc.č. 1470/74 - 187/2026;
+
+Z 2334/2026 - Exekučný príkaz č. 384EX 109/26 na vykonanie exekúcie zriadením ex. zál. práva od súdneho exekútora JUDr. Jozef Augustín, PhD., Moyzesova 923/49, Žilina v prospech oprávneného STAVMAT-STAVEBNINY, s.r.o., Pezinská 56, Malacky, IČO: 34116125 na stavbu: predaj.-obch. priest. a kanc. čs. 1326 na pozemku registra C KN parc.č. 1470/76, garáže a skladové priestory čs. 1357 na pozemku registra C KN parc.č. 1470/74 - 190/2026;
+
+Poznámka:
+		P 98/2026 - Upovedomenie o spôsobe vykonania exekúcie č. 384EX 56/26 od súd. exekútora: JUDr. Jozef Augustín, PhD., Exekútorský úrad Žilina, Moyzesova 923/49, Žilina, v prospech oprávneného: MIRALEX, s.r.o., Štefánikova 828/0, Púchov, IČO: 36016454, zriadením exekučného záložného práva na nehnuteľnosti: Predajno-obchodné priestory a kancelárie súp. č. 1326 na pozemku parc.č. 1470/76, Garáže a skladové priestory súp. č. 1357 na pozemku parc. č. 1470/74 - Zákaz nakladania s nehnuteľnosťami - 85/2026;
+
+		P 199/2026 - Oznámenie o výkone zál. práva podľa § 151 ods.1 zákona č. 40/1964 Zb. 46947035 na stavbu: predaj.-obch. priest. a kanc. čs. 1326 na pozemku registra C KN parc.č. 1470/76, garáže a skladové priestory čs. 1357 na pozemku registra C KN parc.č. 1470/74 v prospech Slovenská sporiteľňa, a.s., Tomášikova 48, 832 37 Bratislava z titulu zmluvy o úvere č. 141/CC/19 zo dňa 21.03.2019 predajom nehnuteľností na dobrovoľnej dražbe v zmysle zák. č. 323/1992 Zb. - 189/2026;
+
+		LV č. 4443
+V 1458/2021 - Záložná zmluva k nehnuteľnostiam č. 141/CC/19-ZZ1 v prospech Slovenská sporiteľňa, a.s., Tomášikova 48, 832 37 Bratislava, IČO:00151653 na pozemok C KN parc. č. 1470/73 zast. pl. o výmere 1608 m2, C KN parc. č. 1470/74 zast. pl. o výmere 692 m2, C KN parc. č. 1470/76 zast. pl. o výmere 192 m2, vklad povolený dňa 29.03.2021 - 133/2021;
+
+Poznámky:
+P 770/2025 - Poznamenáva sa rozhodcovské uznesenie č. R 157/2025 od JUDr. Milan Vojtek, LL.M., Jilemnického 30, 036 01 Martin, žalobcu: LADCE betón, s.r.o., Ladce, proti žalovanému: 1/ Unistav, Teplička nad Váhom a 2/ Obšivan Radoslav, rod. Obšivan, Žilina na predbežné opatrenie: Rozhodca zakazuje žalovanému v rade 2/ previesť, zaťažiť ťarchou, nájmom alebo vecným bremenom, poškodiť, zničiť, či akýmkoľvek spôsobom nakladať s nehnuteľnosťami: pozemky registra CKN parc.č. 1470/73 - zastavaná plocha a nádvorie o výmere 1608 m2, parc.č. 1470/74 - zastavaná plocha a nádvorie o výmere 692 m2 a parc.č. 1470/76 - zastavaná plocha a nádvorie o výmere 192 m2, a to až do vydania poverenia na vykonanie exekúcie súdnemu exekútorovi, na vymoženie žalovanej sumy s príslušenstvom, splnenia povinnosti uloženej v rozhodcovskom rozsudku, maximálne však do 90 dní odo dňa právoplatnosti rozhodnutia o veci samej - 630/2025
+P 98/2026 - Upovedomenie o spôsobe vykonania exekúcie č. 384EX 56/26 od súd. exekútora: JUDr. Jozef Augustín, PhD., Exekútorský úrad Žilina, Moyzesova 923/49, Žilina, v prospech oprávneného: MIRALEX, s.r.o., Štefánikova 828/0, Púchov, IČO: 36016454, zriadením exekučného záložného práva na nehnuteľnosti: pozemky reg. C KN parc. č. 1470/73 - zastavaná plocha a nádvorie o výmere 1608 m2, parc. č. 1470/74 - zastavaná plocha a nádvorie o výmere 692 m2, parc. č. 1470/76 - zastavaná plocha a nádvorie o výmere 192 m2 - Zákaz nakladania s nehnuteľnosťami - 85/2026;
+
+P 199/2026 - Oznámenie o výkone zál. práva podľa § 151 ods.1 zákona č. 40/1964 Zb. 46947035 na pozemok registra C KN parc.č. 1470/73 zast.pl. o výmere 1608 m2, pozemok registra C KN parc.č. 1470/74 zast.pl. o výmere 692 m2, pozemok registra C KN parc.č. 1470/76 zast.pl. o výmere 192 m2 v prospech Slovenská sporiteľňa, a.s., Tomášikova 48, 832 37 Bratislava z titulu zmluvy o úvere č. 141/CC/19 zo dňa 21.03.2019 predajom nehnuteľností na dobrovoľnej dražbe v zmysle zák. č. 323/1992 Zb. - 189/2026;
+</PredmetPravaZavazky>
+  <PredmetCenaOdhad>znaleckým posudkom č. 122/2026, súdnym znalcom Ing. Branislavom Janigom v sume 850.000,- €</PredmetCenaOdhad>
+  <PredmetCenaVyska>1.210.000,- €</PredmetCenaVyska>
+  <PredmetCenaSposobStanovenia xsi:nil="true" />
+  <PredmetPodmienkyOdovzdania xsi:nil="true" />
+  <NajnizsiePodanie>850.000,- €</NajnizsiePodanie>
+  <NajvyssiePodanie xsi:nil="true" />
+  <MinimalnePrihodenie xsi:nil="true" />
+  <Zabezpeka xsi:nil="true" />
+  <SposobUhradyCeny xsi:nil="true" />
+  <ObhliadkaDatum xsi:nil="true" />
+  <ObhliadkaMiesto xsi:nil="true" />
+  <OrganizaceOpatrenia xsi:nil="true" />
+  <NadobudnutieVlastnickehoPrava xsi:nil="true" />
+  <DovodUpustenia xsi:nil="true" />
+  <DrazobnikOznamuje xsi:nil="true" />
+</Drazba>

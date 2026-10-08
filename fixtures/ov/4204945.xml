@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Cislo>034/2026</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>DRAŽOBNÍK, s.r.o.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Národná trieda</Ulica>
+      <Cislo>10</Cislo>
+      <Obec>Košice</Obec>
+      <Psc>04001</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="148">Mestský súd Košice</Sud>
+    <Oddiel>Sro</Oddiel>
+    <Vlozka>19669/V</Vlozka>
+    <Ico>36764281</Ico>
+  </ns0:Drazobnik>
+  <ns0:Navrhovatelia xsi:nil="true" />
+  <ns0:LicitatoriHeader>Označenie licitátora</ns0:LicitatoriHeader>
+  <ns0:Licitatori>
+    <ns0:Licitator>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Ján Vzorový</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Hlavná</Ulica>
+          <Cislo>1</Cislo>
+          <Obec>Košice</Obec>
+          <Psc>00000</Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Oddiel />
+        <Vlozka />
+        <Ico />
+      </ns0:CeleMeno>
+    </ns0:Licitator>
+  </ns0:Licitatori>
+  <ns0:Notar xsi:nil="true" />
+  <ns0:KonanieMiesto>Notársky úrad JUDr. Lucia Haspel Dobrovodská, Kalinčiakova 14083/33, Bratislava</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-09-22</ns0:KonanieDatum>
+  <ns0:KonanieCas>13,15 hod.</ns0:KonanieCas>
+  <ns0:Kolo>prvé</ns0:Kolo>
+  <ns0:Predmet>&lt;p&gt;&lt;strong&gt;a) Byt č. 12 - A12&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;na 3. poschod&amp;iacute;&amp;nbsp;&lt;/strong&gt;bytov&amp;eacute;ho domu &amp;ndash; Pod Vachmajstrom 14, so s&amp;uacute;p. č. 13972,&amp;nbsp;&lt;strong&gt;vchod Pod Vachmajstrom 14&lt;/strong&gt;, ulica&amp;nbsp;Pod Vachmajstrom v&amp;nbsp;Bratislave, postaven&amp;yacute; na parc. č. 4976/1, 4976/10, 4976/12, 4976/14, 4976/16, 4976/18, 4976/20, 4976/22, 4976/24, 4976/26, 4976/28, 4976/30.&lt;/p&gt;
+
+&lt;p&gt;Parcely registra &amp;bdquo;C&amp;ldquo; evidovan&amp;eacute; na katastr&amp;aacute;lnej mape:&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4976/1&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;o&amp;nbsp;v&amp;yacute;mere 724 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4976/60&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;o&amp;nbsp;v&amp;yacute;mere 17 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Podiel priestoru na spoločn&amp;yacute;ch častiach a spoločn&amp;yacute;ch zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k pozemku: 15332/174489&lt;/p&gt;
+
+&lt;p&gt;spoluvlastn&amp;iacute;cky podiel: 1/1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;b) Nebytov&amp;yacute; priestor č. G01&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;(Gar&amp;aacute;ž)&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;parkovacie st&amp;aacute;tie č. 7 na - 1 suter&amp;eacute;n&amp;nbsp;&lt;/strong&gt;bytov&amp;eacute;ho domu &amp;ndash; Pod Vachmajstrom 14, so s&amp;uacute;p. č. 13972,&amp;nbsp;&lt;strong&gt;vchod Pod Vachmajstrom 14&lt;/strong&gt;, ulica&amp;nbsp;Pod Vachmajstrom v&amp;nbsp;Bratislave, postaven&amp;yacute; na parc. č. 4976/1, 4976/10, 4976/12, 4976/14, 4976/16, 4976/18, 4976/20, 4976/22, 4976/24, 4976/26, 4976/28, 4976/30.&lt;/p&gt;
+
+&lt;p&gt;Parcely registra &amp;bdquo;C&amp;ldquo; evidovan&amp;eacute; na katastr&amp;aacute;lnej mape:&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4976/1&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;o&amp;nbsp;v&amp;yacute;mere 724 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4976/60&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&amp;nbsp; &amp;nbsp; &amp;nbsp; o&amp;nbsp;v&amp;yacute;mere 17 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Podiel priestoru na spoločn&amp;yacute;ch častiach a spoločn&amp;yacute;ch zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k pozemku: 36048/174489&lt;/p&gt;
+
+&lt;p&gt;spoluvlastn&amp;iacute;cky podiel: 1/13&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;c) Nebytov&amp;yacute; priestor č. S06&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;(Skladov&amp;yacute; priestor)&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;na - 1 suter&amp;eacute;n&amp;nbsp;&lt;/strong&gt;bytov&amp;eacute;ho domu &amp;ndash; Pod Vachmajstrom 14, so s&amp;uacute;p. č. 13972, &lt;strong&gt;vchod Pod Vachmajstrom 14&lt;/strong&gt;, ulica&amp;nbsp;Pod Vachmajstrom v&amp;nbsp;Bratislave, postaven&amp;yacute; na parc. č. 4976/1, 4976/10, 4976/12, 4976/14, 4976/16, 4976/18, 4976/20, 4976/22, 4976/24, 4976/26, 4976/28, 4976/30.&lt;/p&gt;
+
+&lt;p&gt;Parcely registra &amp;bdquo;C&amp;ldquo; evidovan&amp;eacute; na katastr&amp;aacute;lnej mape:&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4976/1&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;o&amp;nbsp;v&amp;yacute;mere 724 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4976/60&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;o&amp;nbsp;v&amp;yacute;mere 17 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Podiel priestoru na spoločn&amp;yacute;ch častiach a spoločn&amp;yacute;ch zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k pozemku: 255/174489&lt;/p&gt;
+
+&lt;p&gt;spoluvlastn&amp;iacute;cky podiel: 1/1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;d) Nebytov&amp;yacute; priestor č. T03&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;(In&amp;yacute; nebytov&amp;yacute; priestor)&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;na - 1 suter&amp;eacute;n&amp;nbsp;&lt;/strong&gt;bytov&amp;eacute;ho domu &amp;ndash; Pod Vachmajstrom 14, so s&amp;uacute;p. č. 13972, &lt;strong&gt;vchod Pod Vachmajstrom 14&lt;/strong&gt;, ulica&amp;nbsp;Pod Vachmajstrom v&amp;nbsp;Bratislave, postaven&amp;yacute; na parc. č. 4976/1, 4976/10, 4976/12, 4976/14, 4976/16, 4976/18, 4976/20, 4976/22, 4976/24, 4976/26, 4976/28, 4976/30.&lt;/p&gt;
+
+&lt;p&gt;Parcely registra &amp;bdquo;C&amp;ldquo; evidovan&amp;eacute; na katastr&amp;aacute;lnej mape:&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4976/1&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;o&amp;nbsp;v&amp;yacute;mere 724 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4976/60&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;o&amp;nbsp;v&amp;yacute;mere 17 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Podiel priestoru na spoločn&amp;yacute;ch častiach a spoločn&amp;yacute;ch zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k pozemku: 2557/174489&lt;/p&gt;
+
+&lt;p&gt;spoluvlastn&amp;iacute;cky podiel: 1/32&lt;/p&gt;
+
+&lt;p&gt;Pr&amp;aacute;vny vzťah k pozemku pod stavbou s.č. 13972 p.č.: 4976/10 je evidovan&amp;yacute; na LV č. 7615, p.č. 4976/12 a 4976/14 s&amp;uacute; evidovan&amp;eacute; na LV č. 7591, p.č. 4976/16 je evidovan&amp;yacute; na LV č. 7602, p.č. 4976/18 je evidovan&amp;yacute; na LV č. 7589, p.č. 4976/20 je evidovan&amp;yacute; na LV č. 7616, p.č. 4976/22 je evidovan&amp;yacute; na LV č. 7590, p.č. 4976/24 je evidovan&amp;yacute; na LV č. 7604, p.č. 4976/26 je evidovan&amp;yacute; na LV č. 7618, p.č. 4976/28 je evidovan&amp;yacute; na LV č. 7599 a p.č. 4976/30 je evidovan&amp;yacute; na LV č. 7618.&lt;/p&gt;
+
+&lt;p&gt;Identifikovan&amp;eacute; nehnuteľnosti s&amp;uacute; zap&amp;iacute;san&amp;eacute; Okresn&amp;yacute;m &amp;uacute;radom Bratislava, katastr&amp;aacute;lnym odborom na&amp;nbsp;&lt;strong&gt;LV č. 7528&lt;/strong&gt;, okres: Bratislava III, obec: Bratislava-Nov&amp;eacute; Mesto,&amp;nbsp;&lt;strong&gt;katastr&amp;aacute;lne &amp;uacute;zemie: Vinohrady&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;e) Pozemky &lt;/strong&gt;- parcely registra &amp;bdquo;C&amp;ldquo; evidovan&amp;eacute; na katastr&amp;aacute;lnej mape:&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4975/1&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Ostatn&amp;aacute; plocha&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; o&amp;nbsp;v&amp;yacute;mere 209 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4975/6&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Ostatn&amp;aacute; plocha&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; o&amp;nbsp;v&amp;yacute;mere 247 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4976/41&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Ostatn&amp;aacute; plocha&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; o&amp;nbsp;v&amp;yacute;mere 57 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4976/43&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;o&amp;nbsp;v&amp;yacute;mere 361 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4976/44&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;o&amp;nbsp;v&amp;yacute;mere 6 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4976/45&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;o&amp;nbsp;v&amp;yacute;mere 5 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4976/46&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Ostatn&amp;aacute; plocha&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; o&amp;nbsp;v&amp;yacute;mere 9 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4976/47&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;o&amp;nbsp;v&amp;yacute;mere 35 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4976/49&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;o&amp;nbsp;v&amp;yacute;mere 80 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4976/51&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Ostatn&amp;aacute; plocha&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; o&amp;nbsp;v&amp;yacute;mere 15 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4976/52&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;o&amp;nbsp;v&amp;yacute;mere 9 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4976/59&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Ostatn&amp;aacute; plocha&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; o&amp;nbsp;v&amp;yacute;mere 32 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4976/65&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Ostatn&amp;aacute; plocha&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; o&amp;nbsp;v&amp;yacute;mere 118 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;spoluvlastn&amp;iacute;cky podiel: 4/133&lt;/p&gt;
+
+&lt;p&gt;Identifikovan&amp;eacute; nehnuteľnosti s&amp;uacute; zap&amp;iacute;san&amp;eacute; Okresn&amp;yacute;m &amp;uacute;radom Bratislava, katastr&amp;aacute;lnym odborom na&amp;nbsp;&lt;strong&gt;LV č. 7531&lt;/strong&gt;, okres: Bratislava III, obec: Bratislava-Nov&amp;eacute; Mesto,&amp;nbsp;&lt;strong&gt;katastr&amp;aacute;lne &amp;uacute;zemie: Vinohrady&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;f) Pozemky &lt;/strong&gt;- parcely registra &amp;bdquo;C&amp;ldquo; evidovan&amp;eacute; na katastr&amp;aacute;lnej mape:&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4976/15&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; o&amp;nbsp;v&amp;yacute;mere 7 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;parc. č. 4976/16&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; o&amp;nbsp;v&amp;yacute;mere 6 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;spoluvlastn&amp;iacute;cky podiel: 1/1&lt;/p&gt;
+
+&lt;p&gt;Identifikovan&amp;eacute; nehnuteľnosti s&amp;uacute; zap&amp;iacute;san&amp;eacute; Okresn&amp;yacute;m &amp;uacute;radom Bratislava, katastr&amp;aacute;lnym odborom na&amp;nbsp;&lt;strong&gt;LV č. 7602&lt;/strong&gt;, okres: Bratislava III, obec: Bratislava-Nov&amp;eacute; Mesto,&amp;nbsp;&lt;strong&gt;katastr&amp;aacute;lne &amp;uacute;zemie: Vinohrady&lt;/strong&gt;.&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;Byt pozost&amp;aacute;va z piatich obytn&amp;yacute;ch miestnost&amp;iacute; a z pr&amp;iacute;slu&amp;scaron;enstva- chodba, dve k&amp;uacute;peľne s WC, samostatn&amp;eacute; WC, technick&amp;aacute; miestnosť, kuchyňa spojen&amp;aacute; s ob&amp;yacute;vacou izbou. K bytu patria aj dve terasy- jedna je pr&amp;iacute;stupn&amp;aacute; z ob&amp;yacute;vacej izby a druh&amp;aacute; pr&amp;iacute;stupn&amp;aacute; z troch izieb. Vstupn&amp;eacute; dvere do bytu s&amp;uacute; bezpečnostn&amp;eacute; protipožiarne. Okn&amp;aacute; hlin&amp;iacute;kov&amp;eacute; s izolačn&amp;yacute;m trojsklom + vonkaj&amp;scaron;ie hlin&amp;iacute;kov&amp;eacute; el. ovl&amp;aacute;dan&amp;eacute; žal&amp;uacute;zie. Interi&amp;eacute;rov&amp;eacute; dvere dreven&amp;eacute; kazetov&amp;eacute;, pln&amp;eacute; , bielej farby, dreven&amp;eacute; obložkov&amp;eacute; z&amp;aacute;rubne. Podlahy veľkoform&amp;aacute;tov&amp;eacute; gresov&amp;eacute; v chodbe, ob&amp;yacute;vacej izbe s kuchyňou, k&amp;uacute;peľniach a v izb&amp;aacute;ch lamin&amp;aacute;tov&amp;eacute;, na teras&amp;aacute;ch lamely z tropick&amp;eacute;ho dreva na ro&amp;scaron;te a terčoch. Povrchov&amp;eacute; &amp;uacute;pravy stien hladk&amp;eacute; sadrov&amp;eacute; omietky biele a t&amp;oacute;novan&amp;eacute; maľby, na niektor&amp;yacute;ch sten&amp;aacute;ch tapety, na chodbe v ob&amp;yacute;vacej izbe, v sp&amp;aacute;lni na sten&amp;aacute;ch ozdobn&amp;eacute; listely, v k&amp;uacute;peľniach veľkoform&amp;aacute;tov&amp;yacute; gresov&amp;yacute; obklad. Vykurovanie podlahov&amp;eacute; teplovodn&amp;eacute;, stropn&amp;eacute; chladenie, zdroj &amp;Uacute;K a T&amp;Uacute;V vlastn&amp;yacute; plynov&amp;yacute; kotol umiestnen&amp;yacute; v technickej miestnosti.&lt;/p&gt;
+
+&lt;p&gt;Nebytov&amp;yacute; priestor č. G01- hromadn&amp;aacute; gar&amp;aacute;ž sa nach&amp;aacute;dza na podzemnom podlaž&amp;iacute; s celkovou podlahovou plochou 360,48 m2, spoluvlastn&amp;iacute;cky podiel 1/13, ktor&amp;eacute;mu zodpoved&amp;aacute; v&amp;yacute;hradn&amp;eacute; už&amp;iacute;vacie pr&amp;aacute;vo ku gar&amp;aacute;žov&amp;eacute;mu st&amp;aacute;tiu č. 7.&lt;/p&gt;
+
+&lt;p&gt;Skladov&amp;yacute; priestor s podlahovou plochou 2,55 m2 a nach&amp;aacute;dza sa na podzemnom podlaž&amp;iacute;. Murovan&amp;eacute; deliace kon&amp;scaron;trukcie, hladk&amp;eacute; v&amp;aacute;penn&amp;eacute; omietky a biele maľby, bet&amp;oacute;nov&amp;aacute; podlaha + protipra&amp;scaron;n&amp;yacute; n&amp;aacute;ter, sveteln&amp;aacute; elektroin&amp;scaron;tal&amp;aacute;cia, pln&amp;eacute; uzamykateľn&amp;eacute; dvere v oceľovej z&amp;aacute;rubni.&lt;/p&gt;
+
+&lt;p&gt;Skladov&amp;yacute; priestor- miestnosť odpadkov s podlahovou plochou 25,57 m2 a nach&amp;aacute;dza sa na podzemnom podlaž&amp;iacute;, spoluvlastn&amp;iacute;cky podiel 1/32. Murovan&amp;eacute; deliace kon&amp;scaron;trukcie, hladk&amp;eacute; v&amp;aacute;penn&amp;eacute; omietky a biele maľby, bet&amp;oacute;nov&amp;aacute; podlaha + protipra&amp;scaron;n&amp;yacute; n&amp;aacute;ter, sveteln&amp;aacute; elektroin&amp;scaron;tal&amp;aacute;cia, pln&amp;eacute; uzamykateľn&amp;eacute; dvere v oceľovej z&amp;aacute;rubni.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Opis bytov&amp;eacute;ho domu&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Bytov&amp;yacute; dom m&amp;aacute; tri nadzemn&amp;eacute; podlažia, jedno podzemn&amp;eacute; podlažie, jeden vchod, jeden osobn&amp;yacute; v&amp;yacute;ťah. V podzemnom podlaž&amp;iacute; sa nach&amp;aacute;dza gar&amp;aacute;ž a technick&amp;aacute; miestnosť, miestnosť odpadkov a skladov&amp;eacute; priestory. Na nadzemn&amp;yacute;ch podlažiach sa nach&amp;aacute;dzaj&amp;uacute; byty. Vstup do domu je z v&amp;yacute;chodnej strany priamo z priľahl&amp;yacute;ch spevnen&amp;yacute;ch pl&amp;ocirc;ch (na &amp;uacute;rovni podzemn&amp;eacute;ho podlažia). Stavba domu je založen&amp;aacute; predpoklad&amp;aacute;m na železobet&amp;oacute;novej z&amp;aacute;kladovej doske vr. hydroizol&amp;aacute;cie proti vode a zemnej vlhkosti. Nosn&amp;yacute; syst&amp;eacute;m tvoria steny monolitick&amp;eacute; železobet&amp;oacute;nov&amp;eacute;, stropy a schodisko takisto železobet&amp;oacute;nov&amp;eacute; monolitick&amp;eacute; s rovn&amp;yacute;m podhľadom Obvodov&amp;yacute; pl&amp;aacute;&amp;scaron;ť kontaktn&amp;yacute; zatepľovac&amp;iacute; syst&amp;eacute;m s tepeln&amp;yacute;m izolantom vr. tenkovrstvovej u&amp;scaron;ľachtilej omietky. Steny podzemn&amp;eacute;ho podlažia obklad z tehlov&amp;yacute;ch p&amp;aacute;sikov. Stre&amp;scaron;n&amp;aacute; kon&amp;scaron;trukcia je ploch&amp;aacute; strecha vr&amp;aacute;tane tepelnej izol&amp;aacute;cie a hydroizol&amp;aacute;cie na b&amp;aacute;ze PVC. Klampiarske kon&amp;scaron;trukcie z hlin&amp;iacute;kov&amp;eacute;ho plechu. Vstupn&amp;eacute; a komunikačn&amp;eacute; priestory maj&amp;uacute; povrchov&amp;eacute; &amp;uacute;pravy podl&amp;aacute;h z keramickej dlažby, steny biele maľby, priestory podzemn&amp;eacute;ho podlažia pohľadov&amp;yacute; bet&amp;oacute;n a podlahy epoxidov&amp;yacute; n&amp;aacute;ter. Schodisko je dvojramenn&amp;eacute;, povrchov&amp;aacute; &amp;uacute;prava keramick&amp;aacute; dlažba, oceľov&amp;eacute; z&amp;aacute;bradlie. Vstupn&amp;eacute; dvere hlin&amp;iacute;kov&amp;eacute; s izolačn&amp;yacute;m zasklen&amp;iacute;m, Dom je napojen&amp;yacute; na v&amp;scaron;etky inžinierske siete el. energia, vodovod, kanaliz&amp;aacute;cia, plyn, telekomunik&amp;aacute;cie a internet, kamerov&amp;yacute; syst&amp;eacute;m.&lt;/p&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;Predmet dražby je&amp;nbsp;udržiavan&amp;yacute;, v nad&amp;scaron;tandardnom vyhotoven&amp;iacute; a vo veľmi dobrom technickom a hygienickom stave.&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>ŤARCHY:
+LV 7528
+1, Právo prechodu a prejazdu po pozemku parc.č.4980/16, vinice o výmere 51 m2 v prospech vlastníka pozemkov parc.č. 4976/1, 4976/60, podľa V-25813/07 z 14.9.2007, (GP 3/2018 - Z10451/18), (GP 9/2018 - R-6916/18), (GP č.82/2018 - R-7477/18)
+2, Právo - in rem, ktorému zodpovedá právo prechodu a prejazdu pešo alebo motorovými vozidlami cez pozemky parc.č. 4971/4, 4980/6, 6586/10, 6586/11 v prospech vlastníka pozemkov parc.č.4976/1, 4976/60, podľa V-15082/08 zo dňa 30.05.2008, (GP č.3/2018 - Z10451/18), (GP 9/2018 - R-6916/18), (GP č.82/2018 - R-7477/18)
+3, Právo - in rem, ktorénu zodpovedá právo zriadiť, užívať, a udržiavať vedenie kanalizácie, vedenie vodovodu, vedenie plynovodu, vedenie elektrickej energie, vedenie verejného osvetlenia, vedenie oznamovacích (optických) káblov a iné vedenia inžinierských sietí cez pozemky parc.č.4971/4, 4980/6, 6586/10, 6586/11 v prospech vlastníka pozemkov parc.č.4976/1, 4976/60, podľa V-15082/08 zo dňa 30.05.2008, (GP č.3/2018 - Z-10451/18), (GP 9/2018 - R-6916/18), (GP č.82/2018 - R-7477/18)
+4, Právo - in rem, ktorému zodpovedá právo prechodu a prejazdu pešo alebo motorovými vozidlami cez pozemky parc.č. 6712/57, 6712/206, 6712/60 v prospech vlastníka pozemkov parc.č.4976/1, 4976/60, podľa V-15078/08 zo dňa 30.05.2008, (GP č.3/2018 - Z-10451/18), (GP 9/2018 - R-6916/18), (GP č.82/2018 - R 7477/18); GP ov.č. G1-2099/2025, R-574/2026
+5, Právo - in rem, ktorénu zodpovedá právo zriadiť, užívať, a udržiavať vedenie kanalizácie, vedenie vodovodu, vedenie plynovodu, vedenie elektrickej energie a iné vedenia inžinierských sietí cez pozemky parc.č.6712/57, 6712/206, 6712/60, 6712/71 v prospech vlastníka pozemkov parc.č.4976/1, 4976/60, podľa V-15078/08 zo dňa 30.05.2008, (GP č.3/2018 - Z-10451/18), (GP 9/2018 - R-6916/18), (GP č.82/2018 - R 7477/18); GP ov.č. G1-2099/2025, R-574/2026
+6, Právo - in rem, ktorému zodpovedá právo zriadiť pozemnú komunikáciu na parc.č.6712/60 v prospech vlastníka pozemkov parc.č.4976/1, 4976/60, podľa V-15078/08 zo dňa 30.05.2008, (GP č.3/2018 - Z-10451/18), (GP 9/2018 - R-6916/18), (GP č.82/2018 - R-7477/18)
+7, Právo z vecného bremena - právo uloženia inžinierských sietí na pozemku registra C KN parc. č. 4981 a právo prechodu a vstupu na pozemok registra C KN parc. č. 4981 v rozsahu vyznačenom v geometrickom pláne č. 5/2012 (č.overenia 230/2012) v prospech vlastníka pozemkov registra C KN parc.č. 4976/1, 4976/60, podľa V-8039/14 zo dňa 26.05.2014, (GP č.3/2018 - Z-10451/18), (GP 9/2018 - R-6916/18), (GP č.82/2018 - R-7477/18)
+8, Vecné bremeno na pozemok parc. č. 4976/60, spočívajúce v povinnosti strpieť právo umiestnenia a uloženia NN prípojky a NN kábla, vrátane vstupu na pozemok zaťažený vecným bremenom za účelom zabezpečenia prevádzky, opráv a údržby, v rozsahu vyznačenom geometrickým plánom č. 26/2019 (č.overenia G1-536/2019) v prospech GEON, a.s., IČO 35925566, podľa V-7996/2019 zo dňa 29.3.2019.
+9, Právo z vecného bremena spočívajúce v práve stavby bytového domu súpisné číslo 13972 na pozemkoch CKN parc.č.4976/10, č.4976/12, č.4976/14, č.4976/16, č.4976/18, č.4976/20, č.4976/22, č.4976/24, č.4976/26, č.4976/28, č.4976/30 podľa V-9245/2019 zo dňa 27.05.2019;
+LV 7528 a)
+1, Záložné právo v prospech Slovenská sporiteľňa, a.s. (IČO 00151653) na byt č.12-A12, na 3.p., vchod Pod Vachmajstrom 14 , podľa V-35525/2020 zo dňa 14.01.2021
+2, Záložné právo v prospech micropix, s.r.o. (IČO: 36774936) na byt č.12-A12, na 3.p., vchod Pod Vachmajstrom 14, podľa V-14870/2022 zo dňa 13.05.2022.
+3, Príkaz na zriadenie exekučného záložného práva v prospech oprávneného micropix, s.r.o.(IČO: 36774939) na byt č.12-A12, na 3.p., vchod Pod Vachmajstrom 14, podľa exekučného píkazu č. 133EX 13/24 zo dňa 03.07.2024 (súdny exekútor JUDr. Branislav Plško, Bratislava), Z9819/2024
+LV 7528 b)
+1, Záložné právo v prospech Slovenská sporiteľňa, a.s. (IČO 00151653) na podiel 1/13 na nebytovom priestore - garáž č. G01, na -1.p., vchod Pod Vachmajstrom 14, (parkovacie státie č.7), podľa V-35525/2020 zo dňa 14.01.2021
+2, Príkaz na zriadenie exekučného záložného práva v prospech oprávneného micropix, s.r.o.(IČO: 36774939) na podiel 1/13 k nebytovému priestoru- garáž č. G01, na -1.p., vchod Pod Vachmajstrom 14, (parkovacie státie č.7), podľa exekučného píkazu č. 133EX 13/24 zo dňa 03.07.2024 (súdny exekútor JUDr. Branislav Plško, Bratislava), Z-9819/2024
+LV 7528 c)
+1, Záložné právo v prospech Slovenská sporiteľňa, a.s. (IČO 00151653) na nebytový priestor skladový priestor č. S06, na -1.p., vchod Pod Vachmajstrom 14, podľa V-35525/2020 zo dňa 14.01.2021
+2, Záložné právo v prospech micropix, s.r.o. (IČO: 36774936) na nebytový priestor - skladový priestor č. S06, na -1.p., vchod Pod Vachmajstrom 14, podľa V-14870/2022 zo dňa 13.05.2022.
+3, Príkaz na zriadenie exekučného záložného práva v prospech oprávneného micropix, s.r.o.(IČO: 36774939) na nebytový priestor- skladový priestor č.S06, na -1.p., vchod Pod Vachmajstrom 14, podľa exekučného píkazu č. 133EX 13/24 zo dňa 03.07.2024 (súdny exekútor JUDr. Branislav Plško, Bratislava), Z-9819/2024
+LV 7528 d)
+1, Záložné právo v prospech Slovenská sporiteľňa, a.s. (IČO 00151653) na podiel 1/32 na nebytovom priestore - iný nebytový priestor č. T03, na -1.p., vchod Pod Vachmajstrom 14, podľa V-35525/2020 zo dňa 14.01.2021
+2, Príkaz na zriadenie exekučného záložného práva v prospech oprávneného micropix, s.r.o.(IČO: 36774939) na podiel 1/32 k nebytovému priestoru- - iný nebytový priestor č. T03 , na -1.p., vchod Pod Vachmajstrom 14, podľa exekučného píkazu č. 133EX 13/24 zo dňa 03.07.2024 (súdny exekútor JUDr. Branislav Plško, Bratislava), Z-9819/2024
+LV 7531
+1, Právo prechodu a prejazdu po pozemku parc.č.4980/16, vinice o výmere 51 m2 v prospech vlastníka pozemkov parc.č. 4975/1, 4975/6, 4976/41, 4976/43, 4976/44, 4976/45, 4976/46, 4976/47, 4976/49, 4976/51, 4976/52, 4976/59, 4976/65, podľa V-25813/07 z 14.9.2007, (GP 3/2018 - Z-10451/18), (GP 9/2018 - R-6916/18), (GP č.82/2018 - R-7477/18)
+2, Právo - in rem, ktorému zodpovedá právo prechodu a prejazdu pešo alebo motorovými vozidlami cez pozemky parc.č. 4971/4, 4980/6, 6586/10, 6586/11 v prospech vlastníka pozemkov parc.č.4975/1, 4975/6, 4976/41, 4976/43, 4976/44, 4976/45, 4976/46, 4976/47, 4976/49, 4976/51, 4976/52, 4976/59, 4976/65, podľa V-15082/08 zo dňa 30.05.2008, (GP č.3/2018 - Z-10451/18), (GP 9/2018 - R-6916/18), (GP č.82/2018 - R-7477/18)
+3, Právo - in rem, ktorénu zodpovedá právo zriadiť, užívať, a udržiavať vedenie kanalizácie, vedenie vodovodu, vedenie plynovodu, vedenie elektrickej energie, vedenie verejného osvetlenia, vedenie oznamovacích (optických) káblov a iné vedenia inžinierských sietí cez pozemky parc.č.4971/4, 4980/6, 6586/10, 6586/11 v prospech vlastníka pozemkov parc.č.4975/1, 4975/6, 4976/41, 4976/43, 4976/44, 4976/45, 4976/46, 4976/47, 4976/49, 4976/51, 4976/52, 4976/59, 4976/65, podľa V-15082/08 zo dňa 30.05.2008, (GP č.3/2018 - Z10451/18), (GP 9/2018 - R-6916/18), (GP č.82/2018 - R-7477/18)
+4, Právo - in rem, ktorému zodpovedá právo prechodu a prejazdu pešo alebo motorovými vozidlami cez pozemky parc.č. 6712/57, 6712/206, 6712/60 v prospech vlastníka pozemkov parc.č.4975/1, 4975/6, 4976/41, 4976/43, 4976/44, 4976/45, 4976/46, 4976/47, 4976/49, 4976/51, 4976/52, 4976/59, 4976/65, podľa V-15078/08 zo dňa 30.05.2008, (GP č.3/2018 - Z10451/18), (GP 9/2018 - R-6916/18), (GP č.82/2018 - R 7477/18); GP ov.č. G1-2099/2025, R574/2026
+5, Právo - in rem, ktorénu zodpovedá právo zriadiť, užívať, a udržiavať vedenie kanalizácie, vedenie vodovodu, vedenie plynovodu, vedenie elektrickej energie a iné vedenia inžinierských sietí cez pozemky parc.č.6712/57, 6712/206, 6712/60, 6712/71 v prospech vlastníka pozemkov parc.č.4975/1, 4975/6, 4976/41, 4976/43, 4976/44, 4976/45, 4976/46, 4976/47, 4976/49, 4976/51, 4976/52, 4976/59, 4976/65, podľa V-15078/08 zo dňa 30.05.2008, (GP č.3/2018 - Z10451/18), (GP 9/2018 - R-6916/18), (GP č.82/2018 - R 7477/18); GP ov.č. G1-2099/2025, R574/2026
+6, Právo - in rem, ktorému zodpovedá právo zriadiť pozemnú komunikáciu na parc.č.6712/60 v prospech vlastníka pozemkov parc.č.4975/1, 4975/6, 4976/41, 4976/43, 4976/44, 4976/45, 4976/46, 4976/47, 4976/49, 4976/51, 4976/52, 4976/59, 4976/65, podľa V-15078/08 zo dňa 30.05.2008, (GP č.3/2018 - Z-10451/18), (GP 9/2018 - R-6916/18), (GP č.82/2018 - R7477/18)
+7, Právo z vecného bremena - právo uloženia inžinierských sietí na pozemku registra C KN parc. č. 4981 a právo prechodu a vstupu na pozemok registra C KN parc. č. 4981 v rozsahu vyznačenom v geometrickom pláne č. 5/2012 (č.overenia 230/2012) v prospech vlastníka pozemkov registra C KN parc.č. 4975/1, 4975/6, 4976/41, 4976/43, 4976/44, 4976/45, 4976/46, 4976/47, 4976/49, 4976/51, 4976/52, 4976/59, 4976/65, podľa V-8039/14 zo dňa 26.05.2014, (GP č.3/2018 - Z-10451/18), (GP 9/2018 - R-6916/18), (GP č.82/2018 - R-7477/18)
+8, Vecné bremeno na pozemky parc. č. 4976/41, 4976/43, 4976/44, 4976/45, 4976/46, 4976/47, 4976/51, 4976/59, spočívajúce v povinnosti strpieť právo umiestnenia a uloženia NN prípojky a NN kábla, vrátane vstupu na pozemky zaťažené vecným bremenom za účelom zabezpečenia prevádzky, opráv a údržby, v rozsahu vyznačenom geometrickým plánom č. 26/2019 (č.overenia G1-536/2019) v prospech GEON, a.s., IČO 35925566, podľa V-7996/2019 zo dňa 29.3.2019.
+9, Vecné bremeno spočívajúce v práve užívať a v práve vybudovať detské ihrisko na pozemku registra C KN parc.č. 4975/1 v prospech vlastníka pozemku registra C KN parc.č. 6712/61, podľa V-9030/2019 zo dňa 05.04.2019.
+10, Záložné právo v prospech Slovenská sporiteľňa, a.s. (IČO 00151653) na podiel 4/133 na pozemkoch registra C KN parc.č.4975/1, 4975/6, 4976/41, 4976/43, 4976/44, 4976/45, 4976/46, 4976/47, 4976/49, 4976/51, 4976/52, 4976/59, 4976/65, podľa V-35525/2020 zo dňa 14.01.2021
+11, Príkaz na zriadenie exekučného záložného práva v prospech oprávneného micropix, s.r.o.(IČO: 36774939) na podiel 4/133 k pozemkom registra C KN parc.č.4975/1, 4975/6, 4976/41, 4976/43, 4976/44, 4976/45, 4976/46, 4976/47, 4976/49, 4976/51, 4976/52, 4976/59, 4976/65, podľa exekučného píkazu č. 133EX 13/24 zo dňa 03.07.2024 (súdny exekútor JUDr. Branislav Plško, Bratislava), Z-9819/2024
+LV 7602
+1, Právo prechodu a prejazdu po pozemku parc.č.4980/16, vinice o výmere 51 m2 v prospech vlastníka pozemkov parc.č. 4976/15, 4976/16, podľa V-25813/07 z 14.9.2007,
+2, Právo - in rem, ktorému zodpovedá právo prechodu a prejazdu pešo alebo motorovými vozidlami cez pozemky parc.č. 4971/4, 4980/6, 6586/10, 6586/11 v prospech vlastníka pozemkov parc.č.4976/15, 4976/16, podľa V-15082/08 zo dňa 30.05.2008
+3, Právo - in rem, ktorénu zodpovedá právo zriadiť, užívať, a udržiavať vedenie kanalizácie, vedenie vodovodu, vedenie plynovodu, vedenie elektrickej energie, vedenie verejného osvetlenia, vedenie oznamovacích (optických) káblov a iné vedenia inžinierských sietí cez pozemky parc.č.4971/4, 4980/6, 6586/10, 6586/11 v prospech vlastníka pozemkov parc.č.4976/15, 4976/16, podľa V-15082/08 zo dňa 30.05.2008
+4, Právo - in rem, ktorému zodpovedá právo prechodu a prejazdu pešo alebo motorovými vozidlami cez pozemky parc.č. 6712/57, 6712/206, 6712/60 v prospech vlastníka pozemkov parc.č.4976/15, 4976/16, podľa V-15078/08 zo dňa 30.05.2008; GP ov.č. G1-2099/2025, R574/2026
+5, Právo - in rem, ktorénu zodpovedá právo zriadiť, užívať, a udržiavať vedenie kanalizácie, vedenie vodovodu, vedenie plynovodu, vedenie elektrickej energie a iné vedenia inžinierských sietí cez pozemky parc.č.6712/57, 6712/206, 6712/60, 6712/71 v prospech vlastníka pozemkov parc.č.4976/15, 4976/16, podľa V-15078/08 zo dňa 30.05.2008; GP ov.č. G1-2099/2025, R574/2026
+6, Právo - in rem, ktorému zodpovedá právo zriadiť pozemnú komunikáciu na parc.č.6712/60 v prospech vlastníka pozemkov parc.č.4976/15, 4976/16, podľa V-15078/08 zo dňa 30.05.2008
+7, Právo z vecného bremena - právo uloženia inžinierských sietí na pozemku registra C KN parc. č. 4981 a právo prechodu a vstupu na pozemok registra C KN parc. č. 4981 v rozsahu vyznačenom v geometrickom pláne č. 5/2012 (č.overenia 230/2012) v prospech vlastníka pozemkov registra C KN parc.č. 4976/15, 4976/16, podľa V-8039/14 zo dňa 26.05.2014
+8, Vecné bremeno na pozemok parc. č. 4976/15, spočívajúce v povinnosti strpieť právo umiestnenia a uloženia NN prípojky a NN kábla, vrátane vstupu na pozemky zaťažené vecným bremenom za účelom zabezpečenia prevádzky, opráv a údržby, v rozsahu vyznačenom geometrickým plánom č. 26/2019 (č.overenia G1-536/2019) v prospech GEON, a.s., IČO 35925566, podľa V-7996/2019 zo dňa 29.3.2019. -
+9, Vecné bremeno na pozemku CKN parc.č.4976/16 spočívajúce v práve stavby bytového domu súpisné číslo 13972, postaveného na pozemkoch CKN parc.č.4976/1, č.4976/10, č.4976/12, č.4976/14, č.4976/16, č.4976/18, č.4976/20, č.4976/22, č.4976/24, č.4976/26, č.4976/28, č.4976/30 podľa V-9245/2019 zo dňa 27.05.2019 -
+10, Záložné právo v prospech Slovenská sporiteľňa, a.s. (IČO 00151653) na pozemky registra C KN parc.č. 4976/15, 4976/16, podľa V-35525/2020 zo dňa 14.01.2021
+11, Záložné právo v prospech micropix, s.r.o. (IČO: 36774936) na pozemky registra C KN parc.č. 4976/15, 4976/16, podľa V-14870/2022 zo dňa 13.05.2022.
+12, Príkaz na zriadenie exekučného záložného práva v prospech oprávneného micropix, s.r.o.(IČO: 36774939) na pozemok registra C KN parc.č. 4976/15, 4976/16 , podľa exekučného píkazu č. 133EX 13/24 zo dňa 03.07.2024 (súdny exekútor JUDr. Branislav Plško, Bratislava), Z9819/2024
+</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad>965.000,- €.</ns0:PredmetCenaOdhad>
+  <ns0:PredmetCenaVyska>Nebolo urobené ani najnižšie podanie</ns0:PredmetCenaVyska>
+  <ns0:PredmetCenaSposobStanovenia xsi:nil="true" />
+  <ns0:PredmetPodmienkyOdovzdania xsi:nil="true" />
+  <ns0:NajnizsiePodanie>965.000,- €.</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie xsi:nil="true" />
+  <ns0:Zabezpeka xsi:nil="true" />
+  <ns0:SposobUhradyCeny xsi:nil="true" />
+  <ns0:ObhliadkaDatum xsi:nil="true" />
+  <ns0:ObhliadkaMiesto xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia xsi:nil="true" />
+  <ns0:NadobudnutieVlastnickehoPrava xsi:nil="true" />
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

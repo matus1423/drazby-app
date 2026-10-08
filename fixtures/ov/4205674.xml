@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Nazov>Oznámenie o dobrovoľnej dražbe</ns0:Nazov>
+  <ns0:Cislo>EEI-0326</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>ECO ENERGY INVEST, s. r. o.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Hviezdoslavova</Ulica>
+      <Cislo>546/14</Cislo>
+      <Obec>Pezinok</Obec>
+      <Psc>90201</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="104">Mestský súd Bratislava III</Sud>
+    <Oddiel>Sro</Oddiel>
+    <Vlozka>108333/B </Vlozka>
+    <Ico>50103407</Ico>
+  </ns0:Drazobnik>
+  <ns0:NavrhovateliaHeader>Označenie navrhovateľa</ns0:NavrhovateliaHeader>
+  <ns0:Navrhovatelia>
+    <ns0:Navrhovatel>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>KOVOB Hriňová, spol. s r.o., v dodatočnej likvidácii</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Partizánska</Ulica>
+          <Cislo>2549</Cislo>
+          <Obec>Hriňová</Obec>
+          <Psc>96205</Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Sud Kod="139">Okresný súd Banská Bystrica</Sud>
+        <Oddiel>Sro </Oddiel>
+        <Vlozka>5947/S</Vlozka>
+        <Ico>36036421</Ico>
+      </ns0:CeleMeno>
+    </ns0:Navrhovatel>
+  </ns0:Navrhovatelia>
+  <ns0:Licitatori xsi:nil="true" />
+  <ns0:Notar>
+    <ns0:CeleMeno>
+      <TitulPred>Mgr. </TitulPred>
+      <TitulZa />
+      <Meno>Peter </Meno>
+      <Priezvisko>Michalička</Priezvisko>
+    </ns0:CeleMeno>
+    <ns0:Sidlo>
+      <Ulica>A. Hlinku </Ulica>
+      <Cislo>3465/19A</Cislo>
+      <Obec>Detva</Obec>
+      <Psc>96212</Psc>
+      <Stat />
+    </ns0:Sidlo>
+  </ns0:Notar>
+  <ns0:KonanieMiesto>Notársky úrad Mgr. Petra Michaličku, adresa: Hlinku 3465/19A, Detva 962 12</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-10-29</ns0:KonanieDatum>
+  <ns0:KonanieCas>11:00</ns0:KonanieCas>
+  <ns0:Kolo>1. kolo</ns0:Kolo>
+  <ns0:Predmet>&lt;table align="left" border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;Predmetom dražby je s&amp;uacute;bor nehnuteľnosti zap&amp;iacute;san&amp;yacute;ch na Liste vlastn&amp;iacute;ctva č&amp;iacute;slo 6140 &amp;nbsp;vedenom Okresn&amp;yacute;m &amp;uacute;radom Detva &amp;nbsp;&amp;ndash; odborom katastr&amp;aacute;lnym, pre okres Detva, obec Hriňov&amp;aacute;, katastr&amp;aacute;lne &amp;uacute;zemie Hriňov&amp;aacute; &amp;nbsp;ako:&lt;/p&gt;
+
+			&lt;p&gt;- pozemok, parcela registra &amp;bdquo;C&amp;ldquo;, parceln&amp;eacute; č&amp;iacute;slo 25085, o v&amp;yacute;mere 270 m2, druh pozemku Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie,&lt;/p&gt;
+
+			&lt;p&gt;- pozemok, parcela registra &amp;bdquo;C&amp;ldquo;, parceln&amp;eacute; č&amp;iacute;slo 25095, o v&amp;yacute;mere 1230 m2, druh pozemku Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie,&lt;/p&gt;
+
+			&lt;p&gt;- stavba s&amp;uacute;pisn&amp;eacute; č&amp;iacute;slo 2549, postaven&amp;aacute; na pozemku 25085&lt;/p&gt;
+
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p&gt;Vo v&amp;yacute;lučnom vlastn&amp;iacute;ctve (1/1) &amp;nbsp;KOVOB Hriňov&amp;aacute;, spol. s r.o., v dodatočnej likvid&amp;aacute;cii, so s&amp;iacute;dlom Partiz&amp;aacute;nska 2549, 962 05 Hriňov&amp;aacute;, IČO: 36 036 421, zap&amp;iacute;sanej v obchodnom registri Okresn&amp;eacute;ho s&amp;uacute;du Bansk&amp;aacute; Bystrica, Oddiel Sro, Vložka č. 5947/S,&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;table align="left"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Nehnuteľnosti ležia v priemyselnom are&amp;aacute;li b&amp;yacute;val&amp;eacute;ho podniku ZŤS Hriňov&amp;aacute;, ktor&amp;aacute; sa nach&amp;aacute;dza&amp;nbsp; v okrajovej priemyselnej z&amp;oacute;ne mesta Hriňov&amp;aacute;, okres Detva, hodnoten&amp;aacute; lokalita je v severnej časti mesta, na ľavej strane cestnej komunik&amp;aacute;cie Partiz&amp;aacute;nskej ulice vych&amp;aacute;dzaj&amp;uacute;cej z mesta severn&amp;yacute;m smerom. Mesto Hriňov&amp;aacute; m&amp;aacute;&amp;nbsp;&amp;nbsp;&amp;nbsp; 6867 obyvateľov /&amp;uacute;daj k 31.12.2025/, lež&amp;iacute; v regi&amp;oacute;ne Podpoľanie a od okresn&amp;eacute;ho mesta Detva je vzdialen&amp;eacute; asi&amp;nbsp; 10 km. Hodnoten&amp;yacute; objekt je pr&amp;iacute;stupn&amp;yacute; po vn&amp;uacute;troare&amp;aacute;lovej spevnenej cestnej komunik&amp;aacute;cii, v danom mieste je možnosť napojenia na v&amp;scaron;etky z&amp;aacute;kladn&amp;eacute; inžinierske siete vč&amp;iacute;tane pr&amp;iacute;pojky zemn&amp;eacute;ho plynu. Na trhu s obdobn&amp;yacute;mi nehnuteľnosťami v danom mieste je dopyt niž&amp;scaron;&amp;iacute; ako ponuka, najm&amp;auml; s prihliadnut&amp;iacute;m na charakter objektov a re&amp;aacute;lnu k&amp;uacute;pnu silu obyvateľstva. Životn&amp;eacute; prostredie je bez zjavn&amp;eacute;ho po&amp;scaron;kodenia, s bežnou pra&amp;scaron;nosťou a hlučnosťou od uličnej cestnej prem&amp;aacute;vky, možnosti zamestnanosti obyvateľstva s&amp;uacute; primeran&amp;eacute; polohe v krajskom meste, t.j. s nezamestnanosťou do 5%. Vzhľadom na uveden&amp;eacute; polohov&amp;eacute; charakteristiky a na pomer v&amp;scaron;eobecnej hodnoty k hodnote technickej dosahovan&amp;yacute; pri predajoch obdobn&amp;yacute;ch nehnuteľnost&amp;iacute; v danom mieste a čase stanovujem priemern&amp;yacute; koeficient polohovej diferenci&amp;aacute;cie vo v&amp;yacute;&amp;scaron;ke 0,40.&amp;nbsp;&lt;/p&gt;
+
+			&lt;p&gt;In&amp;aacute; stavba č. s&amp;uacute;p. 2549 na parc.č. 25085 v k.&amp;uacute;. Hriňov&amp;aacute; je dvojpodlažn&amp;aacute; stavba bez podpivničenia, je to technickoprev&amp;aacute;dzkov&amp;aacute; budova s dielensk&amp;yacute;mi priestormi v pr&amp;iacute;zem&amp;iacute; a kancel&amp;aacute;riami na poschod&amp;iacute;, podľa miestneho zisťovania bola budova postaven&amp;aacute; cca v roku 1960 /p&amp;iacute;somn&amp;yacute; doklad o veku stavby sa nezachoval/ a tvor&amp;iacute; pr&amp;iacute;stavbu k halov&amp;eacute;mu komplexu b&amp;yacute;val&amp;eacute;ho podniku ZŤS Hriňov&amp;aacute;&lt;/p&gt;
+
+			&lt;table align="left"&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td style="vertical-align:top"&gt;
+						&lt;p&gt;Kon&amp;scaron;trukčne je stavba vyhotoven&amp;aacute; zo železobet&amp;oacute;nov&amp;eacute;ho montovan&amp;eacute;ho skeletu, z&amp;aacute;klady s&amp;uacute; bet&amp;oacute;nov&amp;eacute; p&amp;auml;tkov&amp;eacute; a p&amp;aacute;sov&amp;eacute; s vodorovnou izol&amp;aacute;ciou, v&amp;yacute;plňov&amp;eacute; obvodov&amp;eacute; a deliace kon&amp;scaron;trukcie s&amp;uacute; murovan&amp;eacute;, stropy tvor&amp;iacute; syst&amp;eacute;m železobet&amp;oacute;nov&amp;yacute;ch prefabrikovan&amp;yacute;ch nosn&amp;iacute;kov, na ktor&amp;yacute;ch s&amp;uacute; uložen&amp;eacute; stropn&amp;eacute; panely. Strecha budovy je ploch&amp;aacute;, krytina živičn&amp;aacute;, z asfaltov&amp;yacute;ch nataven&amp;yacute;ch p&amp;aacute;sov, klampiarske kon&amp;scaron;trukcie z pozinkovan&amp;eacute;ho plechu. Vonkaj&amp;scaron;ie povrchov&amp;eacute; &amp;uacute;pravy fas&amp;aacute;dy s&amp;uacute; z v&amp;aacute;pennocementov&amp;yacute;ch striekan&amp;yacute;ch omietok /s&amp;uacute; značne po&amp;scaron;koden&amp;eacute;/, vn&amp;uacute;torn&amp;eacute; omietky s&amp;uacute; v&amp;aacute;penn&amp;eacute; &amp;scaron;tukov&amp;eacute; hladk&amp;eacute;, v soci&amp;aacute;lnych priestoroch keramick&amp;eacute; obklady. Podlahy s&amp;uacute; z r&amp;ocirc;znych povrchov, v komunikačn&amp;yacute;ch a soci&amp;aacute;lnych priestoroch z keramick&amp;yacute;ch dlažieb, v kancel&amp;aacute;ri&amp;aacute;ch prevažne povlakov&amp;eacute; z PVC, schodisko je bet&amp;oacute;nov&amp;eacute; monolitick&amp;eacute; s PVC povrchmi. Okn&amp;aacute; s&amp;uacute; dreven&amp;eacute; zdvojen&amp;eacute;, vn&amp;uacute;torn&amp;eacute; dvere dreven&amp;eacute; pln&amp;eacute; hladk&amp;eacute; alebo zasklen&amp;eacute;. Objekt bol p&amp;ocirc;vodne napojen&amp;yacute; na rozvody elektroin&amp;scaron;tal&amp;aacute;cie, vody aj kanaliz&amp;aacute;cie z verejn&amp;yacute;ch siet&amp;iacute;, zariaďovacie predmety v soci&amp;aacute;lnych miestnostiach boli v &amp;scaron;tandardnom vyhotoven&amp;iacute;, t.j. keramick&amp;eacute; um&amp;yacute;vadl&amp;aacute;, piso&amp;aacute;re, splachovacie WC. V s&amp;uacute;časnom obdob&amp;iacute; je budova v zlom stavebnotechnickom stave, vn&amp;uacute;torn&amp;eacute; rozvody vody, kanaliz&amp;aacute;cie a vykurovania s&amp;uacute; nefunkčn&amp;eacute;, pr&amp;iacute;padne zdemontovan&amp;eacute;, nevyuž&amp;iacute;vaj&amp;uacute; sa. Objekt vyžaduje rozsiahlu rekon&amp;scaron;trukciu.&lt;/p&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;Nehnuteľnosti&amp;nbsp; s&amp;uacute;&amp;nbsp; v&amp;nbsp;stave zodpovedaj&amp;uacute;cemu veku a&amp;nbsp;&amp;uacute;držbe.&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>V časti C Listu vlastníctva číslo  6140 sú zapísané nasledovné ťarchy: 
+
+VECNÉ BREMENO SPOČÍVAJCE V PRÁVE ULOŽENIA INŽINIERSKÝCH SIETÍ A V PRÁVE PRÍSTUPU NA POZEMKY PARC. Č. 10000/66, 10000/74, VO VYZNAČENOM ROZSAHU V GEOMETRICKOM PLÁNE Č. 100/2002 V PROSPECH SPOLOČNOSTI HRIŇOVSKÁ ENERGETICKÁ , s.r.o. HRIŇOVÁ-V 1055/2002-658/2002, 572/2005, 615/2005 (parcela reg. C-KN č. 10000/66 pred mapovaním bola pri OKO prečíslovaná na parcelu reg. C-KN č. 25095, parcela reg. C-KN č. 10000/74 pred mapovaním bola pri OKO prečíslovaná na parcelu reg. C-KN č. 25085)
+
+VECNÉ BREMENO SPOČÍVAJÚCE V PRÁVE ULOŽENIA INŽINIERSKYCH SIETÍ, PRÍSTUPU NA POZEMKY PARC . Č. 10000/74, PRI OPRAVÁCH A ÚDRŽBÁCH VEDENIA VO VYZNAČENOM ROZSAHU PODĽA G.P. č. 11/2003, 25/2003 V PROSPECH SPOLOČNOSTI HRIŇOVSKÁ ENERGETICKÁ , s.r.o., HRIŇOVÁ -V 427/2003-262/2003, 572/2005, 615/2005 (parcela reg. C-KN č. 10000/74 pred mapovaním bola pri OKO prečíslovaná na parcelu reg. C-KN č. 25085)
+</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad xsi:nil="true" />
+  <ns0:PredmetCenaVyska xsi:nil="true" />
+  <ns0:PredmetCenaSposobStanovenia>Hodnota predmetu dražby bola odhadnutá vo výške 53 127,27  EUR  podľa znaleckého posudku č. 112/2026, ktorý vypracoval znalec  ZNALEX spol. s r. o., Hronská 1, 960 01 Zvolen, znalecká organizácia zapísaná v zozname znalcov Ministerstva spravodlivosti Slovenskej republiky ev. číslo 900215 v odboroch: Ekonomika a riadenie podnikov, Strojárstvo, Cestná doprava, Stavebníctvo,  odvetvie: Oceňovanie a hodnotenie podnikov, Odhad hodnoty strojových zariadení, Časti a mechanizmy strojov, Stroje a zariadenia na všeobecné účely, Odhad hodnoty cestných vozidiel, Technický stav cestných vozidiel, Nehody v cestnej doprave, Technický stav komunikácií a dopravného zabezpečenia, Odhad hodnoty nehnuteľností, Pozemné stavby .</ns0:PredmetCenaSposobStanovenia>
+  <ns0:PredmetPodmienkyOdovzdania>1.	Po nadobudnutí vlastníckeho práva alebo iného práva k predmetu dražby  odovzdá dražobník bez zbytočného odkladu vydražiteľovi predmet dražby a listiny, ktoré osvedčujú vlastnícke právo a sú nevyhnutné na nakladanie s predmetom dražby alebo osvedčujú iné práva vydražiteľa k predmetu dražby a vydražiteľ prevzatie predmetu dražby písomne potvrdí.
+2. Ak ide o nehnuteľnosť, podnik alebo jeho časť,  predchádzajúci vlastník je povinný odovzdať predmet dražby na základe predloženia osvedčeného odpisu notárskej zápisnice a doloženia totožnosti vydražiteľa bez zbytočných prieťahov. Dražobník je povinný na mieste spísať zápisnicu o odovzdaní predmetu dražby. Zápisnicu o odovzdaní predmetu dražby podpíše predchádzajúci vlastník [skryté], vydražiteľ a dražobník. Jedno vyhotovenie zápisnice dostane predchádzajúci vlastník a dve vyhotovenia dostane vydražiteľ. Ak niektorá osoba odmietne zápisnicu podpísať alebo ju prevziať, táto skutočnosť sa vyznačí v zápisnici a zápisnica sa považuje za odovzdanú aj tejto osobe.
+3. Všetky náklady spojené s odovzdaním a prevzatím predmetu dražby nesie vydražiteľ. Táto povinnosť sa nevzťahuje na náklady, ktoré by ináč nevznikli, ak ich svojou vinou spôsobil predchádzajúci vlastník, majiteľ alebo dražobník alebo ak im tieto náklady vznikli náhodou, ktorá ich postihla.
+4. Osoba povinná vydať predmet dražby zodpovedá vydražiteľovi za škodu spôsobenú omeškaním s odovzdaním predmetu dražby.
+</ns0:PredmetPodmienkyOdovzdania>
+  <ns0:NajnizsiePodanie>53 127,27  EUR</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie>500 EUR</ns0:MinimalnePrihodenie>
+  <ns0:Zabezpeka>
+    <ns0:Vyska>10 000 EUR</ns0:Vyska>
+    <ns0:ZlozenieSposob>1.	Bezhotovostný prevod alebo vklad na účet dražobníka   SK77 1100 0000 0029 4301 5784  vedený v Tatra banke, a.s.  s variabilným symbolom platby: 032026
+2.	V hotovosti do pokladne v sídle dražobníka alebo v mieste konania 
+             dražby. 
+3.	Banková záruka.
+4.	Notárska úschova.
+
+Dražobnú zábezpeku nie je možné zložiť platobnou kartou ani šekom.
+</ns0:ZlozenieSposob>
+    <ns0:ZlozenieCisloUctu>SK77 1100 0000 0029 4301 5784  </ns0:ZlozenieCisloUctu>
+    <ns0:ZlozenieAdresa>V hotovosti do pokladne v sídle dražobníka Hviezdoslavova 546/14, 90201 Pezinok alebo v deň konania dražby výlučne v  mieste konania  dražby na Notárskom úrade Mgr. Petra Michaličku, adresa: Hlinku 3465/19A, Detva 962 12. 
+</ns0:ZlozenieAdresa>
+    <ns0:ZlozenieDoklad>1.	Originál príkazu na úhradu peňažných prostriedkov vo výške dražobnej
+            zábezpeky, originál výpisu z bankového účtu o úhrade dražobnej zábezpeky v
+            prospech účtu dražobníka. Účastník bude pripustený k dražbe, ak do
+            otvorenia dražby bude dražobná zábezpeka pripísaná na účet dražobníka,
+2.	Príjmový pokladničný doklad, vystavený dražobníkom,
+3.	Originál alebo overená kópia preukazujúca vystavenie bankovej záruky.
+4.          Originál  alebo overenú kópiu dokladu preukazujúceho notársku úschovu.
+</ns0:ZlozenieDoklad>
+    <ns0:ZlozenieLehota>Do otvorenia dražby.</ns0:ZlozenieLehota>
+    <ns0:Vratenie>1. Bez zbytočného odkladu po skončení dražby bezhotovostným prevodom na účet účastníka dražby.
+2. V hotovosti proti potvrdeniu o vrátení sumy zloženej dražobnej zábezpeky v prípade, ak bola dražobná zábezpeka zložená v hotovosti do pokladne v sídle dražobníka.
+3. Vrátením originálu (overenej kópie) listiny preukazujúcej zloženie dražobnej zábezpeky do notárskej úschovy, ak bola dražobná zábezpeka zložená do notárskej úschovy.
+4. Vrátením originálu (overenej kópie) listiny preukazujúcej vystavenie bankovej záruky, ak bola dražobná zábezpeka zložená vo forme bankovej záruky.
+</ns0:Vratenie>
+  </ns0:Zabezpeka>
+  <ns0:SposobUhradyCeny>Vydražiteľ je povinný zaplatiť cenu dosiahnutú vydražením v hotovosti do pokladne v dražobníka alebo bezhotovostným prevodom alebo vkladom na účet dražobníka č.   SK77 1100 0000 0029 4301 5784 , vedený v Tatra banke, a.s.  s variabilným symbolom platby: 032026 a to do 15 dní odo dňa skončenia dražby. Dražobná zábezpeka sa vydražiteľovi započítava do ceny dosiahnutej vydražením, to neplatí v prípade, ak bola dražobná zábezpeka vydražiteľom zložená vo forme bankovej záruky </ns0:SposobUhradyCeny>
+  <ns0:ObhliadkaDatum>1.	termín –   20.10.2026 o 13:00 hod.
+2.	termín –   27.10.2026 o 13:00 hod.
+</ns0:ObhliadkaDatum>
+  <ns0:ObhliadkaMiesto>V mieste nehnuteľnosti.</ns0:ObhliadkaMiesto>
+  <ns0:SpolocnaDrazba Kod="NIE">Nie</ns0:SpolocnaDrazba>
+  <ns0:SpolocnaDrazbaPoradieDrazeniePredmetov xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia>Záujemcovia o obhliadku sa ohlásia aspoň jeden deň pred vyššie uvedenými termínmi obhliadky na tel. č.: 0911 407 966 alebo e-mailom na adrese antol@akantol.sk, Po- Pi , 09.00 – 16.00. V zmysle § 12 ods. 2 a § 13 zákona č. 527/2002 Z. z. o dobrovoľných dražbách je vlastník [skryté], držiteľ alebo nájomca povinný umožniť riadnu obhliadku predmetu dražby v stanovených termínoch.</ns0:OrganizaceOpatrenia>
+  <ns0:NadobudnutieVlastnickehoPrava>
+Ak vydražiteľ zaplatí cenu dosiahnutú vydražením v ustanovenej lehote, prechádza na neho vlastnícke právo dňom udelenia príklepu; to neplatí, ak je vydražiteľom osoba, ktorá je povinná zapísať sa do registra partnerov verejného sektora podľa zákona č. 315/2016 Z.z. o registri partnerov verejného sektora, ak v čase príklepu nie je zapísaná v tomto registri. Dražobník vydá bez zbytočného odkladu po nadobudnutí vlastníckeho alebo iného práva vydražiteľovi potvrdenie o vydražení predmetu dražby a v prípadoch, v ktorých sa o priebehu dražby spisuje notárska zápisnica vydá dražobník vydražiteľovi dve vyhotovenia osvedčeného odpisu notárskej zápisnice.
+</ns0:NadobudnutieVlastnickehoPrava>
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

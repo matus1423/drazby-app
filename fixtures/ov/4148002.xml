@@ -1,0 +1,1383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Nazov>Oznámenie o dobrovoľnej dražbe</ns0:Nazov>
+  <ns0:Cislo>900225B</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>LICITOR group, a.s.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Sládkovičova</Ulica>
+      <Cislo>6</Cislo>
+      <Obec>Žilina</Obec>
+      <Psc>01001</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="131">Okresný súd Žilina</Sud>
+    <Oddiel>Sa</Oddiel>
+    <Vlozka>10476/L</Vlozka>
+    <Ico>36421561</Ico>
+  </ns0:Drazobnik>
+  <ns0:NavrhovateliaHeader>Označenie navrhovateľa</ns0:NavrhovateliaHeader>
+  <ns0:Navrhovatelia>
+    <ns0:Navrhovatel>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Fio banka, a.s.</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Na Florenci</Ulica>
+          <Cislo>2139/2</Cislo>
+          <Obec>Praha 1</Obec>
+          <Psc>11000</Psc>
+          <Stat>ČR</Stat>
+        </Sidlo>
+        <Oddiel />
+        <Vlozka />
+        <Ico>61858374</Ico>
+      </ns0:CeleMeno>
+    </ns0:Navrhovatel>
+  </ns0:Navrhovatelia>
+  <ns0:Licitatori xsi:nil="true" />
+  <ns0:Notar>
+    <ns0:CeleMeno>
+      <TitulPred>JUDr.</TitulPred>
+      <TitulZa />
+      <Meno>Alan</Meno>
+      <Priezvisko>Schwartz</Priezvisko>
+    </ns0:CeleMeno>
+    <ns0:Sidlo>
+      <Ulica>Plynárenská </Ulica>
+      <Cislo>7/C</Cislo>
+      <Obec>Bratislava</Obec>
+      <Psc>82109</Psc>
+      <Stat />
+    </ns0:Sidlo>
+  </ns0:Notar>
+  <ns0:KonanieMiesto>v sídle notárskeho úradu - JUDr. Alan Schwartz, so sídlom Plynárenská 7/C, 821 09  Bratislava</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-07-28</ns0:KonanieDatum>
+  <ns0:KonanieCas>11:00 hod.</ns0:KonanieCas>
+  <ns0:Kolo>1. kolo</ns0:Kolo>
+  <ns0:Predmet>&lt;p&gt;.&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;Č&amp;iacute;slo LV&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;Katastr&amp;aacute;lne &amp;uacute;zemie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;Veden&amp;eacute; Okresn&amp;yacute;m &amp;uacute;radom, katastr&amp;aacute;lny odbor&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;8993&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Senica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;Senica&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;Pozemky parcely registra &amp;bdquo;C&amp;ldquo;:&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Parc. č.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Druh pozemku&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;V&amp;yacute;mera v m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Sp&amp;ocirc;sob využitia pozemku&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2992/3&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1262&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;15&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2992/4&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1088&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;37&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2992/5&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;56&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;16&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;3110/131&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1337&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;18&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;Stavby na pozemku:&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;S&amp;uacute;pisn&amp;eacute; č&amp;iacute;slo&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Postaven&amp;aacute; na par. č.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Druh stavby&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Pozn&amp;aacute;mka&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2879&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2992/3&lt;/p&gt;
+
+			&lt;p&gt;2992/5&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;22-Polyf.bytov&amp;yacute; dom s kongresov&amp;yacute;m centrom&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Nebytov&amp;yacute; priestor &amp;ndash; skladov&amp;yacute; priestor č. 001 v -1 suter&amp;eacute;ne, vo vchode č. 1 Budovy, so spoluvlastn&amp;iacute;ckym podielom 1162/459991 na spoločn&amp;yacute;ch častiach, zariadeniach domu a na&amp;nbsp;pozemkoch;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;V&amp;yacute;&amp;scaron;ka spoluvlastn&amp;iacute;ckeho podielu 1/1&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;B.&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;Č&amp;iacute;slo LV&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;Katastr&amp;aacute;lne &amp;uacute;zemie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;Veden&amp;eacute; Okresn&amp;yacute;m &amp;uacute;radom, katastr&amp;aacute;lny odbor&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;8993&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Senica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;Senica&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;Pozemky parcely registra &amp;bdquo;C&amp;ldquo;:&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Parc. č.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Druh pozemku&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;V&amp;yacute;mera v m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Sp&amp;ocirc;sob využitia pozemku&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2992/3&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1262&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;15&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2992/4&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1088&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;37&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2992/5&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;56&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;16&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;3110/131&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1337&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;18&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;Stavby na pozemku:&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;S&amp;uacute;pisn&amp;eacute; č&amp;iacute;slo&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Postaven&amp;aacute; na par. č.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Druh stavby&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Pozn&amp;aacute;mka&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2879&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2992/3&lt;/p&gt;
+
+			&lt;p&gt;2992/5&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;22-Polyf.bytov&amp;yacute; dom s kongresov&amp;yacute;m centrom&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Nebytov&amp;yacute; priestor &amp;ndash; skladov&amp;yacute; priestor č. 009 v -1 suter&amp;eacute;ne, vo vchode č. 1 Budovy, so spoluvlastn&amp;iacute;ckym podielom 1139/459991 na spoločn&amp;yacute;ch častiach, zariadeniach domu a na&amp;nbsp;pozemkoch;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;V&amp;yacute;&amp;scaron;ka spoluvlastn&amp;iacute;ckeho podielu &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1/1&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;C.&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;Č&amp;iacute;slo LV&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;Katastr&amp;aacute;lne &amp;uacute;zemie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;Veden&amp;eacute; Okresn&amp;yacute;m &amp;uacute;radom, katastr&amp;aacute;lny odbor&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;8993&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Senica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;Senica&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;Pozemky parcely registra &amp;bdquo;C&amp;ldquo;:&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Parc. č.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Druh pozemku&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;V&amp;yacute;mera v m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Sp&amp;ocirc;sob využitia pozemku&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2992/3&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1262&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;15&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2992/4&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1088&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;37&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2992/5&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;56&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;16&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;3110/131&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1337&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;18&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;Stavby na pozemku:&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;S&amp;uacute;pisn&amp;eacute; č&amp;iacute;slo&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Postaven&amp;aacute; na par. č.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Druh stavby&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Pozn&amp;aacute;mka&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2879&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2992/3&lt;/p&gt;
+
+			&lt;p&gt;2992/5&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;22-Polyf.bytov&amp;yacute; dom s kongresov&amp;yacute;m centrom&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Nebytov&amp;yacute; priestor &amp;ndash; skladov&amp;yacute; priestor č. 801 &amp;nbsp;na 7. poschod&amp;iacute;,, vo vchode č. 1 Budovy, so spoluvlastn&amp;iacute;ckym podielom 735/459991 na spoločn&amp;yacute;ch častiach, zariadeniach domu a na&amp;nbsp;pozemkoch;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;V&amp;yacute;&amp;scaron;ka spoluvlastn&amp;iacute;ckeho podielu &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1/1&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;D.&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;Č&amp;iacute;slo LV&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;Katastr&amp;aacute;lne &amp;uacute;zemie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;Veden&amp;eacute; Okresn&amp;yacute;m &amp;uacute;radom, katastr&amp;aacute;lny odbor&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;8993&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Senica&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;Senica&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;Pozemky parcely registra &amp;bdquo;C&amp;ldquo;:&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Parc. č.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Druh pozemku&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;V&amp;yacute;mera v m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Sp&amp;ocirc;sob využitia pozemku&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2992/3&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1262&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;15&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2992/4&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Ostatn&amp;aacute; plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1088&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;37&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2992/5&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;56&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;16&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;3110/131&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1337&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;18&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;Stavby na pozemku:&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;S&amp;uacute;pisn&amp;eacute; č&amp;iacute;slo&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Postaven&amp;aacute; na par. č.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Druh stavby&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;Pozn&amp;aacute;mka&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2879&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2992/3&lt;/p&gt;
+
+			&lt;p&gt;2992/5&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;22-Polyf.bytov&amp;yacute; dom s kongresov&amp;yacute;m centrom&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Nebytov&amp;yacute; priestor &amp;ndash; skladov&amp;yacute; priestor č. 803 &amp;nbsp;na 7. poschod&amp;iacute;,, vo vchode č. 1 Budovy, so spoluvlastn&amp;iacute;ckym podielom 7322/459991 na spoločn&amp;yacute;ch častiach, zariadeniach domu a na&amp;nbsp;pozemkoch;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;V&amp;yacute;&amp;scaron;ka spoluvlastn&amp;iacute;ckeho podielu &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1/1&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;&lt;em&gt;&lt;u&gt;Nebytový priestor č.001 v suteréne/na 1.podzemnom podlaží objektu – Polyfunkčný bytový dom s kongresovým centrom č.s.2879 na parc. KN č. 2992/3, 2992/5 k.ú. Senica&lt;/u&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Popis polyfunkčného domu:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Objekt - „Polyfunkčný bytový dom s kongresovým centrom" je situovaný v okresnom meste Senica, v jej širšom centre, na ulici Továrenská. Bytový dom ma jedno podzemné podlažie (sklady, výmenníková stanica) a 8 nadzemných podlaží, na ktorých sa nachádzajú byty. Podľa údaju v predloženom Doklade z účtovnej evidencie bol bytový dom daný do užívania v roku 1980 ako administratívno-prevádzková budova. V roku 2015 bol objekt rekonštruovaný a na základe Rozhodnutia o povolení zmeny v užívaní stavby č.sp. SOÚ-545/2015-ORA zo dňa 30.10.2015 s vyznačením právoplatnosti dňa 2.11.2015, vydanom Mestom Senica dňa 30.10.2015 zmenený účel jeho využitia na Polyfunkčný bytový dom s kongresovým centrom. Rekonštrukciou boli z pôvodných administratívnych priestorov vybudované bytové jednotky. Rekonštrukcia bytového domu zahŕňala výmenu vstupných dverí, výplní okenných otvorov za okná z plastových profilov, bola rekonštruovaná strešná krytina. Obvodové steny a deliace konštrukcie sú vyhotovené ako prefabrikované železobetónové, vnútorné nosné steny sú hrúbky 15 cm. Stropy sú železobetónové prefabrikované, konštrukcia schodiska je prefabrikovaná železobetónová s nástupnicami a podstupnicami cementového poteru/z PVC. Výplne okenných otvorov v bytoch aj v spoločných priestoroch je vymenená za okná z plastových profilov, dvere sú v spoločných priestoroch v interiéri dyhované a hladké, osadené do oceľových zárubní, vchodové dvere sú z oceľohliníkových vystužených profilov, presklené. Podlahy na chodbách vo vstupných častiach sú z PVC, v ostatných priestoroch z PVC, na niektorých bytových podlažiach sú veľkoplošné kobercové krytiny, v priestore pivníc z cementového poteru. Strešná konštrukcia je plochá, jednoplášťová. Strešnú krytinu tvoria asfaltové natavované pásy v 2 vrstvách, klampiarske konštrukcie sú z pozinkovaného plechu a z eloxovaného hliníka (parapety). Vnútorné omietky sú vyhotovené ako vápenné štukové, vonkajšie povrchy sú reliéfne a hladké, sú súčasťou obvodových panelov. Dom je napojený na rozvody vody, kanalizácie, el. energie, je vybavený rozvodom teplej a studenej vody, kanalizácie, spoločnej televíznej antény, bleskozvodom, telefónnymi rozvodmi, 3 výťahmi, domovým vrátnikom. Vykurovanie domu a dodávka TÚV je diaľková, dom má vlastnú výmeničku v suteréne.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Popis nebytového priestoru:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Predmetom ohodnotenia je nebytový priestor č.001 situovaný na 1. podzemnom podlaží, v stredovej sekcii, pozostávajúci z jedného skladového priestoru so vstupnými dverami zo spoločnej chodby prechádzajúcej pozdĺž podlažia. Dvere sú hladké/dyhované, osadená do obložkových zárubní, podlaha je betónová, omietky vápennocementové. Interiér priestoru nebol znalcovi sprístupnený. Priestor je bez vykurovania, rozvodov vody a kanalizácie.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Ohodnotenie je vykonané na základe zistení znalca na obhliadke, dokladov predložených zadávateľom a z verejne dostupných zdrojov. V prípade zdokladovania iných údajov a skutočností majúcich vplyv na závery znaleckého posudku, môže byť vypracované doplnenie znaleckého posudku podľa písm. a) ods. 4 § 18 vyhlášky č. 490/2004 Z.z., ktorou sa vykonáva zákon č. 382/2004 Z.z..&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Výpočet podlahovej plochy:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;Názov miestnosti a výpočet&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;Podlahová plocha [m2]&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Sklad: 11,62&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;11,62&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;&lt;strong&gt;Vypočítaná podlahová plocha&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;&lt;strong&gt;11,62&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Nebytový priestor č.009 v suteréne/na 1.podzemnom podlaží objektu – Polyfunkčný bytový dom s kongresovým centrom č.s.2879 na parc. KN č. 2992/3, 2992/5 k.ú. Senica &lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Popis nebytového priestoru: &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Predmetom ohodnotenia je nebytový priestor č.009 situovaný na 1. podzemnom podlaží, v stredovej sekcii, pozostávajúci z jedného skladového priestoru so vstupnými dverami zo spoločnej chodby prechádzajúcej pozdĺž podlažia. Dvere sú hladké/dyhované, osadená do obložkových zárubní, podlaha je betónová, omietky vápennocementové. Interiér priestoru nebol znalcovi sprístupnený. Priestor je bez vykurovania, rozvodov vody a kanalizácie.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Výpočet podlahovej plochy:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;Názov miestnosti a výpočet&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;Podlahová plocha [m2]&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Sklad: 11,39&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;11,39&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;&lt;strong&gt;Vypočítaná podlahová plocha&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;&lt;strong&gt;11,39&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Nebytový priestor č.801 na 7.poschodí/8.nadzemnom podlaží objektu – Polyfunkčný bytový dom s kongresovým centrom č.s.2879 na parc. KN č. 2992/3, 2992/5 k.ú. Senica &lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Popis nebytového priestoru: &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Predmetom ohodnotenia je nebytový priestor č.801 situovaný na 7.poschodí/8.nadzemnom podlaží, v stredovej sekcii, pozostávajúci z jedného priestoru so vstupnými dverami zo spoločnej chodby prechádzajúcej pozdĺž podlažia. Priestor bol identifikovaný na základe údajov zástupcu vlastníka [skryté], z ktorej je prístupný nebytový priestor č. 804 a č.803, čo je v rozpore so zákonom 182/1993 o vlastníctve bytov a nebytových priestorov. Dvere sú hladké/dyhované, osadené do obložkových zárubní, podlaha je betónová/PVC, omietky vápennocementové. Priestor je bez vykurovania, rozvodov vody a kanalizácie.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Výpočet podlahovej plochy:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;Názov miestnosti a výpočet&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;Podlahová plocha [m2]&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Sklad: 7,35&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;7,35&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;&lt;strong&gt;Vypočítaná podlahová plocha&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;&lt;strong&gt;7,35&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Nebytový priestor č.803 na 7.poschodí/8.nadzemnom podlaží objektu – Polyfunkčný bytový dom s kongresovým centrom č.s.2879 na parc. KN č. 2992/3, 2992/5 k.ú. Senica &lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Popis nebytového priestoru: &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Predmetom ohodnotenia je nebytový priestor č.803 situovaný na 7.poschodí/8.nadzemnom podlaží, v krajnej sekcii, pozostávajúci z jedného priestoru so vstupnými dverami zo spoločnej chodby prechádzajúcej pozdĺž podlažia. Priestor bol identifikovaný na základe údajov zástupcu vlastníka ako sklad prístupný cez nebytový priestor č. 801, čo je v rozpore so zákonom 182/1993 o vlastníctve bytov a nebytových priestorov. Dvere sú hladké/dyhované, osadené do obložkových zárubní, podlaha je betónová/PVC, omietky vápennocementové. Priestor je bez vykurovania, rozvodov vody a kanalizácie (podľa údajov zástupcu vlastníka zistených na obhliadke).&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Výpočet podlahovej plochy:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;Názov miestnosti a výpočet&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;Podlahová plocha [m2]&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Sklad: 73,22&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;73,22&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;&lt;strong&gt;Vypočítaná podlahová plocha&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;&lt;strong&gt;73,22&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Objekt - „Polyfunkčný bytový dom s kongresovým centrom" je situovaný v okresnom meste Senica, v jej širšom centre, na ulici Továrenská. Bytový dom ma jedno podzemné podlažie (sklady, výmenníková stanica) a 8 nadzemných podlaží, na ktorých sa nachádzajú byty. Objekt je situovaný v blízkosti zóny so zástavbou priemyselných areálov, v lokalite s objektami HBV, IBV a objektami občianskej vybavenosti (školy, škôlky, poliklinika, zdravotné stredisko, pošta, obchodné prevádzky, reštaurácie, športoviská, plaváreň) a malých podnikateľských subjektov, s pešou dostupnosťou do centra mesta s jeho občianskou vybavenosťou zodpovedajúcou okresnému mestu do 5 - 10 min, s obchodnými centrami, mestským parkom, zimným štadiónom, futbalovým štadiónom. Nebytové priestory sa nachádzajú na 1. podzemnom podlaží, prístupné zo spoločnej chodby domu. Vybavenosť technickou infraštruktúrou zahŕňa verejné rozvody vody, kanalizácie, NN, zemného plynu, diaľkového vykurovania.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;u&gt;Pozemky&lt;/u&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Predmetom ohodnotenia je spoluvlastnícky podiel na pozemkoch parc. KN č. 2992/3, 2992/4, 2992/5, 3110/131 k.ú. Senica, situované v okresnom meste Senica, v jej širšom centre, na ulici Továrenská. Pozemky sú zastavané polyfunkčným objektom a spevnenými plochami, pozemok parc. KN č. 3110/131 tvorí zeleň okolo objektu. Pozemky sú situované v blízkosti zóny so zástavbou priemyselných areálov, v lokalite s objektami HBV, IBV a objektami občianskej vybavenosti (školy, škôlky, poliklinika, zdravotné stredisko, pošta, obchodné prevádzky, reštaurácie, športoviská, plaváreň) a malých podnikateľských subjektov, s pešou dostupnosťou do centra mesta s jeho občianskou vybavenosťou zodpovedajúcou okresnému mestu do 5 - 10 min, s obchodnými centrami, mestským parkom, zimným štadiónom, futbalovým štadiónom. Vybavenosť technickou infraštruktúrou zahŕňa verejné rozvody vody, kanalizácie, NN, zemného plynu, diaľkového vykurovania. Okresné mesto Senica má 19 137 (31. 12. 2024) - wikipedia, je významnou dopravnou križovatkou na Záhorí, nakoľko sa nachádza medzi diaľnicami D1 a D2, s ktorými je spojené cestami II. triedy a cez mesto prechádza v severojužnom koridore štátna cesta I. triedy I/51, ktorá je zároveň významnou európskou cestou. Mesto má železničnú stanicu na trati Kúty-Senica-Trnava. Senica leží 46 km západne od Piešťan, 23 km južne od Skalice, 46 km severovýchodne od Malaciek a 42 km severozápadne od Trnavy. Na všeobecnú hodnotu hodnotených nehnuteľností má vplyv ich situovanie v rámci sídelného útvaru, blízko centra mesta. Vzhľadom na vyššie uvedené a súčasné ceny pozemkov bola východisková hodnota stanovená vo výške 80% z východiskovej hodnoty mesta Trnava.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nebytový priestor č. 001&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Parcela&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Druh pozemku&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Spolu výmera [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Spoluvlastnícky podiel bytu/nebyt. k pozemku&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Výmera [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2992/3&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;zastavaná plocha a nádvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1262,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1162/459991&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;3,19&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2992/4&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;Ostatná plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1088,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1162/459991&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2,75&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2992/5&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;Zastavaná plocha a nádvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;56,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1162/459991&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;0,14&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;3110/131&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;Zastavaná plocha a nádvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1337,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1162/459991&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;3,38&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&lt;strong&gt;Spolu výmera&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt; &lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt; &lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt; &lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&lt;strong&gt;9,46&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;                                               &lt;strong&gt;Nebytový priestor č. 009&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Parcela&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Druh pozemku&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Spolu výmera [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Spoluvlastnícky podiel bytu/nebyt. k pozemku&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Výmera [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2992/3&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;zastavaná plocha a nádvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1262,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1139/459991&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;3,12&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2992/4&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;Ostatná plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1088,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1139/459991&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2,69&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2992/5&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;Zastavaná plocha a nádvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;56,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1139/459991&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;0,14&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;3110/131&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;Zastavaná plocha a nádvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1337,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1139/459991&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;3,31&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&lt;strong&gt;Spolu výmera&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt; &lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt; &lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt; &lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&lt;strong&gt;9,26&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nebytový priestor č. 801&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Parcela&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Druh pozemku&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Spolu výmera [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Spoluvlastnícky podiel bytu/nebyt. k pozemku&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Výmera [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2992/3&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;zastavaná plocha a nádvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1262,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;735/459991&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2,02&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2992/4&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;Ostatná plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1088,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;735/459991&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1,74&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2992/5&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;Zastavaná plocha a nádvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;56,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;735/459991&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;0,09&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;3110/131&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;Zastavaná plocha a nádvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1337,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;735/459991&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2,14&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&lt;strong&gt;Spolu výmera&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt; &lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt; &lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt; &lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&lt;strong&gt;5,99&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nebytový priestor č. 803&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Parcela&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Druh pozemku&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Spolu výmera [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Spoluvlastnícky podiel bytu/nebyt. k pozemku&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Výmera [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2992/3&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;zastavaná plocha a nádvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1262,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;7322/459991&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;20,09&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2992/4&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;Ostatná plocha&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1088,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;7322/459991&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;17,32&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2992/5&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;Zastavaná plocha a nádvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;56,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;7322/459991&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;0,89&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;3110/131&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;Zastavaná plocha a nádvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1337,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;7322/459991&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;21,28&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&lt;strong&gt;Spolu výmera&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt; &lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt; &lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt; &lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&lt;strong&gt;59,58&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt; &lt;/p&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;&lt;strong&gt;Predmet dražby sa draž&amp;iacute; tak ako &amp;bdquo;stoj&amp;iacute; a&amp;nbsp;lež&amp;iacute;&lt;/strong&gt;&lt;em&gt;&amp;ldquo;. &amp;nbsp;&lt;/em&gt;Vzhľadom na skutočnosť, že predmetom dražby je použit&amp;aacute; vec, ktor&amp;aacute; sa prev&amp;aacute;dza v&amp;nbsp;stave v&amp;nbsp;akom sa nach&amp;aacute;dza ku dňu konania dražby nezodpoved&amp;aacute; navrhovateľ ani dražobn&amp;iacute;k za jej vady. Dražobn&amp;iacute;k s&amp;uacute;časne oboznamuje &amp;uacute;častn&amp;iacute;kov dražby, že na tento predaj prostredn&amp;iacute;ctvom dražby sa v&amp;nbsp;s&amp;uacute;lade s &amp;sect; 612 ods. 3 p&amp;iacute;sm. b) OZ nevzťahuj&amp;uacute; ustanovenia &amp;sect; 615 až 626 OZ spotrebiteľskej k&amp;uacute;pnej zmluvy upravuj&amp;uacute;cich akosť pred&amp;aacute;vanej veci,&amp;nbsp;zodpovednosť za vady &amp;nbsp;na n&amp;aacute;roky z&amp;nbsp;nich vypl&amp;yacute;vaj&amp;uacute;ce a&amp;nbsp;ustanovenia o&amp;nbsp;spotrebiteľskej z&amp;aacute;ruke. &amp;nbsp;&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>k.ú. Senica
+LV č. 8993
+Vl č. 82
+Vecné bremeno ˝in rem˝ 1 : - spočívajúce v práve uloženia, prevádzkovania, údržby, opravy, výmeny a ďalších činností potrebných na prevádzku akýchkoľvek inžinierskych sietí a ich príslušenstva - najmä vedenie elektrickej energie, plynovodu a súvisiacich zariadení (prípojky, spojky, atď.) na pozemku registra C KN parcelné číslo 2992/3, zastavaná plocha a nádvorie o výmere 1262 m2, pozemku registra C KN parcelné číslo 2992/4, ostatná plocha o výmere 1088 m2, pozemku registra C KN parcelné číslo 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2 a to v rozsahu vyznačenom podľa Geometrického plánu číslo 627/2018, úradne overený Okresným úradom Senica, katastrálnym odborom pod číslom 948/2018 v prospech každodobého vlastníka pozemku registra C KN parcelné číslo 3110/44, zastavaná plocha a nádvorie o výmere 1164 m2, bezodplatne a časovo neobmedzene; 
+- vecné bremeno spočívajúce v práve prechodu a prejazdu cez pozemok registra C KN parcelné číslo 2992/4, ostatná plocha o výmere 1088 m2, pozemok registra C KN parcelné číslo 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2 akýmkoľvek vozidlom (osobným alebo nákladným) v celom ich rozsahu a prechodu cez pozemok registra C KN parcelné číslo 2992/3, zastavaná plocha a nádvorie o výmere 1262 m2 v rozsahu vyznačenom podľa Geometrického plánu číslo 627/2018, úradne overený Okresným úradom Senica, katastrálnym odborom pod číslom 948/2018 (diel číslo 1 o výmere 10 m2 odčlenený od pozemku registra C KN parcelné číslo 2992/3 a diel číslo 2 o výmere 17 m2 odčlenený od pozemku registra C KN parcelné číslo 2992/3), a to za účelom prevádzkovania, údržby, opravy, výmeny a ďalších činností potrebných na prevádzku akýchkoľvek inžinierskych sietí a ich príslušenstva - najmä vedenie elektrickej energie, plynovodu a súvisiacich zariadení, na základe Zmluvy o zriadení vecných bremien na základe V-133/2019 vklad povolený 12.02.2019, č.z.364/19
+
+Vecné bremeno 2 ˝in rem˝ spočívajúce v práve uloženia, prevádzkovania, údržby, opravy, výmeny a ďalších činností potrebných na prevádzku akýchkoľvek inžinierskych sietí a ich príslušenstva - najmä vedenie elektrickej energie vonkajšieho osvetlenia, rozvodu pitnej vody, kanalizácie a súvisiacich zariadení (prípojky, spojky, atď.) na pozemku registra C KN parcelné číslo 2992/4, ostatná plocha o výmere 1088 m2, pozemku registra C KN parcelné číslo 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2 a to v rozsahu vyznačenom podľa Geometrického plánu číslo 627/2018, úradne overený Okresným úradom Senica, katastrálnym odborom pod číslom 948/2018 v prospech každodobého vlastníka pozemku registra C KN parcelné číslo 3110/1, zastavaná plocha a nádvorie o výmere 3609 m2, bezodplatne a časovo neobmedzene; 
+- vecné bremeno 2 spočívajúce v práve prechodu a prejazdu cez pozemok registra C KN parcelné číslo 2992/4, ostatná plocha o výmere 1088 m2, pozemok registra C KN parcelné číslo 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2 akýmkoľvek vozidlom (osobným alebo nákladným) v celom ich rozsahu za účelom údržby, opravy a ďalších činností potrebných na prevádzku akýchkoľvek inžinierskych sietí a ich príslušenstva - najmä vedenie elektrickej energie vonkajšieho osvetlenia, rozvodu pitnej vody, kanalizácie a súvisiacich zariadení, 24 hodín denne v prospech každodobého vlastníka pozemku registra C KN parcelné číslo 3110/1, zastavaná plocha a nádvorie o výmere 3609 m2, bezodplatne a časovo neobmedzene, na základe Zmluvy o zriadení vecných bremien na základe V-133/2019 vklad povolený 12.02.2019, č.z.364/19
+
+Záložné právo v prospech: Fio Banka, a.s., V Celnici 1028/10, 117 21 Praha 1, Česká republika, IČO: 618 58 374, podľa V-1735/2019 vklad povolený 18.06.2019 na: Nebytový priestor - skladový priestor číslo 001, číslo vchodu 1, suterén, súpisné číslo stavby 2879 na pozemkoch registra C KN 2992/3, 2992/5 a spoluvlastnícky podiel o veľkosti 1162/459991 na spoločných častiach a spoločných zariadeniach domu a na pozemku registra C KN s parcelným číslom 2992/3, zastavaná plocha a nádvorie o výmere 1262 m2, na pozemku registra C KN s parcelným číslom 2992/4, ostatná plocha o výmere 1088 m2, na pozemku registra C KN s parcelným číslom 2992/5, zastavaná plocha a nádvorie o výmere 56 m2, na pozemku registra C KN s parcelným číslom 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2, č.z.1307/19
+
+Zákonné záložné právo na skladový priestor číslo 001, v bytovom dome súp.číslo 2879 na C KN parc.číslo 2992/3,2992/4,2992/5, 3110/131 v prospech ostatných vlastníkov bytov a nebytových priestorov v dome v zmysle zákona č. 182/1993 Z.z. o vlastníctve bytov a nebytových priestorov, vrátane podielu na spoločných častiach a spoločných zariadeniach domu a pozemku registra C KN s parcelným číslom 2992/3, zastavaná plocha a nádvorie o výmere 1262 m2, pozemku registra C KN s parcelným číslom 2992/4, ostatná plocha o výmere 1088 m2, pozemku registra C KN s parcelným číslom 2992/5, zastavaná plocha a nádvorie o výmere 56 m2, na pozemku registra C KN s parcelným číslom 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2, podľa Z-2362/2019, č.z.2162/19
+
+Poznámky
+Oznámenie o začatí výkonu záložného práva k V-1735/2019 podľa § 151l ods. 4 zák.č. 40/1964 Zb. predajom nehnuteľnosti na dobrovoľnej dražbe v zmysle zákona č. 527/2002 Z.z. o dobrovoľných dražbách v platnom znení záložného veriteľa Fio banka, a.s., Na Florenci 2139/2, 110 00 Praha 1, IČO: 61858374, predmet dražby: Nebytový priestor - skladový priestor číslo 001, číslo vchodu 1, suterén, súpisné číslo stavby 2879 na pozemkoch registra C KN 2992/3, 2992/5 a spoluvlastnícky podiel o veľkosti 1162/459991 na spoločných častiach a spoločných zariadeniach domu a na pozemku registra C KN s parcelným číslom 2992/3, zastavaná plocha a nádvorie o výmere 1262 m2, na pozemku registra C KN s parcelným číslom 2992/4, ostatná plocha o výmere 1088 m2, na pozemku registra C KN s parcelným číslom 2992/5, zastavaná plocha a nádvorie o výmere 56 m2, na pozemku registra C KN s parcelným číslom 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2, podľa P365/2025, č.z. 1127/25, X-130/2025, č.z.94/26
+
+Vl č. 90
+Vecné bremeno ˝in rem˝ 1 : - spočívajúce v práve uloženia, prevádzkovania, údržby, opravy, výmeny a ďalších činností potrebných na prevádzku akýchkoľvek inžinierskych sietí a ich príslušenstva - najmä vedenie elektrickej energie, plynovodu a súvisiacich zariadení (prípojky, spojky, atď.) na pozemku registra C KN parcelné číslo 2992/3, zastavaná plocha a nádvorie o výmere 1262 m2, pozemku registra C KN parcelné číslo 2992/4, ostatná plocha o výmere 1088 m2, pozemku registra C KN parcelné číslo 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2 a to v rozsahu vyznačenom podľa Geometrického plánu číslo 627/2018, úradne overený Okresným úradom Senica, katastrálnym odborom pod číslom 948/2018 v prospech každodobého vlastníka pozemku registra C KN parcelné číslo 3110/44, zastavaná plocha a nádvorie o výmere 1164 m2, bezodplatne a časovo neobmedzene; 
+- vecné bremeno spočívajúce v práve prechodu a prejazdu cez pozemok registra C KN parcelné číslo 2992/4, ostatná plocha o výmere 1088 m2, pozemok registra C KN parcelné číslo 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2 akýmkoľvek vozidlom (osobným alebo nákladným) v celom ich rozsahu a prechodu cez pozemok registra C KN parcelné číslo 2992/3, zastavaná plocha a nádvorie o výmere 1262 m2 v rozsahu vyznačenom podľa Geometrického plánu číslo 627/2018, úradne overený Okresným úradom Senica, katastrálnym odborom pod číslom 948/2018 (diel číslo 1 o výmere 10 m2 odčlenený od pozemku registra C KN parcelné číslo 2992/3 a diel číslo 2 o výmere 17 m2 odčlenený od pozemku registra C KN parcelné číslo 2992/3), a to za účelom prevádzkovania, údržby, opravy, výmeny a ďalších činností potrebných na prevádzku akýchkoľvek inžinierskych sietí a ich príslušenstva - najmä vedenie elektrickej energie, plynovodu a súvisiacich zariadení, na základe Zmluvy o zriadení vecných bremien na základe V-133/2019 vklad povolený 12.02.2019, č.z.364/19
+
+Vecné bremeno 2 ˝in rem˝ spočívajúce v práve uloženia, prevádzkovania, údržby, opravy, výmeny a ďalších činností potrebných na prevádzku akýchkoľvek inžinierskych sietí a ich príslušenstva - najmä vedenie elektrickej energie vonkajšieho osvetlenia, rozvodu pitnej vody, kanalizácie a súvisiacich zariadení (prípojky, spojky, atď.) na pozemku registra C KN parcelné číslo 2992/4, ostatná plocha o výmere 1088 m2, pozemku registra C KN parcelné číslo 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2 a to v rozsahu vyznačenom podľa Geometrického plánu číslo 627/2018, úradne overený Okresným úradom Senica, katastrálnym odborom pod číslom 948/2018 v prospech každodobého vlastníka pozemku registra C KN parcelné číslo 3110/1, zastavaná plocha a nádvorie o výmere 3609 m2, bezodplatne a časovo neobmedzene; 
+- vecné bremeno 2 spočívajúce v práve prechodu a prejazdu cez pozemok registra C KN parcelné číslo 2992/4, ostatná plocha o výmere 1088 m2, pozemok registra C KN parcelné číslo 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2 akýmkoľvek vozidlom (osobným alebo nákladným) v celom ich rozsahu za účelom údržby, opravy a ďalších činností potrebných na prevádzku akýchkoľvek inžinierskych sietí a ich príslušenstva - najmä vedenie elektrickej energie vonkajšieho osvetlenia, rozvodu pitnej vody, kanalizácie a súvisiacich zariadení, 24 hodín denne v prospech každodobého vlastníka pozemku registra C KN parcelné číslo 3110/1, zastavaná plocha a nádvorie o výmere 3609 m2, bezodplatne a časovo neobmedzene, na základe Zmluvy o zriadení vecných bremien na základe V-133/2019 vklad povolený 12.02.2019, č.z.364/19
+
+Záložné právo v prospech: Fio Banka, a.s., V Celnici 1028/10, 117 21 Praha 1, Česká republika, IČO: 618 58 374, podľa V-1735/2019 vklad povolený 18.06.2019 na: Nebytový priestor - skladový priestor číslo 009, číslo vchodu 1, suterén, súpisné číslo stavby 2879 na pozemkoch registra C KN 2992/3, 2992/5 a spoluvlastnícky podiel o veľkosti 1139/459991 na spoločných častiach a spoločných zariadeniach domu a na pozemku registra C KN s parcelným číslom 2992/3, zastavaná plocha a nádvorie o výmere 1262 m2, na pozemku registra C KN s parcelným číslom 2992/4, ostatná plocha o výmere 1088 m2, na pozemku registra C KN s parcelným číslom 2992/5, zastavaná plocha a nádvorie o výmere 56 m2, na pozemku registra C KN s parcelným číslom 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2, č.z.1307/19
+
+Zákonné záložné právo na skladový priestor číslo 009, v bytovom dome súp.číslo 2879 na C KN parc.číslo 2992/3,2992/4,2992/5, 3110/131 v prospech ostatných vlastníkov bytov a nebytových priestorov v dome v zmysle zákona č. 182/1993 Z.z. o vlastníctve bytov a nebytových priestorov, vrátane podielu na spoločných častiach a spoločných zariadeniach domu a pozemku registra C KN s parcelným číslom 2992/3, zastavaná plocha a nádvorie o výmere 1262 m2, pozemku registra C KN s parcelným číslom 2992/4, ostatná plocha o výmere 1088 m2, pozemku registra C KN s parcelným číslom 2992/5, zastavaná plocha a nádvorie o výmere 56 m2, na pozemku registra C KN s parcelným číslom 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2, podľa Z-2362/2019, č.z.2162/19
+
+Poznámky:
+Oznámenie o začatí výkonu záložného práva k V-1735/2019 podľa § 151l ods. 4 zák.č. 40/1964 Zb. predajom nehnuteľnosti na dobrovoľnej dražbe v zmysle zákona č. 527/2002 Z.z. o dobrovoľných dražbách v platnom znení záložného veriteľa Fio banka, a.s., Na Florenci 2139/2, 110 00 Praha 1, IČO: 61858374, predmet dražby: Nebytový priestor - skladový priestor číslo 009, číslo vchodu 1, suterén, súpisné číslo stavby 2879 na pozemkoch registra C KN 2992/3, 2992/5 a spoluvlastnícky podiel o veľkosti 1139/459991 na spoločných častiach a spoločných zariadeniach domu a na pozemku registra C KN s parcelným číslom 2992/3, zastavaná plocha a nádvorie o výmere 1262 m2, na pozemku registra C KN s parcelným číslom 2992/4, ostatná plocha o výmere 1088 m2, na pozemku registra C KN s parcelným číslom 2992/5, zastavaná plocha a nádvorie o výmere 56 m2, na pozemku registra C KN s parcelným číslom 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2, podľa P365/2025, č.z. 1127/25, X-130/2025, č.z.94/26
+
+Vl č. 98
+Vecné bremeno ˝in rem˝ 1 : - spočívajúce v práve uloženia, prevádzkovania, údržby, opravy, výmeny a ďalších činností potrebných na prevádzku akýchkoľvek inžinierskych sietí a ich príslušenstva - najmä vedenie elektrickej energie, plynovodu a súvisiacich zariadení (prípojky, spojky, atď.) na pozemku registra C KN parcelné číslo 2992/3, zastavaná plocha a nádvorie o výmere 1262 m2, pozemku registra C KN parcelné číslo 2992/4, ostatná plocha o výmere 1088 m2, pozemku registra C KN parcelné číslo 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2 a to v rozsahu vyznačenom podľa Geometrického plánu číslo 627/2018, úradne overený Okresným úradom Senica, katastrálnym odborom pod číslom 948/2018 v prospech každodobého vlastníka pozemku registra C KN parcelné číslo 3110/44, zastavaná plocha a nádvorie o výmere 1164 m2, bezodplatne a časovo neobmedzene; 
+- vecné bremeno spočívajúce v práve prechodu a prejazdu cez pozemok registra C KN parcelné číslo 2992/4, ostatná plocha o výmere 1088 m2, pozemok registra C KN parcelné číslo 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2 akýmkoľvek vozidlom (osobným alebo nákladným) v celom ich rozsahu a prechodu cez pozemok registra C KN parcelné číslo 2992/3, zastavaná plocha a nádvorie o výmere 1262 m2 v rozsahu vyznačenom podľa Geometrického plánu číslo 627/2018, úradne overený Okresným úradom Senica, katastrálnym odborom pod číslom 948/2018 (diel číslo 1 o výmere 10 m2 odčlenený od pozemku registra C KN parcelné číslo 2992/3 a diel číslo 2 o výmere 17 m2 odčlenený od pozemku registra C KN parcelné číslo 2992/3), a to za účelom prevádzkovania, údržby, opravy, výmeny a ďalších činností potrebných na prevádzku akýchkoľvek inžinierskych sietí a ich príslušenstva - najmä vedenie elektrickej energie, plynovodu a súvisiacich zariadení, na základe Zmluvy o zriadení vecných bremien na základe V-133/2019 vklad povolený 12.02.2019, č.z.364/19
+
+Vecné bremeno 2 ˝in rem˝ spočívajúce v práve uloženia, prevádzkovania, údržby, opravy, výmeny a ďalších činností potrebných na prevádzku akýchkoľvek inžinierskych sietí a ich príslušenstva - najmä vedenie elektrickej energie vonkajšieho osvetlenia, rozvodu pitnej vody, kanalizácie a súvisiacich zariadení (prípojky, spojky, atď.) na pozemku registra C KN parcelné číslo 2992/4, ostatná plocha o výmere 1088 m2, pozemku registra C KN parcelné číslo 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2 a to v rozsahu vyznačenom podľa Geometrického plánu číslo 627/2018, úradne overený Okresným úradom Senica, katastrálnym odborom pod číslom 948/2018 v prospech každodobého vlastníka pozemku registra C KN parcelné číslo 3110/1, zastavaná plocha a nádvorie o výmere 3609 m2, bezodplatne a časovo neobmedzene; 
+- vecné bremeno 2 spočívajúce v práve prechodu a prejazdu cez pozemok registra C KN parcelné číslo 2992/4, ostatná plocha o výmere 1088 m2, pozemok registra C KN parcelné číslo 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2 akýmkoľvek vozidlom (osobným alebo nákladným) v celom ich rozsahu za účelom údržby, opravy a ďalších činností potrebných na prevádzku akýchkoľvek inžinierskych sietí a ich príslušenstva - najmä vedenie elektrickej energie vonkajšieho osvetlenia, rozvodu pitnej vody, kanalizácie a súvisiacich zariadení, 24 hodín denne v prospech každodobého vlastníka pozemku registra C KN parcelné číslo 3110/1, zastavaná plocha a nádvorie o výmere 3609 m2, bezodplatne a časovo neobmedzene, na základe Zmluvy o zriadení vecných bremien na základe V-133/2019 vklad povolený 12.02.2019, č.z.364/19
+
+Záložné právo v prospech: Fio Banka, a.s., V Celnici 1028/10, 117 21 Praha 1, Česká republika, IČO: 618 58 374, podľa V-1735/2019 vklad povolený 18.06.2019 na: Nebytový priestor - iný nebytový priestor číslo 801, číslo vchodu 1, 7. p., súpisné číslo stavby 2879 na pozemkoch registra C KN 2992/3, 2992/5 a spoluvlastnícky podiel o veľkosti 735/459991 na spoločných častiach a spoločných zariadeniach domu a na pozemku registra C KN s parcelným číslom 2992/3, zastavaná plocha a nádvorie o výmere 1262 m2, na pozemku registra C KN s parcelným číslom 2992/4, ostatná plocha o výmere 1088 m2, na pozemku registra C KN s parcelným číslom 2992/5, zastavaná plocha a nádvorie o výmere 56 m2, na pozemku registra C KN s parcelným číslom 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2, č.z.1307/19, č.z.2645/19
+
+Zákonné záložné právo na nebytový priestor - iný nebytový priestor číslo 801, v bytovom dome súp.číslo 2879 na C KN parc.číslo 2992/3,2992/4,2992/5, 3110/131 v prospech ostatných vlastníkov bytov a nebytových priestorov v dome v zmysle zákona č. 182/1993 Z.z. o vlastníctve bytov a nebytových priestorov, vrátane podielu na spoločných častiach a spoločných zariadeniach domu a pozemku registra C KN s parcelným číslom 2992/3, zastavaná plocha a nádvorie o výmere 1262 m2, pozemku registra C KN s parcelným číslom 2992/4, ostatná plocha o výmere 1088 m2, pozemku registra C KN s parcelným číslom 2992/5, zastavaná plocha a nádvorie o výmere 56 m2, na pozemku registra C KN s parcelným číslom 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2, podľa Z-2362/2019, č.z.2162/19, č.z.2645/19
+
+Poznámky
+Oznámenie o začatí výkonu záložného práva k V-1735/2019 podľa § 151l ods. 4 zák.č. 40/1964 Zb. predajom nehnuteľnosti na dobrovoľnej dražbe v zmysle zákona č. 527/2002 Z.z. o dobrovoľných dražbách v platnom znení záložného veriteľa Fio banka, a.s., Na Florenci 2139/2, 110 00 Praha 1, IČO: 61858374, predmet dražby: Nebytový priestor - iný nebytový priestor číslo 801, číslo vchodu 1, 7. p., súpisné číslo stavby 2879 na pozemkoch registra C KN 2992/3, 2992/5 a spoluvlastnícky podiel o veľkosti 735/459991 na spoločných častiach a spoločných zariadeniach domu a na pozemku registra C KN s parcelným číslom 2992/3, zastavaná plocha a nádvorie o výmere 1262 m2, na pozemku registra C KN s parcelným číslom 2992/4, ostatná plocha o výmere 1088 m2, na pozemku registra C KN s parcelným číslom 2992/5, zastavaná plocha a nádvorie o výmere 56 m2, na pozemku registra C KN s parcelným číslom 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2, podľa P365/2025, č.z. 1127/25, č.z.94/26
+
+Vl č. 100
+Vecné bremeno ˝in rem˝ 1 : - spočívajúce v práve uloženia, prevádzkovania, údržby, opravy, výmeny a ďalších činností potrebných na prevádzku akýchkoľvek inžinierskych sietí a ich príslušenstva - najmä vedenie elektrickej energie, plynovodu a súvisiacich zariadení (prípojky, spojky, atď.) na pozemku registra C KN parcelné číslo 2992/3, zastavaná plocha a nádvorie o výmere 1262 m2, pozemku registra C KN parcelné číslo 2992/4, ostatná plocha o výmere 1088 m2, pozemku registra C KN parcelné číslo 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2 a to v rozsahu vyznačenom podľa Geometrického plánu číslo 627/2018, úradne overený Okresným úradom Senica, katastrálnym odborom pod číslom 948/2018 v prospech každodobého vlastníka pozemku registra C KN parcelné číslo 3110/44, zastavaná plocha a nádvorie o výmere 1164 m2, bezodplatne a časovo neobmedzene; 
+- vecné bremeno spočívajúce v práve prechodu a prejazdu cez pozemok registra C KN parcelné číslo 2992/4, ostatná plocha o výmere 1088 m2, pozemok registra C KN parcelné číslo 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2 akýmkoľvek vozidlom (osobným alebo nákladným) v celom ich rozsahu a prechodu cez pozemok registra C KN parcelné číslo 2992/3, zastavaná plocha a nádvorie o výmere 1262 m2 v rozsahu vyznačenom podľa Geometrického plánu číslo 627/2018, úradne overený Okresným úradom Senica, katastrálnym odborom pod číslom 948/2018 (diel číslo 1 o výmere 10 m2 odčlenený od pozemku registra C KN parcelné číslo 2992/3 a diel číslo 2 o výmere 17 m2 odčlenený od pozemku registra C KN parcelné číslo 2992/3), a to za účelom prevádzkovania, údržby, opravy, výmeny a ďalších činností potrebných na prevádzku akýchkoľvek inžinierskych sietí a ich príslušenstva - najmä vedenie elektrickej energie, plynovodu a súvisiacich zariadení, na základe Zmluvy o zriadení vecných bremien na základe V-133/2019 vklad povolený 12.02.2019, č.z.364/19
+
+Vecné bremeno 2 ˝in rem˝ spočívajúce v práve uloženia, prevádzkovania, údržby, opravy, výmeny a ďalších činností potrebných na prevádzku akýchkoľvek inžinierskych sietí a ich príslušenstva - najmä vedenie elektrickej energie vonkajšieho osvetlenia, rozvodu pitnej vody, kanalizácie a súvisiacich zariadení (prípojky, spojky, atď.) na pozemku registra C KN parcelné číslo 2992/4, ostatná plocha o výmere 1088 m2, pozemku registra C KN parcelné číslo 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2 a to v rozsahu vyznačenom podľa Geometrického plánu číslo 627/2018, úradne overený Okresným úradom Senica, katastrálnym odborom pod číslom 948/2018 v prospech každodobého vlastníka pozemku registra C KN parcelné číslo 3110/1, zastavaná plocha a nádvorie o výmere 3609 m2, bezodplatne a časovo neobmedzene; 
+- vecné bremeno 2 spočívajúce v práve prechodu a prejazdu cez pozemok registra C KN parcelné číslo 2992/4, ostatná plocha o výmere 1088 m2, pozemok registra C KN parcelné číslo 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2 akýmkoľvek vozidlom (osobným alebo nákladným) v celom ich rozsahu za účelom údržby, opravy a ďalších činností potrebných na prevádzku akýchkoľvek inžinierskych sietí a ich príslušenstva - najmä vedenie elektrickej energie vonkajšieho osvetlenia, rozvodu pitnej vody, kanalizácie a súvisiacich zariadení, 24 hodín denne v prospech každodobého vlastníka pozemku registra C KN parcelné číslo 3110/1, zastavaná plocha a nádvorie o výmere 3609 m2, bezodplatne a časovo neobmedzene, na základe Zmluvy o zriadení vecných bremien na základe V-133/2019 vklad povolený 12.02.2019, č.z.364/19
+
+Záložné právo v prospech: Fio Banka, a.s., V Celnici 1028/10, 117 21 Praha 1, Česká republika, IČO: 618 58 374, podľa V-1735/2019 vklad povolený 18.06.2019 na: Nebytový priestor - skladový priestor číslo 803, číslo vchodu 1, 7. p., súpisné číslo stavby 2879 na pozemkoch registra C KN 2992/3, 2992/5 a spoluvlastnícky podiel o veľkosti 7322/459991 na spoločných častiach a spoločných zariadeniach domu a na pozemku registra C KN s parcelným číslom 2992/3, zastavaná plocha a nádvorie o výmere 1262 m2, na pozemku registra C KN s parcelným číslom 2992/4, ostatná plocha o výmere 1088 m2, na pozemku registra C KN s parcelným číslom 2992/5, zastavaná plocha a nádvorie o výmere 56 m2, na pozemku registra C KN s parcelným číslom 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2, č.z.1307/19, č.z.2645/19, č.z.2645/19
+
+Zákonné záložné právo na nebytový priestor - skladový priestor číslo 803, v bytovom dome súp.číslo 2879 na C KN parc.číslo 2992/3,2992/4,2992/5, 3110/131 v prospech ostatných vlastníkov bytov a nebytových priestorov v dome v zmysle zákona č. 182/1993 Z.z. o vlastníctve bytov a nebytových priestorov, vrátane podielu na spoločných častiach a spoločných zariadeniach domu a pozemku registra C KN s parcelným číslom 2992/3, zastavaná plocha a nádvorie o výmere 1262 m2, pozemku registra C KN s parcelným číslom 2992/4, ostatná plocha o výmere 1088 m2, pozemku registra C KN s parcelným číslom 2992/5, zastavaná plocha a nádvorie o výmere 56 m2, na pozemku registra C KN s parcelným číslom 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2, podľa Z-2362/2019, č.z.2162/19, č.z.2645/19
+
+Poznámky
+Oznámenie o začatí výkonu záložného práva k V-1735/2019 podľa § 151l ods. 4 zák.č. 40/1964 Zb. predajom nehnuteľnosti na dobrovoľnej dražbe v zmysle zákona č. 527/2002 Z.z. o dobrovoľných dražbách v platnom znení záložného veriteľa Fio banka, a.s., Na Florenci 2139/2, 110 00 Praha 1, IČO: 61858374, predmet dražby: Nebytový priestor - skladový priestor číslo 803, číslo vchodu 1, 7. p., súpisné číslo stavby 2879 na pozemkoch registra C KN 2992/3, 2992/5 a spoluvlastnícky podiel o veľkosti 7322/459991 na spoločných častiach a spoločných zariadeniach domu a na pozemku registra C KN s parcelným číslom 2992/3, zastavaná plocha a nádvorie o výmere 1262 m2, na pozemku registra C KN s parcelným číslom 2992/4, ostatná plocha o výmere 1088 m2, na pozemku registra C KN s parcelným číslom 2992/5, zastavaná plocha a nádvorie o výmere 56 m2, na pozemku registra C KN s parcelným číslom 3110/131, zastavaná plocha a nádvorie o výmere 1337 m2, podľa P365/2025, č.z. 1127/25, X-130/2025, č.z.94/26
+
+</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad xsi:nil="true" />
+  <ns0:PredmetCenaVyska xsi:nil="true" />
+  <ns0:PredmetCenaSposobStanovenia>Znaleckým posudkom č. 14/2026, súdnym znalcom Ing. Adrianou Meliškovou v sume 45.500,-€</ns0:PredmetCenaSposobStanovenia>
+  <ns0:PredmetPodmienkyOdovzdania>a.) zaplatenie ceny dosiahnutej vydražením podľa § 27 ods. 1 zákona č. 527/2002 Z. z. o dobrovoľných dražbách,
+	b.) osvedčený odpis notárskej zápisnice osvedčujúcej priebeh dražby podľa § 29 zákona č. 527/2002 Z. z. o dobrovoľných dražbách.
+-	Po nadobudnutí vlastníckeho práva alebo iného práva k predmetu dražby odovzdá dražobník bez zbytočného odkladu vydražiteľovi predmet dražby a listiny, ktoré osvedčujú vlastnícke právo a sú nevyhnutné na nakladanie s predmetom dražby alebo osvedčujú iné práva vydražiteľa k predmetu dražby.
+-	Ak ide o nehnuteľnosť, podnik alebo jeho časť  je predchádzajúci vlastník  povinný v zmysle ustanovenia § 29 ods. 2 zákona č. 527/2002  Z. z. o dobrovoľných dražbách, odovzdať vydražený predmet dražby na základe predloženia osvedčeného odpisu notárskej zápisnice a doloženia totožnosti vydražiteľa bez zbytočných prieťahov vydražiteľovi. Dražobník je povinný na mieste spísať zápisnicu o odovzdaní predmetu dražby. Zápisnicu o odovzdaní predmetu dražby podpíšu predchádzajúci vlastník [skryté], vydražiteľ a dražobník. Jedno vyhotovenie zápisnice dostane predchádzajúci vlastník a dve vyhotovenia dostane vydražiteľ. Ak niektorá osoba odmietne zápisnicu podpísať alebo ju prevziať, táto skutočnosť sa vyznačí v zápisnici a zápisnica sa považuje za odovzdanú aj tejto osobe; o tom dražobník túto osobu poučí.
+
+V prípade, ak predchádzajúci vlastník neposkytne nevyhnutnú súčinnosť pri odovzdaní predmetu dražby a v prípade akejkoľvek spôsobenej škody, ktorá by vznikla  v súvislosti s jeho protiprávnym konaním, môže  byť zaviazaný na jej úhradu podľa  § 33 ods. 8 zákona č. 527/2002 Z. z. o dobrovoľných dražbách v spojitosti s § 420 a nasl. Občianskeho zákonníka. 
+Všetky náklady spojené s odovzdaní a prevzatím predmetu dražby nesie vydražiteľ. Nebezpečenstvo škody na predmete dražby prechádza z vlastníka nehnuteľností na vydražiteľa dňom odovzdania predmetu dražby.
+</ns0:PredmetPodmienkyOdovzdania>
+  <ns0:NajnizsiePodanie>45.500,-€</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie>500,-  €</ns0:MinimalnePrihodenie>
+  <ns0:Zabezpeka>
+    <ns0:Vyska>3.000,-  €</ns0:Vyska>
+    <ns0:ZlozenieSposob>1. bezhotovostný prevod na účet dražobníka č. ú.: 2621858260/1100, vedený v Tatra banka, a.s. pod V.S.: 900225B (SWIFT TATRA banka, a.s.: TATR SK BX, IBAN: SK 1411 0000 0000 2621 8582 60) najneskôr do otvorenia dražby s preukázaním sa potvrdenia o úhrade zákonom povoleným spôsobom. 
+2. v hotovosti do pokladne dražobníka najneskôr do otvorenia dražby.
+3. vo forme bankovej záruky v prospech dražobníka s výhradou prevodu platby po doručení zápisnice o vykonaní dražby za predpokladu,  že účastník dražby sa stane vydražiteľom.
+4. vo forme notárskej úschovy.
+</ns0:ZlozenieSposob>
+    <ns0:ZlozenieCisloUctu>SK 1411 0000 0000 2621 8582 60</ns0:ZlozenieCisloUctu>
+    <ns0:ZlozenieAdresa>LICITOR group, a.s. Sládkovičova 6, 010 01 Žilina, alebo v mieste konania dražby, najneskôr pred otvorením dražby.	</ns0:ZlozenieAdresa>
+    <ns0:ZlozenieDoklad>1. originál príkazu na úhradu peňažných prostriedkov vo výške 	dražobnej zábezpeky. Účastník bude pripustený k dražbe, ak do 	otvorenia dražby bude dražobná zábezpeka pripísaná na účet 	dražobníka.
+	2. hotovosť vo výške dražobnej zábezpeky.
+3. originál alebo úradne overená kópia dokladu preukazujúca vystavenie bankovej záruky.
+4. originál alebo úradne overená kópia dokladu preukazujúceho notársku úschovu.
+Dražobnú zábezpeku nie je možné zložiť šekom ani platobnou 	kartou. 
+</ns0:ZlozenieDoklad>
+    <ns0:ZlozenieLehota>Najneskôr do otvorenia dražby.</ns0:ZlozenieLehota>
+    <ns0:Vratenie>Neúspešným účastníkom dražby, ktorí zložili dražobnú zábezpeku v hotovosti, bude dražobná zábezpeka vrátená hneď po skončení dražby. 
+Neúspešným účastníkom dražby, ktorí zložili dražobnú zábezpeku bezhotovostným prevodom na účet dražobníka, bude dražobná zábezpeka vrátená bez zbytočného odkladu po skončení dražby bezhotovostným prevodom na účet označený účastníkom dražby.
+</ns0:Vratenie>
+  </ns0:Zabezpeka>
+  <ns0:SposobUhradyCeny>Vydražiteľ je povinný zaplatiť cenu dosiahnutú vydražením v hotovosti do pokladne v sídle dražobníka alebo bezhotovostným prevodom na účet dražobníka č. 2621858260/1100, vedený v Tatra banka a.s. (SWIFT TATRA banka, a.s.: TATR SK BX, IBAN: SK 1411 0000 0000 2621 8582 60) a to do 30 dní odo dňa skončenia dražby. Dražobná zábezpeka sa vydražiteľovi započítava do ceny dosiahnutej vydražením. </ns0:SposobUhradyCeny>
+  <ns0:ObhliadkaDatum>1. termín: 08.07.2026 o 15:30 hod.
+2. termín: 22.07.2026 o 15:30 hod.
+</ns0:ObhliadkaDatum>
+  <ns0:ObhliadkaMiesto>katastrálne územie</ns0:ObhliadkaMiesto>
+  <ns0:SpolocnaDrazba Kod="NIE">Nie</ns0:SpolocnaDrazba>
+  <ns0:SpolocnaDrazbaPoradieDrazeniePredmetov xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia>Záujemcovia o vykonanie obhliadky sa prihlásia telefonicky najneskôr 24 hodín pred stanoveným termínom obhliadky na t. č. : 0905 447 835. Stretnutie záujemcov sa uskutoční pred polyfunkčným bytovým domom s kongresovým centrom súp. č. 2879 na ul. Továrenská v obci Senica. Obhliadky je možné vykonať aj mimo termín stanovený v oznámení o dražbe po predchádzajúcej dohode s dražobníkom. Bližšie informácie na t. č. : 041/763 22 34 alebo 0918 834 834.
+V zmysle § 12 ods. 2 a § 13 zákona č. 527/2002 Z.z. o dobrovoľných dražbách je vlastník [skryté], držiteľ alebo nájomca povinný umožniť riadnu obhliadku predmetu dražby v stanovených termínoch.
+</ns0:OrganizaceOpatrenia>
+  <ns0:NadobudnutieVlastnickehoPrava>V zmysle ustanovenia § 27 ods. 1 zákona č. 527/2002 Z. z. o dobrovoľných dražbách ak vydražiteľ zaplatí cenu dosiahnutú vydražením v ustanovenej lehote prechádza na neho vlastnícke právo dňom udelenia príklepu. Dražobník vydá bez zbytočného odkladu po nadobudnutí vlastníckeho alebo iného práva vydražiteľovi potvrdenie o vydražení predmetu dražby a v prípadoch, v ktorých sa o priebehu dražby spisuje notárska zápisnica vydá dražobník vydražiteľovi dve vyhotovenia osvedčeného odpisu notárskej zápisnice najneskôr do 5 dní. Ku dňu zaplatenia ceny dosiahnutej vydražením vydražiteľom zaniká pohľadávka veriteľa v rozsahu uspokojenia veriteľa z výťažku dražby.</ns0:NadobudnutieVlastnickehoPrava>
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

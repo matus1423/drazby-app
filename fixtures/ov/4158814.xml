@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Drazba xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="/PortalJustice/XmlFormularObchodnyVestnik/">
+  <Cislo>900524</Cislo>
+  <ZoDna>2026-04-16</ZoDna>
+  <Drazobnik>
+    <ObchodneMenoNazov xmlns="">LICITOR group, a.s.</ObchodneMenoNazov>
+    <Sidlo xmlns="">
+      <Ulica>Sládkovičova</Ulica>
+      <Cislo>6</Cislo>
+      <Obec>Žilina</Obec>
+      <Psc>01001</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud xmlns="" Kod="131">Okresný súd Žilina</Sud>
+    <Oddiel xmlns="">Sa</Oddiel>
+    <Vlozka xmlns="">10476/L</Vlozka>
+    <Ico xmlns="">36421561</Ico>
+  </Drazobnik>
+  <NavrhovateliaHeader>Označenie navrhovateľa</NavrhovateliaHeader>
+  <Navrhovatelia>
+    <Navrhovatel>
+      <Id>1</Id>
+      <CeleMeno>
+        <ObchodneMenoNazov xmlns="">Fio banka, a.s.</ObchodneMenoNazov>
+        <Sidlo xmlns="">
+          <Ulica>Na Florenci</Ulica>
+          <Cislo>2139/2</Cislo>
+          <Obec>Praha 1</Obec>
+          <Psc>01001</Psc>
+          <Stat>ČR</Stat>
+        </Sidlo>
+        <Oddiel xmlns="" />
+        <Vlozka xmlns="" />
+        <Ico xmlns="">61858374</Ico>
+      </CeleMeno>
+    </Navrhovatel>
+  </Navrhovatelia>
+  <Licitatori xsi:nil="true" />
+  <Notar xsi:nil="true" />
+  <KonanieMiesto>sídlo dražobníka – Sládkovičova 181/6, 010 01 Žilina    				(dražobná miestnosť  – v suteréne)
+</KonanieMiesto>
+  <KonanieDatum>2026-05-06</KonanieDatum>
+  <Predmet>&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Č&amp;iacute;slo LV&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Katastr&amp;aacute;lne &amp;uacute;zemie&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#e7e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Veden&amp;eacute; Okresn&amp;yacute;m &amp;uacute;radom, katastr&amp;aacute;lny odbor&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;8872&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Trenč&amp;iacute;n&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;Trenč&amp;iacute;n&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;&lt;strong&gt;Pozemky parcely registra &amp;bdquo;C&amp;ldquo;:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Parc. č.&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;mera v m&lt;sup&gt;2&lt;/sup&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Sp&amp;ocirc;sob využitia pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 989&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;16&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#bfbfbf"&gt;
+			&lt;p&gt;&lt;strong&gt;Stavby na pozemku:&amp;nbsp; &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;S&amp;uacute;p. č. stavby&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Postaven&amp;aacute; na par. č.&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh stavby&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Pozn&amp;aacute;mka&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č. 2 - Sklad&lt;/strong&gt; nach&amp;aacute;dzaj&amp;uacute;ci sa v&amp;nbsp;suter&amp;eacute;ne (-1) vo vchode -,&amp;nbsp; polyfunkčn&amp;eacute;ho objektu č. 6972 &lt;strong&gt;so spoluvlastn&amp;iacute;ckym podielom 4320/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č. 3 -Sklad&lt;/strong&gt; nach&amp;aacute;dzaj&amp;uacute;ci sa v&amp;nbsp;suter&amp;eacute;ne (-1) vo vchode -,&amp;nbsp; polyfunkčn&amp;eacute;ho objektu č. 6972 &lt;strong&gt;so spoluvlastn&amp;iacute;ckym podielom 2840/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č. 4 - Sklad&lt;/strong&gt; nach&amp;aacute;dzaj&amp;uacute;ci sa v&amp;nbsp;suter&amp;eacute;ne (-1) vo vchode -,&amp;nbsp; polyfunkčn&amp;eacute;ho objektu č. 6972 &lt;strong&gt;so spoluvlastn&amp;iacute;ckym podielom 1240/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č. 5 - Sklad&lt;/strong&gt; nach&amp;aacute;dzaj&amp;uacute;ci sa v&amp;nbsp;suter&amp;eacute;ne (-1) vo vchode -,&amp;nbsp; polyfunkčn&amp;eacute;ho objektu č. 6972 &lt;strong&gt;so spoluvlastn&amp;iacute;ckym podielom 800/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č. 6 &amp;ndash; Zariadenie obchodu&lt;/strong&gt; nach&amp;aacute;dzaj&amp;uacute;ci sa na pr&amp;iacute;zem&amp;iacute; vo vchode -,&amp;nbsp; polyfunkčn&amp;eacute;ho objektu č. 6972 &lt;strong&gt;so spoluvlastn&amp;iacute;ckym podielom 72588/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č. 7 &amp;ndash; Zariadenie obchodu&lt;/strong&gt; nach&amp;aacute;dzaj&amp;uacute;ci sa na pr&amp;iacute;zem&amp;iacute; vo vchode -,&amp;nbsp; polyfunkčn&amp;eacute;ho objektu č. 6972 &lt;strong&gt;so spoluvlastn&amp;iacute;ckym podielom 440/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č. 8 &amp;ndash; Zariadenie obchodu&lt;/strong&gt; nach&amp;aacute;dzaj&amp;uacute;ci sa na 1. poschod&amp;iacute; vo vchode -,&amp;nbsp; polyfunkčn&amp;eacute;ho objektu č. 6972 &lt;strong&gt;so spoluvlastn&amp;iacute;ckym podielom 82384/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č. 9 &amp;ndash; Zariadenie obchodu&lt;/strong&gt; nach&amp;aacute;dzaj&amp;uacute;ci sa na 2. poschod&amp;iacute; vo vchode -,&amp;nbsp; polyfunkčn&amp;eacute;ho objektu č. 6972 &lt;strong&gt;so spoluvlastn&amp;iacute;ckym podielom 82600/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č. 10 &amp;ndash; Zariadenie verejnej spr&amp;aacute;vy a&amp;nbsp;administrat&amp;iacute;vy &lt;/strong&gt;&amp;nbsp;nach&amp;aacute;dzaj&amp;uacute;ci sa na 2. poschod&amp;iacute; vo vchode -,&amp;nbsp; polyfunkčn&amp;eacute;ho objektu č. 6972 &lt;strong&gt;so spoluvlastn&amp;iacute;ckym podielom 1430/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Nebytov&amp;yacute; priestor č. 11 &amp;ndash; Zariadenie obchodu&lt;/strong&gt; nach&amp;aacute;dzaj&amp;uacute;ci sa na 3. poschod&amp;iacute; vo vchode -,&amp;nbsp; polyfunkčn&amp;eacute;ho objektu č. 6972 &lt;strong&gt;so spoluvlastn&amp;iacute;ckym podielom 83605/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;&amp;scaron;ka spoluvlastn&amp;iacute;ckeho podielu &amp;nbsp;z&amp;aacute;ložcu&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;1/1 &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;6972&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;696/18&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; polyfunkčn&amp;yacute; objekt &amp;ndash; SEKO&amp;amp;DAPA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;strong&gt;Spoluvlastn&amp;iacute;cky podiel vo v&amp;yacute;&amp;scaron;ke 20/26 &lt;/strong&gt;na nebytovom priestore č. 1 - Gar&amp;aacute;ž nach&amp;aacute;dzaj&amp;uacute;cej sa v&amp;nbsp;suter&amp;eacute;ne (-1) vo vchode -, polyfunkčn&amp;eacute;ho objektu č. 6972&lt;strong&gt; so spoluvlastn&amp;iacute;ckym podielom 68000/497572 na spoločn&amp;yacute;ch častiach, zariadeniach domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;spoluvlastn&amp;iacute;cky podiel k&amp;nbsp;pozemku;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="4" style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;&amp;scaron;ka spoluvlastn&amp;iacute;ckeho podielu &amp;nbsp;z&amp;aacute;ložcu&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;20/26&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/em&gt;&lt;/p&gt;
+</Predmet>
+  <PredmetOpis xsi:nil="true" />
+  <PredmetStavOpis xsi:nil="true" />
+  <PredmetPravaZavazky xsi:nil="true" />
+  <PredmetCenaOdhad xsi:nil="true" />
+  <PredmetCenaVyska xsi:nil="true" />
+  <PredmetCenaSposobStanovenia xsi:nil="true" />
+  <PredmetPodmienkyOdovzdania xsi:nil="true" />
+  <NajnizsiePodanie xsi:nil="true" />
+  <NajvyssiePodanie xsi:nil="true" />
+  <MinimalnePrihodenie xsi:nil="true" />
+  <Zabezpeka xsi:nil="true" />
+  <SposobUhradyCeny xsi:nil="true" />
+  <ObhliadkaDatum xsi:nil="true" />
+  <ObhliadkaMiesto xsi:nil="true" />
+  <OrganizaceOpatrenia xsi:nil="true" />
+  <NadobudnutieVlastnickehoPrava xsi:nil="true" />
+  <DovodUpustenia xsi:nil="true" />
+  <DrazobnikOznamuje>&lt;p&gt;sa zmarila z d&amp;ocirc;vodu neuhradenie ceny dosiahnutej vydražen&amp;iacute;m predmetu dražby vydražiteľom v ustanovenej lehote.&lt;/p&gt;
+</DrazobnikOznamuje>
+</Drazba>

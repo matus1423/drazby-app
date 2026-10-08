@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:AuctionDecree xmlns:ns0="http://schemas.gov.sk/form/00166073.MSSR_OV_Drazobna_vyhlaska/2.x">
+  <ns0:TypeOfProperty>
+    <ns0:Codelist>
+      <ns0:CodelistCode>1000541</ns0:CodelistCode>
+      <ns0:CodelistItem>
+        <ns0:ItemCode>RealEstate</ns0:ItemCode>
+        <ns0:ItemName Language="sk">Nehnuteľné veci</ns0:ItemName>
+      </ns0:CodelistItem>
+    </ns0:Codelist>
+  </ns0:TypeOfProperty>
+  <ns0:DeclarationDate>2026-09-28</ns0:DeclarationDate>
+  <ns0:NumberOfExecution>EX 798/24</ns0:NumberOfExecution>
+  <ns0:Order>1</ns0:Order>
+  <ns0:ExecutorOffice>
+    <ns0:PersonData>
+      <ns0:Name>Mgr. Viera Lesňáková</ns0:Name>
+      <ns0:PhysicalAddress>
+        <ns0:Municipality>
+          <ns0:Codelist>
+            <ns0:CodelistCode>CL000025</ns0:CodelistCode>
+            <ns0:CodelistItem>
+              <ns0:ItemCode>SK0416523381</ns0:ItemCode>
+              <ns0:ItemName Language="sk">Poprad</ns0:ItemName>
+            </ns0:CodelistItem>
+          </ns0:Codelist>
+        </ns0:Municipality>
+        <ns0:StreetName>Námestie sv. Egídia </ns0:StreetName>
+        <ns0:BuildingNumber>95</ns0:BuildingNumber>
+        <ns0:DeliveryAddress>
+          <ns0:PostalCode>05801</ns0:PostalCode>
+        </ns0:DeliveryAddress>
+      </ns0:PhysicalAddress>
+      <ns0:TelephoneAddress>
+        <ns0:Number>
+          <ns0:FormattedNumber>052/7724004</ns0:FormattedNumber>
+        </ns0:Number>
+      </ns0:TelephoneAddress>
+      <ns0:ElectronicAddress>
+        <ns0:InternetAddress>viera.lesnakova@ske.sk</ns0:InternetAddress>
+      </ns0:ElectronicAddress>
+    </ns0:PersonData>
+  </ns0:ExecutorOffice>
+  <ns0:AreYouRepresentativeExecutorOffice>
+    <ns0:Codelist>
+      <ns0:CodelistCode>1000914</ns0:CodelistCode>
+      <ns0:CodelistItem>
+        <ns0:ItemCode>False</ns0:ItemCode>
+        <ns0:ItemName Language="sk">Nie</ns0:ItemName>
+      </ns0:CodelistItem>
+    </ns0:Codelist>
+  </ns0:AreYouRepresentativeExecutorOffice>
+  <ns0:Date>2026-11-10</ns0:Date>
+  <ns0:Time>11.00</ns0:Time>
+  <ns0:Place>
+    <ns0:Municipality>
+      <ns0:Codelist>
+        <ns0:CodelistCode>CL000025</ns0:CodelistCode>
+        <ns0:CodelistItem>
+          <ns0:ItemCode>SK0416523381</ns0:ItemCode>
+          <ns0:ItemName Language="sk">Poprad</ns0:ItemName>
+        </ns0:CodelistItem>
+      </ns0:Codelist>
+    </ns0:Municipality>
+    <ns0:StreetName>Námestie sv. Egídia</ns0:StreetName>
+    <ns0:BuildingNumber>95</ns0:BuildingNumber>
+    <ns0:DeliveryAddress>
+      <ns0:PostalCode>05801</ns0:PostalCode>
+    </ns0:DeliveryAddress>
+  </ns0:Place>
+  <ns0:RealEstate>
+    <ns0:Item>
+      <ns0:Region>
+        <ns0:Codelist>
+          <ns0:CodelistCode>CL000023</ns0:CodelistCode>
+          <ns0:CodelistItem>
+            <ns0:ItemCode>SK041</ns0:ItemCode>
+            <ns0:ItemName Language="sk">Prešovský kraj</ns0:ItemName>
+          </ns0:CodelistItem>
+        </ns0:Codelist>
+      </ns0:Region>
+      <ns0:County>
+        <ns0:Codelist>
+          <ns0:CodelistCode>CL000024</ns0:CodelistCode>
+          <ns0:CodelistItem>
+            <ns0:ItemCode>SK0416</ns0:ItemCode>
+            <ns0:ItemName Language="sk">Okres Poprad</ns0:ItemName>
+          </ns0:CodelistItem>
+        </ns0:Codelist>
+      </ns0:County>
+      <ns0:Municipality>
+        <ns0:Codelist>
+          <ns0:CodelistCode>CL000025</ns0:CodelistCode>
+          <ns0:CodelistItem>
+            <ns0:ItemCode>SK0416523381</ns0:ItemCode>
+            <ns0:ItemName Language="sk">Poprad</ns0:ItemName>
+          </ns0:CodelistItem>
+        </ns0:Codelist>
+      </ns0:Municipality>
+      <ns0:CadastralUnit>Spišská Sobota</ns0:CadastralUnit>
+      <ns0:FolioNumber>493</ns0:FolioNumber>
+      <ns0:IsPlotPartOfAuction>
+        <ns0:Codelist>
+          <ns0:CodelistCode>1000914</ns0:CodelistCode>
+          <ns0:CodelistItem>
+            <ns0:ItemCode>True</ns0:ItemCode>
+            <ns0:ItemName Language="sk">Áno</ns0:ItemName>
+          </ns0:CodelistItem>
+        </ns0:Codelist>
+      </ns0:IsPlotPartOfAuction>
+      <ns0:Fields>
+        <ns0:PlotType>parc. reg. C</ns0:PlotType>
+        <ns0:PlotNumber>705</ns0:PlotNumber>
+        <ns0:PlotSize>167</ns0:PlotSize>
+        <ns0:KindOfPlot>zastavaná plocha a nádvorie</ns0:KindOfPlot>
+        <ns0:DescriptionOfRealestate>pozemok, na ktorom je dvor</ns0:DescriptionOfRealestate>
+        <ns0:Accessories />
+      </ns0:Fields>
+      <ns0:Fields>
+        <ns0:PlotType>parc. reg. C</ns0:PlotType>
+        <ns0:PlotNumber>706</ns0:PlotNumber>
+        <ns0:PlotSize>294</ns0:PlotSize>
+        <ns0:KindOfPlot>zastavaná plocha a nádvorie</ns0:KindOfPlot>
+        <ns0:DescriptionOfRealestate>pozemok, na ktorom je postavená bytová budova označená súpisným číslom</ns0:DescriptionOfRealestate>
+        <ns0:Accessories />
+      </ns0:Fields>
+      <ns0:IsBuildingPartOfAuction>
+        <ns0:Codelist>
+          <ns0:CodelistCode>1000914</ns0:CodelistCode>
+          <ns0:CodelistItem>
+            <ns0:ItemCode>True</ns0:ItemCode>
+            <ns0:ItemName Language="sk">Áno</ns0:ItemName>
+          </ns0:CodelistItem>
+        </ns0:Codelist>
+      </ns0:IsBuildingPartOfAuction>
+      <ns0:Buildings>
+        <ns0:PropertyRegistrationNumber>2640</ns0:PropertyRegistrationNumber>
+        <ns0:PlotType>parc. reg. C</ns0:PlotType>
+        <ns0:PlotNumber>706</ns0:PlotNumber>
+        <ns0:KindOfBuild>rodinný dom</ns0:KindOfBuild>
+        <ns0:DescriptionOfBuilding>rodinný dom</ns0:DescriptionOfBuilding>
+        <ns0:Accessories />
+      </ns0:Buildings>
+      <ns0:MoreInformation />
+      <ns0:Owner>
+        <ns0:Name>[skryté]</ns0:Name>
+        <ns0:Address>[skryté]</ns0:Address>
+        <ns0:PartOfCapital>1/6</ns0:PartOfCapital>
+      </ns0:Owner>
+    </ns0:Item>
+    <ns0:Guarantee>
+      <ns0:AmountOfSecurity>27300.00</ns0:AmountOfSecurity>
+      <ns0:MethodOfDepositingSecurity>účet</ns0:MethodOfDepositingSecurity>
+      <ns0:DeadlineForLodgingSecurity>09.11.2026</ns0:DeadlineForLodgingSecurity>
+      <ns0:AccountNumber>SK2783300000002001086036</ns0:AccountNumber>
+      <ns0:Address>Námestie sv. Egídia 95, 058 01 Poprad</ns0:Address>
+      <ns0:ProofOfSecurity>Záujemca je povinný pred začatím dražby preukázať zloženie zábezpeky na určený účet potvrdením z banky. Bez zloženia zábezpeky v uvedenom termíne prípadný záujemca nebude pripustený na dražbu.</ns0:ProofOfSecurity>
+      <ns0:MethodOfReturningSecurity>Záujemcom o kúpu nehnuteľností, ktorí nehnuteľnosť nevydražia na dražbe, bude zložená zábezpeka vrátená v lehote 3 dní od konania dražby na číslo účtu, ktoré oznámia písomne exekútorskému úradu.</ns0:MethodOfReturningSecurity>
+      <ns0:DeadlineForReturnOfSecurity>do 3 dní od konania dražby</ns0:DeadlineForReturnOfSecurity>
+    </ns0:Guarantee>
+    <ns0:Bid>
+      <ns0:LowestBid>54600.00</ns0:LowestBid>
+      <ns0:ValueOfPropertyDeterminedByExpert>54600.00</ns0:ValueOfPropertyDeterminedByExpert>
+      <ns0:MethodOfPaymentOfHighestBid>č. ú. 2001086036/8330, IBAN SK27 8330 0000 0020 0108 6036, názov účtu: Lesňáková Viera, BIC KÓD: FIOZSKBAXXX, ktorý je vedený vo FIO Banka, a.s., pobočka Poprad, VS 79824</ns0:MethodOfPaymentOfHighestBid>
+      <ns0:DeadlineForPaymentOfHighestBid>do 30 dní od udelenia príklepu</ns0:DeadlineForPaymentOfHighestBid>
+      <ns0:DefectsThatAuctioneerMustTakeOver>Z exekučného spisu nie sú známe žiadne závady, ktoré vydražiteľ v zmysle ustanovenia § 153 ods. 1 Exekučného poriadku musí prevziať bez započítania na najvyššie podanie.</ns0:DefectsThatAuctioneerMustTakeOver>
+      <ns0:TransferOfDefectsAndBenefits>Z exekučného spisu nie sú známe žiadne závady, ktoré vydražiteľ v zmysle ustanovenia § 153 ods. 1 Exekučného poriadku musí prevziať bez započítania na najvyššie podanie.</ns0:TransferOfDefectsAndBenefits>
+      <ns0:HandingOverAuctionedProperty>Po udelení príklepu sa vydražiteľ môže ujať vydraženej veci. O tom je povinný upovedomiť exekútora. Ak súd udelenie príklepu schválil, a ak vydražiteľ zaplatil najvyššie podanie, stáva sa vydražiteľ vlastníkom nehnuteľností ku dňu udelenia príklepu (§ 150 Exekučného poriadku).</ns0:HandingOverAuctionedProperty>
+    </ns0:Bid>
+    <ns0:Inspection>
+      <ns0:Date>2026-10-27</ns0:Date>
+      <ns0:Time>10.30</ns0:Time>
+      <ns0:Address>
+        <ns0:Municipality>
+          <ns0:Codelist>
+            <ns0:CodelistCode>CL000025</ns0:CodelistCode>
+            <ns0:CodelistItem>
+              <ns0:ItemCode />
+              <ns0:ItemName Language="sk">Poprad - Spišská Sobota</ns0:ItemName>
+            </ns0:CodelistItem>
+          </ns0:Codelist>
+        </ns0:Municipality>
+        <ns0:StreetName>Budovateľská </ns0:StreetName>
+        <ns0:BuildingNumber>2/2640</ns0:BuildingNumber>
+        <ns0:DeliveryAddress>
+          <ns0:PostalCode>05801</ns0:PostalCode>
+        </ns0:DeliveryAddress>
+      </ns0:Address>
+    </ns0:Inspection>
+    <ns0:Note>Záujem o obhliadku draženej nehnuteľnosti je potrebné dohodnúť do 23.10.2026 do 15.00 hod. na t. č. 052/772 4004 alebo na e-mailovej adrese: viera.lesnakova@ske.sk.</ns0:Note>
+  </ns0:RealEstate>
+  <ns0:HasInspectionExactAddress>
+    <ns0:Codelist>
+      <ns0:CodelistCode>1000914</ns0:CodelistCode>
+      <ns0:CodelistItem>
+        <ns0:ItemCode>True</ns0:ItemCode>
+        <ns0:ItemName Language="sk">Áno</ns0:ItemName>
+      </ns0:CodelistItem>
+    </ns0:Codelist>
+  </ns0:HasInspectionExactAddress>
+  <ns0:MoreInformation />
+</ns0:AuctionDecree>

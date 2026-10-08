@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Drazba xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="/PortalJustice/XmlFormularObchodnyVestnik/">
+  <Cislo>102026</Cislo>
+  <ZoDna>2026-08-26</ZoDna>
+  <Drazobnik>
+    <ObchodneMenoNazov xmlns="">PRO aukcie, s.r.o.</ObchodneMenoNazov>
+    <Sidlo xmlns="">
+      <Ulica>Kopčianska</Ulica>
+      <Cislo>10</Cislo>
+      <Obec>Bratislava V</Obec>
+      <Psc>851 01</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud xmlns="" Kod="104">Mestský súd Bratislava III</Sud>
+    <Oddiel xmlns="">Sro</Oddiel>
+    <Vlozka xmlns="">83219/B</Vlozka>
+    <Ico xmlns="">46771778</Ico>
+  </Drazobnik>
+  <NavrhovateliaHeader>Označenie navrhovateľa</NavrhovateliaHeader>
+  <Navrhovatelia>
+    <Navrhovatel>
+      <Id>1</Id>
+      <CeleMeno>
+        <ObchodneMenoNazov xmlns="">GAMEX TRADING s.r.o.    </ObchodneMenoNazov>
+        <Sidlo xmlns="">
+          <Ulica>Hadovská</Ulica>
+          <Cislo>870</Cislo>
+          <Obec>Komárno  </Obec>
+          <Psc>945 01 </Psc>
+          <Stat>Slovensko </Stat>
+        </Sidlo>
+        <Sud xmlns="" Kod="124">Okresný súd Nitra</Sud>
+        <Oddiel xmlns="">Sro</Oddiel>
+        <Vlozka xmlns="">30/N</Vlozka>
+        <Ico xmlns="">31443265</Ico>
+      </CeleMeno>
+    </Navrhovatel>
+  </Navrhovatelia>
+  <Licitatori xsi:nil="true" />
+  <Notar>
+    <CeleMeno>
+      <TitulPred xmlns="" />
+      <TitulZa xmlns="" />
+      <Meno xmlns="" />
+      <Priezvisko xmlns="" />
+    </CeleMeno>
+    <Sidlo>
+      <Ulica xmlns="" />
+      <Cislo xmlns="" />
+      <Obec xmlns="" />
+      <Psc xmlns="" />
+      <Stat xmlns="" />
+    </Sidlo>
+  </Notar>
+  <KonanieMiesto>Notársky úrad Mgr. Andrea Ujvári, Farská 1311/33, 949 11  Nitra, v priestoroch zasadacej miestnosti     </KonanieMiesto>
+  <KonanieDatum>2026-10-01</KonanieDatum>
+  <KonanieCas>10:00 hod. </KonanieCas>
+  <Kolo>1. kolo dražby </Kolo>
+  <Predmet>&lt;p&gt;S&amp;uacute;bor nehnuteľnost&amp;iacute; evidovan&amp;yacute;ch&amp;nbsp; Okresn&amp;yacute;m &amp;uacute;radom Nov&amp;eacute; Z&amp;aacute;mky, katastr&amp;aacute;lny odbor&lt;strong&gt;,&lt;/strong&gt; zap&amp;iacute;san&amp;eacute; na LV č. &lt;strong&gt;1441&lt;/strong&gt;, k.&amp;uacute;. Gbelce, obec: Gbelce, okres: Nov&amp;eacute; Z&amp;aacute;mky a&amp;nbsp;to :&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Parcely registra &amp;bdquo;C&amp;ldquo; evidovan&amp;eacute; na katastr&amp;aacute;lnej mape:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#8ea9db"&gt;
+			&lt;p&gt;&lt;strong&gt;Parceln&amp;eacute; č&amp;iacute;slo&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#8ea9db"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;mera v&amp;nbsp;m2&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#8ea9db"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:bottom"&gt;
+			&lt;p&gt;1235&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:bottom"&gt;
+			&lt;p&gt;5 574&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:bottom"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:bottom"&gt;
+			&lt;p&gt;1236&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:bottom"&gt;
+			&lt;p&gt;2 485&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:bottom"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;a&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Parcely registra &amp;bdquo;E&amp;ldquo; evidovan&amp;eacute; na mape určen&amp;eacute;ho oper&amp;aacute;tu: &lt;/strong&gt;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#8ea9db"&gt;
+			&lt;p&gt;&lt;strong&gt;Parceln&amp;eacute; č&amp;iacute;slo&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#8ea9db"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;mera v&amp;nbsp;m2&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#8ea9db"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:bottom"&gt;
+			&lt;p&gt;1338&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:bottom"&gt;
+			&lt;p&gt;4&amp;nbsp;176&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:bottom"&gt;
+			&lt;p&gt;Vinica&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:bottom"&gt;
+			&lt;p&gt;1409/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:bottom"&gt;
+			&lt;p&gt;982&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:bottom"&gt;
+			&lt;p&gt;Vinica&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;a&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stavby postaven&amp;eacute; na pozemkoch parcely registra &amp;bdquo;C&amp;ldquo;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#8ea9db"&gt;
+			&lt;p&gt;&lt;strong&gt;S&amp;uacute;pisn&amp;eacute; č&amp;iacute;slo &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#8ea9db"&gt;
+			&lt;p&gt;&lt;strong&gt;Na parcele č&amp;iacute;slo&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#8ea9db"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh stavby&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#8ea9db"&gt;
+			&lt;p&gt;&lt;strong&gt;Popis stavby&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:bottom"&gt;
+			&lt;p&gt;665&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:bottom"&gt;
+			&lt;p&gt;1236&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Rodinn&amp;yacute; dom&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:bottom"&gt;
+			&lt;p&gt;DOM&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:bottom"&gt;
+			&lt;p&gt;1032&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:bottom"&gt;
+			&lt;p&gt;10512/63&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Budova pre &amp;scaron;port a&amp;nbsp;na rekreačn&amp;eacute; &amp;uacute;čely&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:bottom"&gt;
+			&lt;p&gt;viničn&amp;yacute; dom&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Pr&amp;aacute;vny vzťah k pozemku parceln&amp;eacute; č&amp;iacute;slo 10512/63 pod stavbou s.č. 1032 je evidovan&amp;yacute; na liste vlastn&amp;iacute;ctva č. 114.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Ďalej ako &amp;ldquo; &lt;strong&gt;Predmet dražby&lt;/strong&gt;&amp;ldquo; .&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predmet dražby sa draž&amp;iacute; v&amp;nbsp;spoluvlastn&amp;iacute;ckom podiele 1/1. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predmet dražby sa draž&amp;iacute; ako &amp;bdquo;stoj&amp;iacute; a&amp;nbsp;lež&amp;iacute;&amp;ldquo; . &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;S&amp;uacute;časťou Predmetu dražby je aj pr&amp;iacute;slu&amp;scaron;enstvo Predmetu dražby, ktor&amp;eacute; sa nezapisuje na list vlastn&amp;iacute;ctva, av&amp;scaron;ak svoj&amp;iacute;m charakterom tvor&amp;iacute; pr&amp;iacute;slu&amp;scaron;enstvo hlavnej veci. &lt;/u&gt;&lt;/p&gt;
+</Predmet>
+  <PredmetOpis xsi:nil="true" />
+  <PredmetStavOpis />
+  <PredmetPravaZavazky>Oznámenie o dobrovoľnej dražbe č.  102026  zo dňa 26.08.2026  sa v časti  „Popis práv a záväzkov k predmetu dražby“, dopĺňa o nasledujúci údaj o právach a záväzkoch :
+
+a)	Nájomné práva 
+
+-	Nájomná zmluva zo dňa 21.03.2023 na na pozemky reg. E-KN parc. č. 1338, 1409/1 a pozemky reg. C-KN parc. č. 1235, 1236 na dobu určitú  v trvaní 15 rokov medzi obchodnou spoločnosťou PROFMAT, s.r.o. zo sídlom Búčska cesta 665, 943 42 Gbelce, IČO: 31 425 518 ako prenajímateľom a obchodnou spoločnosťou Roľnícke družstvo „ Hangáš“ so sídlom Hlavná 146, 943 41 Nová Vieska, IČO: 31 435 505 ako nájomcom. 
+
+V ostatných ustanoveniach  ostáva Oznámenie o dražbe č. 102026 zo dňa 26.08.2026 nezmenené.
+
+</PredmetPravaZavazky>
+  <PredmetCenaOdhad xsi:nil="true" />
+  <PredmetCenaVyska xsi:nil="true" />
+  <PredmetCenaSposobStanovenia xsi:nil="true" />
+  <PredmetPodmienkyOdovzdania xsi:nil="true" />
+  <NajnizsiePodanie xsi:nil="true" />
+  <NajvyssiePodanie xsi:nil="true" />
+  <MinimalnePrihodenie xsi:nil="true" />
+  <Zabezpeka xsi:nil="true" />
+  <SposobUhradyCeny xsi:nil="true" />
+  <ObhliadkaDatum xsi:nil="true" />
+  <ObhliadkaMiesto xsi:nil="true" />
+  <OrganizaceOpatrenia xsi:nil="true" />
+  <NadobudnutieVlastnickehoPrava xsi:nil="true" />
+  <DovodUpustenia xsi:nil="true" />
+  <DrazobnikOznamuje xsi:nil="true" />
+</Drazba>

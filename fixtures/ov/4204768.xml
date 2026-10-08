@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:AuctionDecree xmlns:ns0="http://schemas.gov.sk/form/00166073.MSSR_OV_Drazobna_vyhlaska/2.x">
+  <ns0:TypeOfProperty>
+    <ns0:Codelist>
+      <ns0:CodelistCode>1000541</ns0:CodelistCode>
+      <ns0:CodelistItem>
+        <ns0:ItemCode>RealEstate</ns0:ItemCode>
+        <ns0:ItemName Language="sk">Nehnuteľné veci</ns0:ItemName>
+      </ns0:CodelistItem>
+    </ns0:Codelist>
+  </ns0:TypeOfProperty>
+  <ns0:DeclarationDate>2026-09-24</ns0:DeclarationDate>
+  <ns0:NumberOfExecution>359EX 1442/26</ns0:NumberOfExecution>
+  <ns0:Order>1. dražobný termín</ns0:Order>
+  <ns0:ExecutorOffice>
+    <ns0:PersonData>
+      <ns0:Name>JUDr. Jozef Ďurica</ns0:Name>
+      <ns0:PhysicalAddress>
+        <ns0:Municipality>
+          <ns0:Codelist>
+            <ns0:CodelistCode>CL000025</ns0:CodelistCode>
+            <ns0:CodelistItem>
+              <ns0:ItemCode />
+              <ns0:ItemName Language="sk">Zvolen</ns0:ItemName>
+            </ns0:CodelistItem>
+          </ns0:Codelist>
+        </ns0:Municipality>
+        <ns0:StreetName>Borovianska</ns0:StreetName>
+        <ns0:BuildingNumber>17</ns0:BuildingNumber>
+        <ns0:DeliveryAddress>
+          <ns0:PostalCode>96001</ns0:PostalCode>
+        </ns0:DeliveryAddress>
+      </ns0:PhysicalAddress>
+      <ns0:TelephoneAddress>
+        <ns0:Number>
+          <ns0:FormattedNumber>045/5325239</ns0:FormattedNumber>
+        </ns0:Number>
+      </ns0:TelephoneAddress>
+      <ns0:ElectronicAddress>
+        <ns0:InternetAddress>jozef.durica@ske.sk</ns0:InternetAddress>
+      </ns0:ElectronicAddress>
+    </ns0:PersonData>
+  </ns0:ExecutorOffice>
+  <ns0:AreYouRepresentativeExecutorOffice>
+    <ns0:Codelist>
+      <ns0:CodelistCode>1000914</ns0:CodelistCode>
+      <ns0:CodelistItem>
+        <ns0:ItemCode>False</ns0:ItemCode>
+        <ns0:ItemName Language="sk">Nie</ns0:ItemName>
+      </ns0:CodelistItem>
+    </ns0:Codelist>
+  </ns0:AreYouRepresentativeExecutorOffice>
+  <ns0:Date>2026-11-03</ns0:Date>
+  <ns0:Time>09:00</ns0:Time>
+  <ns0:Place>
+    <ns0:Municipality>
+      <ns0:Codelist>
+        <ns0:CodelistCode>CL000025</ns0:CodelistCode>
+        <ns0:CodelistItem>
+          <ns0:ItemCode />
+          <ns0:ItemName Language="sk">Zvolen</ns0:ItemName>
+        </ns0:CodelistItem>
+      </ns0:Codelist>
+    </ns0:Municipality>
+    <ns0:StreetName>Borovianska</ns0:StreetName>
+    <ns0:BuildingNumber>17</ns0:BuildingNumber>
+    <ns0:DeliveryAddress>
+      <ns0:PostalCode>96001</ns0:PostalCode>
+    </ns0:DeliveryAddress>
+  </ns0:Place>
+  <ns0:RealEstate>
+    <ns0:Item>
+      <ns0:Region>
+        <ns0:Codelist>
+          <ns0:CodelistCode>CL000023</ns0:CodelistCode>
+          <ns0:CodelistItem>
+            <ns0:ItemCode>SK032</ns0:ItemCode>
+            <ns0:ItemName Language="sk">Banskobystrický kraj</ns0:ItemName>
+          </ns0:CodelistItem>
+        </ns0:Codelist>
+      </ns0:Region>
+      <ns0:County>
+        <ns0:Codelist>
+          <ns0:CodelistCode>CL000024</ns0:CodelistCode>
+          <ns0:CodelistItem>
+            <ns0:ItemCode>SK0323</ns0:ItemCode>
+            <ns0:ItemName Language="sk">Okres Brezno</ns0:ItemName>
+          </ns0:CodelistItem>
+        </ns0:Codelist>
+      </ns0:County>
+      <ns0:Municipality>
+        <ns0:Codelist>
+          <ns0:CodelistCode>CL000025</ns0:CodelistCode>
+          <ns0:CodelistItem>
+            <ns0:ItemCode>SK0323508527</ns0:ItemCode>
+            <ns0:ItemName Language="sk">Čierny Balog</ns0:ItemName>
+          </ns0:CodelistItem>
+        </ns0:Codelist>
+      </ns0:Municipality>
+      <ns0:CadastralUnit>Čierny Balog</ns0:CadastralUnit>
+      <ns0:FolioNumber>1299</ns0:FolioNumber>
+      <ns0:IsPlotPartOfAuction>
+        <ns0:Codelist>
+          <ns0:CodelistCode>1000914</ns0:CodelistCode>
+          <ns0:CodelistItem>
+            <ns0:ItemCode>True</ns0:ItemCode>
+            <ns0:ItemName Language="sk">Áno</ns0:ItemName>
+          </ns0:CodelistItem>
+        </ns0:Codelist>
+      </ns0:IsPlotPartOfAuction>
+      <ns0:Fields>
+        <ns0:PlotType>C</ns0:PlotType>
+        <ns0:PlotNumber>1535</ns0:PlotNumber>
+        <ns0:PlotSize>513</ns0:PlotSize>
+        <ns0:KindOfPlot>Záhrada</ns0:KindOfPlot>
+        <ns0:DescriptionOfRealestate>Záhrada</ns0:DescriptionOfRealestate>
+        <ns0:Accessories />
+      </ns0:Fields>
+      <ns0:Fields>
+        <ns0:PlotType>C</ns0:PlotType>
+        <ns0:PlotNumber>1536</ns0:PlotNumber>
+        <ns0:PlotSize>710</ns0:PlotSize>
+        <ns0:KindOfPlot>Zastavaná plocha a nádvorie</ns0:KindOfPlot>
+        <ns0:DescriptionOfRealestate>Zastavaná plocha a nádvorie</ns0:DescriptionOfRealestate>
+        <ns0:Accessories />
+      </ns0:Fields>
+      <ns0:IsBuildingPartOfAuction>
+        <ns0:Codelist>
+          <ns0:CodelistCode>1000914</ns0:CodelistCode>
+          <ns0:CodelistItem>
+            <ns0:ItemCode>True</ns0:ItemCode>
+            <ns0:ItemName Language="sk">Áno</ns0:ItemName>
+          </ns0:CodelistItem>
+        </ns0:Codelist>
+      </ns0:IsBuildingPartOfAuction>
+      <ns0:Buildings>
+        <ns0:PropertyRegistrationNumber>438</ns0:PropertyRegistrationNumber>
+        <ns0:PlotType>C</ns0:PlotType>
+        <ns0:PlotNumber>1536</ns0:PlotNumber>
+        <ns0:KindOfBuild>97652</ns0:KindOfBuild>
+        <ns0:DescriptionOfBuilding>Rodinný dom má dve nadzemné podlažia a je podpivničený. V podzemnom podlaží je kotolňa a sauna. V pôvodnej udiarni je murovaná pec a sporák s keramickým obkladom. V prvom nadzemnom podlaží je kúpeľňa, kuchyňa so sporákom na pevné palivo a v dvoch izbách je krb s vykurovacou vložkou. Dom je napojený na vodu, kanalizáciu a elektrinu z verejných sietí.</ns0:DescriptionOfBuilding>
+        <ns0:Accessories />
+      </ns0:Buildings>
+      <ns0:MoreInformation />
+      <ns0:Owner>
+        <ns0:Name>[skryté]</ns0:Name>
+        <ns0:Address>[skryté]</ns0:Address>
+        <ns0:PartOfCapital>1/1</ns0:PartOfCapital>
+      </ns0:Owner>
+    </ns0:Item>
+    <ns0:Guarantee>
+      <ns0:AmountOfSecurity>97500</ns0:AmountOfSecurity>
+      <ns0:MethodOfDepositingSecurity>Dražobnú zábezpeku je možné zložiť výlučne v prospech účtu súdneho exekútora. Dokladom o zložení
+zábezpeky je výpis z účtu súdneho exekútora.</ns0:MethodOfDepositingSecurity>
+      <ns0:DeadlineForLodgingSecurity>03.11.2026</ns0:DeadlineForLodgingSecurity>
+      <ns0:AccountNumber>SK26 7500 0000 0040 0807 9348, VS: 144226</ns0:AccountNumber>
+      <ns0:Address>Borovianska 17, 96001 Zvolen</ns0:Address>
+      <ns0:ProofOfSecurity>Výpis z bankového účtu.</ns0:ProofOfSecurity>
+      <ns0:MethodOfReturningSecurity>Prevodom na účet, z ktorého bola zábezpeka uhradená.</ns0:MethodOfReturningSecurity>
+      <ns0:DeadlineForReturnOfSecurity>Zábezpeka bude záujemcovi vrátená v deň skončenia dražby.</ns0:DeadlineForReturnOfSecurity>
+    </ns0:Guarantee>
+    <ns0:Bid>
+      <ns0:LowestBid>195000</ns0:LowestBid>
+      <ns0:ValueOfPropertyDeterminedByExpert>195000</ns0:ValueOfPropertyDeterminedByExpert>
+      <ns0:MethodOfPaymentOfHighestBid>V prospech účtu súdneho exekútora, na ktorý bola skladaná dražobná zábezpeka.</ns0:MethodOfPaymentOfHighestBid>
+      <ns0:DeadlineForPaymentOfHighestBid>Vydražiteľ je povinný zaplatiť najvyššie podanie v lehote 30 dní, ktorá začína plynúť odo dňa udelenia príklepu.</ns0:DeadlineForPaymentOfHighestBid>
+      <ns0:DefectsThatAuctioneerMustTakeOver />
+      <ns0:TransferOfDefectsAndBenefits>Na draženej nehnuteľnosti viazne viac exekučných záložných práv, avšak dražba je vykonávaná v rámci exekúcie 359EX 1442/26, ktorá je v ťarchách listu vlastníctva zapísaná v prvom poradí a teda vydražiteľ nadobúda nehnuteľnosť
+nezaťaženú záložným právom.</ns0:TransferOfDefectsAndBenefits>
+      <ns0:HandingOverAuctionedProperty>Po udelení príklepu sa vydražiteľ po upovedomení exekútora, môže ujať držby vydraženej nehnuteľnosti.
+Udelením príklepu povinný stráca právo držby nehnuteľnosti. Vklad vlastníckeho práva vydražiteľa k vydraženej
+nehnuteľnosti sa vykoná zápisom do katastra nehnuteľností, na základe právoplatného rozhodnutia súdu o
+príklepe.</ns0:HandingOverAuctionedProperty>
+    </ns0:Bid>
+    <ns0:Inspection>
+      <ns0:Date>2026-10-29</ns0:Date>
+      <ns0:Time>09.00</ns0:Time>
+      <ns0:Address>
+        <ns0:Municipality>
+          <ns0:Codelist>
+            <ns0:CodelistCode>CL000025</ns0:CodelistCode>
+            <ns0:CodelistItem>
+              <ns0:ItemCode />
+              <ns0:ItemName Language="sk">Čierny Balog</ns0:ItemName>
+            </ns0:CodelistItem>
+          </ns0:Codelist>
+        </ns0:Municipality>
+        <ns0:StreetName>Švermova</ns0:StreetName>
+        <ns0:BuildingNumber>438</ns0:BuildingNumber>
+        <ns0:DeliveryAddress>
+          <ns0:PostalCode>97652</ns0:PostalCode>
+        </ns0:DeliveryAddress>
+      </ns0:Address>
+    </ns0:Inspection>
+    <ns0:Note />
+  </ns0:RealEstate>
+  <ns0:HasInspectionExactAddress>
+    <ns0:Codelist>
+      <ns0:CodelistCode>1000914</ns0:CodelistCode>
+      <ns0:CodelistItem>
+        <ns0:ItemCode>True</ns0:ItemCode>
+        <ns0:ItemName Language="sk">Áno</ns0:ItemName>
+      </ns0:CodelistItem>
+    </ns0:Codelist>
+  </ns0:HasInspectionExactAddress>
+  <ns0:MoreInformation>Záujem o obhliadku draženej nehnuteľnosti je potrebné nahlásiť aspoň dva pracovné dni vopred na t.č. 045/5325239 alebo 0911 376 737, prípadne e-mailom na adresu: jozef.durica@ske.sk</ns0:MoreInformation>
+</ns0:AuctionDecree>

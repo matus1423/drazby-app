@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Nazov>Oznámenie o dobrovoľnej dražbe</ns0:Nazov>
+  <ns0:Cislo>028/2026</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>AUKČNÁ SPOLOČNOSŤ s.r.o.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Kopčianska</Ulica>
+      <Cislo>10</Cislo>
+      <Obec>Bratislava</Obec>
+      <Psc>85101</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="104">Mestský súd Bratislava III</Sud>
+    <Oddiel>Sro</Oddiel>
+    <Vlozka>72494/B</Vlozka>
+    <Ico>46141341</Ico>
+  </ns0:Drazobnik>
+  <ns0:NavrhovateliaHeader>Označenie navrhovateľa</ns0:NavrhovateliaHeader>
+  <ns0:Navrhovatelia>
+    <ns0:Navrhovatel>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Prima banka Slovensko, a.s.</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Hodžova </Ulica>
+          <Cislo>11</Cislo>
+          <Obec>Žilina</Obec>
+          <Psc>010 11</Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Sud Kod="131">Okresný súd Žilina</Sud>
+        <Oddiel>Sa  </Oddiel>
+        <Vlozka>148/L</Vlozka>
+        <Ico>31575951</Ico>
+      </ns0:CeleMeno>
+    </ns0:Navrhovatel>
+  </ns0:Navrhovatelia>
+  <ns0:Licitatori xsi:nil="true" />
+  <ns0:Notar>
+    <ns0:CeleMeno>
+      <TitulPred>JUDr.</TitulPred>
+      <TitulZa />
+      <Meno>Tomáš</Meno>
+      <Priezvisko>Trella</Priezvisko>
+    </ns0:CeleMeno>
+    <ns0:Sidlo>
+      <Ulica>Mostová</Ulica>
+      <Cislo>2</Cislo>
+      <Obec>Bratislava</Obec>
+      <Psc>81102</Psc>
+      <Stat />
+    </ns0:Sidlo>
+  </ns0:Notar>
+  <ns0:KonanieMiesto>salónik v reštaurácii Riverside Hotela RIVER, Nábrežie mládeže 2A, 949 01 Nitra</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-10-27</ns0:KonanieDatum>
+  <ns0:KonanieCas>09:00 hod.</ns0:KonanieCas>
+  <ns0:Kolo>prvé</ns0:Kolo>
+  <ns0:Predmet>&lt;p&gt;Nehnuteľnosti, v&amp;nbsp;podiele 1/1, zap&amp;iacute;san&amp;eacute; v&amp;nbsp;evidencii Okresn&amp;eacute;ho &amp;uacute;radu Nov&amp;eacute; Z&amp;aacute;mky, katastr&amp;aacute;lny odbor, na liste vlastn&amp;iacute;ctva č. 13558, okres: Nov&amp;eacute; Z&amp;aacute;mky, obec: Nov&amp;eacute; Z&amp;aacute;mky, katastr&amp;aacute;lne &amp;uacute;zemie: Nov&amp;eacute; Z&amp;aacute;mky, a&amp;nbsp;to konkr&amp;eacute;tne:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;byt č. 4 nach&amp;aacute;dzaj&amp;uacute;ci sa na 1.p. bytov&amp;eacute;ho domu BYTOVKA so s&amp;uacute;pisn&amp;yacute;m č&amp;iacute;slom 4578, vchod: 1 v Nov&amp;yacute;ch Z&amp;aacute;mkoch (ďalej len ako &amp;bdquo;&lt;strong&gt;Dom&lt;/strong&gt;&amp;ldquo;), postaven&amp;eacute;ho na pozemku parcely registra &amp;bdquo;C&amp;ldquo; č. 9238 o v&amp;yacute;mere 176 m&amp;sup2;, druh pozemku: zastavan&amp;aacute; plocha a n&amp;aacute;dvorie, spolu so spoluvlastn&amp;iacute;ckym podielom na spoločn&amp;yacute;ch častiach a spoločn&amp;yacute;ch zariadeniach Domu a na pr&amp;iacute;slu&amp;scaron;enstve o veľkosti 7830/31320 (ďalej len ako &amp;bdquo;&lt;strong&gt;predmet dražby&lt;/strong&gt;&amp;ldquo;).&lt;/li&gt;
+&lt;/ul&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;&lt;strong&gt;&amp;Scaron;tvorizbov&amp;yacute; byt č. 4 v&amp;nbsp;bytovom dome so s&amp;uacute;p. č. 4578 na ulici Nov&amp;yacute; G&amp;uacute;g 1 v&amp;nbsp;Nov&amp;yacute;ch Z&amp;aacute;mkoch&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Bytov&amp;yacute; dom je situovan&amp;yacute; v zastavanom &amp;uacute;zem&amp;iacute; Nov&amp;yacute;ch Z&amp;aacute;mkov, m&amp;aacute; jeden vchod a&amp;nbsp;pozost&amp;aacute;va z&amp;nbsp;dvoch nadzemn&amp;yacute;ch a&amp;nbsp;jedn&amp;eacute;ho podzemn&amp;eacute;ho podlažia. Podzemn&amp;eacute; podlažie pozost&amp;aacute;va z pivničn&amp;yacute;ch kobiek, kočik&amp;aacute;rn&amp;iacute; a ostatn&amp;yacute;ch spoločn&amp;yacute;ch priestorov. V nadzemn&amp;yacute;ch podlažiach pr&amp;iacute;stupn&amp;yacute;ch schodiskom sa nach&amp;aacute;dzaj&amp;uacute; byty. Bytov&amp;yacute; dom je bez v&amp;yacute;ťahu. Dom bol dan&amp;yacute; do už&amp;iacute;vania v&amp;nbsp;roku 1977. V spoločn&amp;yacute;ch priestoroch bytov&amp;eacute;ho domu boli vymenen&amp;eacute; p&amp;ocirc;vodn&amp;eacute; dreven&amp;eacute; okn&amp;aacute; za plastov&amp;eacute;, fas&amp;aacute;da je natren&amp;aacute; novou fas&amp;aacute;dnou farbou. Do 5 min. autom je dostupn&amp;eacute; centrum mesta, množstvo obchodov a služieb, po&amp;scaron;ta, banky, &amp;uacute;rady, matersk&amp;aacute; a z&amp;aacute;kladn&amp;aacute; &amp;scaron;kola, poliklinika, mestsk&amp;eacute; k&amp;uacute;palisko, mestsk&amp;yacute; park a &amp;scaron;portov&amp;eacute; zariadenia. V lokalite je možnosť napojenia nehnuteľnosti na v&amp;scaron;etky inžinierske siete okrem plynu.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Dispozičn&amp;eacute; rie&amp;scaron;enie sa predpoklad&amp;aacute;:&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;Byt č. 4 m&amp;aacute; &amp;scaron;tyri obytn&amp;eacute; miestnosti a pr&amp;iacute;slu&amp;scaron;enstvo, ktor&amp;yacute;m je kuchyňa, predsieň, k&amp;uacute;peľňa, WC, komora, kotolňa a pivnica.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Celkov&amp;aacute; podlahov&amp;aacute; plocha bytu č. 4 je 78,30 m&lt;sup&gt;2&lt;/sup&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Technicko &amp;ndash; kon&amp;scaron;trukčn&amp;eacute; rie&amp;scaron;enie sa predpoklad&amp;aacute;:&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bytov&amp;yacute; dom&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Zvisl&amp;aacute; nosn&amp;aacute; kon&amp;scaron;trukcia bytov&amp;eacute;ho domu je z prefabrikovan&amp;eacute;ho železobet&amp;oacute;nov&amp;eacute;ho stenov&amp;eacute;ho syst&amp;eacute;mu a prefabrikovan&amp;yacute;ch železobet&amp;oacute;nov&amp;yacute;ch stropov. Založenie objektu je na plo&amp;scaron;n&amp;yacute;ch z&amp;aacute;kladoch. Strecha domu je ploch&amp;aacute;, so stre&amp;scaron;nou krytinou m&amp;auml;kčen&amp;eacute;ho PVC. V spoločn&amp;yacute;ch priestoroch bytov&amp;eacute;ho domu boli vymenen&amp;eacute; p&amp;ocirc;vodn&amp;eacute; dreven&amp;eacute; okn&amp;aacute; za plastov&amp;eacute;, fas&amp;aacute;da je natren&amp;aacute; novou fas&amp;aacute;dnou farbou. Predpokladan&amp;eacute; vyhotovenie podl&amp;aacute;h v spoločn&amp;yacute;ch častiach, na schodisku a na podest&amp;aacute;ch je terazzo. Vstupn&amp;eacute; dvere s&amp;uacute; dvojkr&amp;iacute;dlov&amp;eacute; hlin&amp;iacute;kov&amp;eacute; presklen&amp;eacute;, s dverami ovl&amp;aacute;dan&amp;yacute;mi na čip. Okn&amp;aacute; na dome s&amp;uacute; v spoločn&amp;yacute;ch priestoroch plastov&amp;eacute; s izolačn&amp;yacute;m dvojsklom, na bytoch prevažne plastov&amp;eacute; s izolačn&amp;yacute;m dvojsklom. Omietky vn&amp;uacute;torn&amp;yacute;ch stien s&amp;uacute; v&amp;aacute;penn&amp;eacute; hladk&amp;eacute;, na chodb&amp;aacute;ch s&amp;uacute; steny opatren&amp;eacute; ochrann&amp;yacute;m olejov&amp;yacute;m n&amp;aacute;terom. Objekt je vybaven&amp;yacute; vn&amp;uacute;torn&amp;yacute;m rozvodom vody, kanaliz&amp;aacute;cie, a elektriny. Plyn k pozemkom a do bytov&amp;eacute;ho domu nie je priveden&amp;yacute;. Vykurovanie a ohrev T&amp;Uacute;V je &amp;uacute;stredn&amp;yacute;. Nehnuteľnosť je chr&amp;aacute;nen&amp;aacute; bleskozvodom.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Byt&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Byt č. 4 je napojen&amp;yacute; na verejn&amp;yacute; rozvod vody, kanaliz&amp;aacute;cie a&amp;nbsp;elektriny. Byt č. 4 m&amp;aacute; plastov&amp;eacute; okn&amp;aacute; s izolačn&amp;yacute;m dvojsklom. Interi&amp;eacute;rov&amp;eacute; dvere s&amp;uacute; dyhovan&amp;eacute; pln&amp;eacute;, osaden&amp;eacute; v oceľovej z&amp;aacute;rubni. Podlahy v obytn&amp;yacute;ch miestnostiach s&amp;uacute; lamin&amp;aacute;tov&amp;eacute; parkety a v k&amp;uacute;peľni a na WC je keramick&amp;aacute; dlažba. Vn&amp;uacute;torn&amp;eacute; steny a stropy bytu maj&amp;uacute; hladk&amp;eacute; v&amp;aacute;penn&amp;eacute; omietky s maľbami a tapetami. Vstupn&amp;eacute; dvere do bytu s&amp;uacute; vymenen&amp;eacute;. Predpokladan&amp;eacute; vybavenie kuchynskej linky na b&amp;aacute;ze dreva pozost&amp;aacute;va z nerezov&amp;eacute;ho kuchynsk&amp;eacute;ho drezu s p&amp;aacute;kovou bat&amp;eacute;riou, elektrick&amp;eacute;ho spor&amp;aacute;ku kombinovan&amp;eacute;ho s elektrickou r&amp;uacute;rou, digestor. Za kuchynskou linkou je vyhotoven&amp;yacute; keramick&amp;yacute; obklad. K&amp;uacute;peľňa m&amp;aacute; vybavenie: smaltovan&amp;aacute; vaňa so sprchovou nerezovou p&amp;aacute;kovou bat&amp;eacute;riou, keramick&amp;eacute; um&amp;yacute;vadlo s nerezovou p&amp;aacute;kovou bat&amp;eacute;riou, v&amp;yacute;vod studenej vody so z&amp;aacute;pachov&amp;yacute;m uz&amp;aacute;verom na napojenie na pr&amp;aacute;čku, predpokladan&amp;eacute; je murovan&amp;eacute; jadro. K&amp;uacute;peľňa obsahuje aj keramick&amp;yacute; obklad. Na WC je z&amp;aacute;chodov&amp;aacute; misa typu combi, jadro je murovan&amp;eacute;. Elektroin&amp;scaron;tal&amp;aacute;cia je sveteln&amp;aacute; i motorick&amp;aacute; &amp;ndash; el. rozv&amp;aacute;dzač je vymenen&amp;yacute;. Vykurovanie je rie&amp;scaron;en&amp;eacute; ako teplovodn&amp;eacute; z centr&amp;aacute;lneho zdroja, a to doskov&amp;yacute;mi oceľov&amp;yacute;mi radi&amp;aacute;tormi. K bytu patr&amp;iacute; pivničn&amp;aacute; kobka, kotolňa a&amp;nbsp;komora.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Vzhľadom na to, že znalcovi nebol umožnen&amp;yacute; pr&amp;iacute;stup do predmetu dražby, opis predmetu dražby je prevzat&amp;yacute; z p&amp;ocirc;vodn&amp;eacute;ho znaleck&amp;eacute;ho posudku a ďal&amp;scaron;&amp;iacute;ch dostupn&amp;yacute;ch inform&amp;aacute;ci&amp;iacute; predložen&amp;yacute;ch za &amp;uacute;čelom poskytnutia &amp;uacute;veru.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;&lt;u&gt;Predmet dražby sa celkovo nach&amp;aacute;dza v&amp;nbsp;stave zodpovedaj&amp;uacute;com dobe a&amp;nbsp;sp&amp;ocirc;sobu jeho využitia.&lt;/u&gt;&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>a)	upovedomenie o začatí exekúcie zriadením exekučného záložného práva č. 381EX 203/22 (súdny exekútor JUDr. Vojtech Markovič PhD.),
+b)	vecné bremeno v prospech vlastníkov bytov v obytnom dome súpisné č. 4578 zo zákona zodpovedajúce právu stavby, vstupu na pozemok a prechodu cez pozemok parc. č. 9238,
+c)	záložné právo v prospech navrhovateľa dražby, spoločnosti Prima banka Slovensko, a.s. IČO: 31 575 951, so sídlom: Hodžova 11, Žilina, podľa V – 4475/2017,
+d)	exekučný príkaz na zriadenie exekučného záložného práva č. 400EX 478/19 (súdny exekútor JUDr. Paula Miššíková) viaznuceho na spoluvlastníckom podiele o veľkosti ½ vo vlastníctve [skryté],(nar. [skryté]),
+e)	exekučný príkaz na vykonanie exekúcie zriadením exekučného záložného práva č. 381EX 203/22 (súdny exekútor JUDr. Vojtech Markovič PhD.),
+f)	zákonné záložné právo podľa ust. § 15 zákona č. 182/1993 Z.z. o vlastníctve bytov a nebytových priestorov v znení neskorších doplnení v platnom znení.
+</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad xsi:nil="true" />
+  <ns0:PredmetCenaVyska xsi:nil="true" />
+  <ns0:PredmetCenaSposobStanovenia>Cena predmetu dražby zistená znaleckým posudkom č. 125/2026 zo dňa 27.07.2026, vyhotoveným znalcom  Ing. Jurajom Gaľom:
+78.200,- EUR (slovom: sedemdesiatosemtisícdvesto EURO)  
+</ns0:PredmetCenaSposobStanovenia>
+  <ns0:PredmetPodmienkyOdovzdania>zaplatenie ceny dosiahnutej vydražením podľa § 27 ods. 1 Zákona o DD,
+b) osvedčený odpis notárskej zápisnice osvedčujúcej priebeh dražby podľa § 29 Zákona o DD.
+•	Po nadobudnutí vlastníckeho alebo iného práva vydražiteľa k predmetu dražby (t.j. po zaplatení ceny dosiahnutej vydražením podľa § 27 ods. 1 Zákona o DD), je dražobník povinný odovzdať predmet dražby a listiny, ktoré osvedčujú vlastnícke právo a sú nevyhnutné na nakladanie s predmetom dražby alebo osvedčujú iné práva vydražiteľa k predmetu dražby, bez zbytočného odkladu vydražiteľovi; vydražiteľ prevzatie predmetu dražby písomne potvrdí,
+•	Ak ide o dražbu bytu, domu, inej nehnuteľnosti, podniku alebo jeho časti alebo ak najnižšie podanie hnuteľných vecí, práv a iných majetkových hodnôt presiahnu sumu 33.193,92 €, predchádzajúci vlastník je povinný odovzdať predmet dražby na základe predloženia osvedčeného odpisu notárskej zápisnice a doloženia totožnosti vydražiteľa bez zbytočných prieťahov. Dražobník je povinný na mieste spísať zápisnicu o odovzdaní predmetu dražby. Zápisnicu o odovzdaní predmetu dražby podpíšu predchádzajúci vlastník [skryté], vydražiteľ a dražobník. Jedno vyhotovenie zápisnice dostane predchádzajúci vlastník a dve vyhotovenia dostane vydražiteľ. Ak niektorá osoba odmietne zápisnicu podpísať alebo ju prevziať, táto skutočnosť sa vyznačí v zápisnici a zápisnica sa považuje za odovzdanú aj tejto osobe; o tom dražobník túto osobu poučí. Na ostatné náležitosti zápisnice o odovzdaní predmetu dražby sa použijú ust. § 29 ods. 2 Zákona o DD.
+
+Pozn.: V zmysle ust. § 29 ods. 5 Zákona o DD všetky náklady spojené s odovzdaním a prevzatím predmetu dražby nesie vydražiteľ!
+</ns0:PredmetPodmienkyOdovzdania>
+  <ns0:NajnizsiePodanie>78.200,- EUR (slovom: sedemdesiatosemtisícdvesto EURO)  </ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie>200,-EUR (slovom: dvesto EURO) </ns0:MinimalnePrihodenie>
+  <ns0:Zabezpeka>
+    <ns0:Vyska>15.000,-EUR (slovom: pätnásťtisíc EURO) </ns0:Vyska>
+    <ns0:ZlozenieSposob>a) v hotovosti k rukám dražobníka, v mieste jeho sídla, alebo v mieste konania dražby,
+b) vklad alebo bankový prevod na bankový účet dražobníka (IBAN: SK60 1100 0000 0029 4325 9463, vedený v Tatra banka, a.s., VS: 0282026, názov príjemcu: AUKČNÁ SPOLOČNOSŤ s.r.o.),  dokladom o úhrade je potvrdenie o realizácii prevodu/vkladu vystavené bankou s označením, že ide o dražobnú zábezpeku ku konkrétnemu číslu dražby (nutnosť súčasného doloženia kópie takéhoto dokladu). Dražobná zábezpeka musí byť k okamihu otvorenia dražby pripísaná na účet dražobníka,
+c) banková záruka (jej originál alebo úradne overená kópia) v prospech dražobníka s výhradou prevodu platby po doručení zápisnice o vykonaní dražby za predpokladu,  že účastník dražby sa stane vydražiteľom,
+d) notárska úschova (originál alebo úradne overená kópia dokladu preukazujúceho notársku úschovu),
+e) úhrada dražobnej zábezpeky nie je možná platobnou kartou alebo šekom.
+Pozn.: iný spôsob úhrady dražobnej zábezpeky je vylúčený.
+</ns0:ZlozenieSposob>
+    <ns0:ZlozenieCisloUctu>IBAN: SK60 1100 0000 0029 4325 9463, vedený v Tatra banka, a.s., VS: 0282026, názov príjemcu: AUKČNÁ SPOLOČNOSŤ s.r.o.</ns0:ZlozenieCisloUctu>
+    <ns0:ZlozenieAdresa>v deň konania dražby: salónik v reštaurácii Riverside Hotela RIVER, Nábrežie mládeže 2A, 949 01 Nitra</ns0:ZlozenieAdresa>
+    <ns0:ZlozenieDoklad>a) v hotovosti k rukám dražobníka, v mieste jeho sídla, alebo v mieste konania dražby,
+b) vklad alebo bankový prevod na bankový účet dražobníka (IBAN: SK60 1100 0000 0029 4325 9463, vedený v Tatra banka, a.s., VS: 0282026, názov príjemcu: AUKČNÁ SPOLOČNOSŤ s.r.o.),  dokladom o úhrade je potvrdenie o realizácii prevodu/vkladu vystavené bankou s označením, že ide o dražobnú zábezpeku ku konkrétnemu číslu dražby (nutnosť súčasného doloženia kópie takéhoto dokladu). Dražobná zábezpeka musí byť k okamihu otvorenia dražby pripísaná na účet dražobníka,
+c) banková záruka (jej originál alebo úradne overená kópia) v prospech dražobníka s výhradou prevodu platby po doručení zápisnice o vykonaní dražby za predpokladu,  že účastník dražby sa stane vydražiteľom,
+d) notárska úschova (originál alebo úradne overená kópia dokladu preukazujúceho notársku úschovu),
+e) úhrada dražobnej zábezpeky nie je možná platobnou kartou alebo šekom.
+Pozn.: iný spôsob úhrady dražobnej zábezpeky je vylúčený.
+</ns0:ZlozenieDoklad>
+    <ns0:ZlozenieLehota>- lehota na úhradu dražobnej zábezpeky sa končí otvorením dražby.</ns0:ZlozenieLehota>
+    <ns0:Vratenie>- v zmysle ust. § 15 Zákona o DD alebo v zmysle ust. § 19 Zákona o DD.</ns0:Vratenie>
+  </ns0:Zabezpeka>
+  <ns0:SposobUhradyCeny>a) v hotovosti k rukám dražobníka, v mieste jeho sídla, najneskôr do 15 dní odo dňa skončenia dražby,
+b) platba vkladom na účet dražobníka alebo bankovým prevodom na účet dražobníka (číslo účtu 2921855440/1100, vedený v Tatra banka, a.s., VS: 0282026, IBAN: SK44 1100 0000 0029 2185 5440 TATRSKBX, názov príjemcu: AUKČNÁ SPOLOČNOSŤ s.r.o.), s označením čísla dražby, najneskôr do 15 dní odo dňa skončenia dražby.
+</ns0:SposobUhradyCeny>
+  <ns0:ObhliadkaDatum>Termín č. 1: 07.10.2026 o 09:30 hod., stretnutie záujemcov je pred bytovým domom so súp.č. 4578 na ulici Nový Gúg 1 v Nových Zámkoch.
+Termín č. 2: 19.10.2026 o 09:30 hod., stretnutie záujemcov je pred bytovým domom so súp.č. 4578 na ulici Nový Gúg 1 v Nových Zámkoch.
+</ns0:ObhliadkaDatum>
+  <ns0:ObhliadkaMiesto>Termín č. 1: 07.10.2026 o 09:30 hod., stretnutie záujemcov je pred bytovým domom so súp.č. 4578 na ulici Nový Gúg 1 v Nových Zámkoch.
+Termín č. 2: 19.10.2026 o 09:30 hod., stretnutie záujemcov je pred bytovým domom so súp.č. 4578 na ulici Nový Gúg 1 v Nových Zámkoch.
+</ns0:ObhliadkaMiesto>
+  <ns0:SpolocnaDrazba Kod="NIE">Nie</ns0:SpolocnaDrazba>
+  <ns0:SpolocnaDrazbaPoradieDrazeniePredmetov xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia>stretnutie záujemcov je pred bytovým domom so súp.č. 4578 na ulici Nový Gúg 1 v Nových Zámkoch.</ns0:OrganizaceOpatrenia>
+  <ns0:NadobudnutieVlastnickehoPrava>V zmysle ust. § 27 ods. 1 Zákona o DD: „Ak uhradil vydražiteľ cenu dosiahnutú vydražením v ustanovenej lehote, prechádza na neho vlastnícke právo alebo iné právo k predmetu dražby udelením príklepu; to neplatí, ak je vydražiteľom osoba, ktorá je povinná zapísať sa do registra partnerov verejného sektora podľa osobitného predpisu (Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov), ak v čase príklepu nie je zapísaná v tomto registri. Ku dňu zaplatenia ceny dosiahnutej vydražením vydražiteľom zaniká pohľadávka veriteľa v rozsahu uspokojenia veriteľa z výťažku dražby.“</ns0:NadobudnutieVlastnickehoPrava>
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

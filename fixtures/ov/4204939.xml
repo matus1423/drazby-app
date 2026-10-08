@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Nazov>Oznámenie o dobrovoľnej dražbe</ns0:Nazov>
+  <ns0:Cislo>ASS: 50-2/2026</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>Aukčná spoločnosť Slovakia s.r.o.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Letná</Ulica>
+      <Cislo>40</Cislo>
+      <Obec>Košice - mestská časť Staré Mesto</Obec>
+      <Psc>04001</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="148">Mestský súd Košice</Sud>
+    <Oddiel>Sro</Oddiel>
+    <Vlozka>47116/V</Vlozka>
+    <Ico>52617840</Ico>
+  </ns0:Drazobnik>
+  <ns0:NavrhovateliaHeader>Označenie navrhovateľa</ns0:NavrhovateliaHeader>
+  <ns0:Navrhovatelia>
+    <ns0:Navrhovatel>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>JUDr. Jana Čepčeková - správca, sídlo: Námestie slobody 2, 066 01 Humenné, IČO: 42343224 zapísaná v Zozname správcov vedenom Ministerstvom spravodlivosti SR pod č. S1308, správca dlžníka: [skryté],(nar. [skryté]), trvale bytom [skryté], Slovenská republika, konkurz vedený na Okresnom súde Prešov, sp. zn. 4OdK/49/2026.</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Námestie slobody </Ulica>
+          <Cislo>2</Cislo>
+          <Obec>Humenné</Obec>
+          <Psc>066 01 </Psc>
+          <Stat>Slovenská republika</Stat>
+        </Sidlo>
+        <Oddiel />
+        <Vlozka />
+        <Ico>42343224</Ico>
+      </ns0:CeleMeno>
+    </ns0:Navrhovatel>
+  </ns0:Navrhovatelia>
+  <ns0:Licitatori xsi:nil="true" />
+  <ns0:Notar>
+    <ns0:CeleMeno>
+      <TitulPred>JUDr.</TitulPred>
+      <TitulZa />
+      <Meno>Pavol</Meno>
+      <Priezvisko>Sádel</Priezvisko>
+    </ns0:CeleMeno>
+    <ns0:Sidlo>
+      <Ulica>Skladná</Ulica>
+      <Cislo>17</Cislo>
+      <Obec>Košice</Obec>
+      <Psc>04001</Psc>
+      <Stat />
+    </ns0:Sidlo>
+  </ns0:Notar>
+  <ns0:KonanieMiesto>Mestský úrad Vranov nad Topľou, miestnosť: veľká zasadacia miestnosť, Dr. C. Daxnera 87/1, 093 16 Vranov nad Topľou, priebeh dražby overí Notársky úrad JUDr. Pavla Sádela, Skladná 17, 040 01 Košice.</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-11-04</ns0:KonanieDatum>
+  <ns0:KonanieCas>10.00. hod.</ns0:KonanieCas>
+  <ns0:Kolo>Prvé</ns0:Kolo>
+  <ns0:Predmet>&lt;p&gt;&lt;strong&gt;- rodinn&amp;yacute; dom s&amp;uacute;pisn&amp;eacute; č&amp;iacute;slo 86&lt;/strong&gt;, zap&amp;iacute;san&amp;yacute; na LV č. 64, pre katastr&amp;aacute;lne &amp;uacute;zemie: Čičava, nach&amp;aacute;dzaj&amp;uacute;ci sa na pozemku parceln&amp;eacute; č&amp;iacute;slo 18, Druh stavby Rodinn&amp;yacute; dom Popis stavby Rodinn&amp;yacute; dom, katastr&amp;aacute;lne &amp;uacute;zemie: Čičava, obec: Čičava, okres: Vranov nad Topľou, Okresn&amp;yacute; &amp;uacute;rad Vranov nad Topľou v bezpodielovom spoluvlastn&amp;iacute;ctve dlžn&amp;iacute;ka,&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;parcela registra &amp;quot;C&amp;quot; evidovan&amp;aacute; na katastr&amp;aacute;lnej mape, parc. č. 18 &lt;/strong&gt;evidovanej na LV č. 64, pre katastr&amp;aacute;lne &amp;uacute;zemie: Čičava o v&amp;yacute;mere 1005 m&lt;sup&gt;2&lt;/sup&gt;, Druh pozemku Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie, katastr&amp;aacute;lne &amp;uacute;zemie: Čičava, obec: Čičava, okres: Vranov nad Topľou, Okresn&amp;yacute; &amp;uacute;rad Vranov nad Topľou v bezpodielovom spoluvlastn&amp;iacute;ctve dlžn&amp;iacute;ka,&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;parcela registra &amp;quot;C&amp;quot; evidovan&amp;aacute; na katastr&amp;aacute;lnej mape, parc. č. 19 &lt;/strong&gt;evidovanej na LV č. 64, pre katastr&amp;aacute;lne &amp;uacute;zemie: Čičava o v&amp;yacute;mere 893 m&lt;sup&gt;2&lt;/sup&gt;, Druh pozemku Z&amp;aacute;hrada, katastr&amp;aacute;lne &amp;uacute;zemie: Čičava, obec: Čičava, okres: Vranov nad Topľou, Okresn&amp;yacute; &amp;uacute;rad Vranov nad Topľou v bezpodielovom spoluvlastn&amp;iacute;ctve dlžn&amp;iacute;ka. (ďalej len &amp;ldquo;predmet dražby&amp;rdquo;).&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;&lt;strong&gt;- &lt;/strong&gt;Rodinn&amp;yacute; dom s&amp;uacute;p. č. 86 je osaden&amp;yacute; na pozemku parc. CKN č. 18 v&amp;nbsp;k.&amp;uacute;. Čičava, obec Čičava, okres Vranov nad Topľou. Situovan&amp;yacute; je v centre obce v&amp;nbsp;uličnej z&amp;aacute;stavbe samostatne stojac&amp;iacute;ch rodinn&amp;yacute;ch domov na ulici, ktor&amp;aacute; je miestnou komunik&amp;aacute;ciou. V&amp;nbsp;danej časti obce je možnosť napojenia na zemn&amp;yacute; plyn,&amp;nbsp;elektro, verejn&amp;yacute; vodovod a verejn&amp;uacute; kanaliz&amp;aacute;ciu, rodinn&amp;yacute; dom bol v čase obhliadky napojen&amp;yacute; na verejn&amp;yacute; rozvod elektro a verejn&amp;yacute; vodovod, kanaliz&amp;aacute;cia do vlastnej žumpy. Rodinn&amp;yacute; dom bol v&amp;nbsp;čase obhliadky ob&amp;yacute;van&amp;yacute; vlastn&amp;iacute;kom s rodinou, je v zlom technickom stave, na konci svojej životnosti bez re&amp;aacute;lnej možnosti rekon&amp;scaron;trukcie z d&amp;ocirc;vodu, že obvodov&amp;eacute; nosn&amp;eacute; steny s&amp;uacute; z nep&amp;aacute;lenej tehly. Jeho opotrebenie znalec stanovil line&amp;aacute;rnou met&amp;oacute;dou. Z&amp;aacute;klady domu s&amp;uacute; kamenn&amp;eacute; bez vodorovnej izol&amp;aacute;cie, pr&amp;iacute;stavba bet&amp;oacute;nov&amp;eacute; bez &amp;uacute;činnej izol&amp;aacute;cie, zvisl&amp;aacute; nosn&amp;aacute; kon&amp;scaron;trukcia je murovan&amp;aacute; z nep&amp;aacute;len&amp;yacute;ch teh&amp;aacute;l a kameňa hr. 50 cm, pr&amp;iacute;stavba z tv&amp;aacute;rnic hr. 30 cm, zateplenie hr. 5 cm je ne čelnej stene a na bočnej stene pr&amp;iacute;stavby, strop nad I.NP dreven&amp;yacute; tr&amp;aacute;mov&amp;yacute; s podhľadom, priečky s&amp;uacute; z nep&amp;aacute;lenej tehly aj tehlov&amp;eacute;, vn&amp;uacute;torn&amp;eacute; omietky v&amp;aacute;pennocementov&amp;eacute; hladk&amp;eacute;, vonkaj&amp;scaron;ia omietka&amp;nbsp; čelnej steny a pr&amp;iacute;stavba stavebn&amp;eacute; lepidlo na zateplen&amp;iacute; bez fin&amp;aacute;lnej &amp;uacute;pravy, od suseda v&amp;aacute;pennohlinen&amp;aacute; p&amp;ocirc;vodn&amp;aacute;, zadn&amp;aacute; časť z dvora v&amp;aacute;penn&amp;aacute; hladk&amp;aacute;, krov dreven&amp;yacute; hamb&amp;aacute;lkov&amp;yacute;, krytina profilovan&amp;yacute; plech na lat&amp;aacute;ch, klampiarske kon&amp;scaron;trukcie čiastočn&amp;eacute;, dvere s&amp;uacute; hladk&amp;eacute;, vstupn&amp;eacute; plastov&amp;eacute;, okn&amp;aacute; plastov&amp;eacute; s izolačn&amp;yacute;m dvojsklom, podlaha obytn&amp;yacute;ch miestnost&amp;iacute; PVC, obytn&amp;aacute; kuchyňa PVC, k&amp;uacute;peľňa keramick&amp;aacute; dlažba, vykurovanie nefunkčn&amp;eacute; &amp;uacute;stredn&amp;eacute; na tuh&amp;eacute; paliv&amp;aacute;, elektroin&amp;scaron;tal&amp;aacute;cia sveteln&amp;aacute; aj motorick&amp;aacute;, rozv&amp;aacute;dzač s ističmi, po&amp;scaron;koden&amp;yacute;, v kuchyni je &amp;scaron;por&amp;aacute;k na PB, nerezov&amp;yacute; drez, bat&amp;eacute;ria n&amp;aacute;stenn&amp;aacute; p&amp;aacute;kov&amp;aacute;, jednoduch&amp;aacute; kuchynsk&amp;aacute; linka 2,40 m, v k&amp;uacute;peľni je plastov&amp;aacute; vaňa s p&amp;aacute;kovou bat&amp;eacute;riou, samostatn&amp;aacute; sprcha s bat&amp;eacute;riou so sprchou, keramick&amp;yacute; obklad, samostatn&amp;eacute; WC typu kombi, rozvod vody teplej aj studenej z PPR potrubia, kanaliz&amp;aacute;cia PVC z kuchyne, k&amp;uacute;peľne a WC do žumpy pred domom, zdrojom teplej vody je mal&amp;yacute; elektrick&amp;yacute; bojler v k&amp;uacute;peľni, bez ďal&amp;scaron;ieho vybavenia.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DISPOZIČN&amp;Eacute;&amp;nbsp; RIE&amp;Scaron;ENIE:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Rodinn&amp;yacute; dom m&amp;aacute; jedno nadzemn&amp;eacute; podlažie, kde je predsieň, z ktorej je vstup do zadnej izby, do WC, k&amp;uacute;peľne a do kuchyne v prednej časti domu, z ktorej je prechodu do pristavanej prednej izby, z ktorej je vstup do pristavanej kotolne.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TECHNICK&amp;Yacute;&amp;nbsp; POPIS&amp;nbsp; VYHOTOVENIA V&amp;nbsp;ČASE&amp;nbsp; OBHLIADKY V ZMYSLE METODIKY:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;1. Nadzemn&amp;eacute; podlažie&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;- Z&amp;aacute;klady - kamenn&amp;eacute; -&amp;nbsp; bez izol&amp;aacute;cie&lt;/p&gt;
+
+&lt;p&gt;- Zvisl&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - kamenn&amp;eacute; murivo v hr&amp;uacute;bke do 60 cm; deliace kon&amp;scaron;trukcie - tehlov&amp;eacute; (priečkovky, CDM, panelov&amp;aacute; kon&amp;scaron;trukcia, dreven&amp;eacute;)&lt;/p&gt;
+
+&lt;p&gt;- Vodorovn&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie - stropy - s rovn&amp;yacute;m podhľadom dreven&amp;eacute; tr&amp;aacute;mov&amp;eacute;&lt;/p&gt;
+
+&lt;p&gt;- Strecha - krovy - hamb&amp;aacute;lkov&amp;eacute; a v&amp;auml;znicov&amp;eacute; s&amp;uacute;stavy bez stĺpikov; krytiny strechy na krove - plechov&amp;eacute; pozinkovan&amp;eacute;; klampiarske kon&amp;scaron;trukcie strechy - z pozinkovan&amp;eacute;ho plechu len žľaby a zvody, z&amp;aacute;vetern&amp;eacute; li&amp;scaron;ty&lt;/p&gt;
+
+&lt;p&gt;- &amp;Uacute;pravy vonkaj&amp;scaron;&amp;iacute;ch povrchov - fas&amp;aacute;dne omietky - v&amp;aacute;penn&amp;eacute; a v&amp;aacute;penno-cementov&amp;eacute; hladk&amp;eacute;&lt;/p&gt;
+
+&lt;p&gt;- &amp;Uacute;pravy vn&amp;uacute;torn&amp;yacute;ch povrchov - vn&amp;uacute;torn&amp;eacute; omietky - v&amp;aacute;penn&amp;eacute; &amp;scaron;tukov&amp;eacute;, stierkov&amp;eacute; plsťou hladen&amp;eacute;; vn&amp;uacute;torn&amp;eacute; obklady - prevažnej časti k&amp;uacute;peľne min.do 1,35 m v&amp;yacute;&amp;scaron;ky;&amp;nbsp; - samostatnej sprchy&lt;/p&gt;
+
+&lt;p&gt;- V&amp;yacute;plne otvorov - dvere - hladk&amp;eacute; pln&amp;eacute; alebo zasklen&amp;eacute;; okn&amp;aacute; - plastov&amp;eacute; s dvoj. s trojvrstvov&amp;yacute;m zasklen&amp;iacute;m&lt;/p&gt;
+
+&lt;p&gt;- Podlahy - podlahy obytn&amp;yacute;ch miestnost&amp;iacute; (okrem obytn&amp;yacute;ch kuch&amp;yacute;ň) - podlahoviny gumov&amp;eacute;, z PVC, lino; dlažby a podlahy ost. miestnost&amp;iacute; - keramick&amp;eacute; dlažby&lt;/p&gt;
+
+&lt;p&gt;- Vybavenie kuch&amp;yacute;ň - plynov&amp;yacute; spor&amp;aacute;k, spor&amp;aacute;k na prop&amp;aacute;n-but&amp;aacute;n;&amp;nbsp; - drezov&amp;eacute; um&amp;yacute;vadlo nerezov&amp;eacute; alebo plastov&amp;eacute;;&amp;nbsp; - kuchynsk&amp;aacute; linka z materi&amp;aacute;lov na b&amp;aacute;ze dreva (za bežn&amp;yacute; meter rozvinutej &amp;scaron;&amp;iacute;rky)&lt;/p&gt;
+
+&lt;p&gt;- Vybavenie k&amp;uacute;peľn&amp;iacute; - vaňa plastov&amp;aacute; jednoduch&amp;aacute;;&amp;nbsp; - samostatn&amp;aacute; sprcha; vodovodn&amp;eacute; bat&amp;eacute;rie - p&amp;aacute;kov&amp;eacute; nerezov&amp;eacute; so sprchou;&amp;nbsp; - p&amp;aacute;kov&amp;eacute; nerezov&amp;eacute;; z&amp;aacute;chod - splachovac&amp;iacute; bez um&amp;yacute;vadla&lt;/p&gt;
+
+&lt;p&gt;- Vykurovanie - &amp;uacute;stredn&amp;eacute; vykurovanie&amp;nbsp; - teplovod. s rozvod. bez ohľadu na mat. a radi&amp;aacute;tormi - oceľ. a vykurovacie panely; zdroj vykurovania - kotol &amp;uacute;stredn&amp;eacute;ho vykurovania na tuh&amp;eacute; paliv&amp;aacute;&lt;/p&gt;
+
+&lt;p&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody vody - z plastov&amp;eacute;ho potrubia studenej a teplej vody z centr&amp;aacute;lneho zdroja; zdroj teplej vody - z&amp;aacute;sobn&amp;iacute;kov&amp;yacute; ohrievač elektrick&amp;yacute;, plynov&amp;yacute; alebo kombinovan&amp;yacute; s &amp;uacute;stredn&amp;yacute;m vykurovan&amp;iacute;m&lt;/p&gt;
+
+&lt;p&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody kanaliz&amp;aacute;cie - plastov&amp;eacute;&amp;nbsp; a azbestocementov&amp;eacute; potrubie&lt;/p&gt;
+
+&lt;p&gt;- Vn&amp;uacute;torn&amp;eacute; rozvody elektroin&amp;scaron;tal&amp;aacute;cie - elektroin&amp;scaron;tal&amp;aacute;cia ( bez rozv&amp;aacute;dzačov) - sveteln&amp;aacute;, motorick&amp;aacute;; elektrick&amp;yacute; rozv&amp;aacute;dzač - s automatick&amp;yacute;m isten&amp;iacute;.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TECHNICK&amp;Yacute; STAV&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Vek rodinn&amp;eacute;ho domu bol znalcovi zdokladovan&amp;yacute; iba čestn&amp;yacute;m vyhl&amp;aacute;sen&amp;iacute;m z 08.04.2013 o tom, že dom bol postaven&amp;yacute; v r. 1922. Vlastn&amp;iacute;ci nedisponuj&amp;uacute; žiadnym dokladom o veku rodinn&amp;eacute;ho domu. Dom počas svojej existencie bol čiastočne modernizovan&amp;yacute; zaveden&amp;iacute;m elektroin&amp;scaron;tal&amp;aacute;cie, vodovodom, kanaliz&amp;aacute;ciou a rozvodom &amp;uacute;stredn&amp;eacute;ho k&amp;uacute;renia, ktor&amp;eacute; v čase obhliadky nebolo funkčn&amp;eacute;. V&amp;scaron;etky nosn&amp;eacute; kon&amp;scaron;trukcie vr&amp;aacute;tane strechy s&amp;uacute; p&amp;ocirc;vodn&amp;eacute;. V r. 2015 bola k domu pristavan&amp;aacute; jedna izba a kotolňa podľa priloženej dispoz&amp;iacute;cie bez stavebnopr&amp;aacute;vnych dokladov. V čase obhliadky rodinn&amp;yacute; dom bol čiastočne už&amp;iacute;van&amp;yacute; vlastn&amp;iacute;kom s rodinou, je v zlom technickom stave, na konci svojej životnosti bez re&amp;aacute;lnej možnosti rekon&amp;scaron;trukcie z titulu obvodov&amp;eacute;ho nosn&amp;eacute;ho muriva, ktor&amp;eacute; vy murovan&amp;eacute; z nep&amp;aacute;lenej tehly. Jeho opotrebenie znalec stanovil line&amp;aacute;rnou met&amp;oacute;dou z dostupn&amp;yacute;ch &amp;uacute;dajov za predpokladu celkovej predpokladanej životnosti domu 120 rokov určenej odborn&amp;yacute;m odhadom znalca v zmysle metodiky. Časť stavebn&amp;yacute;ch kon&amp;scaron;trukcii a vybavenia je po&amp;scaron;koden&amp;aacute;, miera po&amp;scaron;kodenia je zrejm&amp;aacute; z tvorby rozpočtov&amp;eacute;ho ukazovateľa stavby a bola určen&amp;aacute; odborn&amp;yacute;m odhadom znalca.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;POPIS PODLAŽ&amp;Iacute;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Nadzemn&amp;eacute; podlažie&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dispoz&amp;iacute;cia podlažia, dom m&amp;aacute; vstup z dvora do predsiene, v prednej časti je kuchyňa, v zadnej časti jedna izba, z predsiene je pr&amp;iacute;stupn&amp;eacute; mal&amp;eacute; WC a k&amp;uacute;peľňa.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pr&amp;iacute;stavba z roku 2015&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Pr&amp;iacute;stavba k domu z r. 2015 obsahuje jednu izbu a kotolňu.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Podlažie&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;Začiatok už&amp;iacute;vania&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;počet zastavanej plochy&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;ZP [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;&lt;strong&gt;k&lt;sub&gt;ZP&lt;/sub&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1. NP&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1922&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;5,60*(5,22+1,91+8,79)&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;89,15&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;1. NP&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2015&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;3,85*5,22+1,91*1,80&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;23,54&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;Spolu 1. NP&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;112,69&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;120/112,69=1,065&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Drobn&amp;aacute; stavba: Hospod&amp;aacute;rska časť rodinn&amp;eacute;ho domu na parc. 18. Stavba p&amp;ocirc;vodnej hospod&amp;aacute;rskej časti domu postaven&amp;aacute; spolu s domom v r. 1922, v p&amp;ocirc;vodnom stave, po&amp;scaron;koden&amp;aacute;, na konci svojej životnosti, jej predpokladan&amp;uacute; životnosť znalec stanovuje odborn&amp;yacute;m odhadom v zmysle metodiky na 120 rokov, opotrebenie znalec určil line&amp;aacute;rnou met&amp;oacute;dou. Časť stavebn&amp;yacute;ch kon&amp;scaron;trukcii a vybavenia je po&amp;scaron;koden&amp;aacute;, miera po&amp;scaron;kodenia je zrejm&amp;aacute; z tvorby rozpočtov&amp;eacute;ho ukazovateľa stavby a bola určen&amp;aacute; odborn&amp;yacute;m odhadom znalca.&lt;/p&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;- Rodinn&amp;yacute; dom s&amp;uacute;p. č. 86 je osaden&amp;yacute; na pozemku parc. CKN č. 18 v&amp;nbsp;k.&amp;uacute;. Čičava, obec Čičava, okres Vranov nad Topľou. Situovan&amp;yacute; je v centre obce v&amp;nbsp;uličnej z&amp;aacute;stavbe samostatne stojac&amp;iacute;ch rodinn&amp;yacute;ch domov na ulici, ktor&amp;aacute; je miestnou komunik&amp;aacute;ciou. V&amp;nbsp;danej časti obce je možnosť napojenia na zemn&amp;yacute; plyn,&amp;nbsp;elektro, verejn&amp;yacute; vodovod a verejn&amp;uacute; kanaliz&amp;aacute;ciu, rodinn&amp;yacute; dom bol v čase obhliadky napojen&amp;yacute; na verejn&amp;yacute; rozvod elektro a verejn&amp;yacute; vodovod, kanaliz&amp;aacute;cia do vlastnej žumpy. Rodinn&amp;yacute; dom bol v&amp;nbsp;čase obhliadky ob&amp;yacute;van&amp;yacute; vlastn&amp;iacute;kom s rodinou, je v zlom technickom stave, na konci svojej životnosti bez re&amp;aacute;lnej možnosti rekon&amp;scaron;trukcie z d&amp;ocirc;vodu, že obvodov&amp;eacute; nosn&amp;eacute; steny s&amp;uacute; z nep&amp;aacute;lenej tehly. Jeho opotrebenie znalec stanovil line&amp;aacute;rnou met&amp;oacute;dou&lt;em&gt;. V&lt;/em&gt;iď opis predmetu dražby.&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>LV č.64 pre k.ú. Čičava, rod. dom súp. č. 86
+
+Časť „B“: VLASTNÍCI A INÉ OPRÁVNENÉ OSOBY Z PRÁVA K NEHNUTEĽNOSTI
+Poznámky
+Poznamenáva sa - Oznámenie o začatí výkonu záložného práva formou dobrovoľnej dražby zo dňa 6.5.2022, v prospech Prvej stavebnej sporiteľne,a.s.,P-186/2022-40/22
+Poznamenáva sa: zákaz nakladať s predmetom záložného práva bez predchádzajúceho súhlasu správcu dane, P-29/2026 (Z-199/2026) - 9/26
+Iné údaje: Bez zápisu
+
+Časť „C“: ŤARCHY
+Vlastník poradové číslo 3
+Vklad záložného práva v prospech Prvá stavebná sporiteľňa, a.s., Bajkalská 30,829 48 Bratislava, IČO 31335004.Zmluva o zriadení záložného práva na nehnuteľný majetok, vzniknutá zo Zmluvy o staveb. úvere č.2853658 9 03 a 2853658 6 04,č.sp.V 1543/13-69/13.
+Vlastník poradové číslo 3
+Záložné právo zriadené Daňovým úradom Prešov na základe Rozhodnutia o zriadení záložného práva k nehnuteľnostiam č. 100577843/2026 dňa 27.01.2026, Z-199/2026 - 9/26.
+Iné údaje: Bez zápisu
+</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad xsi:nil="true" />
+  <ns0:PredmetCenaVyska xsi:nil="true" />
+  <ns0:PredmetCenaSposobStanovenia>Hodnota predmetu dražby bola zistená podľa znaleckého posudku č.72/2026 vypracoval Ing. Miroslav Vaško, znalec v odbore Stavebníctvo, odvetvie: oceňovanie nehnuteľností zapísaný v zozname znalcov, tlmočníkov a prekladateľov vedenom MS SR pod číslom 913 731. Dátum vypracovania znaleckého posudku dňa 26.06.2026. Všeobecná cena odhadu 19.900-eur.  </ns0:PredmetCenaSposobStanovenia>
+  <ns0:PredmetPodmienkyOdovzdania>1.	Po nadobudnutí vlastníckeho práva alebo iného práva k predmetu dražby odovzdá dražobník bez zbytočného odkladu vydražiteľovi predmet dražby a listiny, ktoré osvedčujú vlastnícke právo a sú nevyhnutné na nakladanie s predmetom dražby alebo osvedčujú iné práva vydražiteľa k predmetu dražby a vydražiteľ prevzatie predmetu dražby písomne potvrdí.
+2.	Ak ide o nehnuteľnosť, podnik alebo jeho časť, predchádzajúci vlastník je povinný odovzdať predmet dražby na základe predloženia osvedčeného odpisu notárskej zápisnice a doloženia totožnosti vydražiteľa bez zbytočných prieťahov. Dražobník je povinný na mieste spísať zápisnicu o odovzdaní predmetu dražby. Zápisnicu o odovzdaní predmetu dražby podpíše predchádzajúci vlastník [skryté], vydražiteľ a dražobník. Jedno vyhotovenie zápisnice dostane predchádzajúci vlastník a dve vyhotovenia dostane vydražiteľ. Ak niektorá osoba odmietne zápisnicu podpísať alebo ju prevziať, táto skutočnosť sa vyznačí v zápisnici a zápisnica sa považuje za odovzdanú aj tejto osobe.
+3.	 Všetky náklady spojené s odovzdaním a prevzatím predmetu dražby nesie vydražiteľ. Táto povinnosť sa nevzťahuje na náklady, ktoré by ináč nevznikli, ak ich svojou vinou spôsobil predchádzajúci vlastník, majiteľ alebo dražobník alebo ak im tieto náklady vznikli náhodou, ktorá ich postihla.
+4.	Osoba povinná vydať predmet dražby zodpovedá vydražiteľovi za škodu spôsobenú omeškaním s odovzdaním predmetu dražby.
+</ns0:PredmetPodmienkyOdovzdania>
+  <ns0:NajnizsiePodanie>19.900 eur</ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie>500 eur</ns0:MinimalnePrihodenie>
+  <ns0:Zabezpeka>
+    <ns0:Vyska>5.000 eur</ns0:Vyska>
+    <ns0:ZlozenieSposob>1.bezhotovostný prevod na účet dražobníka číslo IBAN:
+   SK68 0900 0000 0051 6971 7472
+2. v hotovosti, v eurách, do pokladne v sídle dražobníka                   
+     alebo v mieste konania dražby
+3. banková záruka
+4. notárska úschova	
+Dražobnú zábezpeku nie je možné zložiť platobnou kartou a ani šekom
+</ns0:ZlozenieSposob>
+    <ns0:ZlozenieCisloUctu>IBAN: SK68 0900 0000 0051 6971 7472</ns0:ZlozenieCisloUctu>
+    <ns0:ZlozenieAdresa>v hotovosti, v eurách, do pokladne v sídle dražobníka                   alebo v mieste konania dražby</ns0:ZlozenieAdresa>
+    <ns0:ZlozenieDoklad>1. Originál príkazu na úhradu   peňažných prostriedkov vo výške dražobnej zábezpeky. Účastník bude pripustený k dražbe ak do otvorenia dražby bude dražobná zábezpeka pripísaná na účet dražobníka.
+2. Hotovosť vo výške dražobnej zábezpeky
+3.Originál alebo overená kópia preukazujúca vystavenie bankovej záruky
+4. Originál alebo overená kópia dokladu preukazujúceho notársku úschovu 
+</ns0:ZlozenieDoklad>
+    <ns0:ZlozenieLehota>do otvorenia dražby</ns0:ZlozenieLehota>
+    <ns0:Vratenie>Dražobník bez zbytočného odkladu po skončení dražby vráti dražobnú zábezpeku účastníkovi dražby ktorý predmet dražby nevydražil, prípadne zabezpečí jej vydanie z notárskej úschovy. Ak došlo k zloženiu dražobnej zábezpeky formou bankovej záruky dražobník bez zbytočného odkladu vráti listinu preukazujúcu vydanie bankovej záruky účastníkovi dražby  ktorý listinu predložil, najneskôr však do 5 dní od upustenia dražby alebo skončenia dražby.</ns0:Vratenie>
+  </ns0:Zabezpeka>
+  <ns0:SposobUhradyCeny>Vydražiteľ je povinný zaplatiť cenu dosiahnutú vydražením v hotovosti do pokladne v sídle dražobníka alebo bezhotovostným prevodom na účet dražobníka číslo účtu.: IBAN SK68 0900 0000 0051 6971 7472 vedený v Slovenskej sporiteľni, a.s. s variabilným symbolom 502026 a to do 15 dní odo dňa skončenia dražby v prípade, že suma vydražením presiahla sumu 6.640,00.-eur. Ak táto suma 6.640,00.-eur nebola dražbou presiahnutá je povinný vydražiteľ túto sumu vyplatiť bezodkladne. </ns0:SposobUhradyCeny>
+  <ns0:ObhliadkaDatum>Obhliadka 1: dňa  27.októbra 2026 o 10.00. hod.
+Obhliadka 2: dňa  28.októbra 2026 o 13.00. hod.  
+</ns0:ObhliadkaDatum>
+  <ns0:ObhliadkaMiesto>- rodinný dom súpisné číslo 86, zapísaný na LV č. 64, pre katastrálne územie: Čičava, nachádzajúci sa na pozemku parcelné číslo 18, Druh stavby Rodinný dom Popis stavby Rodinný dom, katastrálne územie: Čičava, obec: Čičava, okres: Vranov nad Topľou, Okresný úrad Vranov nad Topľou v bezpodielovom spoluvlastníctve dlžníka, 
+parcela registra "C" evidovaná na katastrálnej mape, parc. č. 18 evidovanej na LV č. 64, pre katastrálne územie: Čičava o výmere 1005 m2, Druh pozemku Zastavaná plocha a nádvorie, katastrálne územie: Čičava, obec: Čičava, okres: Vranov nad Topľou, Okresný úrad Vranov nad Topľou v bezpodielovom spoluvlastníctve dlžníka,
+parcela registra "C" evidovaná na katastrálnej mape, parc. č. 19 evidovanej na LV č. 64, pre katastrálne územie: Čičava o výmere 893 m2, Druh pozemku Záhrada, katastrálne územie: Čičava, obec: Čičava, okres: Vranov nad Topľou, Okresný úrad Vranov nad Topľou v bezpodielovom spoluvlastníctve dlžníka. (ďalej len “predmet dražby”).
+</ns0:ObhliadkaMiesto>
+  <ns0:SpolocnaDrazba Kod="NIE">Nie</ns0:SpolocnaDrazba>
+  <ns0:SpolocnaDrazbaPoradieDrazeniePredmetov xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia>Záujemcovia o obhliadku sa ohlásia vopred aspoň jeden deň  pred konaním ohliadky po dohode s dražobníkom. Bližšie informácie na telefónnom  čísle 0903 582 148.</ns0:OrganizaceOpatrenia>
+  <ns0:NadobudnutieVlastnickehoPrava>Ak  vydražiteľ  zaplatí cenu dosiahnutú vydražením v ustanovenej lehote, prechádza na neho vlastnícke právo dňom udelenia príklepu. Dražobník vydá bez zbytočného odkladu po nadobudnutí vlastníckeho  alebo iného práva vydražiteľovi potvrdenie o vydražení predmetu dražby a v prípadoch, v ktorých sa o priebehu dražby spisuje notárska zápisnica vydá dražobník vydražiteľovi dve vyhotovenia osvedčeného odpisu notárskej zápisnice. </ns0:NadobudnutieVlastnickehoPrava>
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>

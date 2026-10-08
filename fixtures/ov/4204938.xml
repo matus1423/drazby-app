@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Drazba xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="/PortalJustice/XmlFormularObchodnyVestnik/">
+  <Nazov>Oznámenie o dobrovoľnej dražbe</Nazov>
+  <Cislo>DU-POS DD 16-2026</Cislo>
+  <ZoDna xsi:nil="true" />
+  <Drazobnik>
+    <ObchodneMenoNazov xmlns="">DUPOS dražobná, spol. s r.o.</ObchodneMenoNazov>
+    <Sidlo xmlns="">
+      <Ulica>Tamaškovičova</Ulica>
+      <Cislo>17</Cislo>
+      <Obec>Trnava</Obec>
+      <Psc>91701</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud xmlns="" Kod="110">Okresný súd Trnava</Sud>
+    <Oddiel xmlns="">Sro</Oddiel>
+    <Vlozka xmlns="">11681/T</Vlozka>
+    <Ico xmlns="">36233935</Ico>
+  </Drazobnik>
+  <NavrhovateliaHeader>Označenie navrhovateľa</NavrhovateliaHeader>
+  <Navrhovatelia>
+    <Navrhovatel>
+      <Id>1</Id>
+      <CeleMeno>
+        <ObchodneMenoNazov xmlns="">Slovenská sporiteľňa, a.s.</ObchodneMenoNazov>
+        <Sidlo xmlns="">
+          <Ulica>Tomášikova</Ulica>
+          <Cislo>48</Cislo>
+          <Obec>Bratislava</Obec>
+          <Psc>832 37</Psc>
+          <Stat>Slovensko</Stat>
+        </Sidlo>
+        <Oddiel xmlns="" />
+        <Vlozka xmlns="" />
+        <Ico xmlns="">00151653</Ico>
+      </CeleMeno>
+    </Navrhovatel>
+  </Navrhovatelia>
+  <Licitatori xsi:nil="true" />
+  <Notar>
+    <CeleMeno>
+      <TitulPred xmlns="">Mgr.</TitulPred>
+      <TitulZa xmlns="" />
+      <Meno xmlns="">Tomáš</Meno>
+      <Priezvisko xmlns="">Gerbery</Priezvisko>
+    </CeleMeno>
+    <Sidlo>
+      <Ulica xmlns="">Mnoheľova</Ulica>
+      <Cislo xmlns="">830/17</Cislo>
+      <Obec xmlns="">Poprad</Obec>
+      <Psc xmlns="">058 01</Psc>
+      <Stat xmlns="" />
+    </Sidlo>
+  </Notar>
+  <KonanieMiesto>RS Hotel &amp; Motel, Čerenčianská 1712/30, 979 01 Rimavská Sobota - salónik na prízemí</KonanieMiesto>
+  <KonanieDatum>2026-11-04</KonanieDatum>
+  <KonanieCas>11:00 hod.</KonanieCas>
+  <Kolo>prvá dražba</Kolo>
+  <Predmet>&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;LV č.&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;Okresn&amp;yacute; &amp;uacute;rad, katastr&amp;aacute;lny odbor&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;Katastr&amp;aacute;lne &amp;uacute;zemie&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;Okres&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;Obec&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;64&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Lučenec&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Čakanovce&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Lučenec&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Čakanovce&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="5"&gt;
+			&lt;p&gt;&lt;strong&gt;Parcely registra &amp;quot;C&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#bfbfbf"&gt;
+			&lt;p&gt;&lt;strong&gt;Parceln&amp;eacute; č&amp;iacute;slo&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#bfbfbf"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#bfbfbf"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;mera /m&lt;sup&gt;2&lt;/sup&gt;/&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;903/2&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;14&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;905/1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;307&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;905/2&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;109&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;905/3&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;18&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;905/4&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;52&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;907/3&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Z&amp;aacute;hrada&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;98&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;907/4&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;Z&amp;aacute;hrada&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2"&gt;
+			&lt;p&gt;68&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="5"&gt;
+			&lt;p&gt;&lt;strong&gt;Stavby&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;S&amp;uacute;pisn&amp;eacute; č&amp;iacute;slo&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;Parcela&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3" style="background-color:silver"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh stavby &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;134&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;905/2&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3"&gt;
+			&lt;p&gt;Rodinn&amp;yacute; dom&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p&gt;134&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;905/3&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="3"&gt;
+			&lt;p&gt;Hospod&amp;aacute;rska budova&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+</Predmet>
+  <PredmetOpis>&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Rodinn&amp;yacute; dom, už&amp;iacute;van&amp;yacute; od roku 1971, je vybudovan&amp;yacute; s dvomi nadzemn&amp;yacute;mi podlažiami, jedn&amp;yacute;m podzemn&amp;yacute;m podlaž&amp;iacute;m ako samostatne stojaci objekt s plochou strechou. Prv&amp;eacute; nadzemn&amp;eacute; podlažie /I.N.P. - pr&amp;iacute;zemie/ je pr&amp;iacute;stupn&amp;eacute; s hlavn&amp;yacute;m vstupom od čelnej strany domu, pozost&amp;aacute;va z miestnost&amp;iacute; - z&amp;aacute;dverie so schodiskom, chodba, 3 obytn&amp;eacute; izby, kuchyňa a k&amp;uacute;peľňa+WC. Druh&amp;eacute; nadzemn&amp;eacute; podlažie /II.N.P.- poschodie/ pr&amp;iacute;stupn&amp;eacute; iba z pr&amp;iacute;zemia domu, pozost&amp;aacute;va z miestnost&amp;iacute; - predsieň, chodba, 3 obytn&amp;eacute; izby, kuchyňa, k&amp;uacute;peľňa+WC a balk&amp;oacute;n. Prv&amp;eacute; podzemn&amp;eacute; podlažie /I.P.P. - suter&amp;eacute;n/ pr&amp;iacute;stupn&amp;eacute; z pr&amp;iacute;zemia domu, pozost&amp;aacute;va z miestnost&amp;iacute; - schodisko, chodba, kotolňa a sklad 2x. Stavebno-technick&amp;yacute; stav je priemern&amp;yacute;. Prvky dlhodobej životnosti nevykazuj&amp;uacute; vonkaj&amp;scaron;ie znaky por&amp;uacute;ch na obvodovom m&amp;uacute;re, stre&amp;scaron;nej krytiny a stropov. &amp;Uacute;držba prvkov kr&amp;aacute;tkodobej životnosti s&amp;uacute; zanedban&amp;aacute; - v posledn&amp;yacute;ch rokoch s&amp;uacute; po&amp;scaron;koden&amp;eacute; - jednotliv&amp;eacute; stavebn&amp;eacute; kon&amp;scaron;trukcie s&amp;uacute; demontovan&amp;eacute; (n&amp;aacute;&amp;scaron;ľapn&amp;aacute; vrstva podl&amp;aacute;h obytn&amp;yacute;ch miestnostiach, radi&amp;aacute;tory, vodovodn&amp;eacute; bat&amp;eacute;rie, zariadenie kuchyne, vn&amp;uacute;torn&amp;eacute; dvere, kotol, bojler).&amp;nbsp; Na pozemku sa nach&amp;aacute;dza vodovodn&amp;aacute;, elektrick&amp;aacute;, kanalizačn&amp;aacute;, plynov&amp;aacute; pr&amp;iacute;pojka, žumpa a hospod&amp;aacute;rska budova. Pozemok m&amp;aacute; v&amp;yacute;meru 666 m2.&lt;/p&gt;
+
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p&gt;Predmet dražby as draž&amp;iacute; tak ako stoj&amp;iacute; a&amp;nbsp;lež&amp;iacute;.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+</PredmetOpis>
+  <PredmetStavOpis>&lt;table border="1" cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Rodinn&amp;yacute; dom, už&amp;iacute;van&amp;yacute; od roku 1971, je vybudovan&amp;yacute; s dvomi nadzemn&amp;yacute;mi podlažiami, jedn&amp;yacute;m podzemn&amp;yacute;m podlaž&amp;iacute;m ako samostatne stojaci objekt s plochou strechou. Prv&amp;eacute; nadzemn&amp;eacute; podlažie /I.N.P. - pr&amp;iacute;zemie/ je pr&amp;iacute;stupn&amp;eacute; s hlavn&amp;yacute;m vstupom od čelnej strany domu, pozost&amp;aacute;va z miestnost&amp;iacute; - z&amp;aacute;dverie so schodiskom, chodba, 3 obytn&amp;eacute; izby, kuchyňa a k&amp;uacute;peľňa+WC. Druh&amp;eacute; nadzemn&amp;eacute; podlažie /II.N.P.- poschodie/ pr&amp;iacute;stupn&amp;eacute; iba z pr&amp;iacute;zemia domu, pozost&amp;aacute;va z miestnost&amp;iacute; - predsieň, chodba, 3 obytn&amp;eacute; izby, kuchyňa, k&amp;uacute;peľňa+WC a balk&amp;oacute;n. Prv&amp;eacute; podzemn&amp;eacute; podlažie /I.P.P. - suter&amp;eacute;n/ pr&amp;iacute;stupn&amp;eacute; z pr&amp;iacute;zemia domu, pozost&amp;aacute;va z miestnost&amp;iacute; - schodisko, chodba, kotolňa a sklad 2x. Stavebno-technick&amp;yacute; stav je priemern&amp;yacute;. Prvky dlhodobej životnosti nevykazuj&amp;uacute; vonkaj&amp;scaron;ie znaky por&amp;uacute;ch na obvodovom m&amp;uacute;re, stre&amp;scaron;nej krytiny a stropov. &amp;Uacute;držba prvkov kr&amp;aacute;tkodobej životnosti s&amp;uacute; zanedban&amp;aacute; - v posledn&amp;yacute;ch rokoch s&amp;uacute; po&amp;scaron;koden&amp;eacute; - jednotliv&amp;eacute; stavebn&amp;eacute; kon&amp;scaron;trukcie s&amp;uacute; demontovan&amp;eacute; (n&amp;aacute;&amp;scaron;ľapn&amp;aacute; vrstva podl&amp;aacute;h obytn&amp;yacute;ch miestnostiach, radi&amp;aacute;tory, vodovodn&amp;eacute; bat&amp;eacute;rie, zariadenie kuchyne, vn&amp;uacute;torn&amp;eacute; dvere, kotol, bojler).&amp;nbsp; Na pozemku sa nach&amp;aacute;dza vodovodn&amp;aacute;, elektrick&amp;aacute;, kanalizačn&amp;aacute;, plynov&amp;aacute; pr&amp;iacute;pojka, žumpa a hospod&amp;aacute;rska budova. Pozemok m&amp;aacute; v&amp;yacute;meru 666 m2.&lt;/p&gt;
+
+			&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p&gt;Predmet dražby as draž&amp;iacute; tak ako stoj&amp;iacute; a&amp;nbsp;lež&amp;iacute;.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+</PredmetStavOpis>
+  <PredmetPravaZavazky>Záložné právo v prospech Slovenskej sporiteľne, a.s., Tomášikova 48, 832 37 Bratislava, IČO:00 151 653, č. V-1031/2020 z 06.05.2020, na C KN p.č.903/2, 905/1, 905/2, 905/3, 905/4, 907/3, 907/4 a stavby s.č.134 na C KN p.č.905/2, 905/3 - 74/20, 99/20                                                                                                                                                                                                                      Exekučný príkaz na zriadenie exekučného záložného práva č. 217EX 260/19 z 21.10.2021 od exekučného úradu Banská Bystrica, JUDr. Mário Mičák, v prospech DôVERA zdravotná poisťovňa, a.s., IČO: 35 942 436, na pozemky CKN parc.č. 903/2, 905/1, 905/2, 905/3, 905/4, 907/3, 907/4, rodinný dom so s.č.134 na parc.č. 905/2, hospodárska budova so s.č. 134 na parc.č. 905/3, zapísané 22.10.2021, Z-5336/2021 - vz.138/21                                                                                                                         Poznámky :                                                                                                                                                                                                 Upovedomenie o začatí exekúcie zriadením exekučného záložného práva č. 127EX 605/24 z 18.09.2024 (Ex. úrad Žiar nad Hronom, JUDr. Ing. Miroslav Paller) v prospech: Orange Slovensko, a.s., Dr. Vl. Clementisa 10, 821 02 Bratislava-Ružinov, IČO 35855673, na pozemky registra C KN parc.č. 903/2, 905/1, 905/2, 905/3, 905/4, 907/3, 907/4, a stavby s.č.134 na pozemkoch registra C KN parc.č. 905/2, 905/3, zapísané 19.09.2024, P-411/2024  105/24
+ 
+Poznamenáva sa oznámenie o začatí výkonu záložného práva V-1031/2020 záložným veriteľom Slovenská sporiteľňa, a.s., IČO 00151653, Tomášikova 48, 83237 Bratislava, formou predaja nehnuteľnosti na dobrovoľnej dražbe, pozemky CKN parc.č. 903/2, 905/1, 905/2, 905/3, 905/4, 907/3, 907/4, stavby: rodinný dom s.č.134 na parc.č. 905/2, hospodárska budova s.č.
+134 na parc.č. 905/3, P-38/2026 zapísané dňa 02.02.2026 - v.z.16/26.
+
+Nie sú známe žiadne nájomné zmluvy týkajúce sa predmetu dražby.
+</PredmetPravaZavazky>
+  <PredmetCenaOdhad xsi:nil="true" />
+  <PredmetCenaVyska xsi:nil="true" />
+  <PredmetCenaSposobStanovenia>
+Číslo znaleckého posudku:	102/2026
+Meno znalca: Ing. Alžbeta Czipruszová	
+Dátum vyhotovenia:	10.08.2026
+Všeobecná cena odhadu:  28 200,00 €
+			    
+
+</PredmetCenaSposobStanovenia>
+  <PredmetPodmienkyOdovzdania>Vlastnícke právo k predmetu dražby prechádza na vydražiteľa udelením príklepu a po uhradení ceny dosiahnutej vydražením. Užívacie právo prechádza na vydražiteľa odovzdaním predmetu dražby zápisnicou o odovzdaní. Predmet dražby odovzdá predchádzajúci vlastník po predložení osvedčeného odpisu notárskej zápisnice a doloženia totožnosti vydražiteľa.</PredmetPodmienkyOdovzdania>
+  <NajnizsiePodanie>28200</NajnizsiePodanie>
+  <NajvyssiePodanie xsi:nil="true" />
+  <MinimalnePrihodenie>400</MinimalnePrihodenie>
+  <Zabezpeka>
+    <Vyska>5000</Vyska>
+    <ZlozenieSposob>Prevodom na bankový účet dražobníka alebo v hotovosti u dražobníka najneskôr do zahájenia dražby s preukázaním potvrdenia o úhrade týmto alebo zákonom povoleným spôsobom alebo vo forme bankovej záruky. Dražobnú zábezpeku nie je možné zložiť šekom ani platobnou kartou.
+
+</ZlozenieSposob>
+    <ZlozenieCisloUctu>SK80 0900 0000 0052 3103 0277, Var. Symbol: 162026</ZlozenieCisloUctu>
+    <ZlozenieAdresa>V sídle spoločnosti dražobníka, alebo na mieste konania dražby, ktoré je uvedené v Oznámení o dražbe.</ZlozenieAdresa>
+    <ZlozenieDoklad>Výpis z bankového účtu, potvrdenie o vklade peňažných prostriedkov na bankový účet v hotovosti, príjmový pokladničný doklad dražobníka, banková záruka.</ZlozenieDoklad>
+    <ZlozenieLehota>do otvorenia dražby</ZlozenieLehota>
+    <Vratenie>Dražobník vráti účastníkovi dražby, ktorý predmet dražby nevydražil dražobnú zábezpeku alebo listinu preukazujúcu vydanie bankovej záruky bez zbytočného odkladu po skončení dražby alebo upustení od dražby, najneskôr však do 5 dní od skončenia dražby alebo od upustenia od dražby.</Vratenie>
+  </Zabezpeka>
+  <SposobUhradyCeny>V zmysle ustanovenia § 26 ods. 3. až 5 zák. č. 527/2002 Z. z. o dobrovoľných dražbách sa dražobná zábezpeka započítava vydražiteľovi do ceny dosiahnutej vydražením. Zostávajúcu časť ceny, dosiahnutej vydražením je vydražiteľ povinný zaplatiť dražobníkovi do 15 dní od skončenia dražby, pokiaľ sa vydražiteľ nedohodne s navrhovateľom dražby inak, a to v hotovosti alebo bankovým prevodom na účet dražobníka, podľa vyššie uvedených bodov v časti Dražobná zábezpeka. Ak nie je cena dosiahnutá vydražením vyššia ako 6 640 eur, je vydražiteľ povinný zaplatiť cenu dosiahnutú vydražením hneď po skončení dražby. </SposobUhradyCeny>
+  <ObhliadkaDatum>Obhliadka 1:  10.05.2026 09:30
+Obhliadka 2:  30.10.2026 09:30
+</ObhliadkaDatum>
+  <ObhliadkaMiesto>Čakanovce 134, 985 58, Čakanovce</ObhliadkaMiesto>
+  <SpolocnaDrazba Kod="NIE">Nie</SpolocnaDrazba>
+  <SpolocnaDrazbaPoradieDrazeniePredmetov xsi:nil="true" />
+  <OrganizaceOpatrenia>Organizačné pokyny: Obhliadka sa uskutoční po predchádzajúcom telefonickom dohovore na tel. čísle 033 / 553 27 22, prípadne na mobilnom čísle 0911876895.</OrganizaceOpatrenia>
+  <NadobudnutieVlastnickehoPrava>Ak uhradil vydražiteľ cenu dosiahnutú vydražením v ustanovenej lehote, prechádza na neho vlastnícke právo alebo iné právo k predmetu dražby udelením príklepu. Ku dňu zaplatenia ceny dosiahnutej vydražením vydražiteľom zaniká pohľadávka veriteľa v rozsahu uspokojenia veriteľa z výťažku dražby.</NadobudnutieVlastnickehoPrava>
+  <DovodUpustenia xsi:nil="true" />
+  <DrazobnikOznamuje xsi:nil="true" />
+</Drazba>

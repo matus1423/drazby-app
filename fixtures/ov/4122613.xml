@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:Drazba xmlns:ns0="/PortalJustice/XmlFormularObchodnyVestnik/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns0:Nazov>Oznámenie o dobrovoľnej dražbe</ns0:Nazov>
+  <ns0:Cislo>5090226</ns0:Cislo>
+  <ns0:ZoDna xsi:nil="true" />
+  <ns0:Drazobnik>
+    <ObchodneMenoNazov>LICITOR group, a.s.</ObchodneMenoNazov>
+    <Sidlo>
+      <Ulica>Sládkovičova</Ulica>
+      <Cislo>6</Cislo>
+      <Obec>Žilina</Obec>
+      <Psc>01001</Psc>
+      <Stat>Slovenská republika</Stat>
+    </Sidlo>
+    <Sud Kod="131">Okresný súd Žilina</Sud>
+    <Oddiel>Sa</Oddiel>
+    <Vlozka>10476/L</Vlozka>
+    <Ico>36421561</Ico>
+  </ns0:Drazobnik>
+  <ns0:NavrhovateliaHeader>Označenie navrhovateľa</ns0:NavrhovateliaHeader>
+  <ns0:Navrhovatelia>
+    <ns0:Navrhovatel>
+      <ns0:Id>1</ns0:Id>
+      <ns0:CeleMeno>
+        <ObchodneMenoNazov>Mgr. Samuel Cvik</ObchodneMenoNazov>
+        <Sidlo>
+          <Ulica>Hasičská </Ulica>
+          <Cislo>4439/2</Cislo>
+          <Obec>Šurany</Obec>
+          <Psc>94201</Psc>
+          <Stat>SR</Stat>
+        </Sidlo>
+        <Oddiel />
+        <Vlozka />
+        <Ico>57140880</Ico>
+      </ns0:CeleMeno>
+    </ns0:Navrhovatel>
+  </ns0:Navrhovatelia>
+  <ns0:Licitatori xsi:nil="true" />
+  <ns0:Notar>
+    <ns0:CeleMeno>
+      <TitulPred>JUDr.</TitulPred>
+      <TitulZa />
+      <Meno>Alan</Meno>
+      <Priezvisko>Schwartz</Priezvisko>
+    </ns0:CeleMeno>
+    <ns0:Sidlo>
+      <Ulica>Plynárenská </Ulica>
+      <Cislo>7/C</Cislo>
+      <Obec>Bratislava</Obec>
+      <Psc>82109</Psc>
+      <Stat />
+    </ns0:Sidlo>
+  </ns0:Notar>
+  <ns0:KonanieMiesto>v sídle notárskeho úradu - JUDr. Alan Schwartz, so sídlom Plynárenská 7/C, 821 09  Bratislava</ns0:KonanieMiesto>
+  <ns0:KonanieDatum>2026-06-23</ns0:KonanieDatum>
+  <ns0:KonanieCas>11:30 hod.</ns0:KonanieCas>
+  <ns0:Kolo>1. kolo</ns0:Kolo>
+  <ns0:Predmet>&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;&lt;strong&gt;Č&amp;iacute;slo &lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;LV&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="4" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;&lt;strong&gt;Katastr&amp;aacute;lne &amp;uacute;zemie&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;&lt;strong&gt;Okresn&amp;yacute; &amp;uacute;rad, katastr&amp;aacute;lny odbor&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;7278&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="4" style="vertical-align:top"&gt;
+			&lt;p&gt;Kom&amp;aacute;rno&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;Kom&amp;aacute;rno&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="7" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;&lt;strong&gt;POZEMKY parcely registra &amp;bdquo;C&amp;ldquo;:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Parc. č.&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="4" style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;mera &lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Pozn&amp;aacute;mka&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2358&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="4" style="vertical-align:top"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;385 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;&amp;nbsp;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="7" style="background-color:#dfdfdf"&gt;
+			&lt;p&gt;&lt;strong&gt;STAVBY na pozemkoch:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2" style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;S&amp;uacute;p. č&amp;iacute;slo&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;stavby&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Postaven&amp;aacute; na&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;parc. č.&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;V&amp;yacute;mera&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;pozemku&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Druh &lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;stavby&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="background-color:#f2f2f2"&gt;
+			&lt;p&gt;&lt;strong&gt;Popis&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;2628&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;2358&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;385 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;9 &amp;ndash; Bytov&amp;yacute; dom&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan="2" style="vertical-align:top"&gt;
+			&lt;p&gt;&lt;em&gt;Byt č. 31 nach&amp;aacute;dzaj&amp;uacute;ci sa na 7. poschod&amp;iacute; vo vchode č. 2 Bytov&amp;eacute;ho domu so s&amp;uacute;p. č. 2628 postaven&amp;yacute; na pozemku registra &amp;bdquo;C&amp;ldquo; par. č. 2358, druh pozemku zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie o&amp;nbsp;v&amp;yacute;mere 385 m&amp;sup2; (ďalej len &amp;bdquo;zastavan&amp;yacute; pozemok&amp;ldquo;), ku ktor&amp;eacute;mu prisl&amp;uacute;cha spoluvlastn&amp;iacute;cky podiel na spoločn&amp;yacute;ch častiach a&amp;nbsp;zariadeniach bytov&amp;eacute;ho domu, na pr&amp;iacute;slu&amp;scaron;enstve a&amp;nbsp;k&amp;nbsp;zastavan&amp;eacute;mu pozemku vo veľkosti 5691/205100&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td colspan="7" style="background-color:#d9d9d9"&gt;
+			&lt;p&gt;&lt;strong&gt;Spoluvlastn&amp;iacute;cky podiel:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1/1&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</ns0:Predmet>
+  <ns0:PredmetOpis>&lt;p&gt;&lt;em&gt;&lt;u&gt;Byt č.31, 7.poschodie, na ul. Me&amp;scaron;tianska 2, s.č.2628 v&amp;nbsp;k.&amp;uacute;. Kom&amp;aacute;rno&lt;/u&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Byt č.31 v Kom&amp;aacute;rne nach&amp;aacute;dzaj&amp;uacute;ci sa&amp;nbsp; na 7.poschod&amp;iacute; bytov&amp;eacute;ho domu s&amp;uacute;p.č.2628, na adrese: Kom&amp;aacute;rno, ul.Me&amp;scaron;tianska2&lt;/p&gt;
+
+&lt;p&gt;Byt pozost&amp;aacute;va z 2 p&amp;ocirc;vodn&amp;yacute;ch izieb/obytn&amp;yacute;ch miestnost&amp;iacute;/ a pr&amp;iacute;slu&amp;scaron;enstva&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pr&amp;iacute;slu&amp;scaron;enstvo bytu :&lt;/strong&gt; kuchyňa , predsieň,&amp;nbsp; k&amp;uacute;peľňa a &amp;scaron;pajza, WC, balk&amp;oacute;n.&amp;nbsp; K&amp;uacute;peľňa je pr&amp;iacute;stupn&amp;aacute; z priestorov &amp;scaron;pajze, ktor&amp;aacute; je men&amp;scaron;ia o časť k&amp;uacute;peľne&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Celkov&amp;aacute; v&amp;yacute;mera podlahovej plochy bytu:&lt;/strong&gt; 56,92 m2 po rekon&amp;scaron;trukcii.&lt;/p&gt;
+
+&lt;p&gt;S&amp;uacute;časťou bytu je- pr&amp;iacute;pojka STA, vodovodn&amp;aacute; bytov&amp;aacute; pr&amp;iacute;pojka, teplovodn&amp;aacute; bytov&amp;aacute; pr&amp;iacute;pojka, kanalizačn&amp;aacute; bytov&amp;aacute; pr&amp;iacute;pojka, elektrick&amp;aacute; bytov&amp;aacute; pr&amp;iacute;pojka, plynov&amp;aacute; bytov&amp;aacute; pr&amp;iacute;pojka, kuchynsk&amp;aacute; linka, plynov&amp;yacute; spor&amp;aacute;k, sprchovc&amp;iacute; k&amp;uacute;t a um&amp;yacute;vadlo, vodovodn&amp;eacute; bat&amp;eacute;rie, z&amp;aacute;chodov&amp;aacute; misa, merač SV,TUV, pomerov&amp;yacute; rozdeľovač n&amp;aacute;kladov na vykurovanie- termoventily, po&amp;scaron;tov&amp;aacute; schr&amp;aacute;nka, zvonček.&amp;nbsp; Rekon&amp;scaron;trukčn&amp;eacute; pr&amp;aacute;ce s&amp;uacute; zahrnut&amp;eacute; v koeficiente vybavenosti bytu.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;V samotnom byte&amp;nbsp; je preveden&amp;aacute;&amp;nbsp; &amp;uacute;prava :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;- obnoven&amp;aacute;&amp;nbsp; kuchynsk&amp;aacute;&amp;nbsp; linka na b&amp;aacute;ze drevotriesky,&amp;nbsp; nov&amp;yacute; plynov&amp;yacute; &amp;scaron;por&amp;aacute;k, osaden&amp;yacute; je digestor, dres je nerezov&amp;yacute;, v&amp;yacute;tokov&amp;aacute; armat&amp;uacute;ra nerezov&amp;aacute; p&amp;aacute;kov&amp;aacute;.&lt;/p&gt;
+
+&lt;p&gt;- nov&amp;eacute; zariaďovacie predmety v k&amp;uacute;peľni s&amp;uacute; v&amp;yacute;tokov&amp;eacute; armat&amp;uacute;ry nerezov&amp;eacute; p&amp;aacute;kov&amp;eacute;, rohov&amp;aacute; vaňa,&amp;nbsp; um&amp;yacute;vadlo smaltovan&amp;eacute;,&amp;nbsp;&amp;nbsp; keramick&amp;yacute; obklad stien je nad 1,35 m v&amp;yacute;&amp;scaron;ky&lt;/p&gt;
+
+&lt;p&gt;- WC - z&amp;aacute;chodov&amp;aacute; misa je splachovacie bez um&amp;yacute;vadla&amp;nbsp; bytov&amp;eacute; jadro je nov&amp;eacute;&lt;/p&gt;
+
+&lt;p&gt;- prevedenie keramick&amp;eacute;ho obkladu stien&amp;nbsp; kuchyne za linkou&amp;nbsp; a &amp;scaron;por&amp;aacute;kom&lt;/p&gt;
+
+&lt;p&gt;- n&amp;aacute;&amp;scaron;ľapn&amp;aacute; vrstva podl&amp;aacute;h v izb&amp;aacute;ch je z laminoparkiet, v k&amp;uacute;peľni, WC&amp;nbsp; predsieni je podlaha keramickej dlažby.&lt;/p&gt;
+
+&lt;p&gt;- v&amp;yacute;mena dreven&amp;yacute;ch okien&amp;nbsp; na plastov&amp;eacute; s tepelnoizolačn&amp;yacute;m dvojsklom&lt;/p&gt;
+
+&lt;p&gt;- preveden&amp;aacute; stierkov&amp;aacute; omietka po odstr&amp;aacute;nen&amp;iacute; papierov&amp;yacute;ch tapiet&lt;/p&gt;
+
+&lt;p&gt;Dvere vn&amp;uacute;torn&amp;eacute; s&amp;uacute; dreven&amp;eacute; pln&amp;eacute; a presklen&amp;eacute; kazetov&amp;eacute;, vstupn&amp;eacute; dvere s&amp;uacute; s bezpečnostn&amp;yacute;m kovan&amp;iacute;m.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Vykurovanie a rozvod teplej vody z centr&amp;aacute;lneho zdroja, radi&amp;aacute;tory oceľov&amp;eacute; panelov&amp;eacute; s termoventilom.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Samotn&amp;yacute; bytov&amp;yacute; dom&lt;/strong&gt; m&amp;aacute; dva samostatn&amp;eacute; vchody a 8 obytn&amp;yacute;ch podlaž&amp;iacute;,&amp;nbsp; in&amp;scaron;talačn&amp;yacute; suter&amp;eacute;n v ktorom s&amp;uacute; inžinierske siete.&amp;nbsp; V&amp;yacute;ťah&amp;nbsp; je osaden&amp;yacute;. Bytov&amp;yacute; dom nem&amp;aacute; nebytov&amp;yacute; priestor.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;V r. 2015&lt;/strong&gt; bola&amp;nbsp; opraven&amp;aacute; stre&amp;scaron;n&amp;aacute; kon&amp;scaron;trukcia a klampiarske kon&amp;scaron;trukcie, zateplen&amp;aacute; fas&amp;aacute;da, vymenen&amp;eacute; vchodov&amp;eacute; dvere a schodi&amp;scaron;ťov&amp;eacute; okn&amp;aacute; na plastov&amp;eacute; s tepelnoizolačn&amp;yacute;m dvojsklom. Bytov&amp;yacute; dom je založen&amp;yacute; na&amp;nbsp; z&amp;aacute;kladoch s vodorovnou izol&amp;aacute;ciou proti zemnej vlhkosti. Nosn&amp;aacute; kon&amp;scaron;trukcia panelov&amp;aacute;. Strecha ploch&amp;aacute; s krytinou z asfaltovan&amp;yacute;ch privarovan&amp;yacute;ch p&amp;aacute;sov. Klampiarske kon&amp;scaron;trukcie &amp;uacute;pln&amp;eacute; strechy a parapety. Vonkaj&amp;scaron;ia &amp;uacute;prava povrchov pozost&amp;aacute;va z povrchovej &amp;uacute;pravy obvodov&amp;yacute;ch panelov n&amp;aacute;strekom. Objekt ja napojen&amp;yacute; na verejn&amp;yacute; vodovod, kanaliz&amp;aacute;ciu, rozvod zemn&amp;eacute;ho plynu. Zaveden&amp;aacute; sveteln&amp;aacute; a motorick&amp;aacute; elektroin&amp;scaron;tal&amp;aacute;cia, bleskozvod, rozvod studenej vody do požiarnych hydrantov v spoločn&amp;yacute;ch priestoroch. Vykurovanie z centr&amp;aacute;lneho tepeln&amp;eacute;ho zdroja. Pr&amp;iacute;stup do bytov spoločn&amp;yacute;m schodiskom, schodnicov&amp;eacute; stupne s povrchom liate terazzo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spoločn&amp;eacute; časti domu :&lt;/strong&gt; z&amp;aacute;klady domu , strecha, chodby, obvodov&amp;eacute; m&amp;uacute;ry, priečelia, vchody, schodi&amp;scaron;tia, vodorovn&amp;eacute; nosn&amp;eacute; a izolačn&amp;eacute; kon&amp;scaron;trukcie a zvisl&amp;eacute; nosn&amp;eacute; kon&amp;scaron;trukcie, priečky oddeľuj&amp;uacute;ce jednotliv&amp;eacute; byty, spoločn&amp;eacute; terasy,&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spoločn&amp;eacute; zariadenie domu:&lt;/strong&gt; STA, bleskozvod, spoločn&amp;eacute; priestory, vodovodn&amp;eacute;, teplonosn&amp;eacute;, kanalizačn&amp;eacute;, elektrick&amp;eacute;, telef&amp;oacute;nne a plynov&amp;eacute; domov&amp;eacute; pr&amp;iacute;pojky a to aj v pr&amp;iacute;pade ,ak s&amp;uacute; umiestnen&amp;eacute; mimo domu a sl&amp;uacute;žia v&amp;yacute;lučne tomuto domu.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technick&amp;yacute; stav :&lt;/strong&gt;&amp;nbsp; byt je v dobrom technickom stave, nevyžaduje opravu.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;V&amp;yacute;počet podlahovej plochy:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;N&amp;aacute;zov miestnosti a v&amp;yacute;počet&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;Podlahov&amp;aacute; plocha [m2]&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Izba: 3,45*6,08&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;20,98&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Izba:3,45*3,850&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;13,28&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;K&amp;uacute;peľňa a &amp;scaron;pajza: 0,88*2,53+0,88*0,90&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;3,02&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;WC:0,95*1,10&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;1,05&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Kuchyňa: 3,47*2,95+1,64*1,79&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;13,17&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;Predsieň:3,45*1,57&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="vertical-align:top"&gt;
+			&lt;p&gt;5,42&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;&lt;strong&gt;Vypoč&amp;iacute;tan&amp;aacute; podlahov&amp;aacute; plocha&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e1e1e1"&gt;
+			&lt;p&gt;&lt;strong&gt;56,92&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Pozemok&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;Pozemok je&amp;nbsp; rovinat&amp;yacute;, pr&amp;iacute;stupn&amp;yacute; po spevnenej komunik&amp;aacute;cii (ul.Me&amp;scaron;tianska), v obytnej časti mesta, sp&amp;aacute;dom k centru mesta (pe&amp;scaron;ia z&amp;oacute;na je vzdialen&amp;aacute; cca 3.min&amp;uacute;ty pe&amp;scaron;o), v zastavanom &amp;uacute;zem&amp;iacute; mesta, s možnosťou napojenia na vodovod, plynovod, elektrick&amp;uacute; rozvodn&amp;uacute; sieť, telekomunikačn&amp;uacute; a teplonosn&amp;uacute; sieť. Miesto nie je zaťažen&amp;eacute; negat&amp;iacute;vnymi vplyvmi.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Parc. reg.&amp;nbsp; C KN č.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table cellspacing="0"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Parcela&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Druh pozemku&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Spolu v&amp;yacute;mera [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;Spoluvlastn&amp;iacute;cky podiel bytu/nebytu k pozemku&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:#e6e6e6"&gt;
+			&lt;p&gt;V&amp;yacute;mera podielu [m&lt;sup&gt;2&lt;/sup&gt;]&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;2358&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;Zastavan&amp;aacute; plocha a&amp;nbsp;n&amp;aacute;dvorie&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;385,00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;5691/205100&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style="background-color:white"&gt;
+			&lt;p&gt;10,68&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</ns0:PredmetOpis>
+  <ns0:PredmetStavOpis>&lt;p&gt;&lt;em&gt;Predmet dražby sa draž&amp;iacute; tak ako &amp;bdquo;stoj&amp;iacute; a&amp;nbsp;lež&amp;iacute;&amp;ldquo;. &amp;nbsp;Vzhľadom na skutočnosť, že predmetom dražby je použit&amp;aacute; vec, ktor&amp;aacute; sa prev&amp;aacute;dza v&amp;nbsp;stave v&amp;nbsp;akom sa nach&amp;aacute;dza ku dňu konania dražby nezodpoved&amp;aacute; navrhovateľ ani dražobn&amp;iacute;k za jej vady. Dražobn&amp;iacute;k s&amp;uacute;časne oboznamuje &amp;uacute;častn&amp;iacute;kov dražby, že na tento predaj prostredn&amp;iacute;ctvom dražby sa v&amp;nbsp;s&amp;uacute;lade s &amp;sect; 612 ods. 3 p&amp;iacute;sm. b) OZ nevzťahuj&amp;uacute; ustanovenia &amp;sect; 615 až 626 OZ spotrebiteľskej k&amp;uacute;pnej zmluvy upravuj&amp;uacute;cich akosť pred&amp;aacute;vanej veci,&amp;nbsp;zodpovednosť za vady &amp;nbsp;na n&amp;aacute;roky z&amp;nbsp;nich vypl&amp;yacute;vaj&amp;uacute;ce a&amp;nbsp;ustanovenia o&amp;nbsp;spotrebiteľskej z&amp;aacute;ruke. &amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+</ns0:PredmetStavOpis>
+  <ns0:PredmetPravaZavazky>LV č. 7278
+Rozhodnutie o určení záložného práva č. 621/340/28326/06/Kov Z-2665/06 v prospech Daňového úradu Komárno, na zabezpečenie daň. nedoplatku na byt č. 31, posch.7, vchod 2, podiel na spol.č. 5691/205100 (vlast. Szabados Zoltán)
+
+Rozhodnutie o určení záložného práva č. 621/340/28377/06/Kov Z-2663/06 v prospech Daňového úradu Komárno, na zabezpečenie daň. nedoplatku na byt č. 31, posch.7, vchod 2, podiel na spol.č. 5691/205100 (vlast. Szabados Zoltán)
+
+Exekučný príkaz EX 421/03, P1-137/08 na vykonanie exekúcie zriadením exekučného záložného práva zo dňa 16.1.2008 v prospech oprávnenému ČSAD Hodonín, a.s., Brnenská 48, Hodonín, IČO:49 447 769, zastúpený Ing.Františkem Lužou, na byt č.31/7, vchod č.2 (vlastník:[skryté] ,(nar. [skryté])v podiele 1/1), podiel priestoru na spoločných častiach a spoločných zariadeniach domu a spoluvlastnícky podiel k pozemku 5691/205100 (Exekútorský úrad Skalica, JUDr.Ernest Polák - súdny exekútor)
+
+Rozhodnutie o zriadení záložného práva na zabezpečenie daňového nedoplatku č.:621/340/5713/08/Kov, P1-361/08 zo dňa 7.2.2008 v prospech Daňového úradu Komárno, Dunajské nábrežie 11/a, 945 05 Komárno, na byt č.31/7, vchod č.2 v obytnom dome so súp.č.2628 na parc.č.2358 (vlastník:[skryté] , nar.:03.12,1956 v podiele 1/1), podiel priestoru na spoločných častiach a spoločných zariadeniach domu a spoluvlastnícky podiel k pozemku 5691/205100,
+
+Rozhodnutie o zriadení záložného práva č.:9400504/5/1059523/2014/Zem zo dňa 20.3.2014, Z253/15 v prospech Daňového úradu Nitra na zabezpečenie daňového nedoplatku na byt č.31/7, vchod č.2 v obytnom dome so súp.č.2628 na"C" parc.č.2358 (vlastník:[skryté] , nar.:03.12,1956 v podiele 1/1), podiel priestoru na spoločných častiach a spoločných zariadeniach domu a spoluvlastnícky podiel k pozemku 5691/205100,
+
+Exekučný príkaz EX 150/14 zo dňa 17.03.2015, Z-1424/15 zriadením exekučného záložného práva v prospech oprávneného [skryté],(nar. [skryté]), Gazdovská 21/28, 945 01 Komárno na parc. registra "C" č. 2358, na byt č.31/7 vchod č.2 v obytnom dome s.č. 2628 na "C"parc.č.2358, podiel priestoru na spoločných častiach a spoločných zariadeniach domu a spoluvlastnícky podiel k pozemku 5691/205100, vlastník [skryté](nar. [skryté]), (Exekútorský úrad Bratislava, súdny exekútor JUDr. Patricius Baďura)
+
+Zákonné záložné právo Z-4364/15 na základe § 15 ods.1 zák.č.182/1993 Z.z. a § 151c, ods. 2 Zák.č.40/1964 Zb. v prospech ostatných vlastníkov bytov a nebytových priestorov na zabezpečenie pohľadávky na pozemok parc. "C" č.2358, na byt nachádzajúci sa v bytovom dome so súp. č. 2628 na parc. "C" č.2358, byt č. 31, 7. poschodie, vchod: 2, podiel priestoru na spoločných častiach a spoločných zariadeniach domu a spoluvlastnícky podiel k pozemku: 5691/205100, vlastník: [skryté](nar. [skryté]).
+
+Rozhodnutie o zriadení záložného práva k nehnuteľnostiam číslo: 65421/25699/ODP/2015 zo dňa 6.10.2015, Z-6311/16 v prospech správcu dane Mesto Komárno, Nám. gen. Klapku č. 1, Komárno, IČO: 00 306 525, na zabezpečenie daňového nedoplatku na pozemok parcely reg. "C" č.2358 a na byt č.31/7 vchod č.2 v obytnom dome so s.č.2628 na parc.č.2358 podiel spoločných častiach a spoločných zariadeniach domu a spoluvlastnícky podiel k pozemku 5691/205100, vlastník [skryté](nar. [skryté]).
+
+Rozhodnutie o zriadení záložného práva k nehnuteľnostiam číslo:67850/10463/OEaF/2019 zo dňa 17.9.2019, P-1904/19 v prospech správcu dane - Mesto Komárno, Nám. gen. Klapku č. 1, Komárno, IČO: 00 306 525 na zabezpečenie daňového nedoplatku a istej daňovej pohľadávky so zákazom nakladať s nehn. bez súhlasu správcu na byt č.31/7 vchod č.2 v obytnom dome s.č.2628 na parc.č.2358, podiel spoločných častiach a spoločných zariadeniach domu a spoluvlastnícky podiel k pozemku 5691/205100, vlastník [skryté](nar. [skryté]). Nadobudlo právoplatnoť dňa 29.10.2019, Z-5820/2019 -pvz.- 4117/19
+
+Poznámky:
+Poznamenáva sa Exekučný príkaz EX 421/03, P1-137/08 na vykonanie exekúcie predajom nehnuteľností zo dňa 16.1.2008 v prospech oprávnenému ČSAD Hodonín, a.s., Brnenská 48, Hodonín, IČO:49 447 769, zastúpený Ing.Františkem Lužou, na byt č.31/7, vchod č.2 (vlastník:[skryté] ,(nar. [skryté])v podiele 1/1), podiel priestoru na spoločných častiach a spoločných zariadeniach domu a spoluvlastnícky podiel k pozemku 5691/205100 (Exekútorský úrad Skalica, JUDr.Ernest Polák - súdny exekútor)
+Poznamenáva sa vyhlásenie konkurzného konania pod značkou 57OdK/114/2025 na základe Uznesenia Okresného súdu v Nitre zo dňa 06.11.2025, ustanovený správca Mgr. Samuel Cvik so sídlom Hasičská 4439/2, 942 01 Šurany na byt č. 31, číslo vchodu 2, 7.p., súpisné číslo stavby 2628 na pozemku registra C KN parc. č. 2358 a spoluvlastnícky podiel o veľkosti 5691/205100 na spoločných častiach a spoločných zariadeniach domu a na pozemku registra C KN parc. č. 2358 vlastník [skryté] ,(nar. [skryté])v podiele 1/1, P6/2026. č.z. 69/2026
+
+Iné údaje:
+Iné údaje: Upovedomenie o začatí exekúcie Ex 420/01,Z 4252/01,predajom nehnut.bytu 31/7,podiel na spol.č.5691/205100/vl.Szabados Zoltán/,/povinná Szabadosová Eva/exek.úrad N.Zámky,JUDr.Ján Hesoun P-256/2020 Z-2631/2020 P-389/2020 Z-3060/2020 Z-3167/2020 P-747/2020, pol. 3138/20 Z-5867/2020 Z-6810/20 Z-6965/2020 Z-7003/2020 Z-7008/2020 Z-7118/2020 P-1057/20 Z-9182/2020 Z-9177/2020 Z-556/21 P-195/21 P-347/2021 Z-2885/2021 Z-3389/2021 P-1205/2021 Z-1833/2022 P-694/22 Z-4350/2022, Z-2072/2023 Z-2084/23 Z-2113/23 Z-2239/2023 P-332/2023 P-334/23 Z-3797/2023 Z-3858/2023 P-747/2023, Z-5787/2024 Z-1467/2025 Z-5809/2025 č.z.3531/25 Z-5918/2025 č.z.3658/25 Z-5917/2025, č.z. 3666/2025 Z-5919/2025 Z-6202/2025 č.z.3845/2025
+</ns0:PredmetPravaZavazky>
+  <ns0:PredmetCenaOdhad xsi:nil="true" />
+  <ns0:PredmetCenaVyska xsi:nil="true" />
+  <ns0:PredmetCenaSposobStanovenia>znaleckým posudkom č. 64/2026, súdnym znalcom Ing. Otom Pisoňom v sume 69.800,- € </ns0:PredmetCenaSposobStanovenia>
+  <ns0:PredmetPodmienkyOdovzdania>a.) zaplatenie ceny dosiahnutej vydražením podľa § 27 ods. 1 zákona č. 527/2002 Z. z. o dobrovoľných dražbách,
+	b.) osvedčený odpis notárskej zápisnice osvedčujúcej priebeh dražby podľa § 29 zákona č. 527/2002 Z. z. o dobrovoľných dražbách.
+-	Po nadobudnutí vlastníckeho práva alebo iného práva k predmetu dražby odovzdá dražobník bez zbytočného odkladu vydražiteľovi predmet dražby a listiny, ktoré osvedčujú vlastnícke právo a sú nevyhnutné na nakladanie s predmetom dražby alebo osvedčujú iné práva vydražiteľa k predmetu dražby.
+-	Ak ide o nehnuteľnosť, podnik alebo jeho časť  je predchádzajúci vlastník  povinný v zmysle ustanovenia § 29 ods. 2 zákona č. 527/2002  Z. z. o dobrovoľných dražbách, odovzdať vydražený predmet dražby na základe predloženia osvedčeného odpisu notárskej zápisnice a doloženia totožnosti vydražiteľa bez zbytočných prieťahov vydražiteľovi. Dražobník je povinný na mieste spísať zápisnicu o odovzdaní predmetu dražby. Zápisnicu o odovzdaní predmetu dražby podpíšu predchádzajúci vlastník [skryté], vydražiteľ a dražobník. Jedno vyhotovenie zápisnice dostane predchádzajúci vlastník a dve vyhotovenia dostane vydražiteľ. Ak niektorá osoba odmietne zápisnicu podpísať alebo ju prevziať, táto skutočnosť sa vyznačí v zápisnici a zápisnica sa považuje za odovzdanú aj tejto osobe; o tom dražobník túto osobu poučí.
+V prípade, ak predchádzajúci vlastník neposkytne nevyhnutnú súčinnosť pri odovzdaní predmetu dražby a v prípade akejkoľvek spôsobenej škody, ktorá by vznikla  v súvislosti s jeho protiprávnym konaním, môže  byť zaviazaný na jej úhradu podľa  § 33 ods. 8 zákona č. 527/2002 Z. z. o dobrovoľných dražbách v spojitosti s § 420 a nasl. Občianskeho zákonníka. 
+Všetky náklady spojené s odovzdaní a prevzatím predmetu dražby nesie vydražiteľ. Nebezpečenstvo škody na predmete dražby prechádza z navrhovateľa dražby na vydražiteľa dňom odovzdania predmetu dražby.
+</ns0:PredmetPodmienkyOdovzdania>
+  <ns0:NajnizsiePodanie>69.800,- € </ns0:NajnizsiePodanie>
+  <ns0:NajvyssiePodanie xsi:nil="true" />
+  <ns0:MinimalnePrihodenie>200,-  €</ns0:MinimalnePrihodenie>
+  <ns0:Zabezpeka>
+    <ns0:Vyska>10.000,-  €</ns0:Vyska>
+    <ns0:ZlozenieSposob>1. bezhotovostný prevod na účet dražobníka č. ú.: 2621858260/1100, vedený v Tatra banka, a.s. pod V.S.: 5090226 (SWIFT TATRA banka, a.s.: TATR SK BX, IBAN: SK14 1100 0000 0026 2185 8260) najneskôr do otvorenia dražby s preukázaním sa potvrdenia o úhrade zákonom povoleným spôsobom. 
+2. v hotovosti do pokladne dražobníka najneskôr do otvorenia dražby.
+3. vo forme bankovej záruky v prospech dražobníka s výhradou prevodu platby po doručení zápisnice o vykonaní dražby za predpokladu,  že účastník dražby sa stane vydražiteľom.
+4. vo forme notárskej úschovy.
+</ns0:ZlozenieSposob>
+    <ns0:ZlozenieCisloUctu>SK 1411 0000 0000 2621 8582 60</ns0:ZlozenieCisloUctu>
+    <ns0:ZlozenieAdresa>LICITOR group, a.s. Sládkovičova 6, 010 01 Žilina, alebo v mieste konania dražby, najneskôr pred otvorením dražby.	</ns0:ZlozenieAdresa>
+    <ns0:ZlozenieDoklad>1. originál príkazu na úhradu peňažných prostriedkov vo výške 	dražobnej zábezpeky. Účastník bude pripustený k dražbe, ak do 	otvorenia dražby bude dražobná zábezpeka pripísaná na účet 	dražobníka.
+	2. hotovosť vo výške dražobnej zábezpeky.
+3. originál alebo úradne overená kópia dokladu preukazujúca vystavenie bankovej záruky.
+4. originál alebo úradne overená kópia dokladu preukazujúceho notársku úschovu.
+Dražobnú zábezpeku nie je možné zložiť šekom ani platobnou 	kartou. 
+</ns0:ZlozenieDoklad>
+    <ns0:ZlozenieLehota>Najneskôr do otvorenia dražby.</ns0:ZlozenieLehota>
+    <ns0:Vratenie>Neúspešným účastníkom dražby, ktorí zložili dražobnú zábezpeku v hotovosti, bude dražobná zábezpeka vrátená hneď po skončení dražby. 
+Neúspešným účastníkom dražby, ktorí zložili dražobnú zábezpeku bezhotovostným prevodom na účet dražobníka, bude dražobná zábezpeka vrátená bez zbytočného odkladu po skončení dražby bezhotovostným prevodom na účet označený účastníkom dražby.</ns0:Vratenie>
+  </ns0:Zabezpeka>
+  <ns0:SposobUhradyCeny>Vydražiteľ je povinný zaplatiť cenu dosiahnutú vydražením v hotovosti do pokladne v sídle dražobníka alebo bezhotovostným prevodom na účet dražobníka č. 2621858260/1100, vedený v Tatra banka a.s. (SWIFT TATRA banka, a.s.: TATR SK BX, IBAN: SK14 1100 0000 0026 2185 8260) a to do 15 dní odo dňa skončenia dražby. Dražobná zábezpeka sa vydražiteľovi započítava do ceny dosiahnutej vydražením. </ns0:SposobUhradyCeny>
+  <ns0:ObhliadkaDatum>1. termín: 03.06.2026 o 14:00 hod.
+2. termín: 18.06.2026 o 14:00 hod.
+</ns0:ObhliadkaDatum>
+  <ns0:ObhliadkaMiesto>katastrálne územie</ns0:ObhliadkaMiesto>
+  <ns0:SpolocnaDrazba Kod="NIE">Nie</ns0:SpolocnaDrazba>
+  <ns0:SpolocnaDrazbaPoradieDrazeniePredmetov xsi:nil="true" />
+  <ns0:OrganizaceOpatrenia>Záujemcovia o vykonanie obhliadky sa prihlásia telefonicky najneskôr 24 hodín pred stanoveným termínom obhliadky na t. č. : 0918 834 834. Stretnutie záujemcov sa uskutoční pred bytovým domom súp. č. 2628, vchod č. 2 na ul. Meštianska v obci Komárno, okres Komárno. Obhliadky je možné vykonať aj mimo termín stanovený v oznámení o dražbe po predchádzajúcej dohode s dražobníkom. Bližšie informácie na t. č. : 041/763 22 34.
+V zmysle § 12 ods. 2 a § 13 zákona č. 527/2002 Z.z. o dobrovoľných dražbách je vlastník [skryté], držiteľ alebo nájomca povinný umožniť riadnu obhliadku predmetu dražby v stanovených termínoch.
+
+</ns0:OrganizaceOpatrenia>
+  <ns0:NadobudnutieVlastnickehoPrava>V zmysle ustanovenia § 27 ods. 1 zákona č. 527/2002 Z. z. o dobrovoľných dražbách ak vydražiteľ zaplatí cenu dosiahnutú vydražením v ustanovenej lehote prechádza na neho vlastnícke právo dňom udelenia príklepu. Dražobník vydá bez zbytočného odkladu po nadobudnutí vlastníckeho alebo iného práva vydražiteľovi potvrdenie o vydražení predmetu dražby a v prípadoch, v ktorých sa o priebehu dražby spisuje notárska zápisnica vydá dražobník vydražiteľovi dve vyhotovenia osvedčeného odpisu notárskej zápisnice najneskôr do 5 dní. Ku dňu zaplatenia ceny dosiahnutej vydražením vydražiteľom zaniká pohľadávka veriteľa v rozsahu uspokojenia veriteľa z výťažku dražby. 
+
+	V zmysle ust. § 167r ods. 2 Zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii: ,, Oprávnená osoba podľa odseku 4 so súhlasom dlžníka má právo vykúpiť majetok z konkurznej podstaty za cenu, ktorá bola dosiahnutá v dražbe, v ponukovom konaní alebo za cenu ponúknutú veriteľom, ak takúto cenu uhradí správcovi do desať dní od skončenia dražby, ponukového konania alebo predloženia ponuky veriteľom.“
+</ns0:NadobudnutieVlastnickehoPrava>
+  <ns0:DovodUpustenia xsi:nil="true" />
+  <ns0:DrazobnikOznamuje xsi:nil="true" />
+</ns0:Drazba>
