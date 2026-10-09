@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import { KIND_LABEL, STATUS_LABEL, TYPE_COLOR, date, discount, money, relDays } from '../format'
+import { isActive } from '../filters'
 import type { AuctionItem } from '../types'
 
 interface Props {
@@ -47,7 +48,7 @@ export default function AuctionList({ items, selectedId, onSelect }: Props) {
 
 function Card({ a, selected, onClick }: { a: AuctionItem; selected: boolean; onClick: () => void }) {
   const disc = discount(a.mb, a.av)
-  const active = a.s === 'pripravovana' || a.s === 'odrocena'
+  const active = isActive(a)
   return (
     <button
       type="button"
@@ -58,7 +59,9 @@ function Card({ a, selected, onClick }: { a: AuctionItem; selected: boolean; onC
         <span className="mt-1.5 h-3 w-3 shrink-0 rounded-full" style={{ background: TYPE_COLOR[a.t] }} aria-hidden />
         <div className="min-w-0 flex-1">
           <div className="flex items-baseline justify-between gap-2">
-            <h3 className="truncate font-semibold text-slate-900">{a.ti}</h3>
+            <h3 className="truncate font-semibold text-slate-900">
+              {a.t === 'ine' && !a.ob ? `Dražba – ${a.au || 'bez údajov o predmete'}` : a.ti}
+            </h3>
             <span className="shrink-0 font-semibold tabular-nums text-slate-900">{money(a.mb ?? a.av)}</span>
           </div>
           <div className="mt-0.5 flex flex-wrap items-center gap-x-2 gap-y-1 text-sm text-slate-600">
@@ -83,7 +86,7 @@ function Card({ a, selected, onClick }: { a: AuctionItem; selected: boolean; onC
                     : 'bg-slate-200 text-slate-700'
                 }`}
               >
-                {STATUS_LABEL[a.s]}
+                {STATUS_LABEL[active ? a.s : a.s === 'pripravovana' || a.s === 'odrocena' ? 'prebehla' : a.s]}
                 {a.hb ? ` · vydražené za ${money(a.hb)}` : ''}
               </span>
             )}

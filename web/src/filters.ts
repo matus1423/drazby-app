@@ -41,7 +41,10 @@ const norm = (s: string) =>
     .normalize('NFD')
     .replace(/[̀-ͯ]/g, '')
 
-const isActive = (a: AuctionItem) => a.s === 'pripravovana' || a.s === 'odrocena'
+// stav sa počíta pri exporte dát; medzi nočnými behmi ho doplníme podľa dnešného dátumu
+const today = () => new Date().toLocaleDateString('sv-SE')
+export const isActive = (a: AuctionItem) =>
+  (a.s === 'pripravovana' || a.s === 'odrocena') && (!a.d || a.d.slice(0, 10) >= today())
 
 export function applyFilters(items: AuctionItem[], f: Filters, bounds?: [number, number, number, number] | null) {
   const q = norm(f.q.trim())

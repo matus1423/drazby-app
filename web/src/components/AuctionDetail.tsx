@@ -43,6 +43,11 @@ function statusClass(s: Status) {
 }
 
 export default function AuctionDetail({ detail: d, loading, error, onClose }: Props) {
+  // stav z exportu môže byť zo včera – dražba s minulým dátumom už prebehla
+  if (d && (d.status === 'pripravovana' || d.status === 'odrocena') && d.auction_at &&
+      d.auction_at.slice(0, 10) < new Date().toLocaleDateString('sv-SE')) {
+    d = { ...d, status: 'prebehla', status_label: STATUS_LABEL.prebehla }
+  }
   const [more, setMore] = useState(false)
   const [copied, setCopied] = useState(false)
   const disc = d ? discount(d.min_bid, d.appraised_value) : null
