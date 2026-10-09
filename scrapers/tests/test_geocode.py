@@ -1,4 +1,20 @@
+import json
+
+import pytest
+
 from drazby import geocode as G
+
+
+@pytest.fixture(autouse=True)
+def no_bundled_table(tmp_path, monkeypatch):
+    """Testy kreslia vlastný kataster; pribalenú tabuľku k. ú. vypneme (okrem testu, ktorý si ju nastaví)."""
+    monkeypatch.setattr(G, "KU_TABLE", tmp_path / "nie-je.json")
+    monkeypatch.setattr(G, "PARCEL_TABLE", tmp_path / "nie-je-p.json")
+    G._ku_table.cache_clear()
+    G._parcel_table.cache_clear()
+    yield
+    G._ku_table.cache_clear()
+    G._parcel_table.cache_clear()
 
 SQUARE = {"type": "Polygon", "coordinates": [[[18.0, 48.0], [18.2, 48.0], [18.2, 48.2], [18.0, 48.2], [18.0, 48.0]]]}
 
@@ -69,4 +85,56 @@ def test_parcels_in_one_request(store):
     assert len(parcel_calls) == 1          # všetky parcely jedným dopytom
     g.locate({"ku": "Zvolen", "parcels": [{"number": "100/1"}, {"number": "5"}]})
     assert len([u for u in g.calls if "CadastralParcel" in u]) == 1   # nenájdené aj nájdené sú v cache
+    g.close()
+
+
+def test_bundled_ku_table_without_internet(store, tmp_path, monkeypatch):
+    t = tmp_path / "ku.json"
+    t.write_text(json.dumps({"873705": ["Zvolen", 48.57, 19.12]}))
+    monkeypatch.setattr(G, "KU_TABLE", t)
+    G._ku_table.cache_clear()
+
+    class Offline(G.Geocoder):
+        def _get_json(self, client, url):
+            raise AssertionError("nemá ísť na internet pre k. ú.")
+    g = Offline(store)
+    r = g.locate({"ku": "Zvolen", "parcels": [{"register": "E", "number": "1"}]})
+    assert r == {"lat": 48.57, "lng": 19.12, "precision": "ku"}
+    g.close()
+
+
+def test_circuit_breaker_stops_calling_dead_service(store, tmp_path, monkeypatch):
+    t = tmp_path / "ku.json"
+    t.write_text(json.dumps({"873705": ["Zvolen", 48.57, 19.12]}))
+    monkeypatch.setattr(G, "KU_TABLE", t)
+    G._ku_table.cache_clear()
+    g = G.Geocoder(store)
+    calls = []
+
+    def dead(url, **kw):
+        calls.append(url)
+        raise TimeoutError("timed out")
+    monkeypatch.setattr(g.wfs, "get", dead)
+    for i in range(10):
+        r = g.locate({"ku": "Zvolen", "parcels": [{"register": "C", "number": str(100 + i)}]})
+        assert r["precision"] == "ku"          # stále aspoň stred k. ú.
+    assert len(calls) == G.MAX_FAILURES        # po pár výpadkoch sa kataster už nevolá
+    g.close()
+
+
+def test_bundled_parcels(store, tmp_path, monkeypatch):
+    k = tmp_path / "ku.json"
+    k.write_text(json.dumps({"873705": ["Zvolen", 48.57, 19.12]}))
+    pt = tmp_path / "p.json"
+    pt.write_text(json.dumps({"873705_7/1.C": [48.5, 19.1, SQUARE]}))
+    monkeypatch.setattr(G, "KU_TABLE", k)
+    monkeypatch.setattr(G, "PARCEL_TABLE", pt)
+    G._ku_table.cache_clear(); G._parcel_table.cache_clear()
+
+    class Offline(G.Geocoder):
+        def _get_json(self, client, url):
+            raise AssertionError("nemá ísť na internet")
+    g = Offline(store)
+    r = g.locate({"ku": "Zvolen", "parcels": [{"number": "7/1"}]})
+    assert r["precision"] == "parcela" and r["lat"] == 48.5 and r["geom"] == SQUARE
     g.close()

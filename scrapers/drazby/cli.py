@@ -92,10 +92,20 @@ def cmd_ncrd(store: dbm.Store, args) -> dict:
     known |= set(json.loads(store.get_state("ncrd:skipped", "[]")))
     skipped = set(json.loads(store.get_state("ncrd:skipped", "[]")))
     # pri 1,5 s notar.sk vracal 503 a potom Retry-After: 3600 → pomalšie a bez PDF (väčšinou skeny)
+    empty_streak = 0
+    t0 = time.time()
     with PoliteClient(min_delay=5.0) as c:
         try:
             for row in ncrd.iter_listing(c, d_from, d_to):
                 stats["fetched"] += 1
+                if args.budget and time.time() - t0 > args.budget * 60:
+                    log.warning("NCRD: vyčerpaný čas, zvyšok nabudúce")
+                    stats["stopped"] = "budget"
+                    break
+                if empty_streak >= 5:
+                    log.warning("NCRD: server vracia prázdne stránky – končím, skúsim nabudúce")
+                    stats["stopped"] = "empty"
+                    break
                 if row["act_id"] in known and not args.refresh:
                     continue
                 try:
@@ -110,8 +120,10 @@ def cmd_ncrd(store: dbm.Store, args) -> dict:
                     raise
                 except Exception as e:
                     stats["errors"] += 1
+                    empty_streak = empty_streak + 1 if "prázdny detail" in str(e) else empty_streak
                     log.warning("NCRD %s: %s", row["act_id"], e)
                     continue
+                empty_streak = 0
                 if n is None:
                     stats["skipped"] += 1
                     skipped.add(row["act_id"])
@@ -216,7 +228,8 @@ def cmd_rebuild(store, args):
 
 def cmd_geocode(store, args):
     from .geocode import geocode_all
-    return geocode_all(store, limit=args.limit, use_cadastre=not args.no_cadastre, redo=args.redo)
+    return geocode_all(store, limit=args.limit, use_cadastre=not args.no_cadastre, redo=args.redo,
+                       budget_s=args.budget * 60 if args.budget else None)
 
 
 def cmd_export(store, args):
@@ -294,6 +307,7 @@ def main(argv=None):
         sp.add_argument("--limit", type=int, default=None)
         sp.add_argument("--no-cadastre", action="store_true")
         sp.add_argument("--redo", action="store_true", help="geocode: prejsť znova aj nájdené parcely")
+        sp.add_argument("--budget", type=float, default=None, help="najviac toľko minút na krok (geocode, ncrd)")
         sp.add_argument("--out", default=str(ROOT / "web" / "public" / "data"))
         sp.add_argument("--send", action="store_true", help="notify: naozaj poslať e-maily (inak len uloží)")
 

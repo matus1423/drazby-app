@@ -18,6 +18,9 @@ import json
 import logging
 import math
 import re
+import time
+from functools import lru_cache
+from pathlib import Path
 from urllib.parse import quote, urlencode
 
 from . import text as T
@@ -30,7 +33,27 @@ WFS = "https://inspirews.skgeodesy.sk/geoserver/cp/ows"
 NOMINATIM = "https://nominatim.openstreetmap.org/search"
 
 USE_NOMINATIM = False
-MAX_PARCELS = 6  # koľko parciel jednej nehnuteľnosti kreslíme na mapu
+MAX_PARCELS = 6
+MAX_FAILURES = 3      # po toľkých výpadkoch za sebou kataster v tomto behu vynecháme
+KU_TABLE = Path(__file__).parent / "data" / "ku.json"  # stredy všetkých k. ú. (scrapers/tools/build_ku_table.py)
+# už nájdené parcely (bod + tvar) – aby nočný beh na GitHube, odkiaľ kataster neodpovedá, nestratil presnosť
+PARCEL_TABLE = Path(__file__).parent / "data" / "parcels.json"
+
+
+@lru_cache(maxsize=1)
+def _parcel_table() -> dict[str, list]:
+    return json.loads(PARCEL_TABLE.read_text()) if PARCEL_TABLE.exists() else {}
+
+
+@lru_cache(maxsize=1)
+def _ku_table() -> dict[str, list[dict]]:
+    """{normalizovaný názov: [{code, label, lat, lng}]} z pribaleného súboru (bez internetu)."""
+    if not KU_TABLE.exists():
+        return {}
+    out: dict[str, list[dict]] = {}
+    for code, (label, lat, lng) in json.loads(KU_TABLE.read_text()).items():
+        out.setdefault(T.norm_key(label), []).append({"code": code, "label": label, "lat": lat, "lng": lng})
+    return out  # koľko parciel jednej nehnuteľnosti kreslíme na mapu
 
 # hrubý obdĺžnik Slovenska – kontrola, že výsledok dáva zmysel
 SK_BBOX = (16.8, 47.7, 22.6, 49.65)
@@ -94,10 +117,12 @@ class Geocoder:
     def __init__(self, store: Store, use_cadastre: bool = True):
         self.store = store
         self.use_cadastre = use_cadastre
-        # parcely odpovedajú pomaly (~4 s), občas aj viac ako minútu
-        self.wfs = PoliteClient(min_delay=0.6, timeout=90, retries=3)
+        # parcely odpovedajú pomaly (~4 s), občas aj viac ako minútu; zo zahraničia (GitHub) vôbec
+        self.wfs = PoliteClient(min_delay=0.6, timeout=45, retries=2)
         self.nom = PoliteClient(min_delay=1.2, timeout=30)
         self.stats = {"parcela": 0, "ku": 0, "obec": 0, "okres": 0, "fail": 0, "requests": 0}
+        self.failures = 0
+        self.wfs_down = False
 
     def close(self):
         self.wfs.close()
@@ -114,11 +139,21 @@ class Geocoder:
             (key, lat, lng, precision, source, json.dumps(geom) if geom is not None else None, now()))
 
     def _get_json(self, client, url):
+        if client is self.wfs and self.wfs_down:
+            return None
         self.stats["requests"] += 1
         try:
-            return client.get(url).json()
+            d = client.get(url).json()
+            if client is self.wfs:
+                self.failures = 0
+            return d
         except Exception as e:
             log.warning("geokódovanie: %s → %s", url[:120], e)
+            if client is self.wfs:
+                self.failures += 1
+                if self.failures >= MAX_FAILURES:
+                    self.wfs_down = True
+                    log.warning("geokódovanie: kataster neodpovedá – v tomto behu len stredy k. ú. z tabuľky")
             return None
 
     # --- k. ú. -------------------------------------------------------------
@@ -128,6 +163,9 @@ class Geocoder:
         c = self._cache_get(key)
         if c:
             return json.loads(c["geom"] or "[]")
+        table = _ku_table()
+        if table:
+            return list(table.get(T.norm_key(name), []))
         out = []
         failed = False
         for flt in (_filter_eq("label", name), _filter_like_ci("label", name)):
@@ -153,7 +191,12 @@ class Geocoder:
         nie na počet parciel. Vracia {číslo: {lat, lng, geom} | None}."""
         out: dict[str, dict | None] = {}
         todo = []
+        bundled = _parcel_table()
         for num in numbers:
+            b = bundled.get(f"{ku_code}_{num}.C")
+            if b:
+                out[num] = {"lat": b[0], "lng": b[1], "geom": b[2]}
+                continue
             c = self._cache_get(f"parcel:{ku_code}_{num}.C")
             if c:
                 out[num] = None if c["lat"] is None else {
@@ -283,7 +326,8 @@ def _dist(a: dict, b: dict) -> float:
     return math.hypot(a["lat"] - b["lat"], (a["lng"] - b["lng"]) * 0.66)
 
 
-def geocode_all(store: Store, limit: int | None = None, use_cadastre: bool = True, redo: bool = False) -> dict:
+def geocode_all(store: Store, limit: int | None = None, use_cadastre: bool = True, redo: bool = False,
+                budget_s: float | None = None) -> dict:
     """Doplní polohu nehnuteľnostiam bez nej. `redo=True` prejde znova aj tie s presnou parcelou
     (napr. keď sa pridalo kreslenie viacerých parciel) – vďaka cache je to lacné."""
     g = Geocoder(store, use_cadastre=use_cadastre)
@@ -295,8 +339,13 @@ def geocode_all(store: Store, limit: int | None = None, use_cadastre: bool = Tru
         rows = rows[:limit]
     log.info("geokódovanie: %d nehnuteľností", len(rows))
     touched = set()
+    t0 = time.monotonic()
     try:
         for i, p in enumerate(rows):
+            if budget_s and time.monotonic() - t0 > budget_s:
+                log.warning("geokódovanie: vyčerpaný čas (%d s), zvyšok nabudúce", budget_s)
+                g.stats["stopped"] = len(rows) - i
+                break
             r = g.locate(p)
             if not r:
                 g.stats["fail"] += 1

@@ -32,6 +32,14 @@
 
 Exekučné dražby pochádzajú z dražobných vyhlášok v OV (SKE zakazuje robotov, pozri BLOCKERS).
 
+## Dôležité: nočný beh na GitHube
+
+Kataster ÚGKK a notar.sk z GitHub Actions (USA) nefungujú. Nočný beh preto:
+- Obchodný vestník sťahuje normálne (hlavný zdroj),
+- polohu berie z pribalených tabuliek (stred k. ú.; presná parcela, ak už bola nájdená),
+- NCRD po niekoľkých prázdnych stránkach preskočí.
+Presnejšie polohy a NCRD sa dajú doplniť lokálnym behom na Macu (`drazby ncrd`, `drazby geocode`).
+
 ## Prekážky
 
 Pozri [BLOCKERS.md](BLOCKERS.md). Najdôležitejšie: SKE zakazuje roboty (riešené cez OV), NCRD obmedzuje

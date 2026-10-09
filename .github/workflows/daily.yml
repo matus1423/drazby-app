@@ -55,7 +55,8 @@ jobs:
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           SMTP_FROM: ${{ secrets.SMTP_FROM }}
           SITE_URL: ${{ vars.SITE_URL }}
-        run: python -m drazby daily --send --days "${{ inputs.days || '150' }}"
+        # --budget: najviac 25 min na NCRD aj na geokódovanie (štátne služby zo zahraničia často neodpovedajú)
+        run: python -m drazby daily --send --budget 25 --days "${{ inputs.days || '150' }}"
 
       - name: Uloženie databázy
         if: always()
