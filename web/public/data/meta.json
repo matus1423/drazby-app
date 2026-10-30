@@ -1,13 +1,33 @@
 {
- "generated_at": "2026-10-29T05:11:43+00:00",
- "count": 629,
- "upcoming": 177,
+ "generated_at": "2026-10-30T05:09:15+00:00",
+ "count": 635,
+ "upcoming": 182,
  "by_source": {
-  "ncrd": 92,
+  "ncrd": 99,
   "ov": 612
  },
  "with_coords": 600,
  "runs": [
+  {
+   "source": "ncrd",
+   "started_at": "2026-10-30T04:57:19+00:00",
+   "finished_at": "2026-10-30T05:09:14+00:00",
+   "fetched": 44,
+   "new_notices": 9,
+   "new_auctions": 6,
+   "errors": 0,
+   "message": null
+  },
+  {
+   "source": "ov",
+   "started_at": "2026-10-30T04:57:07+00:00",
+   "finished_at": "2026-10-30T04:57:19+00:00",
+   "fetched": 1090,
+   "new_notices": 11,
+   "new_auctions": 0,
+   "errors": 0,
+   "message": null
+  },
   {
    "source": "ncrd",
    "started_at": "2026-10-29T04:57:57+00:00",
@@ -82,26 +102,6 @@
    "source": "ov",
    "started_at": "2026-10-26T03:55:05+00:00",
    "finished_at": "2026-10-26T03:55:06+00:00",
-   "fetched": 1,
-   "new_notices": 0,
-   "new_auctions": 0,
-   "errors": 0,
-   "message": null
-  },
-  {
-   "source": "ncrd",
-   "started_at": "2026-10-25T03:51:00+00:00",
-   "finished_at": "2026-10-25T04:01:40+00:00",
-   "fetched": 36,
-   "new_notices": 1,
-   "new_auctions": 1,
-   "errors": 0,
-   "message": null
-  },
-  {
-   "source": "ov",
-   "started_at": "2026-10-25T03:50:59+00:00",
-   "finished_at": "2026-10-25T03:51:00+00:00",
    "fetched": 1,
    "new_notices": 0,
    "new_auctions": 0,
